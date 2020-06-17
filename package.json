@@ -1,0 +1,26 @@
+{
+  "name": "cicero-server",
+  "version": "1.0.0",
+  "description": "Server for Latin learning app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/brunoparga/cicero-server.git"
+  },
+  "author": "Bruno Parga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/brunoparga/cicero-server/issues"
+  },
+  "homepage": "https://gitlab.com/brunoparga/cicero-server#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
