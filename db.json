@@ -1,0 +1,165 @@
+{
+  "words": [
+    {
+      "questionType": "Etcetera",
+      "english": "(determ. pron.) that one; he, she, it; (as antec. to rel.) such",
+      "lemma": "is, ea, id",
+      "options": ["hic, haec, hoc", "cēterus, -a, -um", "ille, illa, illud"],
+      "learned": true
+    },
+    {
+      "questionType": "Etcetera",
+      "english": "always",
+      "lemma": "semper",
+      "options": ["numquam", "iam", "hodiē"],
+      "learned": true
+    },
+    {
+      "questionType": "Adjective",
+      "english": "good, kind",
+      "lemma": "bonus",
+      "options": ["āter", "Romanus", "pinguis"],
+      "learned": true,
+      "properties": {
+        "masculineGenitive": "-ī",
+        "feminine": "bona, -ae",
+        "neuter": "bonum, -ī",
+        "suffixes": "1st/2nd (-us)"
+      }
+    },
+    {
+      "questionType": "Adjective",
+      "english": "black",
+      "lemma": "āter",
+      "options": ["viridis", "bonus", "ferōx"],
+      "learned": true,
+      "properties": {
+        "masculineGenitive": "ātrī",
+        "feminine": "ātra, ātrae",
+        "neuter": "ātrum, ātrī",
+        "suffixes": "1st/2nd (-er)"
+      }
+    },
+    {
+      "questionType": "Adjective",
+      "english": "quick, swift",
+      "lemma": "celer",
+      "options": ["viridis", "bonus", "ferōx"],
+      "learned": true,
+      "properties": {
+        "feminine": "celeris",
+        "neuter": "celere",
+        "genitive": "celeris",
+        "suffixes": "3rd (-er/-ris/-re)"
+      }
+    },
+    {
+      "questionType": "Adjective",
+      "english": "green",
+      "lemma": "viridis",
+      "options": ["sapiens", "Romanus", "pinguis"],
+      "learned": true,
+      "properties": {
+        "neuter": "viride",
+        "genitive": "viridis",
+        "suffixes": "3rd (-is/e)"
+      }
+    },
+    {
+      "questionType": "Adjective",
+      "english": "wild, fierce; arrogant",
+      "lemma": "ferōx",
+      "options": ["āter", "Romanus", "pinguis"],
+      "learned": true,
+      "properties": {
+        "genitive": "ferōcis",
+        "suffixes": "3rd (all equal)"
+      }
+    },
+    {
+      "questionType": "Translation",
+      "english": "woman, female",
+      "lemma": "femina",
+      "options": ["man", "port", "sun"],
+      "learned": true,
+      "properties": {
+        "genitive": "-ae"
+      }
+    },
+    {
+      "questionType": "Verb",
+      "english": "to rule, reign",
+      "lemma": "regō",
+      "options": ["regiō", "ferō", "putō"],
+      "learned": true,
+      "properties": {
+        "conjugation": 2,
+        "perfect": "rēxī",
+        "supine": "rēctum",
+        "deponent": false
+      }
+    },
+    {
+      "questionType": "Noun",
+      "english": "banquet",
+      "lemma": "epulae",
+      "options": ["vir", "puer", "mundus"],
+      "learned": false,
+      "properties": {
+        "number": "plural",
+        "declension": 0,
+        "gender": "feminine"
+      }
+    },
+    {
+      "questionType": "Verb",
+      "english": "to turn angry",
+      "lemma": "īrāscor",
+      "options": ["patior", "ira", "fūror"],
+      "learned": true,
+      "properties": {
+        "conjugation": 2,
+        "perfect": "īrātus sum",
+        "deponent": true
+      }
+    },
+    {
+      "questionType": "Noun",
+      "english": "day",
+      "lemma": "diēs",
+      "options": ["spēs", "dīves", "forma"],
+      "learned": false,
+      "properties": {
+        "number": "singular",
+        "declension": 4,
+        "gender": "masculine/feminine"
+      }
+    },
+    {
+      "questionType": "Noun",
+      "english": "sun",
+      "lemma": "sōl",
+      "options": ["soleō", "luna", "ferō"],
+      "learned": true,
+      "properties": {
+        "number": "singular",
+        "declension": 2,
+        "gender": "masculine"
+      }
+    },
+    {
+      "questionType": "Verb",
+      "english": "to carry, bear",
+      "lemma": "ferō",
+      "options": ["amō", "nascor", "fūror"],
+      "learned": false,
+      "properties": {
+        "conjugation": 2,
+        "correctInfinitive": "ferre",
+        "perfect": "tulī",
+        "supine": "lātum",
+        "deponent": false
+      }
+    }
+  ]
+}
