@@ -26,7 +26,6 @@ xx		1	2	vernus, -a, -um	of or belonging to spring, spring-
 x		1	2	hiem(p)s, hiemis, f.	winter (divided into inita/media/extrema)
 x		1	2	annus, -ī, m.	year
 x		1	2	mēnsis, -is, m.	month
-xx	d.	1	2	mēnsa, -ae, f.	table
 x		1	2	diēs, -ēī, m.	day
 x		1	2	nox, noctis, f.	night
 xx		1	2	nocturnus, -a, -um	occurring at night, nightly
@@ -52,8 +51,6 @@ x		1	3	āēr, āeris, m.	air
 xx	d.	1	3	aes, aeris, n.	copper, bronze; anything made of of bronze (as prow, cymbal, trumpet, tablet)
 x		1	3	aethēr, -eris, m.	pure upper air, ether, heaven, sky
 x		1	3	aura, -ae, f.	air, breeze, gale
-xx	d.	1	3	auris, -is, f.	ear
-xx	d.	1	3	aurum, -ī, n.	gold; gold plate, money
 x		1	3	ventus, -ī, m.	wind
 x		1	3	nūbēs, -is, f.	cloud (esp. storm cloud); (fig.) crowd, throng
 x		1	3	tempestās, -ātis, f.	period of time, weather, season; esp. bad weather, storm; (fig.) calamity
@@ -71,7 +68,6 @@ x		1	5	aqua, -ae, f.	water
 xx		1	5	aequor, -oris, n.	sea; (occasionally) plain; (lit. a level surface)
 x		1	5	mare, -is, n.	sea (in its broad sense as opposed to terra and aer)
 xx		1	5	pontus, -ī, m.	the open sea, deep
-xx	d.	1	5	pōns, pontis, m.	bridge
 xx		1	5	pelagus, -ī, n.	sea (esp. the open sea)
 x		1	5	ōra, -ae, f.	coast
 xx		1	5	rīpa, -ae, f.	bank (of a river)
@@ -114,8 +110,6 @@ xx		1	6	marmor, -oris, n.	marble
 x		1	6	aes, aeris, n.	copper, bronze; anything made of bronze as prow, cymbals, trumpet, tablet, etc.
 xx	d.	1	6	āēr, āeris, m.	air; (rarely) mist
 x		1	6	aurum, -ī, n.	gold; gold plate, money
-xx	d.	1	6	aura, -ae, f.	air, breeze, gale
-xx	d.	1	6	auris, -is, f.	ear
 xx		1	6	aureus, -a, -um	of gold, golden; (fig.) splendid
 xx		1	6	ferrum, -ī, n.	iron; any weapon or implement of iron
 x		1	7	silva, -ae, f.	forest, grove
@@ -135,8 +129,6 @@ x		1	7	hortus, -ī, m.	garden (in the widest sense of the term); pleasure-garden
 x		1	7	sēmen, -inis, n.	seed (both lit. and fig.)
 x		1	7	seges, -etis, f.	field of grain; grain, crop, etc.
 x		1	7	messis, -is, f.	a mowing, reaping, or ingathering of the corn, etc.; harvest; the harvested crops; harvest-time
-xx	d.	1	7	mēnsis, -is, m.	month
-xx	d.	1	7	mēnsa, -ae, f.	table
 x		1	7	flōs, -ōris, m.	flower; (fig.) bloom (in var. senses)
 xx		1	7	flōreō, -ēre, -uī, --	to bloom (rare except in partic. florens)
 xx		1	7	sertum, -ī, n.	wreath of flowers, garland
@@ -148,8 +140,6 @@ x		1	8	epulae, -ārum, f. (pl.)	banquet, feast
 x		1	8	famēs, -is, f.	hunger, famine
 xx	d.	1	8	fāma, -ae, f.	report, rumor; fame, glory
 x		1	8	mēnsa, -ae, f.	table
-xx	d.	1	8	mēnsis, -is, m.	month
-xx	d.	1	8	messis, -is, f.	a mowing, reaping, or ingathering of the corn, etc.; harvest; the harvested crops; harvest-time
 x		1	8	pōculum, -ī, n.	drinking cup
 x		1	8	vīnum, -ī, n.	wine; (lit.) vine
 x		1	8	pōmum, -ī, n.	fruit (of any kind)
@@ -992,8 +982,6 @@ xx		3	9	respiciō, -ere, -exī, -ectum	to look back, regard; (fig.) give heed to
 xx		3	9	suscipiō, -ere, -cēpī, -ceptum	to take up, undertake (in var. senses)
 x		3	9	audiō, -īre, -īvī, -ītum	to hear, listen to
 xx		3	9	auris, -is, f.	ear
-xx	d.	3	9	aura, -ae, f.	air, breeze, gale
-xx	d.	3	9	aurum, -ī, n.	gold; gold plate; money
 x		3	9	vigilō, -āre, -āvī, -ātum	to be awake, be on guard
 x		3	9	sentiō, -īre, sēnsī, sēnsum	to perceive by senses; feel, hear, see; (esp. in fig. sense) perceive
 xx		3	9	sēnsus, -ūs, m.	feeling, emotion, sense (in var. meanings)
@@ -1313,7 +1301,6 @@ xx		4	8	turpis, -e	ugly, unsightly; disgraceful, foul, etc.
 xx		4	8	improbus, -a, -um	not good, wicked, depraved, rascally, etc. (opp. of bonus)
 x		4	8	crūdēlis, -e	cruel, pitiless, ruthless
 xx		4	8	ferus, -a, -um	wild, fierce
-xx	d.	4	8	ferē	almost (reg. follows its word)
 xx		4	8	saevus, -a, -um	fierce, raging, wrathful (in many lit. and fig. senses)
 xx		4	8	dīrus, -a, -um	fearful, awful, portentous, dire
 xx		4	8	sevērus, -a, -um	stern, strict; inflexible; fatal
@@ -1424,7 +1411,6 @@ xx		5	4	nēve ... nēve (neu ... neu)	neither...nor
 x		5	4	forsitan	perhaps, perchance
 x		5	4	paene	almost
 xx		5	4	ferē	almost (regl. follows its word)
-xx	d.	5	4	ferus, -a, -um	wild, fierce
 x		5	4	vix	hardly, scarcely, barely; (sometimes with dum) hardly yet
 x		5	4	modo	(adv.) in a measure, in a (limited) manner; only, but (of manner); just, just now (of time)
 x		5	4	saltem	at any rate, at least
@@ -1452,7 +1438,6 @@ xx		7	1	velut (velutī)	even as, like as, just as
 x		7	1	nam (or namque as a stronger variant)	(causal conj.) for; (also particle appended to inter. words) indeed, really
 x		7	1	enim	(postpositive conj.) for, verily, you see
 x		7	1	quidem	(enclitic adv.) certainly, at least
-xx	d.	7	1	quīdam, quaedam, quiddam (subst., quoddam, adj.)	(indef. pron.) a certain one, some one
 x		7	1	an	or (introducing second part of disjunctive question, after utrum or -ne; occasionally it seems to be used as a simple interrogative particle (e.g. Vergil)
 x		7	1	nec (neque)	and not, nor, neither
 x		7	1	nē	(neg. final particle) lest, that not; (with verbs of fear) lest

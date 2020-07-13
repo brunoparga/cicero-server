@@ -1,18 +1,18 @@
 [
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Pronoun",
     "lemma": "egō (ego)",
     "english": "I",
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Verb",
     "lemma": "āiō, ais, ait, aiunt",
     "english": "I (you, he/she, they) affirm, maintain, say yes",
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Preposition",
     "lemma": "in",
     "english": "I. Prep. with acc. or abl.: (with acc. of place whither) into the midst of; (with abl. of place where) in, on. II. Negative prefix used with adj., adv., and participles, un-. III. (intensive prefix) very ",
     "learned": false
@@ -30,13 +30,13 @@
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Pronoun",
     "lemma": "quīdam, quaedam, quiddam (subst., quoddam, adj.)",
     "english": "(indef. pron.) a certain one, some one",
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Pronoun",
     "lemma": "quīdam, quaedam, quiddam (subst., quoddam, adj.)",
     "english": "(indef. pron.) a certain one, some one",
     "learned": false
@@ -126,7 +126,7 @@
     "learned": false
   },
   {
-    "partOfSpeech": "Adjective",
+    "partOfSpeech": "Noun",
     "lemma": "iuvenis, -is, mf. (gen. pl. -um)",
     "english": "a youth, young man or woman",
     "learned": false
@@ -150,7 +150,7 @@
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Adverb, Preposition",
     "lemma": "suprā",
     "english": "(adv. and prep. with acc.) above, beyond (of place and time)",
     "learned": false
@@ -162,43 +162,43 @@
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Conjunction",
     "lemma": "igitur",
     "english": "accordingly, consequently, therefore",
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Prefix",
     "lemma": "trāns- (trā-)",
     "english": "(prefix) across",
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Conjunction",
     "lemma": "postquam",
     "english": "(conj.) after",
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Adverb, Preposition",
     "lemma": "post",
     "english": "(adv. and prep. with acc.) after (both of place and more often time)",
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Adverb",
     "lemma": "iterum",
     "english": "again, for the second time",
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Preposition",
     "lemma": "ob",
     "english": "(prep. with acc.) (lit.) against, facing; (but reg.) on account of; in classical prose only in phrases with rem, causam, etc., otherwise propter",
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Adverb, Preposition",
     "lemma": "contrā",
     "english": "(adv. and prep. with acc.) against, opposite",
     "learned": false
@@ -252,7 +252,7 @@
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Interjection",
     "lemma": "heu (ēheu or eheu)",
     "english": "alas!",
     "learned": false
@@ -264,7 +264,7 @@
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Preposition",
     "lemma": "ūsque",
     "english": "all the way, up to (reg. followed, sometimes preceded by ad or in with acc.)",
     "learned": false
@@ -300,13 +300,13 @@
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Adverb",
     "lemma": "paene",
     "english": "almost",
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Adverb",
     "lemma": "ferē",
     "english": "almost (reg. follows its word)",
     "learned": false
@@ -318,7 +318,7 @@
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Conjunction",
     "lemma": "quoque",
     "english": "also, too",
     "learned": false
@@ -336,13 +336,13 @@
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Adverb",
     "lemma": "semper",
     "english": "always, ever",
     "learned": false
   },
   {
-    "partOfSpeech": "Adjective",
+    "partOfSpeech": "Noun",
     "lemma": "īnsidiae, -ārum, f. (pl.)",
     "english": "ambush, ambuscade; (fig.) stratagem, treachery; (lit.) a sitting against",
     "learned": false
@@ -360,43 +360,43 @@
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Conjunction",
     "lemma": "et",
     "english": "(co-ordinating conj.) and",
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Conjunction",
     "lemma": "-que",
     "english": "(enclitic cop. conj.) and (reg. connects ideas that belong together)",
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Adverb",
     "lemma": "etiam",
     "english": "(lit.) and already; also, even",
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Conjunction",
     "lemma": "atque (ac)",
     "english": "(copulative conj.) and in addition, and also, and; (after comparatives) than; (simul ~) as soon as",
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Conjunction",
     "lemma": "nēve (neu)",
     "english": "and not, nor",
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Conjunction",
     "lemma": "nec (neque)",
     "english": "and not, nor, neither",
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Conjunction",
     "lemma": "itaque",
     "english": "and so, therefore (reg. at beginning of sentence)",
     "learned": false
@@ -420,7 +420,7 @@
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Pronoun",
     "lemma": "quisquam, quidquam/quicquam",
     "english": "(indef. subst. pron.) any one",
     "learned": false
@@ -432,19 +432,19 @@
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Pronoun",
     "lemma": "quīlibet, quaelibet, quidlibet (subst., quodlibet, adj.)",
     "english": "anyone, without distinction, whom you will; no matter who",
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Noun",
     "lemma": "nefās, n. (indecl.)",
     "english": "(lit.) anything contrary to divine law; hence impiety, wickedness, etc.",
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Prefix",
     "lemma": "dis-",
     "english": "(prefix) apart, not",
     "learned": false
@@ -462,19 +462,19 @@
     "learned": false
   },
   {
-    "partOfSpeech": "Adjective",
+    "partOfSpeech": "Noun",
     "lemma": "arma, -ōrum, n. (pl.)",
     "english": "arms (defensive armor); implements of war; implements in general, tackle",
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Adverb, Preposition",
     "lemma": "circum",
     "english": "(adv. and prep. with acc.) around, around about, in the neighborhood of, near",
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Adverb, Preposition",
     "lemma": "circā",
     "english": "(adv. and prep. with acc.) around, round about",
     "learned": false
@@ -486,13 +486,13 @@
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Conjunction",
     "lemma": "cum",
     "english": "(conj.) as (soon as) with indic. perf. (rarely hist. pres. or pluperf.); when (of time, with any tense of indic.; of circumstance, with imperf. or pluperf. subj.; (of cause) as, since (with subj.); (of concession) although (with subj.)",
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Conjunction",
     "lemma": "quasi",
     "english": "as if",
     "learned": false
@@ -516,55 +516,55 @@
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Adverb",
     "lemma": "procul",
     "english": "at a distance, afar, from a distance",
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Adverb",
     "lemma": "saltem",
     "english": "at any rate, at least",
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Adverb",
     "lemma": "tandem",
     "english": "at last, finally; (in impatient questions) pray, pray tell me",
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Adverb",
     "lemma": "dēnique",
     "english": "at length, finally; to sum up, in  word; (not uncommon with tum or nunc)",
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Adverb",
     "lemma": "prōtinus (prōtenus)",
     "english": "at once, forthwith; (lit.) forward",
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Adverb",
     "lemma": "simul",
     "english": "at once, together, at the same time (in prose often with atque in sense as soon as)",
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Adverb",
     "lemma": "aliquandō",
     "english": "at some time, at length; (lit.) some when",
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Adverb",
     "lemma": "iam",
     "english": "at that time, at this time, now (of relative time opposed to nunc, the actual now); already",
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Adverb",
     "lemma": "ōlim",
     "english": "at that time; formerly; (rarely) hereafter",
     "learned": false
@@ -576,13 +576,13 @@
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Prefix",
     "lemma": "re- (red-)",
     "english": "(prefix) back, again",
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Adverb",
     "lemma": "rūrsus (rūrsum)",
     "english": "back, again; (lit.) turned back",
     "learned": false
@@ -600,7 +600,7 @@
     "learned": false
   },
   {
-    "partOfSpeech": "Adjective",
+    "partOfSpeech": "Noun",
     "lemma": "epulae, -ārum, f. (pl.)",
     "english": "banquet, feast",
     "learned": false
@@ -630,13 +630,13 @@
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Conjunction",
     "lemma": "quia",
     "english": "(conj.) because (with the indic. of the evident reason)",
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Conjunction",
     "lemma": "quod",
     "english": "(conj. in causal sentences) because; (in object or substantive sentences) the fact that, as for the fact that, that",
     "learned": false
@@ -660,13 +660,13 @@
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Adverb, Preposition",
     "lemma": "ante",
     "english": "(adv. of space and time); before (often with abl. of measure); (prep. with acc.) before (of space or time)",
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Adverb",
     "lemma": "anteā",
     "english": "(adv.) before that, previously, hitherto",
     "learned": false
@@ -696,13 +696,13 @@
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Adverb, Preposition",
     "lemma": "īnfrā",
     "english": "(adv. and prep. with acc.) below",
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Adverb",
     "lemma": "praetereā",
     "english": "besides, moreover",
     "learned": false
@@ -720,13 +720,13 @@
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Preposition",
     "lemma": "inter",
     "english": "(prep. with acc.) between (of place where); (of time) during",
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Adverb, Preposition",
     "lemma": "ultrā",
     "english": "(adv. and prep. with acc.) beyond",
     "learned": false
@@ -912,19 +912,19 @@
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Conjunction",
     "lemma": "sed",
     "english": "(advers. conj.) but",
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Conjunction",
     "lemma": "at",
     "english": "(advers. conj.) but, but yet (esp. in rejoinders and apodoses)",
     "learned": false
   },
   {
-    "partOfSpeech": "Etcetera",
+    "partOfSpeech": "Verb",
     "lemma": "emō, emere, ēmī, ēmptum",
     "english": "(fig.) buy; (lit.) to take (but only in compounds)",
     "learned": false
