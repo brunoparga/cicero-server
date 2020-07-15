@@ -96,4 +96,4 @@ const words = fs
     learned: false
   }));
 
-fs.writeFileSync('./array.txt', JSON.stringify(words, null, 2))
+fs.writeFileSync('./db.json', JSON.stringify(words, null, 2))

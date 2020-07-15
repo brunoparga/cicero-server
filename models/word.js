@@ -4,7 +4,7 @@ const sequelize = new Sequelize(URI);
 
 class Word extends Model {};
 module.exports = Word.init({
-  questionType: DataTypes.STRING,
+  partOfSpeech: DataTypes.STRING,
   english: DataTypes.STRING,
   lemma: DataTypes.STRING,
   learned: DataTypes.BOOLEAN,

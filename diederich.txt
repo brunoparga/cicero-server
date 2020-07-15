@@ -196,7 +196,7 @@ x		1	10	puer, puerī, m.	boy; (somtimes) slave; (pl.) children
 xx		1	10	puella, -ae, f.	little girl; maiden
 x		1	10	adulēscēns, -entis, mf.	a youth, young man; young woman, maiden (properly from the 15th or 17th until past the 30th year, but often till the 40th year, or even upwards)
 x		1	10	virgō, -inis, f.	maiden, virgin, girl
-x		1	10	senex, -is, mf.	an aged person, an old man, old woman; (comparative) an elder, elderly person; note: usually considered applicable from the close of the 40th year of a person's life; to some the positive denoted a person turned of 60 years of age, while the comparative denoted one between 45 and 60 years of age
+x		1	10	senex, -is, mf.	an aged person, an old man, old woman; (comp.) an elder, elderly person; usually considered applicable from the 40th year of a person's life; to some the positive denoted a person turned 60 years, while the comparative denoted one between 45 and 60 years
 xx		1	10	senectūs, -ūtis, f.	old age
 xx		1	10	senātus, -ūs, m.	council of elders, senate
 x		1	10	familia, -ae, f.	house-servants; household, family
