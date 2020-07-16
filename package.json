@@ -4,6 +4,7 @@
   "description": "Server for Latin learning app",
   "main": "app.js",
   "scripts": {
+    "start": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,8 +22,6 @@
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
-    "json-server": "^0.16.1",
-    "node-fetch": "^2.6.0",
     "pg": "^8.2.1",
     "pg-hstore": "^2.3.3",
     "sequelize": "^6.3.1"
