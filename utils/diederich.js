@@ -1,12 +1,7 @@
 const fs = require('fs');
 
-// Include some words that the general rules wouldn't send to the right part of speech
-const {
-  adjectives,
-  advPreps,
-  conjunctions,
-  pronouns,
-} = require('./manualList');
+// Include words that the general rules wouldn't send to the right part of speech
+const uniqueWords = require('./manualList');
 
 // Ignore explanations and parts of speech in parentheses before the actual definition
 const treat = (string) => string
@@ -21,38 +16,13 @@ const compare = ([, definition1], [, definition2]) => {
   const def2 = treat(definition2);
   if (def1 < def2) { return -1; }
   if (def1 > def2) { return 1; }
-  return 1;
-};
-
-// Fix the special words that the general rules get wrong
-const manualList = (lemma) => {
-  if (lemma === 'satis') {
-    return 'Adjective, Adverb';
-  } if (['nec (neque)', 'ubī (ubi)'].includes(lemma)) {
-    return 'Adverb, Conjunction';
-  } if (lemma === 'rēs pūblica, reī pūblicae, etc.') {
-    return 'Noun';
-  } if (lemma === 'mīlle (sg. indecl., pl. mīlia, -ium n.)') {
-    return 'Numeral';
-  } if (lemma === 'quatiō, -ere, --, quassum (perf. -cussī only in composita)') {
-    return 'Verb';
-  } if (adjectives.includes(lemma)) {
-    return 'Adjective';
-  } if (advPreps.includes(lemma)) {
-    return 'Adverb, Preposition';
-  } if (conjunctions.includes(lemma)) {
-    return 'Conjunction';
-  } if (pronouns.includes(lemma)) {
-    return 'Pronoun';
-  }
-  return '';
+  return 0;
 };
 
 // Sort words out into their appropriate parts of speech
 const classify = (lemma, english) => {
-  const listed = manualList(lemma);
-  if (listed) {
-    return listed;
+  if (uniqueWords[lemma]) {
+    return uniqueWords[lemma];
   } if (lemma.match(/(m|f|n)\./)) {
     return 'Noun';
   } if (lemma.split(',').length === 4 || treat(english).match(/^to /)) {

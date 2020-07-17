@@ -1,6 +1,20 @@
 // Why each group of words is here
 
-exports.adjectives = [
+const uniqueWords = {
+  // Only words that share these parts of speech
+  satis: 'Adjective, Adverb',
+  'nec (neque)': 'Adverb, Conjunction',
+  'ubī (ubi)': 'Adverb, Conjunction',
+  // Two parts of speech listed separately
+  ante: 'Adverb, Preposition',
+  // Unusual declensions
+  'rēs pūblica, reī pūblicae, etc.': 'Noun',
+  'mīlle (sg. indecl., pl. mīlia, -ium n.)': 'Numeral',
+  // 'f.' classifies as noun
+  'quatiō, -ere, --, quassum (perf. -cussī only in composita)': 'Verb',
+};
+
+const adjectives = [
   // 'n.' classifies as noun
   'alius, -a, -ud (gen. alterīus, dat. aliī/alterī)',
   'alter, -era, -erum (gen. alterīus, dat. alterī)',
@@ -19,12 +33,7 @@ exports.adjectives = [
   'prior, prius',
 ];
 
-exports.advPreps = [
-  // The adverb and preposition meanings are listed separately
-  'ante',
-];
-
-exports.conjunctions = [
+const conjunctions = [
   // Classified as adverbs
   'igitur',
   'nēve (neu)',
@@ -33,7 +42,7 @@ exports.conjunctions = [
   'vel ... vel',
 ];
 
-exports.pronouns = [
+const pronouns = [
   // Most of these classify as adverbs, a few as verbs because the gloss begins with 'to ' or
   // due to commas splitting the lemma into four parts like verbs
   'cui',
@@ -58,3 +67,12 @@ exports.pronouns = [
   'vōbīs',
   'vōs',
 ];
+
+const listToObject = (list, group) => list.reduce((obj, word) => ({ ...obj, [word]: group }), {})
+
+module.exports = {
+  ...uniqueWords,
+  ...listToObject(adjectives, 'Adjective'),
+  ...listToObject(conjunctions, 'Conjunction'),
+  ...listToObject(pronouns, 'Pronoun'),
+};
