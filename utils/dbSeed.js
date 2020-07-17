@@ -3,7 +3,7 @@ const fs = require('fs');
 
 const Word = require('../models/word');
 
-const words = JSON.parse(fs.readFileSync('db.json', 'utf8'));
+const words = JSON.parse(fs.readFileSync('./utils/db.json', 'utf8'));
 
 (async () => {
   await Word.sync({ force: true });
