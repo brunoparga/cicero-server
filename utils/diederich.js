@@ -19,13 +19,30 @@ const compare = ([, definition1], [, definition2]) => {
   return 0;
 };
 
-// Sort words out into their appropriate parts of speech
-const classify = (lemma, english) => {
-  if (uniqueWords[lemma]) {
-    return uniqueWords[lemma];
-  } if (lemma.match(/(m|f|n)\./)) {
+const classifyByDefinition = (definition) => {
+  const definitionStrings = {
+    'pron.': 'Pronoun',
+    'conj.': 'Conjunction',
+    'prep.': 'Preposition',
+    'num.': 'Numeral',
+    '!': 'Interjection',
+    'adv. and prep.': 'Adverb, Preposition'
+  }
+  
+  return Object
+    .keys(definitionStrings)
+    .reduce((partOfSpeech, substring) => {
+      if (definition.toLowerCase().includes(substring)) {
+        return definitionStrings[substring]
+      }
+      return partOfSpeech
+    }, 'Adverb')
+}
+
+const classifyByLemma = (lemma, definition) => {
+  if (lemma.match(/(m|f|n)\./)) {
     return 'Noun';
-  } if (lemma.split(',').length === 4 || treat(english).match(/^to /)) {
+  } if (lemma.split(',').length === 4 || treat(definition).match(/^to /)) {
     return 'Verb';
   } if (lemma.split(', -').length > 1) {
     return 'Adjective';
@@ -33,20 +50,17 @@ const classify = (lemma, english) => {
     return 'Prefix';
   } if (lemma.match(/^-/)) {
     return 'Particle';
-  } if (english.includes('adv. and prep.')) {
-    return 'Adverb, Preposition';
-  } if (english.includes('pron.')) {
-    return 'Pronoun';
-  } if (english.includes('conj.')) {
-    return 'Conjunction';
-  } if (english.toLowerCase().includes('prep.')) {
-    return 'Preposition';
-  } if (english.includes('num.')) {
-    return 'Numeral';
-  } if (english.includes('!')) {
-    return 'Interjection';
   }
-  return 'Adverb';
+  return ''
+}
+
+// Send words out into their appropriate parts of speech
+const classify = (lemma, definition) => {
+  // First, send the words that wouldn't otherwise get correctly classified
+  if (uniqueWords[lemma]) { return uniqueWords[lemma]; }
+  const byLemma = classifyByLemma(lemma, definition)
+  if (byLemma) { return byLemma; }
+  return classifyByDefinition(definition);
 };
 
 const words = fs
@@ -63,10 +77,10 @@ const words = fs
     ([lemma], index, array) => (index === array.length - 1 ? true : lemma !== array[index + 1][0]),
   )
   // Turn into an object for JSONification
-  .map(([lemma, english]) => ({
-    partOfSpeech: classify(lemma, english),
+  .map(([lemma, definition]) => ({
+    partOfSpeech: classify(lemma, definition),
     lemma,
-    english,
+    english: definition,
     learned: false,
   }));
 

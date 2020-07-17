@@ -5,6 +5,7 @@ const uniqueWords = {
   satis: 'Adjective, Adverb',
   'nec (neque)': 'Adverb, Conjunction',
   'ubī (ubi)': 'Adverb, Conjunction',
+  'ergō': 'Conjunction, Preposition',
   // Two parts of speech listed separately
   ante: 'Adverb, Preposition',
   // Unusual declensions
