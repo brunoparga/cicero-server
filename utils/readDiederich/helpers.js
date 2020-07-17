@@ -1,5 +1,6 @@
 const treat = require('./treatDefinition');
 const classify = require('./classify');
+const setProperties = require('./setProperties')
 
 // Sort by ascending alphabetical order of definition
 exports.compare = ([, definition1], [, definition2]) => {
@@ -14,9 +15,13 @@ exports.deduplicate = ([lemma], index, array) => (index === array.length - 1
   ? true
   : lemma !== array[index + 1][0]);
 
-exports.buildWord = ([lemma, definition]) => ({
-  partOfSpeech: classify(lemma, definition),
-  lemma,
-  english: definition,
-  learned: false,
-});
+exports.buildWord = ([lemma, definition]) => {
+  const partOfSpeech = classify(lemma, definition)
+  return {
+    partOfSpeech,
+    lemma,
+    english: definition,
+    learned: false,
+    properties: setProperties(partOfSpeech, lemma)
+  }
+};

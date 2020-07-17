@@ -6,12 +6,6 @@
     "learned": false
   },
   {
-    "partOfSpeech": "Verb",
-    "lemma": "āiō, ais, ait, aiunt",
-    "english": "I (you, he/she, they) affirm, maintain, say yes",
-    "learned": false
-  },
-  {
     "partOfSpeech": "Preposition",
     "lemma": "in",
     "english": "I. Prep. with acc. or abl.: (with acc. of place whither) into the midst of; (with abl. of place where) in, on. II. Negative prefix used with adj., adv., and participles, un-. III. (intensive prefix) very ",
@@ -21,13 +15,25 @@
     "partOfSpeech": "Noun",
     "lemma": "tempus, -oris, n.",
     "english": "I. limited duration of time; time in all senses, including opportunity, occasion; II. temple (part of forehead)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "ārdor, -ōris, m.",
     "english": "a burning; (fig.) zeal",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Pronoun",
@@ -39,91 +45,181 @@
     "partOfSpeech": "Noun",
     "lemma": "vēlum, -ī, n.",
     "english": "a cloth, covering; esp. sail",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "tēctum, -ī, n.",
     "english": "a covered place; roof; building, house",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "caedēs, -is, f.",
     "english": "a cutting; (regl.) killing, slaughter",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "cāsus, -ūs, m.",
     "english": "(lit.) a falling, fall; chance, accident",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 3,
+      "gender": "masculine",
+      "correctGenitive": "-ūs"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "fābula, -ae, f.",
     "english": "a fictitious narrative, tale, story; dramatic poem, drama play; fable",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "saeculum, -ī, n.",
     "english": "a generation; age, esp. century; time in general",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "lūmen, -inis, n.",
     "english": "a light (in var. senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "lyra, -ae, f.",
     "english": "a lute, lyre; (fig.) lyric poetry, song; the constellation Lyra",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "messis, -is, f.",
     "english": "a mowing, reaping, or ingathering of the corn, etc.; harvest; the harvested crops; harvest-time",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "historia, -ae, f.",
     "english": "a narrative of past event, history; narrative, account, tale, story",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "ōrātiō, -ōnis, f.",
     "english": "a pleading, speech, address",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "pauper, -eris, m.",
     "english": "a poor person",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "ratiō, -ōnis, f.",
     "english": "(lit.) a thinking, reckoning; (in many senses) method, way; account; system or plan; consideration or reason, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "iuvenis, -is, mf. (gen. pl. -um)",
     "english": "a youth, young man or woman",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "plural",
+      "declension": 0,
+      "gender": "masculine/feminine",
+      "correctGenitive": "-ārum"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "adulēscēns, -entis, mf.",
     "english": "a youth, young man; young woman, maiden (properly from the 15th or 17th until past the 30th year, but often till the 40th year, or even upwards)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine/feminine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -195,37 +291,73 @@
     "partOfSpeech": "Noun",
     "lemma": "aetās, -ātis, f.",
     "english": "age, time of life",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "condiciō, -ōnis, f.",
     "english": "agreement, terms; condition, station",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "āēr, āeris, m.",
     "english": "air",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "aura, -ae, f.",
     "english": "air, breeze, gale",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "āēr, āeris, m.",
     "english": "air; (rarely) mist",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "anima, -ae, f.",
     "english": "aire, breeze, breath, spirit; life, soul (esp. in plural)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Interjection",
@@ -273,7 +405,13 @@
     "partOfSpeech": "Noun",
     "lemma": "socius, -ī, m.",
     "english": "ally, confederate",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -297,7 +435,13 @@
     "partOfSpeech": "Noun",
     "lemma": "āra, -ae, f.",
     "english": "altar",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -315,13 +459,25 @@
     "partOfSpeech": "Noun",
     "lemma": "īnsidiae, -ārum, f. (pl.)",
     "english": "ambush, ambuscade; (fig.) stratagem, treachery; (lit.) a sitting against",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "plural",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-(i)um"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "senex, -is, mf.",
     "english": "an aged person, an old man, old woman; (comp.) an elder, elderly person; usually considered applicable from the 40th year of a person's life; to some the positive denoted a person turned 60 years, while the comparative denoted one between 45 and 60 years",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine/feminine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -375,13 +531,25 @@
     "partOfSpeech": "Noun",
     "lemma": "īra, -ae, f.",
     "english": "anger, wrath",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "animal, -ālis, n.",
     "english": "animal, living being",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -411,7 +579,13 @@
     "partOfSpeech": "Noun",
     "lemma": "nefās, n. (indecl.)",
     "english": "(lit.) anything contrary to divine law; hence impiety, wickedness, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "neuter",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Prefix",
@@ -429,13 +603,25 @@
     "partOfSpeech": "Noun",
     "lemma": "adventus, -ūs, m.",
     "english": "approach, arrival; (lit.) a coming to",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 3,
+      "gender": "masculine",
+      "correctGenitive": "-ūs"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "arma, -ōrum, n. (pl.)",
     "english": "arms (defensive armor); implements of war; implements in general, tackle",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "plural",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-(i)um"
+    }
   },
   {
     "partOfSpeech": "Adverb, Preposition",
@@ -453,7 +639,13 @@
     "partOfSpeech": "Noun",
     "lemma": "sagitta, -ae, f.",
     "english": "arrow",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Conjunction",
@@ -471,19 +663,37 @@
     "partOfSpeech": "Noun",
     "lemma": "cinis, -eris, m.",
     "english": "ashes, embers",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "speciēs, -ēī, f.",
     "english": "aspect, appearance",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 4,
+      "gender": "f.",
+      "correctGenitive": "-ēī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "ops, opis, f.",
     "english": "assistance, aid; (pl.) means, resources",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -543,7 +753,13 @@
     "partOfSpeech": "Noun",
     "lemma": "minister, -trī, m.",
     "english": "attendant, servant; tool, agent; (lit.) lesser one",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Prefix",
@@ -561,37 +777,73 @@
     "partOfSpeech": "Noun",
     "lemma": "tergum, -ī, n.",
     "english": "back, rear",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "rīpa, -ae, f.",
     "english": "bank (of a river)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "epulae, -ārum, f. (pl.)",
     "english": "banquet, feast",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "plural",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-(i)um"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "convīvium, -ī, n.",
     "english": "banquet, feast; (lit.) a living together",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "laurus, -ī (or -ūs), f.",
     "english": "bay-tree, laurel; wreath of laurel",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "lītus, -oris, n.",
     "english": "beach, shore",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -615,19 +867,37 @@
     "partOfSpeech": "Noun",
     "lemma": "cubīle, -is, n.",
     "english": "bed, couch",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "torus, -ī, m.",
     "english": "bed, couch; royal seat or throne, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "thalamus, -ī, m.",
     "english": "bed-chamber, couch, (esp.) bridal bed",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adverb, Preposition",
@@ -645,13 +915,25 @@
     "partOfSpeech": "Noun",
     "lemma": "prīncipium, -ī, n.",
     "english": "beginning",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "initium, -ī, n.",
     "english": "beginning; (lit.) an entering",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -705,19 +987,37 @@
     "partOfSpeech": "Noun",
     "lemma": "avis, -is, f.",
     "english": "bird",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "āles, -itis, m.",
     "english": "bird; (as adj.) winged, swift",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "genus, -eris, n.",
     "english": "birth, origin, lineage; offspring; tribe, people, etc.; sort, kind, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -729,19 +1029,37 @@
     "partOfSpeech": "Noun",
     "lemma": "sanguis, -inis, m.",
     "english": "blood",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "ictus, -ūs, m.",
     "english": "blow, stroke; (lit.) a striking",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 3,
+      "gender": "masculine",
+      "correctGenitive": "-ūs"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "corpus, -oris, n.",
     "english": "body",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -753,55 +1071,109 @@
     "partOfSpeech": "Noun",
     "lemma": "vinculum, -ī, n.",
     "english": "bond, fetter, tie",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "os, ossis, n.",
     "english": "bone; body",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "liber, -brī, m.",
     "english": "(reg.) book; (lit.) inner bark",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "libellus, -ī, m.",
     "english": "booklet",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "praeda, -ae, f.",
     "english": "booty, prey",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "praemium, -ī, n.",
     "english": "bounty, reward",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "arcus, -ūs, m.",
     "english": "bow; arch",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 3,
+      "gender": "masculine",
+      "correctGenitive": "-ūs"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "puer, puerī, m.",
     "english": "boy; (somtimes) slave; (pl.) children",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "rāmus, -ī, m.",
     "english": "branch, bough (of a tree)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -813,19 +1185,37 @@
     "partOfSpeech": "Noun",
     "lemma": "pectus, -oris, n.",
     "english": "breast, bosom, chest, etc.; (fig.) soul, courage, wisdom, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "spīritus, -ūs, m.",
     "english": "breathing, breath; breath of life, life; high spirit, pride, courage",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 3,
+      "gender": "masculine",
+      "correctGenitive": "-ūs"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "pōns, pontis, m.",
     "english": "bridge",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -849,31 +1239,61 @@
     "partOfSpeech": "Noun",
     "lemma": "rīvus, -ī, m.",
     "english": "brook, rivulet",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "frāter, -tris, m.",
     "english": "brother",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "taurus, -ī, m.",
     "english": "bull",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "iuvencus, -ī, m.",
     "english": "bullock, heifer",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "negōtium, -ī, n.",
     "english": "business, employment, etc.; (lit.) lack of leisure",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Conjunction",
@@ -903,7 +1323,13 @@
     "partOfSpeech": "Noun",
     "lemma": "castra, -ōrum, n. (pl.)",
     "english": "camp",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "plural",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-(i)um"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -915,7 +1341,13 @@
     "partOfSpeech": "Noun",
     "lemma": "cūra, -ae, f.",
     "english": "care, concern (esp. in poetry of love); object of care, i.e. concern, duty",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -927,25 +1359,49 @@
     "partOfSpeech": "Noun",
     "lemma": "pecus, -oris, n.",
     "english": "cattle (general expression for the larger variety of domestic animals)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "pecus, -udis, f.",
     "english": "cattle (mainly of the smaller variety); sheep",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "causa, -ae, f.",
     "english": "cause, reason; occasion; case, lawsuit; party, faction; etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "antrum, -ī, n.",
     "english": "cave, cavern, grot",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -957,19 +1413,37 @@
     "partOfSpeech": "Noun",
     "lemma": "vicis (gen. sg.), vicem (acc. sg.), vice (abl. sg.)",
     "english": "change, turn (in affairs); (in vicem) in exchange, in turn",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "neuter",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "impetus, -ūs, m.",
     "english": "charge, attack, rush",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 3,
+      "gender": "masculine",
+      "correctGenitive": "-ūs"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "currus, -ūs, m.",
     "english": "chariot",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 3,
+      "gender": "masculine",
+      "correctGenitive": "-ūs"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -981,7 +1455,13 @@
     "partOfSpeech": "Noun",
     "lemma": "gena, -ae, f.",
     "english": "cheek, eye",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -993,43 +1473,85 @@
     "partOfSpeech": "Noun",
     "lemma": "orbis, -is, m.",
     "english": "circle, round, orbit; (~ terrarum) world",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "arx, arcis, f.",
     "english": "citadel, castle; summit",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "cīvis, -is, mf.",
     "english": "citizen",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine/feminine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "cīvitās, -ātis, f.",
     "english": "citizenship; (particulary) state, community",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "urbs, urbis, f.",
     "english": "city",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "cultus, -ūs, m.",
     "english": "civilization; appearance",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 3,
+      "gender": "masculine",
+      "correctGenitive": "-ūs"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "classis, -is, f.",
     "english": "(properly) class, division (of people, army); fleet",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -1053,25 +1575,49 @@
     "partOfSpeech": "Noun",
     "lemma": "nūbēs, -is, f.",
     "english": "cloud (esp. storm cloud); (fig.) crowd, throng",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "ōra, -ae, f.",
     "english": "coast",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "cohors, -tis, f.",
     "english": "cohort; (fig.) band, troop",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "frīgus, -oris, n.",
     "english": "cold (also in Vergil of chill caused by fear, etc.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -1083,19 +1629,37 @@
     "partOfSpeech": "Noun",
     "lemma": "color, -ōris, m.",
     "english": "color (in var. senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "columna, -ae, f.",
     "english": "column",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "decus, -oris, n.",
     "english": "comeliness, beauty, grace; ornament, glory",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -1107,19 +1671,37 @@
     "partOfSpeech": "Noun",
     "lemma": "imperium, -ī, n.",
     "english": "command; chief command, power, control",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "imperātor, -ōris, m.",
     "english": "commander, general",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "plēbs, -is, f.",
     "english": "common people, commons; masses",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -1131,49 +1713,97 @@
     "partOfSpeech": "Noun",
     "lemma": "tumultus, -ūs, m.",
     "english": "commotion, uprising",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 3,
+      "gender": "masculine",
+      "correctGenitive": "-ūs"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "comes, -itis, mf.",
     "english": "companion, comrade; attendant, follower",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine/feminine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "habitus, -ūs, m.",
     "english": "condition, attire",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 3,
+      "gender": "masculine",
+      "correctGenitive": "-ūs"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "incendium, -ī, n.",
     "english": "conflagration; (esp. common in fig. sense) glow, heat, ruin",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "turba, -ae, f.",
     "english": "confusion, uproar, tumult; crowd, throng; (lit.) noise",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "victor, -ōris, m.",
     "english": "conqueror",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "religiō, -ōnis, f.",
     "english": "conscientiousness, sense of right; scruples; (in various fig. senses) obligation, superstition",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "coniūnx (coniux), -iugis, mf.",
     "english": "consort, spouse, husband or wife",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine/feminine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -1185,7 +1815,13 @@
     "partOfSpeech": "Noun",
     "lemma": "cōnsul, -is, m.",
     "english": "consul (highest magistrate at Rome)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -1203,13 +1839,25 @@
     "partOfSpeech": "Noun",
     "lemma": "certāmen, -inis, n.",
     "english": "contest, struggle",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "sermō, -ōnis, m.",
     "english": "conversation, talk, discourse; language; (lit.) joining of words",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -1221,37 +1869,73 @@
     "partOfSpeech": "Noun",
     "lemma": "aes, aeris, n.",
     "english": "copper, bronze; anything made of of bronze (as prow, cymbal, trumpet, tablet)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "senātus, -ūs, m.",
     "english": "council of elders, senate",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 3,
+      "gender": "masculine",
+      "correctGenitive": "-ūs"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "vīlla, -ae, f.",
     "english": "country-seat",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "rūs, rūris, n.",
     "english": "country; (pl.) lands, fields",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "cursus, -ūs, m.",
     "english": "course, advance; (lit.) a running",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 3,
+      "gender": "masculine",
+      "correctGenitive": "-ūs"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "rūpēs, -is, f.",
     "english": "crag, rock, cliff",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -1269,31 +1953,61 @@
     "partOfSpeech": "Noun",
     "lemma": "ager, agrī, m.",
     "english": "cultivated land, field, country",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "agricola, -ae, m.",
     "english": "cultivator of the field, farmer",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "masculine",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "cōnsuētūdō, -inis, f.",
     "english": "custom, habit",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "chorus, -ī, m.",
     "english": "dance, choral dance; band, troop",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "perīculum, -ī, n.",
     "english": "danger, peril",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -1311,19 +2025,37 @@
     "partOfSpeech": "Noun",
     "lemma": "tenebrae, -ārum, f. (pl.)",
     "english": "darkness",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "plural",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-(i)um"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "fīlia, -ae, f. (dat./abl. pl. fīliābus)",
     "english": "daughter",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "plural",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ārum"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "diēs, -ēī, m.",
     "english": "day",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 4,
+      "gender": "masculine",
+      "correctGenitive": "-ēī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -1353,13 +2085,25 @@
     "partOfSpeech": "Noun",
     "lemma": "mors, -tis, f.",
     "english": "death",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "lētum, -ī, n.",
     "english": "(poetry) death; ruin (often personified)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -1377,37 +2121,73 @@
     "partOfSpeech": "Noun",
     "lemma": "mora, -ae, f.",
     "english": "delay; hindrance",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "gaudium, -ī, n.",
     "english": "delight, joy, pleasure",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "dēliciae, -ārum, f. (pl.)",
     "english": "delight, pleasure, luxury; (of living beings) a beloved object, darling, favourite, delight",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "plural",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-(i)um"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "cupīdō, -inis, f.",
     "english": "desire, eagerness, craving (often personified)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "libīdō, -inis, f.",
     "english": "desire, longing; esp. passion; lust",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "clādēs, -is, f.",
     "english": "destruction, slaughter",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -1419,13 +2199,25 @@
     "partOfSpeech": "Noun",
     "lemma": "regiō, -ōnis, f.",
     "english": "(lit.) direction, line; boundary, limit; district, region",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "ingenium, -ī, n.",
     "english": "disposition, temperament; ability, genius; (lit.) inborn quality",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -1449,13 +2241,25 @@
     "partOfSpeech": "Noun",
     "lemma": "nūmen, -inis, n.",
     "english": "divine help, glory; deity",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "fās, n. (indecl.)",
     "english": "divine right or law; (with inf.) permissible",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "neuter",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -1479,13 +2283,25 @@
     "partOfSpeech": "Noun",
     "lemma": "canis, -is, mf. (abl. sg. -e, gen. pl. canum)",
     "english": "dog",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "plural",
+      "declension": 0,
+      "gender": "masculine/feminine",
+      "correctGenitive": "-ārum"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "passus, -ūs, m.",
     "english": "double pace (about 5 feet); (lit.) spreading",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 3,
+      "gender": "masculine",
+      "correctGenitive": "-ūs"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -1503,25 +2319,49 @@
     "partOfSpeech": "Noun",
     "lemma": "ruīna, -ae, f.",
     "english": "downfall, collapse (both lit. and fig.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "somnium, -ī, n.",
     "english": "dream",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "pōculum, -ī, n.",
     "english": "drinking cup",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "venēnum, -ī, n.",
     "english": "drug; poison, charm",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -1557,13 +2397,25 @@
     "partOfSpeech": "Noun",
     "lemma": "studium, -ī, n.",
     "english": "eagerness, zeal (in many senses); (pl.) pursuits",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "auris, -is, f.",
     "english": "ear",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -1581,19 +2433,37 @@
     "partOfSpeech": "Noun",
     "lemma": "tellūs, -ūris, f.",
     "english": "Earth (the poetical word for terra)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "aciēs, -ēī, f.",
     "english": "(lit.) edge; line of battle (Caesar uses it once with oculorum, Cicero with auctoritatis; Vergil uses it alone of eyes, of sight, of sword. Otherwise the word is military)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 4,
+      "gender": "f.",
+      "correctGenitive": "-ēī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "simulācrum, -ī, n.",
     "english": "effigy, image",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Numeral",
@@ -1605,7 +2475,13 @@
     "partOfSpeech": "Noun",
     "lemma": "ēloquentia, -ae, f.",
     "english": "eloquence",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -1635,13 +2511,25 @@
     "partOfSpeech": "Noun",
     "lemma": "fīnis, -is, m.",
     "english": "end, termination; boundary; (pl.) boundaries (usual sense in Caesar)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "frūctus, -ūs, m.",
     "english": "enjoyment, delight; fruit, crops (also in var. fig. meanings)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 3,
+      "gender": "masculine",
+      "correctGenitive": "-ūs"
+    }
   },
   {
     "partOfSpeech": "Adjective, Adverb",
@@ -1653,7 +2541,13 @@
     "partOfSpeech": "Noun",
     "lemma": "invidia, -ae, f.",
     "english": "envy, jealousy, hatred",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -1707,7 +2601,13 @@
     "partOfSpeech": "Noun",
     "lemma": "oculus, -ī, m.",
     "english": "eye",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -1731,7 +2631,13 @@
     "partOfSpeech": "Noun",
     "lemma": "gēns, gentis, f.",
     "english": "family; clan, tribe, nation, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -1749,25 +2655,49 @@
     "partOfSpeech": "Noun",
     "lemma": "fātum, -ī, n.",
     "english": "fate (lit. that which is spoken)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "pater, -tris, m.",
     "english": "father; (freely) ancestor; (fig.) elders, chiefs",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "patria, -ae, f.",
     "english": "fatherland, country",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "grātia, -ae, f.",
     "english": "favor, goodwill; influence; thanks, gratitude",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -1779,13 +2709,25 @@
     "partOfSpeech": "Noun",
     "lemma": "timor, -ōris, m.",
     "english": "fear, apprehension",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "metus, -ūs, m.",
     "english": "fear, apprehension, dread",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 3,
+      "gender": "masculine",
+      "correctGenitive": "-ūs"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -1797,31 +2739,61 @@
     "partOfSpeech": "Noun",
     "lemma": "penna, -ae, f.",
     "english": "feather; wing",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "pāstor, -ōris, m.",
     "english": "feeder; esp. shepherd",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "sēnsus, -ūs, m.",
     "english": "feeling, emotion, sense (in var. meanings)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 3,
+      "gender": "masculine",
+      "correctGenitive": "-ūs"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "sententia, -ae, f.",
     "english": "feeling, thinking, opinion, judgment, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "fēmina, -ae, f.",
     "english": "female; woman",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -1839,7 +2811,13 @@
     "partOfSpeech": "Noun",
     "lemma": "seges, -etis, f.",
     "english": "field of grain; grain, crop, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -1851,7 +2829,13 @@
     "partOfSpeech": "Noun",
     "lemma": "proelium, -ī, n.",
     "english": "fight, battle",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -1869,19 +2853,37 @@
     "partOfSpeech": "Noun",
     "lemma": "digitus, -ī, m.",
     "english": "finger",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "ignis, -is, m.",
     "english": "fire",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "focus, -ī, m.",
     "english": "fire-place, hearth; home",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -1893,7 +2895,13 @@
     "partOfSpeech": "Noun",
     "lemma": "piscis, -is, m.",
     "english": "fish",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -1917,31 +2925,61 @@
     "partOfSpeech": "Noun",
     "lemma": "flamma, -ae, f.",
     "english": "flame, fire (in various fig. senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "vitium, -ī, n.",
     "english": "flaw, defect, fault, crime",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "fuga, -ae, f.",
     "english": "flight, rout",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "flūctus, -ūs, m.",
     "english": "flood, billow, surf",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 3,
+      "gender": "masculine",
+      "correctGenitive": "-ūs"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "flōs, -ōris, m.",
     "english": "flower; (fig.) bloom (in var. senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -1953,19 +2991,37 @@
     "partOfSpeech": "Noun",
     "lemma": "volucer, -cris, -cre; (as subst.) volucris, -is, f.",
     "english": "(adj.) flying, winged; (subst.) bird",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "sinus, -ūs, m.",
     "english": "fold (in various lit. and fig. senses); bosom (of a robe); gulf, bay (of water)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 3,
+      "gender": "masculine",
+      "correctGenitive": "-ūs"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "cibus, -ī, m.",
     "english": "food",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -1977,19 +3033,37 @@
     "partOfSpeech": "Noun",
     "lemma": "pēs, pedis, m.",
     "english": "foot",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "pedes, -itis, m.",
     "english": "foot-soldier, infantryman",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "vestīgium, -ī, n.",
     "english": "footstep, footprint, track, trace",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Pronoun",
@@ -2031,55 +3105,109 @@
     "partOfSpeech": "Noun",
     "lemma": "vīs (sg. only acc. vim, abl. vī; pl. vīrēs, -ium), f.",
     "english": "force, strength, energy",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "plural",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ārum"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "vadum, -ī, n.",
     "english": "ford; shallow, shoal",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "aula, -ae, f.",
     "english": "fore court, hall; palace",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "bracchium, -ī, n.",
     "english": "fore-arm, arm; (fig.) yard-arm, branch",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "frōns, frontis, f.",
     "english": "forehead, brow; front (of locality)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "barbarus, -ī, m.",
     "english": "foreigner, stranger (of all but Greeks and Romans)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "silva, -ae, f.",
     "english": "forest, grove",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "faciēs, -ēī, f.",
     "english": "form, figure, appearance, face",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 4,
+      "gender": "f.",
+      "correctGenitive": "-ēī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "figūra, -ae, f.",
     "english": "form, shape",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -2091,13 +3219,25 @@
     "partOfSpeech": "Noun",
     "lemma": "castellum, -ī, m.",
     "english": "fort, redoubt; (lit.) little camp",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "fortūna, -ae, f.",
     "english": "fortune",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -2121,7 +3261,13 @@
     "partOfSpeech": "Noun",
     "lemma": "fraus, -dis, f.",
     "english": "fraud, deception (in many senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -2139,7 +3285,13 @@
     "partOfSpeech": "Noun",
     "lemma": "lībertās, -ātis, f.",
     "english": "freedom, liberty",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -2151,19 +3303,37 @@
     "partOfSpeech": "Noun",
     "lemma": "amīcus, -ī, m.",
     "english": "friend",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "amīcitia, -ae, f.",
     "english": "friendship",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "terror, -ōris, m.",
     "english": "fright, terror, panic",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -2193,13 +3363,25 @@
     "partOfSpeech": "Noun",
     "lemma": "pōmum, -ī, n.",
     "english": "fruit (of any kind)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "frūx, frūgis, f. (mostly pl.)",
     "english": "(reg. pl.) fruit of any kind",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "plural",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ārum"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -2217,61 +3399,121 @@
     "partOfSpeech": "Noun",
     "lemma": "rogus, -ī, m.",
     "english": "funeral pyre",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "fūnus, -eris, n.",
     "english": "funeral; death, dead body, pyre, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "lūdus, -ī, m.",
     "english": "game, play; place of play, school",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "hortus, -ī, m.",
     "english": "garden (in the widest sense of the term); pleasure-garden, fruit-garden, kitchen-garden, vineyard",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "corōna, -ae, f.",
     "english": "garland, chaplet, wreath (both lit. and fig.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "vestis, -is, f.",
     "english": "garment, robe; clothing, drapery",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "praesidium, -ī, n.",
     "english": "garrison; protection, guard",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "porta, -ae, f.",
     "english": "gate",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "clēmentia, -ae, f.",
     "english": "gentleness, mildness",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "dōnum, -ī, n.",
     "english": "gift, present",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -2283,25 +3525,49 @@
     "partOfSpeech": "Noun",
     "lemma": "glōria, -ae, f.",
     "english": "glory, fame",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "deus, -ī, m.",
     "english": "god",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "dea, -ae, f.",
     "english": "goddess",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "aurum, -ī, n.",
     "english": "gold; gold plate; money",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -2313,19 +3579,37 @@
     "partOfSpeech": "Noun",
     "lemma": "sapientia, -ae, f.",
     "english": "good sense; wisdom",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "nepōs, -ōtis, m.",
     "english": "grandson; descendant in general; (pl.) descendants, posterity; (in a bad sense) a degenerate, spendthrift",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "grāmen, -inis, n.",
     "english": "grass; meadow",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -2349,43 +3633,85 @@
     "partOfSpeech": "Noun",
     "lemma": "magnitūdō, -īnis, f.",
     "english": "greatness, size",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "lūctus, -ūs, m.",
     "english": "grief, mourning (esp. as shown by outward signs)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 3,
+      "gender": "masculine",
+      "correctGenitive": "-ūs"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "humus, -ī, f.",
     "english": "ground",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "f.",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "custōs, -ōdis, mf.",
     "english": "guard, watchman",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine/feminine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "hospes, -itis, m.",
     "english": "guest, guest-friend; stranger; host",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "culpa, -ae, f.",
     "english": "guilt, fault, blame",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "gurges, -itis, m.",
     "english": "gulf, whirlpool; sea",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Interjection",
@@ -2397,19 +3723,37 @@
     "partOfSpeech": "Noun",
     "lemma": "crīnis, -is, m.",
     "english": "hair (esp. of the head and in pl.); (fig.) tail of a comet",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "coma, -ae, f.",
     "english": "hair, tresses",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "manus, -ūs, f.",
     "english": "hand; (in many fig. usages as) band, force, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 3,
+      "gender": "f.",
+      "correctGenitive": "-ūs"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -2421,7 +3765,13 @@
     "partOfSpeech": "Noun",
     "lemma": "portus, -ūs, m.",
     "english": "harbor, port",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 3,
+      "gender": "masculine",
+      "correctGenitive": "-ūs"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -2439,25 +3789,49 @@
     "partOfSpeech": "Noun",
     "lemma": "odium, -ī, n.",
     "english": "hatred; (also) unpopularity",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "caput, -itis, n.",
     "english": "head (both in lit. and many fig. senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "capillus, -ī, m.",
     "english": "head of hair, hair",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "salūs, -ūtis, f.",
     "english": "health; safety (in var. senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -2469,13 +3843,25 @@
     "partOfSpeech": "Noun",
     "lemma": "cor, cordis, n.",
     "english": "heart",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "aestus, -ūs, m.",
     "english": "(of fire) heat; (of water) tide; (fig) heat of fever or passion; (lit.) a boiling or waving motion",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 3,
+      "gender": "masculine",
+      "correctGenitive": "-ūs"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -2487,7 +3873,13 @@
     "partOfSpeech": "Noun",
     "lemma": "hērēs, -ēdis, mf.",
     "english": "heir",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine/feminine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -2499,13 +3891,25 @@
     "partOfSpeech": "Noun",
     "lemma": "herba, -ae, f.",
     "english": "herb; grass, turf, plan; (also) meadow",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "grex, gregis, m.",
     "english": "herd (in lit. and fig. senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -2547,13 +3951,25 @@
     "partOfSpeech": "Noun",
     "lemma": "collis, -is, m.",
     "english": "hill",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "tumulus, -ī, m.",
     "english": "(esp. of land) hillock, mound; (lit.) little swelling",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -2607,19 +4023,37 @@
     "partOfSpeech": "Noun",
     "lemma": "domus, -ūs, f.",
     "english": "home, house",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 3,
+      "gender": "f.",
+      "correctGenitive": "-ūs"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "mel, mellis, n.",
     "english": "honey",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "honor (or honōs), -ōris, m.",
     "english": "honor, praise, glory",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -2631,55 +4065,109 @@
     "partOfSpeech": "Noun",
     "lemma": "spēs, -eī, f.",
     "english": "hope",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "f.",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "cornū, -ūs, n.",
     "english": "horn; anything shaped like a horn",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 3,
+      "gender": "neuter",
+      "correctGenitive": "-ūs"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "equus, -ī, m.",
     "english": "horse",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "eques, -itis, m.",
     "english": "horseman; Roman knight",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "hōra, -ae, f.",
     "english": "hour",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "familia, -ae, f.",
     "english": "house-servants; household, family",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "famulus, -ī, m.",
     "english": "house-slave, servant, attendant",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "dominus, -ī, m.",
     "english": "householder, master, lord",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "domina, -ae, f.",
     "english": "householder, mistress, lady",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -2727,19 +4215,37 @@
     "partOfSpeech": "Noun",
     "lemma": "homō, -inis, m.",
     "english": "human being, man, person (opp. to deus, fera, pecus)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "famēs, -is, f.",
     "english": "hunger, famine",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "damnum, -ī, n.",
     "english": "hurt, harm, damage, injury, loss; (in civil law) fine, penalty",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -2757,7 +4263,13 @@
     "partOfSpeech": "Noun",
     "lemma": "imāgō, -inis, f.",
     "english": "image, form, figure, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -2841,19 +4353,37 @@
     "partOfSpeech": "Noun",
     "lemma": "iniūria, -ae, f.",
     "english": "injustice, wrong, affront",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "titulus, -ī, m.",
     "english": "(lit.) inscription, label, title; notice, bill, placard (e.g. that something is to be sold/let; inscription on a tomb; (fig.) honourable appellation, title; pretence, pretext",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "discrīmen, -inis, n.",
     "english": "(lit.) interval, distance apart, division, separation; decisive moment, crisis, risk",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -2865,7 +4395,13 @@
     "partOfSpeech": "Noun",
     "lemma": "ferrum, -ī, n.",
     "english": "iron; any weapon or implement of iron",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -2901,25 +4437,49 @@
     "partOfSpeech": "Noun",
     "lemma": "iocus, -ī, m.",
     "english": "jest, joke, sport or sportiveness in words; (fig.) a cause for jesting, a subject for mirth",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "iter, itineris, n.",
     "english": "journey, route, line of march; (lit.) a going",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "iūdex, -icis, m.",
     "english": "judge, juror, arbiter",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "iūdicium, -ī, n.",
     "english": "judgment, decision",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -2931,7 +4491,13 @@
     "partOfSpeech": "Noun",
     "lemma": "iūstitia, -ae, f.",
     "english": "justice, fairness",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -2943,7 +4509,13 @@
     "partOfSpeech": "Noun",
     "lemma": "rēx, rēgis, m.",
     "english": "king",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -2955,7 +4527,13 @@
     "partOfSpeech": "Noun",
     "lemma": "ōsculum, -ī, n.",
     "english": "kiss; (lit.) little mouth",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -2967,7 +4545,13 @@
     "partOfSpeech": "Noun",
     "lemma": "lacus, -ūs, -m. (dat./abl. pl. -ubus)",
     "english": "lake",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "plural",
+      "declension": 0,
+      "gender": "masculine",
+      "correctGenitive": "-ārum"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -2979,7 +4563,13 @@
     "partOfSpeech": "Noun",
     "lemma": "gremium, -ī, n.",
     "english": "lap, bosom",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -2997,37 +4587,73 @@
     "partOfSpeech": "Noun",
     "lemma": "verber, -eris, n.",
     "english": "lash, whip; (reg. in pl.) stripes",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "lēx, lēgis, f.",
     "english": "law, statute, ordinance (made by Senate and People)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "dux, ducis, m.",
     "english": "leader, guide, general",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "folium, -ī, n.",
     "english": "leaf",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "c(h)arta, -ae, f.",
     "english": "leaf of the Egyptian papyrus; paper; (fig.) that which is written upon paper, i.e. a writing, letter, poem etc.; a thin leaf, plate, lamina, tablet",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "frōns, frondis, f.",
     "english": "leaf; leafage, foliage",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -3045,13 +4671,25 @@
     "partOfSpeech": "Noun",
     "lemma": "legiō, -ōnis, f.",
     "english": "legion; (lit. a choosing)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "ōtium, -ī, n.",
     "english": "leisure",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -3063,19 +4701,37 @@
     "partOfSpeech": "Noun",
     "lemma": "littera, -ae, f.",
     "english": "letter (of the alphabet)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "epistula, -ae, f.",
     "english": "letter, despatch",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "litterae, -ārum, f. (pl.)",
     "english": "letters, literature; (also) epistle, letter",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "plural",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-(i)um"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -3099,25 +4755,49 @@
     "partOfSpeech": "Noun",
     "lemma": "lēgātus, -ī, m.",
     "english": "lieutenant (i.e. regularly the second in command); envoy",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "vīta, -ae, f.",
     "english": "life",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "aevum, -ī, n.",
     "english": "lifetime, age, old age (properly eternity)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "lūx, lūcis, f.",
     "english": "light (of day)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -3129,7 +4809,13 @@
     "partOfSpeech": "Noun",
     "lemma": "fulmen, -inis, n.",
     "english": "lightning; thunderbolt",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -3147,13 +4833,25 @@
     "partOfSpeech": "Noun",
     "lemma": "līlium, -ī, n.",
     "english": "lily",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "membrum, -ī, n.",
     "english": "limb, member (of an animal body); body",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -3165,19 +4863,37 @@
     "partOfSpeech": "Noun",
     "lemma": "agmen, -inis, n.",
     "english": "line of march; army on the march; (fig.) movement, course",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "leō, -ōnis, m.",
     "english": "lion",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "puella, -ae, f.",
     "english": "little girl; maiden",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -3195,13 +4911,25 @@
     "partOfSpeech": "Noun",
     "lemma": "onus, -eris, n.",
     "english": "load, burden (lit. and fig.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "sōlitūdō, -inis, f.",
     "english": "loneliness, solitude",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -3219,25 +4947,49 @@
     "partOfSpeech": "Noun",
     "lemma": "dēsīderium, -ī, n.",
     "english": "longing",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "vultus, -ūs, m.",
     "english": "look, expression, mien; face",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 3,
+      "gender": "masculine",
+      "correctGenitive": "-ūs"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "sors, sortis, f.",
     "english": "lot; fate, destiny, oracle, success",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "amor, -ōris, m.",
     "english": "love",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -3261,7 +5013,13 @@
     "partOfSpeech": "Noun",
     "lemma": "virgō, -inis, f.",
     "english": "maiden, virgin, girl",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -3273,25 +5031,49 @@
     "partOfSpeech": "Noun",
     "lemma": "vir, virī, m.",
     "english": "man (opp. to woman); husband; hero",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "virtūs, -ūtis, f.",
     "english": "manliness, valor; (pl.) virtues",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "mōs, mōris, m.",
     "english": "manner, way, custom, habit",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "marmor, -oris, n.",
     "english": "marble",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -3303,19 +5085,37 @@
     "partOfSpeech": "Noun",
     "lemma": "forum, -ī, n.",
     "english": "market-place; Roman forum or place of public meeting",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "marītus, -ī, m.",
     "english": "married man, husband; (freely) lover, suitor",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "magister, -trī, m.",
     "english": "master, chief; steersman, teacher, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Pronoun",
@@ -3327,7 +5127,13 @@
     "partOfSpeech": "Noun",
     "lemma": "prātum, -ī, n.",
     "english": "meadow",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -3351,25 +5157,49 @@
     "partOfSpeech": "Noun",
     "lemma": "modus, -ī, m.",
     "english": "measure, manner, kind",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "cōgitātiō, -ōnis, f.",
     "english": "meditation, thinking",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "merx, -cis, f.",
     "english": "merchandise, goods",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "nūntius, -ī, m.",
     "english": "messenger; news",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -3393,13 +5223,25 @@
     "partOfSpeech": "Noun",
     "lemma": "mīlitia, -ae, f.",
     "english": "military service, esp. in phrase domi militiaeque",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "mēns, mentis, f.",
     "english": "mind (the rational faculty)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -3411,7 +5253,13 @@
     "partOfSpeech": "Noun",
     "lemma": "tēlum, -ī, n.",
     "english": "missile, weapon; spear, bolt, javelin, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -3423,19 +5271,37 @@
     "partOfSpeech": "Noun",
     "lemma": "pecūnia, -ae, f.",
     "english": "money",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "mēnsis, -is, m.",
     "english": "month",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "lūna, -ae, f.",
     "english": "moon",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -3471,19 +5337,37 @@
     "partOfSpeech": "Noun",
     "lemma": "māter, -tris, f.",
     "english": "mother",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "mōns, montis, m.",
     "english": "mountain",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "ōs, ōris, n.",
     "english": "mouth; face; (pl. sometimes) speech",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -3495,13 +5379,25 @@
     "partOfSpeech": "Noun",
     "lemma": "multitūdō, -inis, f.",
     "english": "multitude; number, amount, body, force, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "murmur, -uris, n.",
     "english": "murmuring, murmur",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -3519,13 +5415,25 @@
     "partOfSpeech": "Noun",
     "lemma": "nōmen, -inis, n.",
     "english": "name; (lit.) means of knowing",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "nātūra, -ae, f.",
     "english": "nature (in various senses, lit. and fig.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Conjunction",
@@ -3573,25 +5481,49 @@
     "partOfSpeech": "Noun",
     "lemma": "necessitās, -ātis, f.",
     "english": "necessity, need",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "cervīx, -īcis, f.",
     "english": "neck (esp. nape of the neck); head, shoulders",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "collum, -ī, n.",
     "english": "neck (in general)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "vīcīnus, -ī, m.",
     "english": "neighbour",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -3627,7 +5559,13 @@
     "partOfSpeech": "Noun",
     "lemma": "nox, noctis, f.",
     "english": "night",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Numeral",
@@ -3705,19 +5643,37 @@
     "partOfSpeech": "Noun",
     "lemma": "numerus, -ī, m.",
     "english": "number, amount; musical order, rhythm, strain",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "nympha, -ae, f.",
     "english": "nymph",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "rōbur, -oris, n.",
     "english": "oak, oak tree; timber in general; (fig.) strength",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -3735,7 +5691,13 @@
     "partOfSpeech": "Noun",
     "lemma": "sponte (abl., gen. spontis very rare), f.",
     "english": "of one's own will, voluntarily",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -3759,7 +5721,13 @@
     "partOfSpeech": "Noun",
     "lemma": "prōlēs, -is, f.",
     "english": "offspring, lineage, descendants; (lit.) off-shoot",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -3777,7 +5745,13 @@
     "partOfSpeech": "Noun",
     "lemma": "senectūs, -ūtis, f.",
     "english": "old age",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -3795,7 +5769,13 @@
     "partOfSpeech": "Noun",
     "lemma": "vetustās, -ātis, f.",
     "english": "oldness, age; duration",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Preposition",
@@ -3873,7 +5853,13 @@
     "partOfSpeech": "Noun",
     "lemma": "nemus, -oris, n.",
     "english": "open wood, glade, grove, forest; (lit.) grazing ground",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Particle",
@@ -3903,7 +5889,13 @@
     "partOfSpeech": "Noun",
     "lemma": "auctor, -ōris, mf.",
     "english": "originator, producer, founder, etc.; (lit.) increaser",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine/feminine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -3939,13 +5931,25 @@
     "partOfSpeech": "Noun",
     "lemma": "clāmor, -ōris, m.",
     "english": "outcry, shout",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "iānua, -ae, f.",
     "english": "outer door, gate",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -3975,49 +5979,97 @@
     "partOfSpeech": "Noun",
     "lemma": "bōs, bovis, mf. (gen. pl. boum; dat/abl. pl. bōbus/būbus)",
     "english": "ox",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "plural",
+      "declension": 0,
+      "gender": "masculine/feminine",
+      "correctGenitive": "-ārum"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "dolor, -ōris, m.",
     "english": "pain, grief; resentment",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "palma, -ae, f.",
     "english": "palm (of hand); anything resembling hands, esp. blade of oar, palm-tree, palm-branch, wreath of palm; victory",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "parēns, -entis, mf.",
     "english": "parent (used for either father or mother)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine/feminine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "pars, partis, f.",
     "english": "part",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "pāx, pācis, f.",
     "english": "peace",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "poena, -ae, f.",
     "english": "penalty, punishment",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "populus, -ī, m.",
     "english": "people; nation; (freely) multitude",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -4029,19 +6081,37 @@
     "partOfSpeech": "Noun",
     "lemma": "tempestās, -ātis, f.",
     "english": "period of time, weather, season; esp. bad weather, storm; (fig.) calamity",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "iuventa, -ae, f.",
     "english": "period of youth, youth",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "iuventūs, -ūtis, f.",
     "english": "period of youth, youth; (collective) youth, i.e. young men",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -4065,37 +6135,73 @@
     "partOfSpeech": "Noun",
     "lemma": "locus, -ī, m. (pl. -a, -ōrum, n.)",
     "english": "place (in many lit. and fig. senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "plural",
+      "declension": 0,
+      "gender": "masculine",
+      "correctGenitive": "-ārum"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "templum, -ī, n.",
     "english": "place marked off for augury; holy ground; shrine, temple",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "sepulcrum, -ī, n.",
     "english": "place of burial, tomb, grave",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "campus, -ī, m.",
     "english": "plain, field",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "cōnsilium, -ī, n.",
     "english": "plan, design, resolve; (not unfrequently) council, deliberative body; prudence, discretion",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "ōrātor, -ōris, m.",
     "english": "pleader, orator, spokesman",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -4107,49 +6213,97 @@
     "partOfSpeech": "Noun",
     "lemma": "voluptās, -ātis, f.",
     "english": "pleasure, enjoyment",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "arvum, -ī, n.",
     "english": "plowed land, field; (pl.) fields",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "poēta, -ae, m.",
     "english": "poet",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "masculine",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "polus, -ī, m.",
     "english": "pole (i.e. extremity of either axis); sky, heavens",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "potestās, -ātis, f.",
     "english": "power (just and lawful as opp. to potentia)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "potentia, -ae, f.",
     "english": "power, strength",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "laus, -dis, f.",
     "english": "praise",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "prex, precis, f. (mostly used in pl., in sg. only. dat., acc., abl.)",
     "english": "prayers, entreaties (reg. in plural; sing. not in nom., rare in other cases)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "plural",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ārum"
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -4161,19 +6315,37 @@
     "partOfSpeech": "Noun",
     "lemma": "pretium, -ī, n.",
     "english": "price",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "sacerdōs, -ōtis, mf.",
     "english": "priest, priestess",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine/feminine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "carcer, -eris, m.",
     "english": "prison; barriers, starting place",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -4185,19 +6357,37 @@
     "partOfSpeech": "Noun",
     "lemma": "vātēs, -is, mf.",
     "english": "prophet, soothsayer, seer, bard",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine/feminine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "custōdia, -ae, f.",
     "english": "protection, custody, garrison, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "prōvincia, -ae, f.",
     "english": "province; (fig.) official duty, office, charge",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -4209,7 +6399,13 @@
     "partOfSpeech": "Noun",
     "lemma": "aethēr, -eris, m.",
     "english": "pure upper air, ether, heaven, sky",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -4233,7 +6429,13 @@
     "partOfSpeech": "Noun",
     "lemma": "rēgīnā, -ae, f.",
     "english": "queen; (lit.) ruling woman",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -4251,19 +6453,37 @@
     "partOfSpeech": "Noun",
     "lemma": "ratis, -is, f.",
     "english": "raft; (loosely) ship, vessel",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "furor, -ōris, m.",
     "english": "rage; (person.) fury",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "imber, -bris, m. (gen. pl. -ium)",
     "english": "rain-storm, shower",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "plural",
+      "declension": 0,
+      "gender": "masculine",
+      "correctGenitive": "-ārum"
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -4287,7 +6507,13 @@
     "partOfSpeech": "Noun",
     "lemma": "versus, -ūs, m.",
     "english": "(fig.) rank, tier; (esp.) verse; (lit.) a turning",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 3,
+      "gender": "masculine",
+      "correctGenitive": "-ūs"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -4299,7 +6525,13 @@
     "partOfSpeech": "Noun",
     "lemma": "memoria, -ae, f.",
     "english": "recollection, memory; tradition, record",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -4317,25 +6549,49 @@
     "partOfSpeech": "Noun",
     "lemma": "monumentum, -ī, n.",
     "english": "reminder; memorial, monument",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "fāma, -ae, f.",
     "english": "report, rumor; fame, glory",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "rēs pūblica, reī pūblicae, etc.",
     "english": "republic, state, commonwealth",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "neuter",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "quiēs, -ētis, f.",
     "english": "rest, quiet, esp. sleep, slumber, even death",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -4347,7 +6603,13 @@
     "partOfSpeech": "Noun",
     "lemma": "dīves, -itis (gen. pl. -um)",
     "english": "rich",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "plural",
+      "declension": 0,
+      "gender": "neuter",
+      "correctGenitive": "-ārum"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -4365,7 +6627,13 @@
     "partOfSpeech": "Noun",
     "lemma": "dīvitiae, -ārum, f. (pl.)",
     "english": "riches",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "plural",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-(i)um"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -4383,7 +6651,13 @@
     "partOfSpeech": "Noun",
     "lemma": "iūs, iūris, n.",
     "english": "right, law",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -4395,19 +6669,37 @@
     "partOfSpeech": "Noun",
     "lemma": "amnis, -is, m.",
     "english": "river, torrent (a poetic word rare except in nom. and acc. cases)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "saxum, -ī, n.",
     "english": "rock; (often) cliff, crag",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "rosa, -ae, f.",
     "english": "rose",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -4419,13 +6711,25 @@
     "partOfSpeech": "Noun",
     "lemma": "rēgnum, -ī, n.",
     "english": "royal authority, kingship; kingdom, realm",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "lūcus, -ī, m.",
     "english": "sacred grove; grove",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -4455,37 +6759,73 @@
     "partOfSpeech": "Noun",
     "lemma": "exemplum, -ī, n.",
     "english": "sample, copy, example, etc.; (lit.) something taken out",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "pelagus, -ī, n.",
     "english": "sea (esp. the open sea)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "mare, -is, n.",
     "english": "sea (in its broad sense as opposed to terra and aer)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "aequor, -oris, n.",
     "english": "sea; (occasionally) plain; (lit. a level surface)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "sēdēs, -is, f. (gen. pl. -um)",
     "english": "seat, abode, habitation (both lit. and fig.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "plural",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ārum"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "sēmen, -inis, n.",
     "english": "seed (both lit. and fig.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Pronoun",
@@ -4497,19 +6837,37 @@
     "partOfSpeech": "Noun",
     "lemma": "cūria, -ae, f.",
     "english": "senate house",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "pietās, -ātis, f.",
     "english": "sense of duty, devotion, esp. between parents and children",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "pudor, -ōris, m.",
     "english": "sense of shame, modesty, propriety; sense of honor",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -4521,13 +6879,25 @@
     "partOfSpeech": "Noun",
     "lemma": "anguis, -is, mf.",
     "english": "serpent, snake",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine/feminine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "officium, -ī, n.",
     "english": "service, kindness; duty; (lit.) work-doing",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Numeral",
@@ -4539,19 +6909,37 @@
     "partOfSpeech": "Noun",
     "lemma": "umbra, -ae, f.",
     "english": "shade, shadow (in all its lit. and fig. senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "fōrma, -ae, f.",
     "english": "shape; structure, beauty, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "mōlēs, -is, f.",
     "english": "shapeless mass; massive structure, pile (of any kind); (esp.) dam, mole, dyke; (fig.) burden, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -4563,7 +6951,13 @@
     "partOfSpeech": "Noun",
     "lemma": "ovis, -is, f.",
     "english": "sheep",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -4575,7 +6969,13 @@
     "partOfSpeech": "Noun",
     "lemma": "nāvis, -is, f.",
     "english": "ship",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -4593,25 +6993,49 @@
     "partOfSpeech": "Noun",
     "lemma": "morbus, -ī, m.",
     "english": "sickness, disease",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "latus, -eris, n.",
     "english": "side, flank",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "sīgnum, -ī, n.",
     "english": "sign, mark (in var. senses); (mil.) standard, signal",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "silentium, -ī, n.",
     "english": "silence, stillness (reg. plural)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -4635,13 +7059,25 @@
     "partOfSpeech": "Noun",
     "lemma": "soror, -ōris, f.",
     "english": "sister",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "situs, -ūs, m.",
     "english": "situation, site; neglect, rust",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 3,
+      "gender": "masculine",
+      "correctGenitive": "-ūs"
+    }
   },
   {
     "partOfSpeech": "Numeral",
@@ -4653,31 +7089,61 @@
     "partOfSpeech": "Noun",
     "lemma": "ars, artis, f.",
     "english": "skill, art (in all meanings, good and bad)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "caelum, -ī, n.",
     "english": "sky; heavens",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "servus, -ī, m.",
     "english": "slave",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "servitium, -ī, n.",
     "english": "slavery; (pl.) bodies of slaves",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "somnus, -ī, m.",
     "english": "sleep, slumber; (pl. also) dreams",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -4713,19 +7179,37 @@
     "partOfSpeech": "Noun",
     "lemma": "odor, -ōris, m.",
     "english": "smell, odor, fragrance",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "serpēns, -entis, mf.",
     "english": "snake, serpent; (lit.) a creeping thing",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine/feminine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "nix, nivis, f. (gen. pl. -ium)",
     "english": "snow",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "plural",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ārum"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -4779,7 +7263,13 @@
     "partOfSpeech": "Noun",
     "lemma": "mīles, -itis, m.",
     "english": "soldier; (sometimes collective) soldiery, soldiers",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -4791,7 +7281,13 @@
     "partOfSpeech": "Noun",
     "lemma": "vōtum, -ī, n.",
     "english": "solemn promise (made to some deity), vow; a thing solemnly promised, that which is vowed/devoted, a votive offering; wish, desire, longing",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -4803,31 +7299,61 @@
     "partOfSpeech": "Noun",
     "lemma": "fīlius, -ī, m.",
     "english": "son",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "nātus, -ī, m. (nāta, -ae, f.)",
     "english": "(of persons) son, daughter; (of animals) a male/female young one; (pl.) offspring, young, both male and female",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "f.",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "gener, -erī, m.",
     "english": "son-in-law",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "carmen, -inis, n.",
     "english": "song",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "cantus, -ūs, m.",
     "english": "song, music",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 3,
+      "gender": "masculine",
+      "correctGenitive": "-ūs"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -4839,7 +7365,13 @@
     "partOfSpeech": "Noun",
     "lemma": "mānēs, -ium, m. (pl.)",
     "english": "souls of the dead, spirits, shades; (used also of a single person); the underworld",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "plural",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-(i)um"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -4857,19 +7389,37 @@
     "partOfSpeech": "Noun",
     "lemma": "sonus, -ī, m.",
     "english": "sound, noise",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "sonitus, -ūs, m.",
     "english": "sounding, sound, noise, dine, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 3,
+      "gender": "masculine",
+      "correctGenitive": "-ūs"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "spatium, -ī, n.",
     "english": "space (both of place and, more commonly, of time)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -4881,19 +7431,37 @@
     "partOfSpeech": "Noun",
     "lemma": "animus, -ī, m.",
     "english": "spirit, feeling, mind (the emotional part) (opp. to mens, the rational part); (fig.) courage, high spirits",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "vēr, vēris, n.",
     "english": "spring",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "fōns, fontis, m.",
     "english": "spring, fountain",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -4905,19 +7473,37 @@
     "partOfSpeech": "Noun",
     "lemma": "stēlla, -ae, f.",
     "english": "star",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "astrum, -ī, n.",
     "english": "star; constellation",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "sīdus, -eris, n.",
     "english": "star; constellation; (pl. also) weather",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -4941,31 +7527,61 @@
     "partOfSpeech": "Noun",
     "lemma": "lapis, -idis, m.",
     "english": "stone",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "fretum, -ī, n.",
     "english": "strait (of water)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "hostis, -is, mf.",
     "english": "stranger, foreigner, enemy (public as opp. to inimicus, a private enemy)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine/feminine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "flūmen, -inis, n.",
     "english": "stream, river",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "fluvius, -ī, m.",
     "english": "stream, river; (lit.) flowing",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -4995,7 +7611,13 @@
     "partOfSpeech": "Noun",
     "lemma": "ōrdō, -inis, m.",
     "english": "succession, order, class, rank, row, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -5019,31 +7641,61 @@
     "partOfSpeech": "Noun",
     "lemma": "līs, lītis, f. (gen. pl. -ium)",
     "english": "(lit.) suit at law; (hence) damages",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "plural",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ārum"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "aestās, -ātis, f.",
     "english": "summer (divided into inita/prima/nova, media, exacta)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "sōl, sōlis m.",
     "english": "sun",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "masculine",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "cōpia, -ae, f.",
     "english": "supply, abundance; opportunity; (pl.) forces, esp. troops; supplies",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "auxilium, -ī, n.",
     "english": "support, assistance; (pl.) auxiliary forces",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -5085,31 +7737,61 @@
     "partOfSpeech": "Noun",
     "lemma": "gladius, -ī, m.",
     "english": "sword (the prose word)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "ēnsis, -is, m.",
     "english": "sword, steel, glaive, brand, falchion; poetic word for gladius",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "mēnsa, -ae, f.",
     "english": "table",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "mūnus, -eris, n.",
     "english": "task, function, service; gift, offering",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "lacrima, -ae, f.",
     "english": "tear",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Numeral",
@@ -5157,25 +7839,49 @@
     "partOfSpeech": "Noun",
     "lemma": "reus, -ī, m.",
     "english": "the accused person, defendant in a trial",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "vulgus, -ī, n.",
     "english": "the common people",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "prīnceps, -ipis, m.",
     "english": "(lit.) the first person in order, on a list etc.; one who originates, or first delivers, or declares, an opinion, etc.; (fig.) the first, chief, most eminent, most distinguished, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "pontus, -ī, m.",
     "english": "the open sea, deep",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -5193,7 +7899,13 @@
     "partOfSpeech": "Noun",
     "lemma": "fūrtum, -ī, n.",
     "english": "theft; (lit.) thing stolen",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -5259,7 +7971,13 @@
     "partOfSpeech": "Noun",
     "lemma": "rēs, reī, f.",
     "english": "thing (used in innumerable senses and in very many phrases)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "f.",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -5301,7 +8019,13 @@
     "partOfSpeech": "Noun",
     "lemma": "līmen, -inis, n.",
     "english": "threshold, (rarely) lintel; door, house; (occasionally) barrier at a race",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -5319,7 +8043,13 @@
     "partOfSpeech": "Noun",
     "lemma": "māteria, -ae, f.",
     "english": "timber, lumber",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -8205,7 +10935,13 @@
     "partOfSpeech": "Noun",
     "lemma": "labor, -ōris, m.",
     "english": "toil, exertion (in both lit. and fig. senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -8217,7 +10953,13 @@
     "partOfSpeech": "Noun",
     "lemma": "lingua, -ae, f.",
     "english": "tongue; language",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -8241,43 +10983,85 @@
     "partOfSpeech": "Noun",
     "lemma": "dēns, dentis, m.",
     "english": "tooth",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "fax, facis, f.",
     "english": "torch (both lit. and fig.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "turris, -is, f. (acc. sg. -im, abl. sg. -i)",
     "english": "tower",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "disciplīna, -ae, f.",
     "english": "training, instruction; learning, culture, science, discipline",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "exercitus, -ūs, m.",
     "english": "(lit.) training; (fig.) army",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 3,
+      "gender": "masculine",
+      "correctGenitive": "-ūs"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "arbor, -oris, f.",
     "english": "tree",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "triumphus, -ī, m.",
     "english": "triumph",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -8289,7 +11073,13 @@
     "partOfSpeech": "Noun",
     "lemma": "fidēs, -eī, f.",
     "english": "trust, faith; pledge, reliability, protection, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "f.",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -8367,7 +11157,13 @@
     "partOfSpeech": "Noun",
     "lemma": "mundus, -ī, m.",
     "english": "universe, the world; the earth (the inhabitants of the earth, mankind)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -8433,7 +11229,13 @@
     "partOfSpeech": "Noun",
     "lemma": "ūsus, -ūs, m.",
     "english": "use, advantage; experience",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 3,
+      "gender": "masculine",
+      "correctGenitive": "-ūs"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -8445,19 +11247,37 @@
     "partOfSpeech": "Noun",
     "lemma": "ūtilitās, -ātis, f.",
     "english": "usefulness, advantage",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "rūmor, -ōris, m.",
     "english": "(lit.) vage sound, murmur; report, rumor",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "vallēs, -is, f.",
     "english": "valley",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -8475,19 +11295,37 @@
     "partOfSpeech": "Noun",
     "lemma": "crīmen, -inis, n.",
     "english": "(lit.) verdict, decision; charge, accusation",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "victōria, -ae, f.",
     "english": "victory",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "nex, necis, f.",
     "english": "violent death, slaughter, murder",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -8499,49 +11337,97 @@
     "partOfSpeech": "Noun",
     "lemma": "vōx, vōcis, f.",
     "english": "voice; utterance, word",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "mūrus, -ī, m.",
     "english": "wall",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "moenia, -ium, n. (pl.)",
     "english": "walls, fortifications",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "plural",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-(i)um"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "error, -ōris, m.",
     "english": "wandering; error, mistake, deception",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "bellum, -ī, n.",
     "english": "war; (lit.) contest between two",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "aqua, -ae, f.",
     "english": "water",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "unda, -ae, f.",
     "english": "wave, billow; sea",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "via, -ae, f.",
     "english": "way, route, street",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Pronoun",
@@ -8553,7 +11439,13 @@
     "partOfSpeech": "Noun",
     "lemma": "pondus, -eris, n.",
     "english": "weight (both lit. and fig.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -8565,7 +11457,13 @@
     "partOfSpeech": "Noun",
     "lemma": "rota, -ae, f.",
     "english": "wheel",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "f.",
+      "correctGenitive": "-ae"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -8613,7 +11511,13 @@
     "partOfSpeech": "Noun",
     "lemma": "vertex (or vortex), -icis, m.",
     "english": "whirl; point/top of a whirl; summit, head, height (also vortex)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -8661,7 +11565,13 @@
     "partOfSpeech": "Noun",
     "lemma": "scelus, -eris, n.",
     "english": "wicked deed, crime, sin",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -8673,7 +11583,13 @@
     "partOfSpeech": "Noun",
     "lemma": "uxor, -ōris, f.",
     "english": "wife (Vergil uses coniunx)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -8691,19 +11607,37 @@
     "partOfSpeech": "Noun",
     "lemma": "ventus, -ī, m.",
     "english": "wind",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "vīnum, -ī, n.",
     "english": "wine; (lit.) vine",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "hiem(p)s, hiemis, f.",
     "english": "winter (divided into inita/media/extrema)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -8715,7 +11649,13 @@
     "partOfSpeech": "Noun",
     "lemma": "voluntās, -ātis, f.",
     "english": "wish, desire",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -8763,13 +11703,25 @@
     "partOfSpeech": "Noun",
     "lemma": "lupus, -ī, m.",
     "english": "wolf",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "mulier, -eris, f.",
     "english": "woman (esp. married woman)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -8781,25 +11733,49 @@
     "partOfSpeech": "Noun",
     "lemma": "saltus, -ūs, m.",
     "english": "woodland, glade, defile, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 3,
+      "gender": "masculine",
+      "correctGenitive": "-ūs"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "verbum, -ī, n.",
     "english": "word",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "opus, -eris, n.",
     "english": "work (in many senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "dīgnitās, -ātis, f.",
     "english": "worth, rank, reputation, esteem, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "f.",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -8817,13 +11793,25 @@
     "partOfSpeech": "Noun",
     "lemma": "vulnus, -eris, n.",
     "english": "wound",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "neuter",
+      "correctGenitive": "-is"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "sertum, -ī, n.",
     "english": "wreath of flowers, garland",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -8835,13 +11823,25 @@
     "partOfSpeech": "Noun",
     "lemma": "annus, -ī, m.",
     "english": "year",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Noun",
     "lemma": "iugum, -ī, n.",
     "english": "yoke; ridge, chain of hills; summit",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "neuter",
+      "correctGenitive": "-ī"
+    }
   },
   {
     "partOfSpeech": "Pronoun",
