@@ -15,11 +15,24 @@ exports.deduplicate = ([lemma], index, array) => (index === array.length - 1
   ? true
   : lemma !== array[index + 1][0]);
 
+const lemmatize = (lemma, partOfSpeech) => {
+  const irregularWords = [
+    'āiō, ais, ait, aiunt',
+    'inquam, inquis, inquit, inquiunt',
+    'vīs (sg. only acc. vim, abl. vī; pl. vīrēs, -ium), f.',
+    'vicis (gen. sg.), vicem (acc. sg.), vice (abl. sg.)'
+  ]
+  if (['Numeral', 'Pronoun'].includes(partOfSpeech) || irregularWords.includes(lemma)) {
+    return lemma
+  }
+  return lemma.split(',')[0]
+}
+
 exports.buildWord = ([lemma, definition]) => {
   const partOfSpeech = classify(lemma, definition)
   return {
     partOfSpeech,
-    lemma: lemma.split(',')[0],
+    lemma: lemmatize(lemma, partOfSpeech),
     english: definition,
     learned: false,
     properties: setProperties(partOfSpeech, lemma)

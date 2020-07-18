@@ -7,7 +7,7 @@
   },
   {
     "partOfSpeech": "Verb",
-    "lemma": "āiō",
+    "lemma": "āiō, ais, ait, aiunt",
     "english": "I (you, he/she, they) affirm, maintain, say yes",
     "learned": false
   },
@@ -43,7 +43,7 @@
   },
   {
     "partOfSpeech": "Pronoun",
-    "lemma": "quīdam",
+    "lemma": "quīdam, quaedam, quiddam (subst., quoddam, adj.)",
     "english": "(indef. pron.) a certain one, some one",
     "learned": false
   },
@@ -548,7 +548,7 @@
   },
   {
     "partOfSpeech": "Pronoun",
-    "lemma": "quisquam",
+    "lemma": "quisquam, quidquam/quicquam",
     "english": "(indef. subst. pron.) any one",
     "learned": false
   },
@@ -560,7 +560,7 @@
   },
   {
     "partOfSpeech": "Pronoun",
-    "lemma": "quīlibet",
+    "lemma": "quīlibet, quaelibet, quidlibet (subst., quodlibet, adj.)",
     "english": "anyone, without distinction, whom you will; no matter who",
     "learned": false
   },
@@ -1370,7 +1370,7 @@
   },
   {
     "partOfSpeech": "Noun",
-    "lemma": "vicis (gen. sg.)",
+    "lemma": "vicis (gen. sg.), vicem (acc. sg.), vice (abl. sg.)",
     "english": "change, turn (in affairs); (in vicem) in exchange, in turn",
     "learned": false,
     "properties": {
@@ -2291,13 +2291,13 @@
   },
   {
     "partOfSpeech": "Pronoun",
-    "lemma": "uterque",
+    "lemma": "uterque, utraque, utrumque",
     "english": "each of two",
     "learned": false
   },
   {
     "partOfSpeech": "Pronoun",
-    "lemma": "quisque",
+    "lemma": "quisque, quaeque, quidque (subst., quodque, adj.)",
     "english": "(indef. pron.) each one, every one",
     "learned": false
   },
@@ -2994,7 +2994,7 @@
   },
   {
     "partOfSpeech": "Noun",
-    "lemma": "vīs (sg. only acc. vim",
+    "lemma": "vīs (sg. only acc. vim, abl. vī; pl. vīrēs, -ium), f.",
     "english": "force, strength, energy",
     "learned": false,
     "properties": {
@@ -5381,7 +5381,7 @@
   },
   {
     "partOfSpeech": "Pronoun",
-    "lemma": "nēmō (nūllīus",
+    "lemma": "nēmō (nūllīus, nēminī, nēminem, nūllō)",
     "english": "no one",
     "learned": false
   },
@@ -6229,7 +6229,7 @@
   },
   {
     "partOfSpeech": "Verb",
-    "lemma": "inquam",
+    "lemma": "inquam, inquis, inquit, inquiunt",
     "english": "quoth I (you, he/she, they); regularly inserted in Oratio Recta",
     "learned": false
   },
@@ -6598,7 +6598,7 @@
   },
   {
     "partOfSpeech": "Pronoun",
-    "lemma": "ipse",
+    "lemma": "ipse, ipsa, ipsum",
     "english": "self, selves; himself, herself, etc.",
     "learned": false
   },
@@ -7541,7 +7541,7 @@
   },
   {
     "partOfSpeech": "Pronoun",
-    "lemma": "iste",
+    "lemma": "iste, ista, istud",
     "english": "(demonst. pron. of second person, often with a tone of contempt) that (of thine)",
     "learned": false
   },
@@ -7553,13 +7553,13 @@
   },
   {
     "partOfSpeech": "Pronoun",
-    "lemma": "ille",
+    "lemma": "ille, illa, illud",
     "english": "that one (opp. to hic); the former",
     "learned": false
   },
   {
     "partOfSpeech": "Pronoun",
-    "lemma": "is",
+    "lemma": "is, ea, id",
     "english": "(determ. pron.) that one; he, she, it; (as antec. to rel.) such",
     "learned": false
   },
@@ -7622,7 +7622,7 @@
   },
   {
     "partOfSpeech": "Pronoun",
-    "lemma": "īdem",
+    "lemma": "īdem, eadem, idem",
     "english": "the same; (followed by atque or the rel. pron.) as",
     "learned": false
   },
@@ -7735,13 +7735,13 @@
   },
   {
     "partOfSpeech": "Numeral",
-    "lemma": "mīlle (sg. indecl.",
+    "lemma": "mīlle (sg. indecl., pl. mīlia, -ium n.)",
     "english": "thousand (adj. in sing., subst. in plural)",
     "learned": false
   },
   {
     "partOfSpeech": "Numeral",
-    "lemma": "trēs",
+    "lemma": "trēs, tria",
     "english": "(card. num.) three",
     "learned": false
   },
@@ -10837,7 +10837,7 @@
   },
   {
     "partOfSpeech": "Numeral",
-    "lemma": "duo",
+    "lemma": "duo, duae, duo",
     "english": "(card. num.) two",
     "learned": false
   },
@@ -11241,25 +11241,25 @@
   },
   {
     "partOfSpeech": "Pronoun",
-    "lemma": "quī",
+    "lemma": "quī, quis",
     "english": "who, which",
     "learned": false
   },
   {
     "partOfSpeech": "Pronoun",
-    "lemma": "quisnam",
+    "lemma": "quisnam, quidnam",
     "english": "who, which, what pray/then",
     "learned": false
   },
   {
     "partOfSpeech": "Pronoun",
-    "lemma": "quisquis",
+    "lemma": "quisquis, quidquid/quicquid (subst., quodquod, adj.)",
     "english": "(indef. pron.) whoever, whichever",
     "learned": false
   },
   {
     "partOfSpeech": "Pronoun",
-    "lemma": "quīcumque",
+    "lemma": "quīcumque, quaecumque, quodcumque",
     "english": "(indef. rel. pron.) whoever, whichever, whatever",
     "learned": false
   },
