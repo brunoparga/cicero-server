@@ -11,6 +11,7 @@ const words = fs
   .sort(compare)
   // Remove duplicates
   .filter(deduplicate)
+  // Perhaps worth noting: the set of chars /A-Za-zāēīōū().,;\-\/ / is the alphabet for the file
   // Turn into an object for JSONification
   .map(buildWord);
 
