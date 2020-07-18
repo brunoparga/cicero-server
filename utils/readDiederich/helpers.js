@@ -19,7 +19,7 @@ exports.buildWord = ([lemma, definition]) => {
   const partOfSpeech = classify(lemma, definition)
   return {
     partOfSpeech,
-    lemma,
+    lemma: lemma.split(',')[0],
     english: definition,
     learned: false,
     properties: setProperties(partOfSpeech, lemma)
