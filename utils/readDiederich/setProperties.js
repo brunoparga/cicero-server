@@ -2,7 +2,7 @@ const setAdjectiveProperties = () => ({});
 
 const setDeclension = (lemma, number) => {
   const singular = [/ae$/, /ī$/, /is$/, /ūs$/, /ēī$/];
-  const plural = [/ārum$/, /ōrum$/, /um$/, /uum$/, /ērum$/];
+  const plural = [/ārum$/, /ōrum$/, /[^(ā|ē|ō)r]um$/, /uum$/, /ērum$/];
   const correctSuffixes = number === 'plural' ? plural : singular
   return correctSuffixes.reduce((declension, suffix, index) => {
     return lemma.split(', ')[1].match(suffix) ? index : declension
@@ -15,7 +15,7 @@ const setNounProperties = (lemma) => {
   if (lemma.includes('mf.')) {
     gender = 'masculine/feminine';
   } else if (lemma.includes('f.')) {
-    gender = 'f.';
+    gender = 'feminine';
   } else if (lemma.includes('m.')) {
     gender = 'masculine';
   }
