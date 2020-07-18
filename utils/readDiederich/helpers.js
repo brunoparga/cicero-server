@@ -22,7 +22,9 @@ const lemmatize = (lemma, partOfSpeech) => {
     'vīs (sg. only acc. vim, abl. vī; pl. vīrēs, -ium), f.',
     'vicis (gen. sg.), vicem (acc. sg.), vice (abl. sg.)'
   ]
-  if (['Numeral', 'Pronoun'].includes(partOfSpeech) || irregularWords.includes(lemma)) {
+  if (lemma.includes('sponte')) {
+    return 'sponte (abl., gen. spontis very rare)';
+  } if (['Numeral', 'Pronoun'].includes(partOfSpeech) || irregularWords.includes(lemma)) {
     return lemma
   }
   return lemma.split(',')[0]
