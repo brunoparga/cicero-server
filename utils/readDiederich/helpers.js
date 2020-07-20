@@ -1,6 +1,6 @@
 const treat = require('./treatDefinition');
 const classify = require('./classify');
-const setProperties = require('./setProperties')
+const setProperties = require('./setProperties');
 
 // Sort by ascending alphabetical order of definition
 exports.compare = ([, definition1], [, definition2]) => {
@@ -20,23 +20,23 @@ const lemmatize = (lemma, partOfSpeech) => {
     'āiō, ais, ait, aiunt',
     'inquam, inquis, inquit, inquiunt',
     'vīs (sg. only acc. vim, abl. vī; pl. vīrēs, -ium), f.',
-    'vicis (gen. sg.), vicem (acc. sg.), vice (abl. sg.)'
-  ]
+    'vicis (gen. sg.), vicem (acc. sg.), vice (abl. sg.)',
+  ];
   if (lemma.includes('sponte')) {
     return 'sponte (abl., gen. spontis very rare)';
   } if (['Numeral', 'Pronoun'].includes(partOfSpeech) || irregularWords.includes(lemma)) {
-    return lemma
+    return lemma;
   }
-  return lemma.split(',')[0]
-}
+  return lemma.split(',')[0];
+};
 
 exports.buildWord = ([lemma, definition]) => {
-  const partOfSpeech = classify(lemma, definition)
+  const partOfSpeech = classify(lemma, definition);
   return {
     partOfSpeech,
     lemma: lemmatize(lemma, partOfSpeech),
     english: definition,
     learned: false,
-    properties: setProperties(partOfSpeech, lemma)
-  }
+    properties: setProperties(partOfSpeech, lemma),
+  };
 };

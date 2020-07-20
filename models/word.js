@@ -1,4 +1,6 @@
-const { Sequelize, Model, DataTypes, Op } = require('sequelize');
+const {
+  Sequelize, Model, DataTypes, Op,
+} = require('sequelize');
 
 const URI = 'postgres://bruno:Q8Pv8bX9xYZN2bx5SHLF8g3Bqcy@localhost:5432/cicero';
 const sequelize = new Sequelize(URI);
@@ -23,7 +25,7 @@ class Word extends Model {
       limit: 10,
       // TODO: remove this WHERE - this should find words of all parts of speech
       // Requires populating the DB with the correct properties for every word
-      where: { partOfSpeech: {[Op.in]: ['Adverb', 'Conjunction', 'Interjection', 'Prefix'] } },
+      where: { partOfSpeech: { [Op.in]: ['Adverb', 'Conjunction', 'Interjection', 'Prefix'] } },
       attributes: [['partOfSpeech', 'questionType'], 'lemma', 'english', 'learned', 'properties'],
     };
   }
