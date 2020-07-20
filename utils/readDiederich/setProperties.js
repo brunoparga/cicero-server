@@ -1,7 +1,6 @@
-const setAdjectiveProperties = require('./setAdjProps')
+const setAdjectiveProperties = require('./setAdjProps');
 const setNounProperties = require('./setNounProps');
-
-const setVerbProperties = () => ({});
+const setVerbProperties = require('./setVerbProps');
 
 module.exports = (partOfSpeech, lemma) => {
   if (partOfSpeech === 'Adjective') {
@@ -9,7 +8,7 @@ module.exports = (partOfSpeech, lemma) => {
   } if (partOfSpeech === 'Noun') {
     return setNounProperties(lemma);
   } if (partOfSpeech === 'Verb') {
-    // return setVerbProperties(lemma);
+    return setVerbProperties(lemma);
   }
-  // return {};
+  return undefined;
 };

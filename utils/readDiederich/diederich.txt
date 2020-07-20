@@ -36,7 +36,7 @@ xx		1	2	somnus, -ī, m.	sleep, slumber; (pl. also) dreams
 xx		1	2	somnium, -ī, n.	dream
 x		1	2	hōra, -ae, f.	hour
 x		1	2	mora, -ae, f.	delay; hindrance
-xx		1	2	moror, -āri, -ātus sum	to delay
+xx		1	2	moror, -ārī, -ātus sum	to delay
 x		1	3	mundus, -ī, m.	universe, the world; the earth (the inhabitants of the earth, mankind)
 xx	d.	1	3	mundus, -a, -um	fine, elegant; clean
 xx		1	3	orbis, -is, m.	circle, round, orbit; (~ terrarum) world
@@ -614,7 +614,7 @@ x		3	1	sequor, -ī, secūtus sum	to follow (in var. senses)
 xx		3	1	cōnsequor, -ī, -secūtus sum	to follow up, overtake, attain
 xx		3	1	persequor, -ī, -secūtus sum	to follow through, pursue, press hard
 xx		3	1	secundus, -a, -um	next, second; (fig.) favorable, successful; (lit.) following
-x		3	1	comitor, -arī, -ātus sum	to attend, accompany
+x		3	1	comitor, -ārī, -ātus sum	to attend, accompany
 x		3	2	moveō, -ēre, mōvī, mōtum	to move (in many senses lit. and fig.)
 xx		3	2	removeō, -ēre, -mōvī, -mōtum	to move back, withdraw, remove
 x		3	2	ferō, ferre, tulī, lātum	to bear (in many senses), carry, endure; declare
@@ -951,7 +951,7 @@ x		3	8	cōnsulō, -ere, -luī, -ltum	to plan, deliberate consult; take thought f
 xx		3	8	cōnsilium, -ī, n.	plan, design, resolve; (not unfrequently) council, deliberative body; prudence, discretion
 xx		3	8	cōnsul, -is, m.	consul (highest magistrate at Rome)
 x		3	8	moneō, -ēre, -uī, -itum	to warn, advise
-x		3	8	hortor, -āri, -ātus sum	to urge strongly, advise, exhort
+x		3	8	hortor, -ārī, -ātus sum	to urge strongly, advise, exhort
 x		3	8	iubeō, -ēre, iussī, iussum	to bid, order
 x		3	8	imperō, -āre, -āvī, -ātum	to command; control, impose commands upon
 xx		3	8	imperātor, -ōris, m.	commander, general
@@ -1063,7 +1063,7 @@ x		3	10	faveō, -ēre, fāvī, fautum	to favor
 x		3	10	mīror, -ārī, -ātus sum	to wonder at, marvel at
 xx		3	10	mīrus, -a, -um	wonderful, marvelous
 x		3	10	celebrō, -āre, -āvī, -ātum	to frequent, throng, crowd; celebrate, extol
-x		3	10	veneror, -āri, -ātus sum	to venerate, worship
+x		3	10	veneror, -ārī, -ātus sum	to venerate, worship
 x		3	10	libet, -ēre, libuit (libitum est)	it pleases
 xx		3	10	libēns, -entis	willing, with pleasure
 xx		3	10	libīdō, -inis, f.	desire, longing; esp. passion; lust

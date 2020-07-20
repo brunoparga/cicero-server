@@ -1411,7 +1411,14 @@
     "partOfSpeech": "Verb",
     "lemma": "emō",
     "english": "(fig.) buy; (lit.) to take (but only in compounds)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "correctInfinitive": "emere",
+      "perfect": "ēmī",
+      "supine": "ēmptum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Preposition",
@@ -2878,7 +2885,13 @@
     "partOfSpeech": "Verb",
     "lemma": "expediō",
     "english": "extricate; (lit.) make the foot free",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 3,
+      "perfect": "-īvī",
+      "supine": "-ītum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -4256,7 +4269,13 @@
     "partOfSpeech": "Verb",
     "lemma": "īnstruō",
     "english": "(lit.) heap up; arrange, marshall; load; (fig.) set in order, plan, contrive",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-strūxī",
+      "supine": "-strūctum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -4418,7 +4437,13 @@
     "partOfSpeech": "Verb",
     "lemma": "impediō",
     "english": "hinder, encumber (in var. senses); (lit.) put the foot in",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 3,
+      "perfect": "-īvī",
+      "supine": "-ītum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -4460,7 +4485,13 @@
     "partOfSpeech": "Verb",
     "lemma": "contineō",
     "english": "(lit.) hold together; contain; bound, limit, restrain, etc. in many senses",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-tinuī",
+      "supine": "-tentum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -4888,13 +4919,23 @@
     "partOfSpeech": "Verb",
     "lemma": "decet",
     "english": "it becomes, behooves",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "decuit",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "oportet",
     "english": "it behooves, ought to",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-uit",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -4906,13 +4947,23 @@
     "partOfSpeech": "Verb",
     "lemma": "licet",
     "english": "it is permitted",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-uit (licitum est)",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "libet",
     "english": "it pleases",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "libuit (libitum est)",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -5594,7 +5645,13 @@
     "partOfSpeech": "Verb",
     "lemma": "comperiō",
     "english": "(lit.) make out; ascertain, learn",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 3,
+      "perfect": "-perī",
+      "supine": "-pertum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -7087,7 +7144,13 @@
     "partOfSpeech": "Verb",
     "lemma": "opprimō",
     "english": "(lit.) press against; crush, overwhelm; (fig.) surprise",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-pressī",
+      "supine": "-pressum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -7295,7 +7358,13 @@
     "partOfSpeech": "Verb",
     "lemma": "excitō",
     "english": "(lit.) raise up, erect; (fig.) stir up, rouse",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -7352,7 +7421,13 @@
     "partOfSpeech": "Verb",
     "lemma": "spernō",
     "english": "(reg. in fig. sense) reject, despise, scorn; (lit.) to sever, remove",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "sprēvī",
+      "supine": "sprētum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -8419,7 +8494,13 @@
     "partOfSpeech": "Verb",
     "lemma": "cōnstō",
     "english": "(lit.) stand with (i.e. be consistent, agree); be complete, regular; (impers.) cost; it is established, certain",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-stitī",
+      "supine": "-stātūrus",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -9109,91 +9190,179 @@
     "partOfSpeech": "Verb",
     "lemma": "prōficiō",
     "english": "to accomplish, gain",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-fēcī",
+      "supine": "-fectum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "appellō",
     "english": "to accost, call, call upon",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "adiciō",
     "english": "to add to, construct near to, be near to",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-iēcī",
+      "supine": "-iectum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "praebeō",
     "english": "to afford, furnish; (lit.) hold in front",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-buī",
+      "supine": "-bitum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "appāreō",
     "english": "to appear, become visible",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-uī",
+      "supine": "(-itūrus)",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "orior",
     "english": "to arise; spring from, begin, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 3,
+      "correctInfinitive": "orīrī",
+      "perfect": "ortus sum",
+      "deponent": true
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "armō",
     "english": "to arm, equip",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "putō",
     "english": "(reg.) to arrange, set in order; reckon, think; (lit.) trim, clean",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "rogō",
     "english": "to ask, beg, request",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "cēnseō",
     "english": "to assess, rate, estimate; propose, determine, decide, think",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-suī",
+      "supine": "-sum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "tribuō",
     "english": "to assign, bestow, grant, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-uī",
+      "supine": "-ūtum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "cōnor",
     "english": "to attempt, try",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-ātus sum",
+      "deponent": true
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "comitor",
     "english": "to attend, accompany",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-ātus sum",
+      "deponent": true
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "vītō",
     "english": "to avoid, shun",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "serviō",
     "english": "to be a slave, serve",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 3,
+      "perfect": "-īvī",
+      "supine": "-ītum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -9205,19 +9374,36 @@
     "partOfSpeech": "Verb",
     "lemma": "soleō",
     "english": "to be accustomed, wont",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "solitus sum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "pudeō",
     "english": "(of personal subjects) to be ashamed, feel shame; to shame, cause/bring shame; (of things as subjects) to be a shame, be cause of shame",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-uī",
+      "supine": "--",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "vigilō",
     "english": "to be awake, be on guard",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -9229,43 +9415,83 @@
     "partOfSpeech": "Verb",
     "lemma": "nāscor",
     "english": "to be born (both in lit. and many fig. senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "nātus sum",
+      "deponent": true
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "egeō",
     "english": "to be destitute, lack",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-uī",
+      "supine": "--",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "studeō",
     "english": "to be eager, zealous",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-uī",
+      "supine": "--",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "audeō",
     "english": "(lit.) to be eager; dare, venture",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "ausus sum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "vacō",
     "english": "to be empty, open, unoccupied; (with inf.) be leisure for",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "vireō",
     "english": "to be green",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-uī",
+      "supine": "--",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "possideō",
     "english": "to be in possession of, get possession of",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-sēdī",
+      "supine": "-sessum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -9277,13 +9503,25 @@
     "partOfSpeech": "Verb",
     "lemma": "lūceō",
     "english": "to be light, gleam, shine",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "lūxī",
+      "supine": "--",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "caveō",
     "english": "to be on one's guard, beware",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "cāvī",
+      "supine": "cautum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -9318,19 +9556,37 @@
     "partOfSpeech": "Verb",
     "lemma": "taceō",
     "english": "to be silent",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-uī",
+      "supine": "-itum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "valeō",
     "english": "to be strong (physically); (fig.) excel, be able, have power, be worth",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-uī",
+      "supine": "-itūrus",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "īgnōrō",
     "english": "to be unacquainted with",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -9342,13 +9598,25 @@
     "partOfSpeech": "Verb",
     "lemma": "salveō",
     "english": "to be well",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "--",
+      "supine": "--",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "careō",
     "english": "to be without, want",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-uī",
+      "supine": "-itūrus",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -9360,13 +9628,25 @@
     "partOfSpeech": "Verb",
     "lemma": "sileō",
     "english": "to be/keep quiet, still, silent, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-uī",
+      "supine": "--",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "palleō",
     "english": "to be/look ash-coloured, wan, pale",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-uī",
+      "supine": "--",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -9426,19 +9706,38 @@
     "partOfSpeech": "Verb",
     "lemma": "gerō",
     "english": "to bear, carry; carry on, accomplish, manage, etc. (in a wide range of uses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "correctInfinitive": "gerere",
+      "perfect": "gessī",
+      "supine": "gestum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "pulsō",
     "english": "to beat, lash, etc.; (fig.) disturb",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "plaudō",
     "english": "to beat; flatter, clap",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "plausī",
+      "supine": "plausum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -9450,103 +9749,205 @@
     "partOfSpeech": "Verb",
     "lemma": "assuēscō",
     "english": "to become accustomed to",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-suēvī",
+      "supine": "-suētum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "cōnsuēscō",
     "english": "to become accustomed; (in perf.) be accustomed",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-suēvī",
+      "supine": "-suētum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "cognōscō",
     "english": "to become thoroughly acquainted, understand, ascertain, learn, etc.; (legal) examine; (in perf.) know",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-gnōvī",
+      "supine": "-gnitum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "gignō",
     "english": "to beget; bear, bring forth",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "genuī",
+      "supine": "genitum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "crēdō",
     "english": "to believe, trust",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-didī",
+      "supine": "-ditum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "flectō",
     "english": "to bend, turn (in both lit. and fig. senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "flexī",
+      "supine": "flexum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "laudō",
     "english": "to bestow praise, praise",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "iubeō",
     "english": "to bid, order",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "iussī",
+      "supine": "iussum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "vinciō",
     "english": "to bind",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 3,
+      "perfect": "vinxī",
+      "supine": "vinctum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "nectō",
     "english": "to bind, unite",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "nex(u)ī",
+      "supine": "nexum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "ārdeō",
     "english": "to blaze; glow (with eagerness, anger, etc.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "ārsī",
+      "supine": "ārsum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "flōreō",
     "english": "to bloom (rare except in partic. florens)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-uī",
+      "supine": "--",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "corrumpō",
     "english": "to break up, destroy, ruin, spoil, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-rūpī",
+      "supine": "-ruptum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "frangō",
     "english": "to break, shatter (in both lit. and fig. senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "frēgī",
+      "supine": "frāctum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "spīrō",
     "english": "to breathe, blow (in var. senses of human beings, animals, liquids, odors, etc.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "pariō",
     "english": "to bring forth, give birth to, bear; accomplish, effect",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "peperī",
+      "supine": "partum (paritūrus)",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "creō",
     "english": "to bring forth, produce, create; (of officials) elect, choose",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -9558,7 +9959,13 @@
     "partOfSpeech": "Verb",
     "lemma": "perficiō",
     "english": "to bring to conclusion, accomplish",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-fēcī",
+      "supine": "-fectum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -9576,49 +9983,97 @@
     "partOfSpeech": "Verb",
     "lemma": "horreō",
     "english": "to bristle; bristle at, shudder at",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-uī",
+      "supine": "--",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "ūrō",
     "english": "to burn (in both lit. and fig. senses; trans. as opp. to ardeo, intrans.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "ussī",
+      "supine": "ustum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "revocō",
     "english": "to call back, recall (both lit. and fig.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "nōminō",
     "english": "to call by name, call, name",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "clāmō",
     "english": "to call, cry out, shout",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "vocō",
     "english": "to call, name",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "cūrō",
     "english": "to care for; provide for; care to",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "portō",
     "english": "to carry (a load)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -9630,331 +10085,657 @@
     "partOfSpeech": "Verb",
     "lemma": "vehō",
     "english": "to carry; (pass.) be carried, ride, go, sail, etc. (according to context)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "vēxī",
+      "supine": "vectum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "cōnspiciō",
     "english": "to catch sight of, behold",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-spexī",
+      "supine": "-spectum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "dēprehendō",
     "english": "to catch suddenly or in the act; surprise, descend upon",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-endī",
+      "supine": "-ēnsum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "dēcipiō",
     "english": "to catch, ensnare; (fig.) deceive",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-cēpī",
+      "supine": "-ceptum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "caedō",
     "english": "to cause to fall; fell; (fig.) kill",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "cecīdī",
+      "supine": "caesum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "pāscō",
     "english": "to cause to feed, pasture (esp. of animals); feed on, eat, consume (fig. of persons, elements, etc.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "pāvī",
+      "supine": "pāstum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "mūtō",
     "english": "to change",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "dīligō",
     "english": "to choose, pick out; love, cherish (esp. in partic. pass.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-lēxī",
+      "supine": "-lēctum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "optō",
     "english": "to choose, select; wish, desire",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "dēscendō",
     "english": "to climb down, descend",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-scendī",
+      "supine": "-scēnsum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "ascendō",
     "english": "to climb up, ascend",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-endī",
+      "supine": "-ēnsum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "claudō",
     "english": "to close, shut",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "clausī",
+      "supine": "clausum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "temperō",
     "english": "to combine (in due proportions), attemper; regulate, adjust; restrain, abstain",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "veniō",
     "english": "to come",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 3,
+      "perfect": "vēnī",
+      "supine": "ventum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "ēveniō",
     "english": "to come forth; happen (of things both good and bad)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 3,
+      "perfect": "-vēnī",
+      "supine": "-ventum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "nōscō",
     "english": "to come to know; (in perf.) know",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "nōvī",
+      "supine": "nōtum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "adveniō",
     "english": "to come to, arrive at",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 3,
+      "perfect": "-vēnī",
+      "supine": "-ventum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "conveniō",
     "english": "to come together, assemble; meet",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 3,
+      "perfect": "-vēnī",
+      "supine": "-ventum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "inveniō",
     "english": "to come upon, find; (rarely) find out",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 3,
+      "perfect": "-vēnī",
+      "supine": "-ventum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "imperō",
     "english": "to command; control, impose commands upon",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "peccō",
     "english": "to commit a wrong, injure",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "commendō",
     "english": "to commit, entrust; commend, recommend",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "queror",
     "english": "to complain of, lament",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "questus sum",
+      "deponent": true
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "cōnfiteor",
     "english": "to confess, admit",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-fessus sum",
+      "deponent": true
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "vincō",
     "english": "to conquer, vanquish",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "vīcī",
+      "supine": "victum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "numerō",
     "english": "(lit.) to count, reckon, number; (of money) count out, pay out, pay; (lit.) reckon, number as one's own (i.e. to have, possess); account, reckon, esteem, consider as any thing",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "tegō",
     "english": "to cover; conceal",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "tēxī",
+      "supine": "tēctum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "occīdō",
     "english": "to cut down, kill",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-cīdī",
+      "supine": "-cīsum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "fallō",
     "english": "to deceive",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "fefellī",
+      "supine": "-- (falsus mostly only used as adj.; dēceptus serves as PPP)",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "dīgnor",
     "english": "to deem worthy of, deign",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-ātus sum",
+      "deponent": true
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "moror",
     "english": "to delay",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-ātus sum",
+      "deponent": true
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "mereō",
     "english": "to deserve, merit; serve (as a soldier)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-uī",
+      "supine": "-itum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "contemnō",
     "english": "to despise, scorn, disdain",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-psī",
+      "supine": "-ptum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "perdō",
     "english": "to destroy, loose (lit. and fig.); (lit.) put through",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-didī",
+      "supine": "-ditum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "dēcernō",
     "english": "to determine, decide, decree",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-crēvī",
+      "supine": "-crētum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "morior",
     "english": "to die",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "correctInfinitive": "morī",
+      "perfect": "mortuus sum",
+      "deponent": true
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "mergō",
     "english": "to dip, immerse; (fig.) hide, sink, overwhelm",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "mersī",
+      "supine": "mersum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "dēserō",
     "english": "to disjoin, leave off, give up, abandon",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-seruī",
+      "supine": "-sertum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "neglegō",
     "english": "to disregard, neglect (in var. senses); (lit.) not choose",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-lēxī",
+      "supine": "lēctum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "dīvidō",
     "english": "to divide, separate",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-vīsī",
+      "supine": "-vīsum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "afficiō",
     "english": "to do to (a person); affect, visit with",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-fēcī",
+      "supine": "-fectum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "faciō",
     "english": "to do, make (in many senses and phrases)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "fēcī",
+      "supine": "factum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "dēstinō",
     "english": "to doom, bind fast to",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "trahō",
     "english": "to drag, draw (in both lit. and fig. senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "trāxī",
+      "supine": "tractum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "hauriō",
     "english": "to draw (any fluid); hence in var. fig. senses",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 3,
+      "perfect": "hausī",
+      "supine": "haustum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "dētrahō",
     "english": "to draw off, pull off, rob",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-trāxī",
+      "supine": "-tractum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "bibō",
     "english": "to drink",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "bibī",
+      "supine": "--",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "impellō",
     "english": "to drive on, impel; (more often fig.) excite, urge on",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-pulī",
+      "supine": "-pulsum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "exigō",
     "english": "to drive out; exact, collect; (of time) spend, finish up",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-ēgī",
+      "supine": "-āctum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "peragō",
     "english": "(lit.) to drive through; finish; accomplish",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-ēgī",
+      "supine": "-āctum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "cōgō",
     "english": "(lit.) to drive together, gather together; force, compel",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "coēgī",
+      "supine": "coāctum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "cōgitō",
     "english": "(lit.) to drive together; reflect, consider, think",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "agitō",
     "english": "to drive, (esp. of hunters) pursuse, hound (lit. and fig.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "agō",
     "english": "to drive, carry on, do, act; (fig.) treat, discuss; (of time) spend",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "ēgī",
+      "supine": "āctum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "urgeō",
     "english": "to drive, impel, press hard, urge",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "ursī",
+      "supine": "--",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -9966,259 +10747,510 @@
     "partOfSpeech": "Verb",
     "lemma": "cingō",
     "english": "to encircle, surround, gird",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "cinxī",
+      "supine": "cinctum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "fruor",
     "english": "to enjoy",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "correctInfinitive": "fruī",
+      "perfect": "frūctus sum (fruitus sum)",
+      "deponent": true
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "complector",
     "english": "to entwine with, embrace, surround",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "complexus sum",
+      "deponent": true
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "pertineō",
     "english": "to extend through; (fig.) lead to, pertain to, bear upon, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-tinuī",
+      "supine": "--",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "accidō",
     "english": "to fall to; happen (usually in a bad sense)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-cidī",
+      "supine": "--",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "petō",
     "english": "(lit.) to fall upon, attack, assail, aim at; (fig.) seek, demand, ask for",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-īvī (-iī)",
+      "supine": "-ītum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "incidō",
     "english": "to fall upon, fall into; happen",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-cidī",
+      "supine": "--",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "cadō",
     "english": "to fall; (fig.) be slain (in Caesar only in fig. sense)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "cecidī",
+      "supine": "cāsūrus",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "faveō",
     "english": "to favor",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "fāvī",
+      "supine": "fautum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "metuō",
     "english": "to fear, apprehend, dread",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-uī",
+      "supine": "(-ūtum)",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "timeō",
     "english": "to fear, dread",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-uī",
+      "supine": "--",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "vereor",
     "english": "to fear, stand in awe of",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "veritus sum",
+      "deponent": true
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "doleō",
     "english": "to feel pain/grief; grieve",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "doluī",
+      "supine": "dolitūrus",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "pūgnō",
     "english": "to fight",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "compleō",
     "english": "to fill completely",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-ēvī",
+      "supine": "-ētum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "impleō",
     "english": "to fill in, fill up (both lit. and fig.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-ēvī",
+      "supine": "-ētum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "expleō",
     "english": "to fill out, complete",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-ēvī",
+      "supine": "-ētum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "probō",
     "english": "to find good, approve; prove",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "reperiō",
     "english": "to find out (after search)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 3,
+      "perfect": "repperī",
+      "supine": "repertum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "ōrnō",
     "english": "to fit out, equip; esp. embellish, adorn (both lit. and fig.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "fīgō",
     "english": "to fix, fasten; set up, establish; transfix, shoot",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "fīxī",
+      "supine": "fīxum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "fugiō",
     "english": "to flee, escape",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "fūgī",
+      "supine": "fugitūrus",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "fluō",
     "english": "to flow",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "flūxī",
+      "supine": "flūxum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "volō",
     "english": "to fly (in many lit. and fig. senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "sequor",
     "english": "to follow (in var. senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "secūtus sum",
+      "deponent": true
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "persequor",
     "english": "to follow through, pursue, press hard",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-secūtus sum",
+      "deponent": true
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "cōnsequor",
     "english": "to follow up, overtake, attain",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-secūtus sum",
+      "deponent": true
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "vetō",
     "english": "to forbid",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-uī",
+      "supine": "-itum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "oblīvīscor",
     "english": "to forget",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "oblītus sum",
+      "deponent": true
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "foveō",
     "english": "(fig.) to foster, protect; (lit.) keep warm",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "fōvī",
+      "supine": "fōtum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "celebrō",
     "english": "to frequent, throng, crowd; celebrate, extol",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "percipiō",
     "english": "to gain, acquire; (fig.) hear, learn",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-cēpī",
+      "supine": "-ceptum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "colligō",
     "english": "to gather together, collect",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-lēgī",
+      "supine": "-lēctum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "legō",
     "english": "to gather, pick, choose (in var. lit. and fig. senses); skim the sea, catch with eye/ear",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "lēgī",
+      "supine": "lēctum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "īrāscor",
     "english": "to get angry",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "--",
+      "deponent": true
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "comparō",
     "english": "to get ready, provide; compare",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "perveniō",
     "english": "to get through, arrive, reach",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 3,
+      "perfect": "-vēnī",
+      "supine": "-ventum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "reddō",
     "english": "to give back, return; render",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-didī",
+      "supine": "-ditum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "prōdō",
     "english": "to give forth, publish, hand down; give over, betray",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-didī",
+      "supine": "-ditum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "nūntiō",
     "english": "to give news, announce",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "trādō",
     "english": "to give over, hand over; entrust, yield",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-didī",
+      "supine": "-ditum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "addō",
     "english": "to give to, add; (fig.) add (the remark)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-didī",
+      "supine": "-ditum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "dēspērō",
     "english": "to give up hope, despair",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -10230,217 +11262,434 @@
     "partOfSpeech": "Verb",
     "lemma": "lābor",
     "english": "to glide, slip, slide",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "correctInfinitive": "lābī",
+      "perfect": "lāpsus sum",
+      "deponent": true
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "eō",
     "english": "to go",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 3,
+      "correctInfinitive": "īre",
+      "perfect": "iī (īvī)",
+      "supine": "itum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "trānseō",
     "english": "to go across, cross",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 3,
+      "perfect": "-iī",
+      "supine": "-itum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "circumeō",
     "english": "to go around, go around among, inspect",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 3,
+      "perfect": "-iī",
+      "supine": "-itum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "errō",
     "english": "to go astray, wander; (fig.) err",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "dēcēdō",
     "english": "to go away from",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-cessī",
+      "supine": "-cessum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "abeō",
     "english": "to go away, depart",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 3,
+      "perfect": "-iī",
+      "supine": "-itum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "discēdō",
     "english": "to go away, depart",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-cessī",
+      "supine": "-cessum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "redeō",
     "english": "to go back, return",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 3,
+      "perfect": "-iī",
+      "supine": "-itum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "praetereō",
     "english": "to go by, pass, pass over",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 3,
+      "perfect": "-iī",
+      "supine": "-itum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "exeō",
     "english": "to go forth",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 3,
+      "perfect": "-iī",
+      "supine": "-itum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "prōcēdō",
     "english": "to go forth, advance",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-cessī",
+      "supine": "-cessum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "ēvādō",
     "english": "to go forth, escape",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-vāsī",
+      "supine": "-vāsum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "excēdō",
     "english": "to go forth, withdraw",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-cessī",
+      "supine": "-cessum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "ineō",
     "english": "to go in, enter, enter upon, undertake; (of time, esp. in partic.) begin",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 3,
+      "perfect": "-iī",
+      "supine": "-itum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "pereō",
     "english": "(lit.) to go through; perish, be lost; also used as pass. of perdo",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 3,
+      "perfect": "-iī",
+      "supine": "-itum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "quiēscō",
     "english": "to go to rest; keep quiet, esp. sleep",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-ēvī",
+      "supine": "-ētum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "accēdō",
     "english": "to go to, move to, approach; (fig.) be added (as pass. of addo); (fig.) wax (opp. to wane)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-cessī",
+      "supine": "-cessum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "adeō",
     "english": "to go to, visit; (fig.) consult; enter upon (e.g. hereditates), undergo",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 3,
+      "perfect": "-iī",
+      "supine": "-itum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "obeō",
     "english": "to go toward, go to meet, traverse; (fig.) enter upon, undergo (in any sense); (with mortem) die",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 3,
+      "perfect": "-iī (-īvī)",
+      "supine": "-itum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "subeō",
     "english": "to go under, go up to; (of the mind) occur to; (fig.) undergo, endure; (poetry) approach",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 3,
+      "perfect": "-iī",
+      "supine": "-itum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "concēdō",
     "english": "(lit.) to go with; retire, withdraw; (fig.) yield, submit; (occasionally) forgive",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-cessī",
+      "supine": "-cessum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "intrō",
     "english": "to go within, enter",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "vādō",
     "english": "to go, walk, advance, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "--",
+      "supine": "--",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "maereō",
     "english": "to grieve, mourn",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-uī",
+      "supine": "--",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "rubeō",
     "english": "to grow red, redden, blush, colour up",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-uī",
+      "supine": "--",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "crēscō",
     "english": "(intrans.) to grow, increase",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "crēvī",
+      "supine": "crētum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "regō",
     "english": "to guide, direct (in lit. and fig. senses); esp. rule",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "rēxī",
+      "supine": "rēctum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "mandō",
     "english": "to hand over, commission, etc.; (lit.) give into the hands of",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "tractō",
     "english": "to handle; (lit.) draw frequently",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "suspendō",
     "english": "to hang up",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-pendī",
+      "supine": "-pēnsum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "pendeō",
     "english": "to hang, be suspended (lit. and fig.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "pependī",
+      "supine": "--",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "noceō",
     "english": "to harm",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-uī",
+      "supine": "-itum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "properō",
     "english": "to hasten, speed",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "habeō",
     "english": "to have (in the most general sense); hold, maintain; (fig.) deem; designate",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-uī",
+      "supine": "-itum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "adhibeō",
     "english": "to have at hand; apply",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-uī",
+      "supine": "-itum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -10452,649 +11701,1291 @@
     "partOfSpeech": "Verb",
     "lemma": "audiō",
     "english": "to hear, listen to",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 3,
+      "perfect": "-īvī",
+      "supine": "-ītum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "iuvō",
     "english": "to help, aid, assist; please, delight",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "iūvī",
+      "supine": "iūtum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "dubitō",
     "english": "to hesitate, doubt",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "operiō",
     "english": "to hide, cover up",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 3,
+      "perfect": "-eruī",
+      "supine": "-ertum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "teneō",
     "english": "to hold (in every sense, lit. and fig.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "tenuī",
+      "supine": "tentum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "retineō",
     "english": "to hold back, detain; maintain, keep",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-tinuī",
+      "supine": "-tentum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "obtineō",
     "english": "to hold fast, hold; get a hold on, obtain",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-tinuī",
+      "supine": "-tentum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "prohibeō",
     "english": "to hold forward; keep away, restrain",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-uī",
+      "supine": "-itum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "sustineō",
     "english": "to hold under, i.e. hold up, sustain (in many senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-tinuī",
+      "supine": "-tentum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "spērō",
     "english": "to hope",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "imitor",
     "english": "to imitate",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-ātus sum",
+      "deponent": true
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "augeō",
     "english": "(trans.) to increase; (fig.) exalt",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "auxī",
+      "supine": "auctum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "sīgnificō",
     "english": "to indicate by signs, announce",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "damnō",
     "english": "to inflict loss; declare guilty, comdemn",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "laedō",
     "english": "to injure by striking, hurt",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "laesī",
+      "supine": "laesum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "iungō",
     "english": "to join (in many lit. and fig. senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "iūnxī",
+      "supine": "iūnctum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "committō",
     "english": "to join together (esp. proelium); entrust; perform, do, allow",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-mīsī",
+      "supine": "-missum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "coniungō",
     "english": "to join together, unite",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-iūnxī",
+      "supine": "-iūnctum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "exerceō",
     "english": "to keep in motion, train, exercise, carry on",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-uī",
+      "supine": "-itum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "accendō",
     "english": "(lit.) to kindle from above (usually of stimulation of the emotions by rumor, gloria, furor)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-cendī",
+      "supine": "-cēnsum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "sciō",
     "english": "to know; know how",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 3,
+      "correctInfinitive": "scīre",
+      "perfect": "scīvī (sciī)",
+      "supine": "scītum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "verberō",
     "english": "to lash (both lit. and fig.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "rīdeō",
     "english": "to laugh, laugh at (usually intrans.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "rīsī",
+      "supine": "rīsum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "dūcō",
     "english": "to lead (in var. senses); (fig.) deem, consider, hold",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "dūxī",
+      "supine": "ductum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "dēdūcō",
     "english": "to lead away; (of ships) launch; (fig.) lead, bring into",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-dūxī",
+      "supine": "-ductum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "redūcō",
     "english": "to lead back",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-dūxī",
+      "supine": "-ductum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "ēdūcō",
     "english": "to lead forth (in all senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-dūxī",
+      "supine": "-ductum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "addūcō",
     "english": "to lead to; (fig.) induce; Vergil uses it of straining muscles or bow",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-dūxī",
+      "supine": "-ductum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "discō",
     "english": "to learn",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "didicī",
+      "supine": "--",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "linquō",
     "english": "(poetry) to leave (both lit. and fig.; the prose word is relinquo)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "līquī",
+      "supine": "--",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "relinquō",
     "english": "to leave behind, abandon",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-līquī",
+      "supine": "-lictum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "dēsinō",
     "english": "to leave off, cease, forbear",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "siī",
+      "supine": "situm",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "āmittō",
     "english": "to let go away, lose; send away, dismiss",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-mīsī",
+      "supine": "-missum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "admittō",
     "english": "to let go, admit; (fig.) commit (with scelus)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-mīsī",
+      "supine": "-missum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "sinō",
     "english": "(reg.) to let go, allow, permit, suffer; (lit.) lay",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "sīvī",
+      "supine": "situm",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "iaceō",
     "english": "to lie (e.g. on the ground)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-uī",
+      "supine": "--",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "lateō",
     "english": "to lie hid, be hidden (in lit. and fig. senses); (with acc. of person in poetry) be hid from, unknown to",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-uī",
+      "supine": "--",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "pateō",
     "english": "to lie open, extend, spread",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-uī",
+      "supine": "--",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "incumbō",
     "english": "to lie upon, lean upon; apply one's self to, bend one's energies to",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-cubuī",
+      "supine": "-cubitum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "fīniō",
     "english": "to limit, bound",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 3,
+      "perfect": "-īvī",
+      "supine": "-ītum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "vīvō",
     "english": "to live, subsist",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "vīxī",
+      "supine": "vīctūrus",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "onerō",
     "english": "to load, burden",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "cupiō",
     "english": "to long for, crave, desire",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-īvī",
+      "supine": "-ītum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "dēsīderō",
     "english": "to long for, desire greatly; miss",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "vīsō",
     "english": "to look at, visit (reg. in gerund)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "vīsi",
+      "supine": "--",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "tueor",
     "english": "to look at; protect",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "tuitus sum (tūtus sum)",
+      "deponent": true
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "respiciō",
     "english": "to look back, regard; (fig.) give heed to, consider",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-spexī",
+      "supine": "-spectum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "intueor",
     "english": "to look closely upon, admire",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-tuitus sum",
+      "deponent": true
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "dēspiciō",
     "english": "to look down upon (rare in lit. sense, usually fig.), despise",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-spexī",
+      "supine": "-spectum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "invideō",
     "english": "to look on, envy",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-vīdī",
+      "supine": "-vīsum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "exspectō",
     "english": "(lit.) to look out; watch, wait, expect",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "aspiciō",
     "english": "to look to/at, behold",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-spexī",
+      "supine": "-spectum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "suspiciō",
     "english": "to look up to, look upwards, suspect",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-spexī",
+      "supine": "-spectum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "spectō",
     "english": "to look, face, look at, consider",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "absolvō",
     "english": "to loose from something, unbind, unfasten, untie, detach; (fig.) set free, clear, extricate; (law) absolve, acquit, declare innocent or free",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-solvī",
+      "supine": "-solūtum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "solvō",
     "english": "to loosen, unbind, release (in many senses); in Caesar only of making sail with ships; (in prose often) perform, pay, fulfil",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "solvī",
+      "supine": "solūtum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "amō",
     "english": "to love",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "dēficiō",
     "english": "(lit.) to make away from; fail, give out; revolt from",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-fēcī",
+      "supine": "-fectum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "interficiō",
     "english": "to make away with, kill, put to death",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-fēcī",
+      "supine": "-fectum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "certō",
     "english": "to make certain, decide (by contest); fight, contend, compete, vie",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "firmō",
     "english": "to make firm, strengthen",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "līberō",
     "english": "to make free, free, liberate",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "levō",
     "english": "(lit.) to make light; lift; remove; (fig.) lessen, relieve",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "simulō",
     "english": "to make like, pretend",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "reficiō",
     "english": "to make over, repair, refresh",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-fēcī",
+      "supine": "-fectum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "cōnficiō",
     "english": "(lit.) to make together; accomplish, complete (in var. senses); do up, exhaust",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-fēcī",
+      "supine": "-fectum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "nūbō",
     "english": "to marry (applied to a woman; lit. to veil oneself for marriage)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "nūpsī",
+      "supine": "nuptum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "misceō",
     "english": "to mix, mingle",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "miscuī",
+      "supine": "mixtum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "moveō",
     "english": "to move (in many senses lit. and fig.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "mōvī",
+      "supine": "mōtum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "cessō",
     "english": "to move back, be idle, delay, loiter, hesitate; cease",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "removeō",
     "english": "to move back, withdraw, remove",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-mōvī",
+      "supine": "-mōtum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "incēdō",
     "english": "to move in, move on (of dignified movement)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-cessī",
+      "supine": "-cessum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "micō",
     "english": "to move quickly to and fro, dart; quiver, gleam (esp. of light), flash",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-uī",
+      "supine": "--",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "cēdō",
     "english": "to move, step; go away; yield, retreat (so reg. in Caesar)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "cessī",
+      "supine": "cessum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "nesciō",
     "english": "to not know, be ignorant",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 3,
+      "perfect": "-īvī",
+      "supine": "-ītum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "notō",
     "english": "to note, mark out, watch, notice",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "notātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "alō",
     "english": "to nourish, feed; strengthen, sustain",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "aluī",
+      "supine": "altum (alitum)",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "pāreō",
     "english": "to obey",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-uī",
+      "supine": "-itūrus (with dat.)",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "pāreō",
     "english": "to obey",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-uī",
+      "supine": "-itūrus",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "habitō",
     "english": "to occupy, inhabit, dwell in; (lit.) hold continually",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "superō",
     "english": "to overcome, surpass, defeat",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "abundō",
     "english": "(lit. of liquids) to overflow; (fig.) be very abundant or numerous; to be rich, have abundance",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "impendeō",
     "english": "to overhang, impend, threaten",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "--",
+      "supine": "--",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "dēbeō",
     "english": "to owe to; be obliged to; (lit.) have from",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-uī",
+      "supine": "-itum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "fateor",
     "english": "to own, admit, confess",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "fassus sum",
+      "deponent": true
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "pingō",
     "english": "to paint; embroider and var. similar senses",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "pīnxī",
+      "supine": "pictum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "torreō",
     "english": "to parch, scorch; (of a stream) rush",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "torruī",
+      "supine": "tostum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "penetrō",
     "english": "to penetrate, react",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "sentiō",
     "english": "to perceive by senses; feel, hear, see; (esp. in fig. sense) perceive",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 3,
+      "perfect": "sēnsī",
+      "supine": "sēnsum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "sepeliō",
     "english": "to perform rites of sepulture (either by interring or cremation); bury",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 3,
+      "perfect": "-pelīvī",
+      "supine": "-pultum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "mūniō",
     "english": "to perform, do; build, fortify; (lit.) do a task",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 3,
+      "perfect": "-īvī",
+      "supine": "-ītum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "prōmittō",
     "english": "to permit to grow; (fig:) proffer; promise, agree; (lit.) let go forth",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-mīsī",
+      "supine": "-missum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "patior",
     "english": "to permit, endure",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "passus sum",
+      "deponent": true
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "intellegō",
     "english": "(lit.) to pick out from between; understand, be aware",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-lēxī",
+      "supine": "lēctum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "ēligō",
     "english": "to pick out, select",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-lēgī",
+      "supine": "-lēctum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "miseror",
     "english": "to pity, take pity on, commiserate",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-ātus sum",
+      "deponent": true
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "locō",
     "english": "to place, locate; let a contract",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "cōnsulō",
     "english": "to plan, deliberate consult; take thought for",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-luī",
+      "supine": "-ltum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "lūdō",
     "english": "to play; make sport of",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "lūsī",
+      "supine": "lūsum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "placeō",
     "english": "to please",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-uī",
+      "supine": "-itum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "carpō",
     "english": "to pluck (in lit. and fig. senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "carpsī",
+      "supine": "carptum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "indicō",
     "english": "to point out, show, make known, etc.; (rarely) betray, accuse",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "fundō",
     "english": "to pour (in var. senses); scatter, disperse, rout",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "fūdī",
+      "supine": "fūsum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "effundō",
     "english": "to pour out/forth (in var. senses lit. and fig.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-fūdī",
+      "supine": "-fūsum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "ōrō",
     "english": "to pray, entreat, plead",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "precor",
     "english": "to pray, supplicate, invoke",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-ātus sum",
+      "deponent": true
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "parō",
     "english": "to prepare, get ready; acquire",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "dōnō",
     "english": "to present (as a gift)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -11106,19 +12997,37 @@
     "partOfSpeech": "Verb",
     "lemma": "premō",
     "english": "to press, press hard, pursue, overwhelm, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "pressī",
+      "supine": "pressum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "pergō",
     "english": "to proceed; (lit.) to keep straight",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "perrēxī",
+      "supine": "perrēctum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "expellō",
     "english": "to push out, expel",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-pulī",
+      "supine": "-pulsum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -11130,151 +13039,300 @@
     "partOfSpeech": "Verb",
     "lemma": "praeficiō",
     "english": "to put at head of/over",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-fēcī",
+      "supine": "-fectum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "dēpōnō",
     "english": "to put down, put aside, put away (both lit. and fig.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-posuī",
+      "supine": "-positum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "pōnō",
     "english": "to put down, put, place, establish, etc. (in var. senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "posuī",
+      "supine": "positum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "prōpōnō",
     "english": "to put forward, set forth, propose, present, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-posuī",
+      "supine": "-positum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "impōnō",
     "english": "to put in/on/upon; impose, levy upon, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-posuī",
+      "supine": "-positum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "induō",
     "english": "to put on (of clothing); (with se and dat.) impale one's self on",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-uī",
+      "supine": "-ūtum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "ex(s)tinguō",
     "english": "to put out, quench; kill, destroy",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-īnxī",
+      "supine": "-īnctum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "cōnstituō",
     "english": "to put together, establish, set up, station; (fig.) determine",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-uī",
+      "supine": "-ūtum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "condō",
     "english": "to put together, form; build, found; compose; put by, store up; conceal",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-didī",
+      "supine": "-ditum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "compōnō",
     "english": "to put together; build, construct, arrange; (fig.) adjust, quiet, appease; (of burial) lay away",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-posuī",
+      "supine": "-positum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "vendō",
     "english": "to put up for sale; sell (pass. is veneo)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-didī",
+      "supine": "-ditum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "appōnō",
     "english": "to put, place, etc., at/by/beside/near a person or thing; (of food) serve up, set before one",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-posuī",
+      "supine": "-positum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "subdō",
     "english": "to put, place, set, lay under; subject, subdue; substitute",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-didī",
+      "supine": "-ditum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "ēdō",
     "english": "to put/set forth, state, explain",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-didī",
+      "supine": "-ditum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "ērigō",
     "english": "to raise up, rear",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-rēxī",
+      "supine": "-rēctum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "tollō",
     "english": "to raise, lift up; remove, destroy, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "sustulī",
+      "supine": "sublātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "surgō",
     "english": "(trans.) to raise; (intrans.) rise",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "surrēxī",
+      "supine": "surrēctum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "porrigō",
     "english": "to reach forth; (pass.) extend",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-rēxī",
+      "supine": "-rēctum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "memorō",
     "english": "to recall, recount, relate",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "reor",
     "english": "to reckon, calculate; think",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "correctInfinitive": "rērī",
+      "perfect": "ratus sum",
+      "deponent": true
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "agnōscō",
     "english": "(intensive of nosco) to recognize; mark, understand",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "agnōvī",
+      "supine": "agnitum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "rēgnō",
     "english": "to reign",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "gaudeō",
     "english": "to rejoice",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "gāvīsus sum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "narrō",
     "english": "to relate, recount, narrate",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "maneō",
     "english": "to remain, abide",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "mānsī",
+      "supine": "mānsum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -11286,637 +13344,1265 @@
     "partOfSpeech": "Verb",
     "lemma": "respondeō",
     "english": "to reply, make answer; (rarely) correspond to; (lit.) pledge/vow in return",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-spondī",
+      "supine": "-spōnsum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "exorior",
     "english": "to rise up, appear, arise",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 3,
+      "perfect": "-ortus sum",
+      "deponent": true
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "volvō",
     "english": "to roll, twist (in every way); (fig.) turn over, revolve (e.g. animo)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "volvī",
+      "supine": "volūtum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "terō",
     "english": "to rub",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "trīvī",
+      "supine": "trītum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "currō",
     "english": "to run",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "cucurrī",
+      "supine": "cursum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "occurrō",
     "english": "to run to meet; (fig.) come into one's mind",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-(cu)currī",
+      "supine": "-cursum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "concurrō",
     "english": "to run together (in var. senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-(cu)currī",
+      "supine": "-cursum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "servō",
     "english": "to save; keep, guard, to watch over, observe",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "negō",
     "english": "to say no, deny, refuse",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "dīcō",
     "english": "to say, state, speak",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "dīxī",
+      "supine": "dictum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "spargō",
     "english": "to scatter (in many senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-rsī",
+      "supine": "-rsum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "quaerō",
     "english": "to search, seek; (fig.) ask, inquire",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-sīvī",
+      "supine": "-sītum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "videō",
     "english": "to see; (pass.) be seen, seem, appear",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "vīdī",
+      "supine": "vīsum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "requīrō",
     "english": "to seek again, search for, demand; (occasionally) miss, need",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-sīvī",
+      "supine": "-sītum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "repetō",
     "english": "to seek back, demand, exact; revisit; (fig.) call to mind, recollect; repeat",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-īvī (-iī)",
+      "supine": "-ītum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "dīmittō",
     "english": "to send apart/away, despatch, dismiss, let go",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-mīsī",
+      "supine": "-missum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "remittō",
     "english": "to send back, let go back; (fig.) relax, weaken, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-mīsī",
+      "supine": "-missum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "mittō",
     "english": "to send, let go",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "mīsī",
+      "supine": "missum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "cernō",
     "english": "(lit.) to separate (rare); (fig. sense of sight) discern, distinguish; (of the mind) decide; (rarely) fight",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "crēvī",
+      "supine": "crētum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "arbitror",
     "english": "(lit.) to serve as referee; consider; think, hold, deem, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-ātus sum",
+      "deponent": true
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "dēvoveō",
     "english": "to set apart by vows, devote",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-vōvī",
+      "supine": "-vōtum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "īnstituō",
     "english": "to set up, set on, establish, undertake; equip",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-uī",
+      "supine": "-ūtum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "statuō",
     "english": "to set up, station, fix; (fig.) resolve, determine, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-uī",
+      "supine": "-ūtum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "quatiō",
     "english": "to shake (both lit. and fig.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "--",
+      "supine": "quassum (perf. -cussī only in composita)",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "fingō",
     "english": "to shape; invent; think",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "fīnxī",
+      "supine": "fictum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "fulgeō",
     "english": "to shine brightly, gleam, flash",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "fulsī",
+      "supine": "--",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "niteō",
     "english": "to shine, glitter, gleam",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-uī",
+      "supine": "--",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "canō",
     "english": "to sing",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "cecinī",
+      "supine": "cantum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "cantō",
     "english": "to sing; play on an instrument",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "resīdō",
     "english": "to sit back, sit down; (fig.) settle down, sink; (also) cease",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-sēdī",
+      "supine": "-sessum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "sedeō",
     "english": "to sit; (fig.) be fixed, settled; (sometimes) suit",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "sēdī",
+      "supine": "sessum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "dormiō",
     "english": "to sleep",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 3,
+      "perfect": "-īvī",
+      "supine": "-ītum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "feriō",
     "english": "to smite, strike",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 3,
+      "perfect": "--",
+      "supine": "-- (as perfect use īcō or percūtiō)",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "ēripiō",
     "english": "to snatch away; save, rescue",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-ripuī",
+      "supine": "-reptum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "corripiō",
     "english": "to snatch up, seize, press on, etc. (of any hurried attack)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-ripuī",
+      "supine": "-reptum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "sonō",
     "english": "to sound, resound (in var. lit. and fig. senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-nuī",
+      "supine": "-nitum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "parcō",
     "english": "to spare, be sparing of",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "pepercī (parsī)",
+      "supine": "parsūrus",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "loquor",
     "english": "to speak, talk",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "locūtus sum",
+      "deponent": true
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "vulgō",
     "english": "(general) to spread among the multitude; to make general, common, or universal; to put forth to the world; make known to all by words; publish",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "pandō",
     "english": "to spread, spread out; (fig.) expand, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "pandī",
+      "supine": "passum (pānsum)",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "stō",
     "english": "to stand",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "correctInfinitive": "stāre",
+      "perfect": "stetī",
+      "supine": "statum (statūrus)",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "astō",
     "english": "to stand by, stand near, stand",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "correctInfinitive": "astāre",
+      "perfect": "astitī",
+      "supine": "--",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "exsistō (existō)",
     "english": "to stand forth, rise out, arise; exist",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-stitī",
+      "supine": "-stitum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "praestō",
     "english": "to stand in front, excel; exhibit, furnish",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-stitī",
+      "supine": "-stitum (-stātūrus)",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "obstō",
     "english": "to stand in the way of",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-stitī",
+      "supine": "-stātūrus",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "īnstō",
     "english": "to stand to/on; persist, press on/upon; impend, be at hand, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-stitī",
+      "supine": "-stātūrus",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "recēdō",
     "english": "to step back, recede, recoil, withdraw, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-cessī",
+      "supine": "-cessum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "ingredior",
     "english": "to step in, enter",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "ingressus sum",
+      "deponent": true
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "haereō",
     "english": "to stick",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "haesī",
+      "supine": "haesum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "turbō",
     "english": "to stir up, confuse, disturb (in var. senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "tendō",
     "english": "to stretch (in many senses, lit. and fig.; used both trans. and intrans.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "tetendī",
+      "supine": "tentum (tēnsum)",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "intendō",
     "english": "to stretch out, strain; (rarely) determine (with inf.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-tendī",
+      "supine": "-tentum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "ostendō",
     "english": "to stretch towards, hold out; expose to view, show (in many senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-tendī",
+      "supine": "-tentum (-tēnsum)",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "sternō",
     "english": "to strew, spread out, stretch out; (fig.) overthrow; devastate",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "strāvī",
+      "supine": "strātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "ēgredior",
     "english": "to stride out, depart, disembark",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "ēgressus sum",
+      "deponent": true
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "percutiō",
     "english": "(lit.) to strike through; smite; (of the mind) affect deeply",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-cussī",
+      "supine": "-cussum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "pellō",
     "english": "to strike, beat, push, drive (in var. lit. and fig. senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "pepulī",
+      "supine": "pulsum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "sufficiō",
     "english": "to supply, afford; be able",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-fēcī",
+      "supine": "-fectum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "lībō",
     "english": "to take a little; taste, sip, touch; (of wine) pour a libation; (fig.) present, offer",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "recipiō",
     "english": "to take back, receive (esp. what belongs to one or is due one); (loosely) receive",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-cēpī",
+      "supine": "-ceptum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "iūrō",
     "english": "to take oath, swear",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "incipiō",
     "english": "to take on, begin",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-cēpī",
+      "supine": "-ceptum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "resistō",
     "english": "to take one's stand, hold one's ground, resist",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-stitī",
+      "supine": "--",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "excipiō",
     "english": "to take out/up; except, relieve",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-cēpī",
+      "supine": "-ceptum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "occupō",
     "english": "to take possession of, seize; (with inf.) get the start in, hurry to",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "accipiō",
     "english": "to take to, i.e. receive, accept (common in lit. and fig. senses); (fig.) suffer (as calamitatem); learn",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-cēpī",
+      "supine": "-ceptum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "concipiō",
     "english": "to take up, receive, incur; conceive, give birth to; imagine, understand, plan",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-cēpī",
+      "supine": "-ceptum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "sūmō",
     "english": "to take up, take (in many senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "sūmpsī",
+      "supine": "sūmptum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "suscipiō",
     "english": "to take up, undertake (in var. senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-cēpī",
+      "supine": "-ceptum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "capiō",
     "english": "to take, seize (in many lit. and fig. senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "cēpī",
+      "supine": "captum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "doceō",
     "english": "to teach; inform",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "docuī",
+      "supine": "doctum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "lacerō",
     "english": "to tear, mutilate",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "rapiō",
     "english": "to tear, seize, snatch (in var. lit. and fig. senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "rapuī",
+      "supine": "raptum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "terreō",
     "english": "to terrify, frighten",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-uī",
+      "supine": "-itum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "exīstimō",
     "english": "to think, believe",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "iaciō",
     "english": "to throw",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "iēcī",
+      "supine": "iactum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "trāiciō",
     "english": "to throw across; pass over; pierce",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-iēcī",
+      "supine": "-iectum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "ruō",
     "english": "(trans.) to throw down, overthrow; (intrans.) rush down, tumble down, rush (in almost any sense)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "ruī",
+      "supine": "rutum (ruitūrus)",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "prōiciō",
     "english": "to throw forward/forth, hurl; (fig.) renounce",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-iēcī",
+      "supine": "-iectum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "obiciō",
     "english": "to throw in one's way (in var. lit. and fig. senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-iēcī",
+      "supine": "-iectum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "iniciō",
     "english": "to throw in/on; inspire, infuse",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-iēcī",
+      "supine": "-iectum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "iactō",
     "english": "to throw often, fling, toss; (of words) bandy, vaunt",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "dēiciō",
     "english": "to throw or cast down (both lit. and fig.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-iēcī",
+      "supine": "-iectum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "subiciō",
     "english": "(lit.) to throw under; drive in, thrust up, etc.; (fig.) expose, subject; subjoin, reply",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-iēcī",
+      "supine": "-iectum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "dēfendō",
     "english": "to thrust off, ward off, defend",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-endī",
+      "supine": "-ēnsum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "colō",
     "english": "to till, cultivate; dwell in; (fig.) cultivate, cherish, worship, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "coluī",
+      "supine": "cultum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "labōrō",
     "english": "to toil, work, work out; (fig.) be in trouble",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "tangō",
     "english": "to touch (in var. senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "tetigī",
+      "supine": "tāctum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "contingō",
     "english": "to touch, be contiguous to; happen to",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-tigī",
+      "supine": "-tāctum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "cōnfīdō",
     "english": "to trust firmly",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-fīsus sum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "experior",
     "english": "to try thoroughly, test, experience",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 3,
+      "perfect": "expertus sum",
+      "deponent": true
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "temptō",
     "english": "to try, test; attempt",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "vertō",
     "english": "to turn (in all senses); (pass.) revolve",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-rtī",
+      "supine": "-rsum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "convertō",
     "english": "to turn about, turn, change",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "vertī",
+      "supine": "-versum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "revertor",
     "english": "to turn back, return (usually deponent except in perf.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "reversus sum (or revertō",
+      "deponent": true
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "āvertō",
     "english": "to turn from, turn away; (fig.) estrange",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-vertī",
+      "supine": "-versum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "versō",
     "english": "to turn often, keep turning; (pass.) move, be busy; dwell; conduct one's self",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-āvī",
+      "supine": "-ātum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "dīrigō",
     "english": "to turn, direct, guide",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-rēxī",
+      "supine": "-rēctum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "torqueō",
     "english": "to twist, wind (in var. lit. and fig. senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "torsī",
+      "supine": "tortum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "hortor",
     "english": "to urge strongly, advise, exhort",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-ātus sum",
+      "deponent": true
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "ūtor",
     "english": "to use, employ (with abl.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "correctInfinitive": "ūtī",
+      "perfect": "ūsus sum",
+      "deponent": true
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "veneror",
     "english": "to venerate, worship",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-ātus sum",
+      "deponent": true
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "moneō",
     "english": "to warn, advise",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-uī",
+      "supine": "-itum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "lavō",
     "english": "to wash, sprinkle",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "lāvī",
+      "supine": "lautum (lavātum)",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "fleō",
     "english": "to weep",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 1,
+      "perfect": "-ēvī",
+      "supine": "-ētum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "pendō",
     "english": "to weigh, hang, suspend; pay",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "pependī",
+      "supine": "pēnsum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Pronoun",
@@ -11940,25 +14626,48 @@
     "partOfSpeech": "Verb",
     "lemma": "mīror",
     "english": "to wonder at, marvel at",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-ātus sum",
+      "deponent": true
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "efficiō",
     "english": "to work out, bring about, effect, complete; render",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-fēcī",
+      "supine": "-fectum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "scrībō",
     "english": "to write",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "scrīpsī",
+      "supine": "scrīptum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "permittō",
     "english": "to yield, allow, permit; (lit.) let go through",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-mīsī",
+      "supine": "-missum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Preposition",
@@ -12246,7 +14955,13 @@
     "partOfSpeech": "Verb",
     "lemma": "aperiō",
     "english": "uncover, open (both fig. and lit.; opp. operio)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 3,
+      "perfect": "-ruī",
+      "supine": "-rtum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Preposition",
@@ -12374,7 +15089,13 @@
     "partOfSpeech": "Verb",
     "lemma": "cōnsūmō",
     "english": "use up, consume; (lit.) take together",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "-sūmpsī",
+      "supine": "-sūmptum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Noun",
