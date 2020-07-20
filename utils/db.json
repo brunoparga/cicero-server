@@ -221,13 +221,24 @@
     "partOfSpeech": "Adjective",
     "lemma": "potis",
     "english": "able, powerful (rare except in comp. and sup.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "futūrus",
     "english": "about to be, future",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "futūrī",
+      "feminine": "futūra, futūrae",
+      "neuter": "futūrum, futūrī"
+    }
   },
   {
     "partOfSpeech": "Adverb, Preposition",
@@ -239,7 +250,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "grātus",
     "english": "acceptable, agreeable, pleasant; grateful",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "grātī",
+      "feminine": "grāta, grātae",
+      "neuter": "grātum, grātī"
+    }
   },
   {
     "partOfSpeech": "Conjunction",
@@ -363,7 +380,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "vivus",
     "english": "alive, living",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "vivī",
+      "feminine": "viva, vivae",
+      "neuter": "vivum, vivī"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -375,25 +398,48 @@
     "partOfSpeech": "Adjective",
     "lemma": "cūnctus",
     "english": "all together, entire",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "cūnctī",
+      "feminine": "cūncta, cūnctae",
+      "neuter": "cūnctum, cūnctī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "ūniversus",
     "english": "all together, universal; (lit.) turned to one",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "ūniversī",
+      "feminine": "ūniversa, ūniversae",
+      "neuter": "ūniversum, ūniversī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "omnis",
     "english": "all, every; as a whole",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "blandus",
     "english": "alluring, charming",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "blandī",
+      "feminine": "blanda, blandae",
+      "neuter": "blandum, blandī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -439,7 +485,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "alternus",
     "english": "alternating, by turns",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "alternī",
+      "feminine": "alterna, alternae",
+      "neuter": "alternum, alternī"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -473,7 +525,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "antīquus",
     "english": "ancient, old-time, former (opp. to novus)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "antīquī",
+      "feminine": "antīqua, antīquae",
+      "neuter": "antīquum, antīquī"
+    }
   },
   {
     "partOfSpeech": "Conjunction",
@@ -544,7 +602,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "anxius",
     "english": "anxious, troubled; (of action) that troubles, makes anxious; troublesome",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "anxiī",
+      "feminine": "anxia, anxiae",
+      "neuter": "anxium, anxiī"
+    }
   },
   {
     "partOfSpeech": "Pronoun",
@@ -556,7 +620,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "ūllus",
     "english": "any, any one (reg. in clauses expressing or implying a negative)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "ūllī",
+      "feminine": "ūlla, ūllae",
+      "neuter": "ūllum, ūllī"
+    }
   },
   {
     "partOfSpeech": "Pronoun",
@@ -586,7 +656,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "prīvātus",
     "english": "apart, personal, private",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "prīvātī",
+      "feminine": "prīvāta, prīvātae",
+      "neuter": "prīvātum, prīvātī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -830,7 +906,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "pulcher",
     "english": "beautiful (both lit. and fig.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "pulcher",
+      "feminine": "pulcher, pulcher",
+      "neuter": "pulcher, pulcher"
+    }
   },
   {
     "partOfSpeech": "Conjunction",
@@ -915,13 +997,24 @@
     "partOfSpeech": "Adjective",
     "lemma": "cīvīlis",
     "english": "belonging to a citizen, civil",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "aliēnus",
     "english": "belonging to another, strange, foreign; (fig.) unfavorable; used as gen. of alius",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "aliēnī",
+      "feminine": "aliēna, aliēnae",
+      "neuter": "aliēnum, aliēnī"
+    }
   },
   {
     "partOfSpeech": "Adverb, Preposition",
@@ -939,13 +1032,24 @@
     "partOfSpeech": "Adjective",
     "lemma": "optimus",
     "english": "best",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "optimī",
+      "feminine": "optima, optimae",
+      "neuter": "optimum, optimī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "melior",
     "english": "better",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Preposition",
@@ -998,7 +1102,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "caecus",
     "english": "blind, unseeing; aimless; (fig.) dark, obscure (as paries, carcer)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "caecī",
+      "feminine": "caeca, caecae",
+      "neuter": "caecum, caecī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -1039,7 +1149,11 @@
     "partOfSpeech": "Adjective",
     "lemma": "audāx",
     "english": "bold, daring; (usually in a bad sense) reckless",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": " -ācis",
+      "suffixes": "3rd (all equal)"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -1147,7 +1261,12 @@
     "partOfSpeech": "Adjective",
     "lemma": "fortis",
     "english": "brave, valiant",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -1188,19 +1307,37 @@
     "partOfSpeech": "Adjective",
     "lemma": "nitidus",
     "english": "bright, shining",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "nitidī",
+      "feminine": "nitida, nitidae",
+      "neuter": "nitidum, nitidī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "horridus",
     "english": "(lit.) bristling, rough; terrible, fearful",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "horridī",
+      "feminine": "horrida, horridae",
+      "neuter": "horridum, horridī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "lātus",
     "english": "broad, wide",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "lātī",
+      "feminine": "lāta, lātae",
+      "neuter": "lātum, lātī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -1297,7 +1434,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "captīvus",
     "english": "captive, prisoner",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "captīvī",
+      "feminine": "captīva, captīvae",
+      "neuter": "captīvum, captīvī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -1314,7 +1457,11 @@
     "partOfSpeech": "Adjective",
     "lemma": "dīligēns",
     "english": "careful, diligent (rare except in adv.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": " -entis",
+      "suffixes": "3rd (all equal)"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -1406,7 +1553,12 @@
     "partOfSpeech": "Adjective",
     "lemma": "vīlis",
     "english": "cheap, worthless; base",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -1509,19 +1661,37 @@
     "partOfSpeech": "Adjective",
     "lemma": "pūrus",
     "english": "clean, pure (both lit. and fig.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "pūrī",
+      "feminine": "pūra, pūrae",
+      "neuter": "pūrum, pūrī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "clārus",
     "english": "clear, bright; brilliant, distinguished, famous, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "clārī",
+      "feminine": "clāra, clārae",
+      "neuter": "clārum, clārī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "serēnus",
     "english": "clear, calm, fair (esp. of weather)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "serēnī",
+      "feminine": "serēna, serēnae",
+      "neuter": "serēnum, serēnī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -1573,7 +1743,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "frīgidus",
     "english": "cold (applied by Vergil also to such words as horror, mors, etc.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "frīgidī",
+      "feminine": "frīgida, frīgidae",
+      "neuter": "frīgidum, frīgidī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -1614,7 +1790,12 @@
     "partOfSpeech": "Adjective",
     "lemma": "sollemnis",
     "english": "(lit.) coming at the completion of a year, annual, stated; ceremonial, solemn, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -1654,7 +1835,12 @@
     "partOfSpeech": "Adjective",
     "lemma": "commūnis",
     "english": "common, general; (lit.) having common tasks",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -1752,7 +1938,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "assiduus",
     "english": "constant, frequent",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "assiduī",
+      "feminine": "assidua, assiduae",
+      "neuter": "assiduum, assiduī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -1769,13 +1961,25 @@
     "partOfSpeech": "Adjective",
     "lemma": "vānus",
     "english": "containing nothing, empty; (fig.) false, deceitful, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "vānī",
+      "feminine": "vāna, vānae",
+      "neuter": "vānum, vānī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "contentus",
     "english": "contented, satisfied, content",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "contentī",
+      "feminine": "contenta, contentae",
+      "neuter": "contentum, contentī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -1805,7 +2009,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "largus",
     "english": "copious, lavish, unstinted",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "largī",
+      "feminine": "larga, largae",
+      "neuter": "largum, largī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -1879,13 +2089,24 @@
     "partOfSpeech": "Adjective",
     "lemma": "avidus",
     "english": "craving, eager for, longing for, ardent",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "avidī",
+      "feminine": "avida, avidae",
+      "neuter": "avidum, avidī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "crūdēlis",
     "english": "cruel, pitiless, ruthless",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -1948,13 +2169,25 @@
     "partOfSpeech": "Adjective",
     "lemma": "caeruleus",
     "english": "dark blue, dark green, dark",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "caeruleī",
+      "feminine": "caerulea, caeruleae",
+      "neuter": "caeruleum, caeruleī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "obscūrus",
     "english": "dark, dusky, obscure (both lit. and fig.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "obscūrī",
+      "feminine": "obscūra, obscūrae",
+      "neuter": "obscūrum, obscūrī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -1993,25 +2226,49 @@
     "partOfSpeech": "Adjective",
     "lemma": "mortuus",
     "english": "dead",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "mortuī",
+      "feminine": "mortua, mortuae",
+      "neuter": "mortuum, mortuī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "āter",
     "english": "dead black, dark (opp. to albus); (fig.) gloomy, deadly",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "āter",
+      "feminine": "āter, āter",
+      "neuter": "āter, āter"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "albus",
     "english": "dead white (opp. to niger)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "albī",
+      "feminine": "alba, albae",
+      "neuter": "album, albī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "cārus",
     "english": "dear",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "cārī",
+      "feminine": "cāra, cārae",
+      "neuter": "cārum, cārī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -2040,13 +2297,25 @@
     "partOfSpeech": "Adjective",
     "lemma": "falsus",
     "english": "deceptive, false",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "falsī",
+      "feminine": "falsa, falsae",
+      "neuter": "falsum, falsī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "profundus",
     "english": "deep; (more rarely) high; profound, abysmal, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "profundī",
+      "feminine": "profunda, profundae",
+      "neuter": "profundum, profundī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -2120,7 +2389,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "rēctus",
     "english": "direct, straight (both lit. and fig.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "rēctī",
+      "feminine": "rēcta, rēctae",
+      "neuter": "rēctum, rēctī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -2149,19 +2424,36 @@
     "partOfSpeech": "Adjective",
     "lemma": "nōbilis",
     "english": "distinguished, noble; (lit.) knowable",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "ēgregius",
     "english": "distinguished, uncommon; (lit.) out of the herd",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "ēgregiī",
+      "feminine": "ēgregia, ēgregiae",
+      "neuter": "ēgregium, ēgregiī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "varius",
     "english": "diversified, changing, varied, various (in many senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "variī",
+      "feminine": "varia, variae",
+      "neuter": "varium, variī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -2191,19 +2483,36 @@
     "partOfSpeech": "Adjective",
     "lemma": "dīvīnus",
     "english": "divine, godlike, inspired",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "dīvīnī",
+      "feminine": "dīvīna, dīvīnae",
+      "neuter": "dīvīnum, dīvīnī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "dīvus",
     "english": "divine, godlike; (noun) god, goddess",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "dīvī",
+      "feminine": "dīva, dīvae",
+      "neuter": "dīvum, dīvī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "facilis",
     "english": "(lit.) doable; practicable, easy",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -2231,7 +2540,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "dubius",
     "english": "doubtful",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "dubiī",
+      "feminine": "dubia, dubiae",
+      "neuter": "dubium, dubiī"
+    }
   },
   {
     "partOfSpeech": "Preposition",
@@ -2287,7 +2602,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "pius",
     "english": "dutiful, devoted (in many senses as just, filial, pious, kind, etc.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "piī",
+      "feminine": "pia, piae",
+      "neuter": "pium, piī"
+    }
   },
   {
     "partOfSpeech": "Pronoun",
@@ -2305,13 +2626,25 @@
     "partOfSpeech": "Adjective",
     "lemma": "cupidus",
     "english": "eager for, desirous of",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "cupidī",
+      "feminine": "cupida, cupidae",
+      "neuter": "cupidum, cupidī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "studiōsus",
     "english": "eager, zealous",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "studiōsī",
+      "feminine": "studiōsa, studiōsae",
+      "neuter": "studiōsum, studiōsī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -2339,7 +2672,12 @@
     "partOfSpeech": "Adjective",
     "lemma": "prior",
     "english": "earlier, preceding, former",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -2402,19 +2740,36 @@
     "partOfSpeech": "Adjective",
     "lemma": "vacuus",
     "english": "empty",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "vacuī",
+      "feminine": "vacua, vacuae",
+      "neuter": "vacuum, vacuī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "inānis",
     "english": "empty, vacant; (fig.) unsubstantial, vain",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "vāstus",
     "english": "empty, void, waste, wild, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "vāstī",
+      "feminine": "vāsta, vāstae",
+      "neuter": "vāstum, vāstī"
+    }
   },
   {
     "partOfSpeech": "Particle",
@@ -2465,7 +2820,11 @@
     "partOfSpeech": "Adjective",
     "lemma": "pār",
     "english": "equal",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": " paris",
+      "suffixes": "3rd (all equal)"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -2495,13 +2854,25 @@
     "partOfSpeech": "Adjective",
     "lemma": "aeternus",
     "english": "everlasting, eternal",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "aeternī",
+      "feminine": "aeterna, aeternae",
+      "neuter": "aeternum, aeternī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "malus",
     "english": "evil",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "malī",
+      "feminine": "mala, malae",
+      "neuter": "malum, malī"
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -2524,19 +2895,36 @@
     "partOfSpeech": "Adjective",
     "lemma": "lassus",
     "english": "faint, wearied",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "lassī",
+      "feminine": "lassa, lassae",
+      "neuter": "lassum, lassī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "fessus",
     "english": "faint, weary, tired",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "fessī",
+      "feminine": "fessa, fessae",
+      "neuter": "fessum, fessī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "fidēlis",
     "english": "faithful",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -2554,13 +2942,24 @@
     "partOfSpeech": "Adjective",
     "lemma": "ultimus",
     "english": "farthest (of space, time, quality, etc.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "ultimī",
+      "feminine": "ultima, ultimae",
+      "neuter": "ultimum, ultimī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "pinguis",
     "english": "fat; rich, fertile, richly-laden, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -2611,7 +3010,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "prosper(us)",
     "english": "favorable, auspicious",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "prosper(us)",
+      "feminine": "prosper(us), prosper(us)",
+      "neuter": "prosper(us), prosper(us)"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -2640,7 +3045,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "dīrus",
     "english": "fearful, awful, portentous, dire",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "dīrī",
+      "feminine": "dīra, dīrae",
+      "neuter": "dīrum, dīrī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -2702,13 +3113,25 @@
     "partOfSpeech": "Adjective",
     "lemma": "fēstus",
     "english": "festive, festal",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "fēstī",
+      "feminine": "fēsta, fēstae",
+      "neuter": "fēstum, fēstī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "paucus",
     "english": "few",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "paucī",
+      "feminine": "pauca, paucae",
+      "neuter": "paucum, paucī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -2726,7 +3149,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "saevus",
     "english": "fierce, raging, wrathful (in many lit. and fig. senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "saevī",
+      "feminine": "saeva, saevae",
+      "neuter": "saevum, saevī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -2743,13 +3172,25 @@
     "partOfSpeech": "Adjective",
     "lemma": "mundus",
     "english": "fine, elegant; clean",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "mundī",
+      "feminine": "munda, mundae",
+      "neuter": "mundum, mundī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "fōrmōsus",
     "english": "finely formed, beautiful, handsome",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "fōrmōsī",
+      "feminine": "fōrmōsa, fōrmōsae",
+      "neuter": "fōrmōsum, fōrmōsī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -2788,7 +3229,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "prīmus",
     "english": "(ord. num.) first",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "prīmī",
+      "feminine": "prīma, prīmae",
+      "neuter": "prīmum, prīmī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -2805,7 +3252,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "aptus",
     "english": "(lit.) fitted to, joined to; fit",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "aptī",
+      "feminine": "apta, aptae",
+      "neuter": "aptum, aptī"
+    }
   },
   {
     "partOfSpeech": "Numeral",
@@ -2817,7 +3270,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "certus",
     "english": "fixed, settled, sure, certain",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "certī",
+      "feminine": "certa, certae",
+      "neuter": "certum, certī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -2879,7 +3338,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "liquidus",
     "english": "fluid, liquid; (fig.) limpid, clear, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "liquidī",
+      "feminine": "liquida, liquidae",
+      "neuter": "liquidum, liquidī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -2919,7 +3384,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "stultus",
     "english": "foolish, stupid",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "stultī",
+      "feminine": "stulta, stultae",
+      "neuter": "stultum, stultī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -3125,19 +3596,37 @@
     "partOfSpeech": "Adjective",
     "lemma": "almus",
     "english": "(lit.) fostering, nourishing; (fig.) graciously, kindly, propitious (usually of gods and human beings, but also of lux and dies)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "almī",
+      "feminine": "alma, almae",
+      "neuter": "almum, almī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "foedus",
     "english": "foul",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "foedī",
+      "feminine": "foeda, foedae",
+      "neuter": "foedum, foedī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "quārtus",
     "english": "(ord. num. adj.) fourth",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "quārtī",
+      "feminine": "quārta, quārtae",
+      "neuter": "quārtum, quārtī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -3155,13 +3644,25 @@
     "partOfSpeech": "Adjective",
     "lemma": "līber",
     "english": "free",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "līber",
+      "feminine": "līber, līber",
+      "neuter": "līber, līber"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "sēcūrus",
     "english": "free from care, tranquil (in many senses); careless, reckless",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "sēcūrī",
+      "feminine": "sēcūra, sēcūrae",
+      "neuter": "sēcūrum, sēcūrī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -3179,7 +3680,11 @@
     "partOfSpeech": "Adjective",
     "lemma": "recēns",
     "english": "fresh, new (opp. to vetus)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": " -entis",
+      "suffixes": "3rd (all equal)"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -3225,7 +3730,12 @@
     "partOfSpeech": "Adjective",
     "lemma": "caelestis",
     "english": "from heaven; (as subst.) the gods",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -3266,13 +3776,25 @@
     "partOfSpeech": "Adjective",
     "lemma": "plēnus",
     "english": "full",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "plēnī",
+      "feminine": "plēna, plēnae",
+      "neuter": "plēnum, plēnī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "lūcidus",
     "english": "full of light, bright, shining",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "lūcidī",
+      "feminine": "lūcida, lūcidae",
+      "neuter": "lūcidum, lūcidī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -3389,7 +3911,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "laetus",
     "english": "glad, joyful (used fig. of animals, countries, etc.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "laetī",
+      "feminine": "laeta, laetae",
+      "neuter": "laetum, laetī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -3439,7 +3967,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "bonus",
     "english": "good",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "bonī",
+      "feminine": "bona, bonae",
+      "neuter": "bonum, bonī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -3480,19 +4014,36 @@
     "partOfSpeech": "Adjective",
     "lemma": "magnus",
     "english": "great",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "magnī",
+      "feminine": "magna, magnae",
+      "neuter": "magnum, magnī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "māior",
     "english": "greater",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "maximus",
     "english": "greatest",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "maximī",
+      "feminine": "maxima, maximae",
+      "neuter": "maximum, maximī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -3618,7 +4169,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "beātus",
     "english": "happy, prosperous, blessed, fortunate",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "beātī",
+      "feminine": "beāta, beātae",
+      "neuter": "beātum, beātī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -3635,7 +4192,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "dūrus",
     "english": "hard, tough, harsh",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "dūrī",
+      "feminine": "dūra, dūrae",
+      "neuter": "dūrum, dūrī"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -3722,7 +4285,12 @@
     "partOfSpeech": "Adjective",
     "lemma": "gravis",
     "english": "heavy (in a large variety of fig. uses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -3781,25 +4349,48 @@
     "partOfSpeech": "Adjective",
     "lemma": "altus",
     "english": "high, lofty; deep; (lit.) nourished",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "altī",
+      "feminine": "alta, altae",
+      "neuter": "altum, altī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "arduus",
     "english": "high, steep; (fig.) difficult; (of disposition) proud",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "arduī",
+      "feminine": "ardua, arduae",
+      "neuter": "arduum, arduī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "superior",
     "english": "(of place) higher, upper; (fig.) former, past, previous, preceding; (of quality, condition, number) higher, more distinguished, greater, superior",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "suprēmus",
     "english": "highest, loftiest, topmost; last, final, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "suprēmī",
+      "feminine": "suprēma, suprēmae",
+      "neuter": "suprēmum, suprēmī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -3833,13 +4424,25 @@
     "partOfSpeech": "Adjective",
     "lemma": "postrēmus",
     "english": "hindmost, the last; end or last part of any thing; (fig.) the last, lowest, basest, meanest, worst",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "postrēmī",
+      "feminine": "postrēma, postrēmae",
+      "neuter": "postrēmum, postrēmī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "suus",
     "english": "(reflex. poss. adj.) his, his own, their, their own",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "suī",
+      "feminine": "sua, suae",
+      "neuter": "suum, suī"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -3863,13 +4466,25 @@
     "partOfSpeech": "Adjective",
     "lemma": "cavus",
     "english": "hollow; enveloping",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "cavī",
+      "feminine": "cava, cavae",
+      "neuter": "cavum, cavī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "sacer",
     "english": "holy, consecrate; accursed; (lit.) set apart",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "sacer",
+      "feminine": "sacer, sacer",
+      "neuter": "sacer, sacer"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -3910,7 +4525,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "honestus",
     "english": "honorable",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "honestī",
+      "feminine": "honesta, honestae",
+      "neuter": "honestum, honestī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -4023,7 +4644,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "quantus",
     "english": "(interr. and rel. num. adj.) how great? as great (correl. of tantus)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "quantī",
+      "feminine": "quanta, quantae",
+      "neuter": "quantum, quantī"
+    }
   },
   {
     "partOfSpeech": "Numeral",
@@ -4123,19 +4750,34 @@
     "partOfSpeech": "Adjective",
     "lemma": "immortālis",
     "english": "immortal",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "impius",
     "english": "impious",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "impiī",
+      "feminine": "impia, impiae",
+      "neuter": "impium, impiī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "frequēns",
     "english": "in a large number; often, repeated",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": " -entis",
+      "suffixes": "3rd (all equal)"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -4246,13 +4888,25 @@
     "partOfSpeech": "Adjective",
     "lemma": "decet",
     "english": "it becomes, behooves",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "decet",
+      "feminine": "decet, decet",
+      "neuter": "decet, decet"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "oportet",
     "english": "it behooves, ought to",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "oportet",
+      "feminine": "oportet, oportet",
+      "neuter": "oportet, oportet"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -4264,13 +4918,25 @@
     "partOfSpeech": "Adjective",
     "lemma": "licet",
     "english": "it is permitted",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "licet",
+      "feminine": "licet, licet",
+      "neuter": "licet, licet"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "libet",
     "english": "it pleases",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "libet",
+      "feminine": "libet, libet",
+      "neuter": "libet, libet"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -4339,7 +5005,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "benīgnus",
     "english": "kind, friendly",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "benīgnī",
+      "feminine": "benīgna, benīgnae",
+      "neuter": "benīgnum, benīgnī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -4357,7 +5029,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "rēgius",
     "english": "kingly, royal",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "rēgiī",
+      "feminine": "rēgia, rēgiae",
+      "neuter": "rēgium, rēgiī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -4374,7 +5052,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "nōtus",
     "english": "(in a good sense) known; (in a bad sense) notorious",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "nōtī",
+      "feminine": "nōta, nōtae",
+      "neuter": "nōtum, nōtī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -4391,7 +5075,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "terra",
     "english": "land (as opp. to water, air)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "terra",
+      "feminine": "terra, terra",
+      "neuter": "terra, terra"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -4408,13 +5098,24 @@
     "partOfSpeech": "Adjective",
     "lemma": "grandis",
     "english": "large, ponderous",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "amplus",
     "english": "large, spacious; (fig.) splendid, glorious (nom. sing. masc. does not occur; positive rare in prose, common in poetry)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "amplī",
+      "feminine": "ampla, amplae",
+      "neuter": "amplum, amplī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -4490,13 +5191,25 @@
     "partOfSpeech": "Adjective",
     "lemma": "sinister",
     "english": "left (opp. to dexter)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "sinister",
+      "feminine": "sinister, sinister",
+      "neuter": "sinister, sinister"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "laevus",
     "english": "left, left-hand; (fig.) awkward, foolish, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "laevī",
+      "feminine": "laeva, laevae",
+      "neuter": "laevum, laevī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -4564,19 +5277,36 @@
     "partOfSpeech": "Adjective",
     "lemma": "aequus",
     "english": "level, even, equal; fair, kindly",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "aequī",
+      "feminine": "aequa, aequae",
+      "neuter": "aequum, aequī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "plānus",
     "english": "level; clear",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "plānī",
+      "feminine": "plāna, plānae",
+      "neuter": "plānum, plānī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "mortālis",
     "english": "liable to death, mortal; anything that has to do with humanity",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -4627,7 +5357,12 @@
     "partOfSpeech": "Adjective",
     "lemma": "levis",
     "english": "light; slight; (fig.) trivial, unimportant",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -4645,7 +5380,12 @@
     "partOfSpeech": "Adjective",
     "lemma": "similis",
     "english": "like, similar",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -4679,7 +5419,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "exiguus",
     "english": "limited, minute, scanty, little; (lit.) driven out",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "exiguī",
+      "feminine": "exigua, exiguae",
+      "neuter": "exiguum, exiguī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -4720,7 +5466,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "paulus",
     "english": "little, small",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "paulī",
+      "feminine": "paula, paulae",
+      "neuter": "paulum, paulī"
+    }
   },
   {
     "partOfSpeech": "Interjection",
@@ -4756,7 +5508,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "longus",
     "english": "long, (of distance, occassionally) far",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "longī",
+      "feminine": "longa, longae",
+      "neuter": "longum, longī"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -4814,19 +5572,35 @@
     "partOfSpeech": "Adjective",
     "lemma": "dīlēctus",
     "english": "loved",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "dīlēctī",
+      "feminine": "dīlēcta, dīlēctae",
+      "neuter": "dīlēctum, dīlēctī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "īnferus",
     "english": "low; (fig.) low, humble, mean",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "īnferī",
+      "feminine": "īnfera, īnferae",
+      "neuter": "īnferum, īnferī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "fēlīx",
     "english": "lucky",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": " -īcis",
+      "suffixes": "3rd (all equal)"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -4898,7 +5672,12 @@
     "partOfSpeech": "Adjective",
     "lemma": "īnsīgnis",
     "english": "marked, distinguished, conspicuous (both lit. and fig.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -5019,7 +5798,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "medius",
     "english": "mid, middle, central",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "mediī",
+      "feminine": "media, mediae",
+      "neuter": "medium, mediī"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -5031,7 +5816,12 @@
     "partOfSpeech": "Adjective",
     "lemma": "mītis",
     "english": "mild, gentle",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -5060,7 +5850,11 @@
     "partOfSpeech": "Adjective",
     "lemma": "memor",
     "english": "mindful of, remembering",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": " -is",
+      "suffixes": "3rd (all equal)"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -5077,7 +5871,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "modicus",
     "english": "(of size, length, extent, degree) moderate, intermediate; (of behaviour) modest, moderate, temperate; often with accessory notion of restriction or diminution",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "modicī",
+      "feminine": "modica, modicae",
+      "neuter": "modicum, modicī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -5122,13 +5922,22 @@
     "partOfSpeech": "Adjective",
     "lemma": "plūs",
     "english": "more",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": " plūris",
+      "suffixes": "3rd (all equal)"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "ulterior",
     "english": "more, beyond, farther",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Conjunction",
@@ -5140,7 +5949,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "plūrimus",
     "english": "most",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "plūrimī",
+      "feminine": "plūrima, plūrimae",
+      "neuter": "plūrimum, plūrimī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -5182,7 +5997,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "multus",
     "english": "much; (pl.) many",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "multī",
+      "feminine": "multa, multae",
+      "neuter": "multum, multī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -5212,13 +6033,25 @@
     "partOfSpeech": "Adjective",
     "lemma": "meus",
     "english": "(poss. adj.) my",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "meī",
+      "feminine": "mea, meae",
+      "neuter": "meum, meī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "nūdus",
     "english": "naked, bare",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "nūdī",
+      "feminine": "nūda, nūdae",
+      "neuter": "nūdum, nūdī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -5265,7 +6098,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "propinquus",
     "english": "(lit.) near, close; (fig.) near, relative, kinsman",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "propinquī",
+      "feminine": "propinqua, propinquae",
+      "neuter": "propinquum, propinquī"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -5277,7 +6116,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "proximus",
     "english": "nearest",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "proximī",
+      "feminine": "proxima, proximae",
+      "neuter": "proximum, proximī"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -5347,19 +6192,37 @@
     "partOfSpeech": "Adjective",
     "lemma": "novus",
     "english": "new",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "novī",
+      "feminine": "nova, novae",
+      "neuter": "novum, novī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "posterus",
     "english": "next, later, subsequent",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "posterī",
+      "feminine": "postera, posterae",
+      "neuter": "posterum, posterī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "secundus",
     "english": "next, second; (fig.) favorable, successful; (lit.) following",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "secundī",
+      "feminine": "secunda, secundae",
+      "neuter": "secundum, secundī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -5395,19 +6258,37 @@
     "partOfSpeech": "Adjective",
     "lemma": "ingrātus",
     "english": "not acceptable, disagreeable; unfeeling",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "ingrātī",
+      "feminine": "ingrāta, ingrātae",
+      "neuter": "ingrātum, ingrātī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "nūllus",
     "english": "not any, no one, no",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "nūllī",
+      "feminine": "nūlla, nūllae",
+      "neuter": "nūllum, nūllī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "improbus",
     "english": "not good, wicked, depraved, rascally, etc. (opp. of bonus)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "improbī",
+      "feminine": "improba, improbae",
+      "neuter": "improbum, improbī"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -5437,7 +6318,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "altus",
     "english": "(lit.) nourished; high, lofty; deep",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "altī",
+      "feminine": "alta, altae",
+      "neuter": "altum, altī"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -5483,13 +6370,25 @@
     "partOfSpeech": "Adjective",
     "lemma": "nocturnus",
     "english": "occurring at night, nightly",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "nocturnī",
+      "feminine": "nocturna, nocturnae",
+      "neuter": "nocturnum, nocturnī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "aureus",
     "english": "of gold, golden; (fig.) splendid",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "aureī",
+      "feminine": "aurea, aureae",
+      "neuter": "aureum, aureī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -5507,19 +6406,36 @@
     "partOfSpeech": "Adjective",
     "lemma": "vernus",
     "english": "of or belonging to spring, spring-",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "vernī",
+      "feminine": "verna, vernae",
+      "neuter": "vernum, vernī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "rūsticus",
     "english": "of the country, rural",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "rūsticī",
+      "feminine": "rūstica, rūsticae",
+      "neuter": "rūsticum, rūsticī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "quālis",
     "english": "(interr. and rel. adj. pron.) of what kind? (correl. of talis)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -5560,13 +6476,23 @@
     "partOfSpeech": "Adjective",
     "lemma": "vetus",
     "english": "old, of long standing (opp. to recens)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": " -eris",
+      "suffixes": "3rd (all equal)"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "prīscus",
     "english": "old-time, ancient, primitive",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "prīscī",
+      "feminine": "prīsca, prīscae",
+      "neuter": "prīscum, prīscī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -5596,7 +6522,12 @@
     "partOfSpeech": "Adjective",
     "lemma": "humilis",
     "english": "(lit.) on the ground; low; obscure, humble",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Numeral",
@@ -5608,13 +6539,25 @@
     "partOfSpeech": "Adjective",
     "lemma": "ūnus",
     "english": "(card. num.) one",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "ūnī",
+      "feminine": "ūna, ūnae",
+      "neuter": "ūnum, ūnī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "singulī",
     "english": "(distrib. num. adj.) one each",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "singulī",
+      "feminine": "singulī, singulī",
+      "neuter": "singulī, singulī"
+    }
   },
   {
     "partOfSpeech": "Numeral",
@@ -5632,7 +6575,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "proprius",
     "english": "one's own; peculiar, etc. (in many senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "propriī",
+      "feminine": "propria, propriae",
+      "neuter": "proprium, propriī"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -5644,13 +6593,25 @@
     "partOfSpeech": "Adjective",
     "lemma": "sōlus",
     "english": "only, alone",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "sōlī",
+      "feminine": "sōla, sōlae",
+      "neuter": "sōlum, sōlī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "obvius",
     "english": "open to; (with verbs ire etc.) meet; (lit.) in the way of",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "obviī",
+      "feminine": "obvia, obviae",
+      "neuter": "obvium, obviī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -5704,13 +6665,25 @@
     "partOfSpeech": "Adjective",
     "lemma": "alter",
     "english": "other of two, one of two, second",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "alter",
+      "feminine": "alter, alter",
+      "neuter": "alter, alter"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "alius",
     "english": "other, another",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "aliī",
+      "feminine": "alia, aliae",
+      "neuter": "alium, aliī"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -5722,7 +6695,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "noster",
     "english": "(poss. adj. pron.) our",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "noster",
+      "feminine": "noster, noster",
+      "neuter": "noster, noster"
+    }
   },
   {
     "partOfSpeech": "Preposition",
@@ -5757,7 +6736,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "extrēmus",
     "english": "outermost, farthest, last, extreme",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "extrēmī",
+      "feminine": "extrēma, extrēmae",
+      "neuter": "extrēmum, extrēmī"
+    }
   },
   {
     "partOfSpeech": "Preposition",
@@ -5775,7 +6760,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "superbus",
     "english": "overbearing; proud, haughty, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "superbī",
+      "feminine": "superba, superbae",
+      "neuter": "superbum, superbī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -5915,19 +6906,35 @@
     "partOfSpeech": "Adjective",
     "lemma": "līberālis",
     "english": "pertaining to a freeman; noble, generous",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "mīlitāris",
     "english": "pertaining to a soldier, military",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "hūmānus",
     "english": "pertaining to man, human; cultured, refined",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "hūmānī",
+      "feminine": "hūmāna, hūmānae",
+      "neuter": "hūmānum, hūmānī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -6000,7 +7007,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "iūcundus",
     "english": "pleasant, agreeable",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "iūcundī",
+      "feminine": "iūcunda, iūcundae",
+      "neuter": "iūcundum, iūcundī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -6139,7 +7152,11 @@
     "partOfSpeech": "Adjective",
     "lemma": "fallāx",
     "english": "prone to cheat, deceitful",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": " -ācis",
+      "suffixes": "3rd (all equal)"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -6178,7 +7195,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "pūblicus",
     "english": "public (i.e. belonging to the state); public in general",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "pūblicī",
+      "feminine": "pūblica, pūblicae",
+      "neuter": "pūblicum, pūblicī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -6196,19 +7219,37 @@
     "partOfSpeech": "Adjective",
     "lemma": "castus",
     "english": "pure, spotless",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "castī",
+      "feminine": "casta, castae",
+      "neuter": "castum, castī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "merus",
     "english": "pure, unmixed",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "merī",
+      "feminine": "mera, merae",
+      "neuter": "merum, merī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "purpureus",
     "english": "purple-colored, crimson, red; (fig.) bright",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "purpureī",
+      "feminine": "purpurea, purpureae",
+      "neuter": "purpureum, purpureī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -6225,7 +7266,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "placidus",
     "english": "quiet, gentle, calm, kindly (both lit. and fig.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "placidī",
+      "feminine": "placida, placidae",
+      "neuter": "placidum, placidī"
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -6278,13 +7325,24 @@
     "partOfSpeech": "Adjective",
     "lemma": "celsus",
     "english": "raised high, lofty",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "celsī",
+      "feminine": "celsa, celsae",
+      "neuter": "celsum, celsī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "sublīmis",
     "english": "raised up, elevated, on high (in var. senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -6324,7 +7382,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "reliquus",
     "english": "remaining, rest",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "reliquī",
+      "feminine": "reliqua, reliquae",
+      "neuter": "reliquum, reliquī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -6376,7 +7440,11 @@
     "partOfSpeech": "Adjective",
     "lemma": "dīves",
     "english": "rich",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": " -itis",
+      "suffixes": "3rd (all equal)"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -6394,13 +7462,21 @@
     "partOfSpeech": "Adjective",
     "lemma": "dīs",
     "english": "rich (classic only superlative)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": " dītis",
+      "suffixes": "3rd (all equal)"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "ūber",
     "english": "rich, fertile, fruitful; (as noun) teat, udder, breast; fertility",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": " -eris",
+      "suffixes": "3rd (all equal)"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -6417,13 +7493,25 @@
     "partOfSpeech": "Adjective",
     "lemma": "dexter",
     "english": "right (opp. to sinister, laevus)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "dexter",
+      "feminine": "dexter, dexter",
+      "neuter": "dexter, dexter"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "iūstus",
     "english": "right, just, fair",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "iūstī",
+      "feminine": "iūsta, iūstae",
+      "neuter": "iūstum, iūstī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -6441,7 +7529,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "mātūrus",
     "english": "ripe, mature; early, speedy",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "mātūrī",
+      "feminine": "mātūra, mātūrae",
+      "neuter": "mātūrum, mātūrī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -6480,7 +7574,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "asper",
     "english": "rough; (fig.) harsh, bitter",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "asper",
+      "feminine": "asper, asper",
+      "neuter": "asper, asper"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -6508,25 +7608,48 @@
     "partOfSpeech": "Adjective",
     "lemma": "sānctus",
     "english": "sacred, inviolable",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "sānctī",
+      "feminine": "sāncta, sānctae",
+      "neuter": "sānctum, sānctī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "trīstis",
     "english": "sad, solemn, serious (in var. fig. meanings)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "maestus",
     "english": "sad, sorrowful, dejected, etc.; depressing",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "maestī",
+      "feminine": "maesta, maestae",
+      "neuter": "maestum, maestī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "tūtus",
     "english": "safe, protected",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "tūtī",
+      "feminine": "tūta, tūtae",
+      "neuter": "tūtum, tūtī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -6641,7 +7764,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "sēcrētus",
     "english": "separated, apart, secret",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "sēcrētī",
+      "feminine": "sēcrēta, sēcrētae",
+      "neuter": "sēcrētum, sēcrētī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -6708,7 +7837,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "ācer",
     "english": "sharp, piercing (always in fig. sense, and usually applied to men, although Cicero applies it also to supplicium)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-er/-ris/-re)",
+      "feminine": "-ris",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -6725,7 +7860,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "niger",
     "english": "shining black (opp. to candidus)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "niger",
+      "feminine": "niger, niger",
+      "neuter": "niger, niger"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -6742,13 +7883,24 @@
     "partOfSpeech": "Adjective",
     "lemma": "brevis",
     "english": "short, shallow, brief",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "aeger",
     "english": "sick (of both mental and physical ills)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "aeger",
+      "feminine": "aeger, aeger",
+      "neuter": "aeger, aeger"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -6799,13 +7951,23 @@
     "partOfSpeech": "Adjective",
     "lemma": "tacitus",
     "english": "silent",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "tacitī",
+      "feminine": "tacita, tacitae",
+      "neuter": "tacitum, tacitī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "simplex",
     "english": "simple, single",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": " -icis",
+      "suffixes": "3rd (all equal)"
+    }
   },
   {
     "partOfSpeech": "Conjunction",
@@ -6902,13 +8064,25 @@
     "partOfSpeech": "Adjective",
     "lemma": "tardus",
     "english": "slow, sluggish, lingering",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "tardī",
+      "feminine": "tarda, tardae",
+      "neuter": "tardum, tardī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "lentus",
     "english": "slow, sluggish, pliant",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "lentī",
+      "feminine": "lenta, lentae",
+      "neuter": "lentum, lentī"
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -6920,13 +8094,24 @@
     "partOfSpeech": "Adjective",
     "lemma": "minor",
     "english": "smaller, less",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "minimus",
     "english": "smallest, least",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "minimī",
+      "feminine": "minima, minimae",
+      "neuter": "minimum, minimī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -6968,7 +8153,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "niveus",
     "english": "snow-like, snow-white",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "niveī",
+      "feminine": "nivea, niveae",
+      "neuter": "niveum, niveī"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -6992,7 +8183,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "tantus",
     "english": "(adj. of degree) so great, so much",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "tantī",
+      "feminine": "tanta, tantae",
+      "neuter": "tantum, tantī"
+    }
   },
   {
     "partOfSpeech": "Numeral",
@@ -7004,13 +8201,23 @@
     "partOfSpeech": "Adjective",
     "lemma": "lēnis",
     "english": "soft, gentle, mild",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "mollis",
     "english": "soft, yielding, gentle (both lit. and fig.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -7028,7 +8235,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "ūnicus",
     "english": "sole, single, only",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "ūnicī",
+      "feminine": "ūnica, ūnicae",
+      "neuter": "ūnicum, ūnicī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -7126,13 +8339,25 @@
     "partOfSpeech": "Adjective",
     "lemma": "sānus",
     "english": "sound of health, sane",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "sānī",
+      "feminine": "sāna, sānae",
+      "neuter": "sānum, sānī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "salvus",
     "english": "sound of health; uninjured, safe; (occasionally) solvent",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "salvī",
+      "feminine": "salva, salvae",
+      "neuter": "salvum, salvī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -7171,7 +8396,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "praecipuus",
     "english": "special, particular, excellent; (lit.) taken first",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "praecipuī",
+      "feminine": "praecipua, praecipuae",
+      "neuter": "praecipuum, praecipuī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -7252,7 +8483,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "sevērus",
     "english": "stern, strict; inflexible; fatal",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "sevērī",
+      "feminine": "sevēra, sevērae",
+      "neuter": "sevērum, sevērī"
+    }
   },
   {
     "partOfSpeech": "Conjunction",
@@ -7264,7 +8501,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "citus",
     "english": "stirred up; swift",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "citī",
+      "feminine": "cita, citae",
+      "neuter": "citum, citī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -7327,25 +8570,48 @@
     "partOfSpeech": "Adjective",
     "lemma": "tenuis",
     "english": "(lit.) stretched; thin, slender (in var. lit. and fig. senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "vagus",
     "english": "(lit.) strolling about, roaming, wandering, unfixed, unsettled, vagrant; (fig.) wandering, wavering, unsteady, inconstant, uncertain, vague",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "vagī",
+      "feminine": "vaga, vagae",
+      "neuter": "vagum, vagī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "validus",
     "english": "strong",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "validī",
+      "feminine": "valida, validae",
+      "neuter": "validum, validī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "firmus",
     "english": "strong, firm, solid; steadfast",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "firmī",
+      "feminine": "firma, firmae",
+      "neuter": "firmum, firmī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -7363,7 +8629,12 @@
     "partOfSpeech": "Adjective",
     "lemma": "tālis",
     "english": "such (in many usages; correl. with qualis)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -7439,37 +8710,69 @@
     "partOfSpeech": "Adjective",
     "lemma": "dulcis",
     "english": "sweet (in lit. and fig. senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "suāvis",
     "english": "sweet, pleasant, agreeable, grateful, delightful",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "celer",
     "english": "swift",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-er/-ris/-re)",
+      "feminine": "-ris",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "vēlōx",
     "english": "swift, fleet",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": " -ōcis",
+      "suffixes": "3rd (all equal)"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "rapidus",
     "english": "swift, speedy (of fire, winds, rivers, etc.); (lit.) tearing",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "rapidī",
+      "feminine": "rapida, rapidae",
+      "neuter": "rapidum, rapidī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "citus",
     "english": "swift; (lit.) stirred up",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "citī",
+      "feminine": "cita, citae",
+      "neuter": "citum, citī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -7537,7 +8840,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "tener",
     "english": "tender (in many senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "tener",
+      "feminine": "tener, tener",
+      "neuter": "tener, tener"
+    }
   },
   {
     "partOfSpeech": "Pronoun",
@@ -7549,7 +8858,11 @@
     "partOfSpeech": "Adjective",
     "lemma": "praesēns",
     "english": "that is before one; in sight or at hand; present, in person",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": " -entis",
+      "suffixes": "3rd (all equal)"
+    }
   },
   {
     "partOfSpeech": "Pronoun",
@@ -7567,7 +8880,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "īnfernus",
     "english": "that which is below, infernal",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "īnfernī",
+      "feminine": "īnferna, īnfernae",
+      "neuter": "īnfernum, īnfernī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -7618,7 +8937,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "cēterus",
     "english": "the others, the rest",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "cēterī",
+      "feminine": "cētera, cēterae",
+      "neuter": "cēterum, cēterī"
+    }
   },
   {
     "partOfSpeech": "Pronoun",
@@ -7689,13 +9014,25 @@
     "partOfSpeech": "Adjective",
     "lemma": "dēnsus",
     "english": "thick, close, dense (opp. to rarus); (fig.) thick, murky; frequent",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "dēnsī",
+      "feminine": "dēnsa, dēnsae",
+      "neuter": "dēnsum, dēnsī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "crēber",
     "english": "thick, close, frequent",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "crēber",
+      "feminine": "crēber, crēber",
+      "neuter": "crēber, crēber"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -7713,7 +9050,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "tertius",
     "english": "(ord. num.) third",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "tertiī",
+      "feminine": "tertia, tertiae",
+      "neuter": "tertium, tertiī"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -7731,7 +9074,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "sollicitus",
     "english": "thoroughly moved/excited; troubled",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "sollicitī",
+      "feminine": "sollicita, sollicitae",
+      "neuter": "sollicitum, sollicitī"
+    }
   },
   {
     "partOfSpeech": "Numeral",
@@ -7970,7 +9319,12 @@
     "partOfSpeech": "Adjective",
     "lemma": "potior",
     "english": "(adj.) to be preferred; that may/can be preferred; preferable",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -10699,7 +12053,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "nimius",
     "english": "(adj.) too much, excessive",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "nimiī",
+      "feminine": "nimia, nimiae",
+      "neuter": "nimium, nimiī"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -10791,7 +12151,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "vērus",
     "english": "true",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "vērī",
+      "feminine": "vēra, vērae",
+      "neuter": "vērum, vērī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -10809,19 +12175,37 @@
     "partOfSpeech": "Adjective",
     "lemma": "fīdus",
     "english": "trustworthy, faithful",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "fīdī",
+      "feminine": "fīda, fīdae",
+      "neuter": "fīdum, fīdī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "dīversus",
     "english": "turned apart/away; different, diverse",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "dīversī",
+      "feminine": "dīversa, dīversae",
+      "neuter": "dīversum, dīversī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "adversus",
     "english": "(lit.) turned towards; facing, opposed; unfavorable",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "adversī",
+      "feminine": "adversa, adversae",
+      "neuter": "adversum, adversī"
+    }
   },
   {
     "partOfSpeech": "Numeral",
@@ -10833,7 +12217,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "geminus",
     "english": "twin; twofold, double, two",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "geminī",
+      "feminine": "gemina, geminae",
+      "neuter": "geminum, geminī"
+    }
   },
   {
     "partOfSpeech": "Numeral",
@@ -10845,19 +12235,36 @@
     "partOfSpeech": "Adjective",
     "lemma": "turpis",
     "english": "ugly, unsightly; disgraceful, foul, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "perpetuus",
     "english": "unbroken, perpetual (both of material things and more commonly of time); (lit.) thorough seeking",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "perpetuī",
+      "feminine": "perpetua, perpetuae",
+      "neuter": "perpetuum, perpetuī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "incertus",
     "english": "uncertain",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "incertī",
+      "feminine": "incerta, incertae",
+      "neuter": "incertum, incertī"
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -10875,7 +12282,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "inimīcus",
     "english": "unfriendly",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "inimīcī",
+      "feminine": "inimīca, inimīcae",
+      "neuter": "inimīcum, inimīcī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -10892,19 +12305,35 @@
     "partOfSpeech": "Adjective",
     "lemma": "īgnōtus",
     "english": "unknown",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "īgnōtī",
+      "feminine": "īgnōta, īgnōtae",
+      "neuter": "īgnōtum, īgnōtī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "īnfēlīx",
     "english": "unlucky",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": " -īcis",
+      "suffixes": "3rd (all equal)"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "immēnsus",
     "english": "unmeasured, boundless",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "immēnsī",
+      "feminine": "immēnsa, immēnsae",
+      "neuter": "immēnsum, immēnsī"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -10916,25 +12345,48 @@
     "partOfSpeech": "Adjective",
     "lemma": "integer",
     "english": "untouched; fresh, complete",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "integer",
+      "feminine": "integer, integer",
+      "neuter": "integer, integer"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "invītus",
     "english": "unwilling, reluctant",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "invītī",
+      "feminine": "invīta, invītae",
+      "neuter": "invītum, invītī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "indīgnus",
     "english": "unworthy",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "indīgnī",
+      "feminine": "indīgna, indīgnae",
+      "neuter": "indīgnum, indīgnī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "rudis",
     "english": "(lit.) unwrought, untilled, unformed, rough, raw, wild; (fig.) rude, unpolished, uncultivated, unskilled, awkward, clumsy",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -10963,7 +12415,12 @@
     "partOfSpeech": "Adjective",
     "lemma": "ūtilis",
     "english": "useful",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -11004,13 +12461,22 @@
     "partOfSpeech": "Adjective",
     "lemma": "ingēns",
     "english": "vast, huge, enormous, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": " -gentis",
+      "suffixes": "3rd (all equal)"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "viridis",
     "english": "verdant, green",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": "-is",
+      "suffixes": "3rd (-is/-e)",
+      "neuter": "-e"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -11051,7 +12517,11 @@
     "partOfSpeech": "Adjective",
     "lemma": "vehemēns",
     "english": "violent, impetuous, strong (Caesar uses adv. only; Cicero only the adj.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": " -entis",
+      "suffixes": "3rd (all equal)"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -11237,7 +12707,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "candidus",
     "english": "white, fair",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "candidī",
+      "feminine": "candida, candidae",
+      "neuter": "candidum, candidī"
+    }
   },
   {
     "partOfSpeech": "Pronoun",
@@ -11267,7 +12743,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "tōtus",
     "english": "whole, entire (in var. senses)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "tōtī",
+      "feminine": "tōta, tōtae",
+      "neuter": "tōtum, tōtī"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -11291,7 +12773,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "rārus",
     "english": "wide apart, loose, thin (opp. to densus), close; (fig.) rare, seldom, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "rārī",
+      "feminine": "rāra, rārae",
+      "neuter": "rārum, rārī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -11309,13 +12797,23 @@
     "partOfSpeech": "Adjective",
     "lemma": "ferus",
     "english": "wild, fierce",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "ferī",
+      "feminine": "fera, ferae",
+      "neuter": "ferum, ferī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "libēns",
     "english": "willing, with pleasure",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": " -entis",
+      "suffixes": "3rd (all equal)"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -11355,7 +12853,11 @@
     "partOfSpeech": "Adjective",
     "lemma": "sapiēns",
     "english": "wise, sensible",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "genitive": " -entis",
+      "suffixes": "3rd (all equal)"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -11373,7 +12875,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "commodus",
     "english": "with due measure; suitable, convenient, comfortable",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "commodī",
+      "feminine": "commoda, commodae",
+      "neuter": "commodum, commodī"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -11438,7 +12946,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "mīrus",
     "english": "wonderful, marvelous",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "mīrī",
+      "feminine": "mīra, mīrae",
+      "neuter": "mīrum, mīrī"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -11490,7 +13004,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "dīgnus",
     "english": "worthy",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "dīgnī",
+      "feminine": "dīgna, dīgnae",
+      "neuter": "dīgnum, dīgnī"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -11525,7 +13045,13 @@
     "partOfSpeech": "Adjective",
     "lemma": "miser",
     "english": "wretched, miserable",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "miser",
+      "feminine": "miser, miser",
+      "neuter": "miser, miser"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -11571,12 +13097,24 @@
     "partOfSpeech": "Adjective",
     "lemma": "vester",
     "english": "your (pl.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "vester",
+      "feminine": "vester, vester",
+      "neuter": "vester, vester"
+    }
   },
   {
     "partOfSpeech": "Adjective",
     "lemma": "tuus",
     "english": "your (sg.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "tuī",
+      "feminine": "tua, tuae",
+      "neuter": "tuum, tuī"
+    }
   }
 ]
