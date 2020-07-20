@@ -4885,58 +4885,34 @@
     }
   },
   {
-    "partOfSpeech": "Adjective",
+    "partOfSpeech": "Verb",
     "lemma": "decet",
     "english": "it becomes, behooves",
-    "learned": false,
-    "properties": {
-      "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "decet",
-      "feminine": "decet, decet",
-      "neuter": "decet, decet"
-    }
+    "learned": false
   },
   {
-    "partOfSpeech": "Adjective",
+    "partOfSpeech": "Verb",
     "lemma": "oportet",
     "english": "it behooves, ought to",
-    "learned": false,
-    "properties": {
-      "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "oportet",
-      "feminine": "oportet, oportet",
-      "neuter": "oportet, oportet"
-    }
+    "learned": false
   },
   {
-    "partOfSpeech": "Adverb",
+    "partOfSpeech": "Verb",
     "lemma": "ūsus est",
     "english": "it is necessary (with abl.)",
     "learned": false
   },
   {
-    "partOfSpeech": "Adjective",
+    "partOfSpeech": "Verb",
     "lemma": "licet",
     "english": "it is permitted",
-    "learned": false,
-    "properties": {
-      "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "licet",
-      "feminine": "licet, licet",
-      "neuter": "licet, licet"
-    }
+    "learned": false
   },
   {
-    "partOfSpeech": "Adjective",
+    "partOfSpeech": "Verb",
     "lemma": "libet",
     "english": "it pleases",
-    "learned": false,
-    "properties": {
-      "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "libet",
-      "feminine": "libet, libet",
-      "neuter": "libet, libet"
-    }
+    "learned": false
   },
   {
     "partOfSpeech": "Noun",

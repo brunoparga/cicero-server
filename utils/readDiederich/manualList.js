@@ -1,5 +1,4 @@
 // Why each group of words is here
-// TODO: oportet, decet, libet, licet are currently classified as adjectives
 
 const uniqueWords = {
   // Only words that share these parts of speech

@@ -24,7 +24,7 @@ const classifyByDefinition = (definition) => {
 const classifyByLemma = (lemma, definition) => {
   if (lemma.match(/(m|f|n)\./)) {
     return 'Noun';
-  } if (lemma.split(',').length === 4 || treat(definition).match(/^to /)) {
+  } if (lemma.split(',').length === 4 || treat(definition).match(/^(it|to) /)) {
     return 'Verb';
   } if (lemma.split(', -').length > 1) {
     return 'Adjective';
