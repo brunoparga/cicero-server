@@ -31,16 +31,16 @@ const setSupine = (deponent, fourthForm) => {
 }
 
 module.exports = (lemma) => {
-  const [, infinitive] = lemma.split(', ');
+  const [, infinitive, perfect, supine] = lemma.split(', ');
   const deponent = /ī$/.test(infinitive);
   const conjugation = setConjugation(infinitive, deponent);
 
   return {
     conjugation,
     correctInfinitive: setCorrectInfinitive(lemma, conjugation),
-    perfect: lemma.split(', ')[2],
+    perfect: perfect !== '--' ? perfect : undefined,
     // TODO: supine won't work with aio, inquam, verbs without the stem, or those with only -urus.
-    supine: setSupine(deponent, lemma.split(', ')[3]),
+    supine: setSupine(deponent, supine),
     deponent,
   };
 };

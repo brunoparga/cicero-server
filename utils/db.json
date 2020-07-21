@@ -9665,7 +9665,6 @@
     "learned": false,
     "properties": {
       "conjugation": 1,
-      "perfect": "--",
       "deponent": false
     }
   },
@@ -11309,7 +11308,6 @@
     "learned": false,
     "properties": {
       "conjugation": 2,
-      "perfect": "--",
       "deponent": true
     }
   },
@@ -11704,7 +11702,6 @@
     "learned": false,
     "properties": {
       "conjugation": 2,
-      "perfect": "--",
       "deponent": false
     }
   },
@@ -12841,7 +12838,6 @@
     "learned": false,
     "properties": {
       "conjugation": 1,
-      "perfect": "--",
       "deponent": false
     }
   },
@@ -13508,7 +13504,6 @@
     "learned": false,
     "properties": {
       "conjugation": 2,
-      "perfect": "--",
       "deponent": false
     }
   },
@@ -13793,7 +13788,6 @@
     "learned": false,
     "properties": {
       "conjugation": 2,
-      "perfect": "--",
       "supine": "quassum (perf. -cussī only in composita)",
       "deponent": false
     }
@@ -13899,7 +13893,6 @@
     "learned": false,
     "properties": {
       "conjugation": 3,
-      "perfect": "--",
       "supine": "-- (as perfect use īcō or percūtiō)",
       "deponent": false
     }
