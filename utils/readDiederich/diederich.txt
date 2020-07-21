@@ -53,7 +53,7 @@ xx	d.	1	3	aes, aeris, n.	copper, bronze; anything made of of bronze (as prow, cy
 x		1	3	aethēr, -eris, m.	pure upper air, ether, heaven, sky
 x		1	3	aura, -ae, f.	air, breeze, gale
 xx	d.	1	3	auris, -is, f.	ear
-xx	d.	1	3	aurum, -ī, n.	gold; gold plate, money
+xx	d.	1	3	aurum, -ī, n.	gold; gold plate; money
 x		1	3	ventus, -ī, m.	wind
 x		1	3	nūbēs, -is, f.	cloud (esp. storm cloud); (fig.) crowd, throng
 x		1	3	tempestās, -ātis, f.	period of time, weather, season; esp. bad weather, storm; (fig.) calamity
@@ -113,7 +113,7 @@ xx		1	6	lapis, -idis, m.	stone
 xx		1	6	marmor, -oris, n.	marble
 x		1	6	aes, aeris, n.	copper, bronze; anything made of bronze as prow, cymbals, trumpet, tablet, etc.
 xx	d.	1	6	āēr, āeris, m.	air; (rarely) mist
-x		1	6	aurum, -ī, n.	gold; gold plate, money
+x		1	6	aurum, -ī, n.	gold; gold plate; money
 xx	d.	1	6	aura, -ae, f.	air, breeze, gale
 xx	d.	1	6	auris, -is, f.	ear
 xx		1	6	aureus, -a, -um	of gold, golden; (fig.) splendid
@@ -187,7 +187,7 @@ xx		1	10	genus, -eris, n.	birth, origin, lineage; offspring; tribe, people, etc.
 xx		1	10	gignō, -ere, genuī, genitum	to beget; bear, bring forth
 x		1	10	homō, -inis, m.	human being, man, person (opp. to deus, fera, pecus)
 xx		1	10	hūmānus, -a, -um	pertaining to man, human; cultured, refined
-x		1	10	vir, virī, m.	man (opp. to woman); husband, hero
+x		1	10	vir, virī, m.	man (opp. to woman); husband; hero
 xx		1	10	virtūs, -ūtis, f.	manliness, valor; (pl.) virtues
 xx	d.	1	10	vīs (sg. only acc. vim, abl. vī; pl. vīrēs, -ium), f.	force, strength, energy
 x		1	10	mulier, -eris, f.	woman (esp. married woman)
@@ -299,7 +299,7 @@ x		1	14	sermō, -ōnis, m.	conversation, talk, discourse; language; (lit.) joini
 x		1	14	clāmor, -ōris, m.	outcry, shout
 xx		1	14	clāmō, -āre, -āvī, -ātum	to call, cry out, shout
 x		1	14	tumultus, -ūs, m.	commotion, uprising
-xx	d.	1	14	tumulus, -ī, m.	(of land) hillock, mound; (lit.) little swelling
+xx	d.	1	14	tumulus, -ī, m.	(esp. of land) hillock, mound; (lit.) little swelling
 x		1	14	murmur, -uris, n.	murmuring, murmur
 x		1	14	rūmor, -ōris, m.	(lit.) vage sound, murmur; report, rumor
 x		1	14	iocus, -ī, m.	jest, joke, sport or sportiveness in words; (fig.) a cause for jesting, a subject for mirth
@@ -403,7 +403,7 @@ x		1	20	honor (or honōs), -ōris, m.	honor, praise, glory
 xx		1	20	honestus, -a, -um	honorable
 x		1	20	laus, -dis, f.	praise
 xx		1	20	laudō, -āre, -āvī, -ātum	to bestow praise, praise
-x		1	20	fāma, -ae, f.	report rumor; fame, glory
+x		1	20	fāma, -ae, f.	report, rumor; fame, glory
 xx	d.	1	20	famēs, -is, f.	hunger, famine
 xx		1	20	glōria, -ae, f.	glory, fame
 x		1	20	grātia, -ae, f.	favor, goodwill; influence; thanks, gratitude
@@ -677,7 +677,7 @@ xx		3	2	subiciō, -ere, -iēcī, -iectum	(lit.) to throw under; drive in, thrust
 xx		3	2	trāiciō, -ere, -iēcī, -iectum	to throw across; pass over; pierce
 xx		3	2	iactō, -āre, -āvī, -ātum	to throw often, fling, toss; (of words) bandy, vaunt
 xx		3	2	ictus, -ūs, m.	blow, stroke; (lit.) a striking
-xx	d.	3	2	iaceō, -ēre, -uī, --	to lie
+xx	d.	3	2	iaceō, -ēre, -uī, --	to lie (e.g. on the ground)
 x		3	2	dō, dare, dedī, datum	to give, put (latter meaning rare except in compounds)
 xx		3	2	addō, -ere, -didī, -ditum	to give to, add; (fig.) add (the remark)
 xx		3	2	circumdō, -dare, -dedī, -datum	to put around
@@ -1404,7 +1404,7 @@ xx		5	3	igitur	(conj.) accordingly, consequently, therefore
 xx		5	3	ideō	on that account, for this end
 x		5	3	sīc	in such a manner, so (referring to what precedes or follows)
 xx		5	3	sīcut (sīcutī)	just as
-x		5	3	ita	so (reffering to what precedes or follows)
+x		5	3	ita	so (referring to what precedes or follows)
 xx		5	3	itaque	and so, therefore (reg. at beginning of sentence)
 xx		5	3	item	likewise; (lit.) in that way
 x		5	3	tam	(demonst. adv. of degree) so

@@ -467,7 +467,7 @@
   {
     "partOfSpeech": "Adverb",
     "lemma": "ferē",
-    "english": "almost (regl. follows its word)",
+    "english": "almost (reg. follows its word)",
     "learned": false
   },
   {
@@ -2032,7 +2032,7 @@
   {
     "partOfSpeech": "Noun",
     "lemma": "aes",
-    "english": "copper, bronze; anything made of of bronze (as prow, cymbal, trumpet, tablet)",
+    "english": "copper, bronze; anything made of bronze as prow, cymbals, trumpet, tablet, etc.",
     "learned": false,
     "properties": {
       "number": "singular",
@@ -8245,7 +8245,7 @@
   {
     "partOfSpeech": "Adverb",
     "lemma": "ita",
-    "english": "so (reffering to what precedes or follows)",
+    "english": "so (referring to what precedes or follows)",
     "learned": false
   },
   {
@@ -8744,7 +8744,7 @@
   {
     "partOfSpeech": "Noun",
     "lemma": "aestās",
-    "english": "summer (divided into inita/prima/nova, media, exacta)",
+    "english": "summer (divided into inita/prima/nova, media, and exacta)",
     "learned": false,
     "properties": {
       "number": "singular",
