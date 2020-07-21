@@ -14,7 +14,6 @@
       "conjugation": 2,
       "correctInfinitive": "aiere",
       "perfect": "ait",
-      "supine": "aiunt",
       "deponent": false
     }
   },
@@ -4952,7 +4951,7 @@
       "conjugation": "Irregular",
       "correctInfinitive": "ūsus esse",
       "perfect": "ūsus fuit",
-      "supine": "ūsus futūrus",
+      "supine": "ūsus futūrus (part.)",
       "deponent": false
     }
   },
@@ -7335,7 +7334,6 @@
       "conjugation": "Irregular",
       "correctInfinitive": "No infinitive",
       "perfect": "inquit",
-      "supine": "inquiunt",
       "deponent": false
     }
   },
@@ -8524,7 +8522,7 @@
     "properties": {
       "conjugation": 0,
       "perfect": "-stitī",
-      "supine": "-stātūrus",
+      "supine": "-stātūrus (part.)",
       "deponent": false
     }
   },
@@ -9420,7 +9418,6 @@
     "properties": {
       "conjugation": 1,
       "perfect": "-uī",
-      "supine": "--",
       "deponent": false
     }
   },
@@ -9445,7 +9442,7 @@
       "conjugation": "Irregular",
       "correctInfinitive": "abesse",
       "perfect": "āfuī",
-      "supine": "āfutūrus",
+      "supine": "āfutūrus (part.)",
       "deponent": false
     }
   },
@@ -9468,7 +9465,6 @@
     "properties": {
       "conjugation": 1,
       "perfect": "-uī",
-      "supine": "--",
       "deponent": false
     }
   },
@@ -9480,7 +9476,6 @@
     "properties": {
       "conjugation": 1,
       "perfect": "-uī",
-      "supine": "--",
       "deponent": false
     }
   },
@@ -9515,7 +9510,6 @@
     "properties": {
       "conjugation": 1,
       "perfect": "-uī",
-      "supine": "--",
       "deponent": false
     }
   },
@@ -9551,7 +9545,6 @@
     "properties": {
       "conjugation": 1,
       "perfect": "lūxī",
-      "supine": "--",
       "deponent": false
     }
   },
@@ -9635,7 +9628,7 @@
     "properties": {
       "conjugation": 1,
       "perfect": "-uī",
-      "supine": "-itūrus",
+      "supine": "-itūrus (part.)",
       "deponent": false
     }
   },
@@ -9660,7 +9653,6 @@
       "conjugation": "Irregular",
       "correctInfinitive": "nōlle",
       "perfect": "nōluī",
-      "supine": "--",
       "deponent": false
     }
   },
@@ -9671,8 +9663,6 @@
     "learned": false,
     "properties": {
       "conjugation": 1,
-      "perfect": "--",
-      "supine": "--",
       "deponent": false
     }
   },
@@ -9684,7 +9674,7 @@
     "properties": {
       "conjugation": 1,
       "perfect": "-uī",
-      "supine": "-itūrus",
+      "supine": "-itūrus (part.)",
       "deponent": false
     }
   },
@@ -9709,7 +9699,6 @@
     "properties": {
       "conjugation": 1,
       "perfect": "-uī",
-      "supine": "--",
       "deponent": false
     }
   },
@@ -9721,7 +9710,6 @@
     "properties": {
       "conjugation": 1,
       "perfect": "-uī",
-      "supine": "--",
       "deponent": false
     }
   },
@@ -10028,7 +10016,6 @@
     "properties": {
       "conjugation": 1,
       "perfect": "-uī",
-      "supine": "--",
       "deponent": false
     }
   },
@@ -10150,7 +10137,6 @@
     "properties": {
       "conjugation": 1,
       "perfect": "-uī",
-      "supine": "--",
       "deponent": false
     }
   },
@@ -10805,7 +10791,6 @@
     "properties": {
       "conjugation": 2,
       "perfect": "bibī",
-      "supine": "--",
       "deponent": false
     }
   },
@@ -10901,7 +10886,6 @@
     "properties": {
       "conjugation": 1,
       "perfect": "ursī",
-      "supine": "--",
       "deponent": false
     }
   },
@@ -10960,7 +10944,6 @@
     "properties": {
       "conjugation": 1,
       "perfect": "-tinuī",
-      "supine": "--",
       "deponent": false
     }
   },
@@ -10972,7 +10955,6 @@
     "properties": {
       "conjugation": 2,
       "perfect": "-cidī",
-      "supine": "--",
       "deponent": false
     }
   },
@@ -10996,7 +10978,6 @@
     "properties": {
       "conjugation": 2,
       "perfect": "-cidī",
-      "supine": "--",
       "deponent": false
     }
   },
@@ -11008,7 +10989,7 @@
     "properties": {
       "conjugation": 2,
       "perfect": "cecidī",
-      "supine": "cāsūrus",
+      "supine": "cāsūrus (part.)",
       "deponent": false
     }
   },
@@ -11044,7 +11025,6 @@
     "properties": {
       "conjugation": 1,
       "perfect": "-uī",
-      "supine": "--",
       "deponent": false
     }
   },
@@ -11067,7 +11047,7 @@
     "properties": {
       "conjugation": 1,
       "perfect": "doluī",
-      "supine": "dolitūrus",
+      "supine": "dolitūrus (part.)",
       "deponent": false
     }
   },
@@ -11175,7 +11155,7 @@
     "properties": {
       "conjugation": 2,
       "perfect": "fūgī",
-      "supine": "fugitūrus",
+      "supine": "fugitūrus (part.)",
       "deponent": false
     }
   },
@@ -11326,7 +11306,6 @@
     "learned": false,
     "properties": {
       "conjugation": 2,
-      "perfect": "--",
       "deponent": true
     }
   },
@@ -11721,8 +11700,6 @@
     "learned": false,
     "properties": {
       "conjugation": 2,
-      "perfect": "--",
-      "supine": "--",
       "deponent": false
     }
   },
@@ -11734,7 +11711,6 @@
     "properties": {
       "conjugation": 1,
       "perfect": "-uī",
-      "supine": "--",
       "deponent": false
     }
   },
@@ -11746,7 +11722,6 @@
     "properties": {
       "conjugation": 1,
       "perfect": "-uī",
-      "supine": "--",
       "deponent": false
     }
   },
@@ -11818,7 +11793,6 @@
     "properties": {
       "conjugation": 1,
       "perfect": "pependī",
-      "supine": "--",
       "deponent": false
     }
   },
@@ -12224,7 +12198,6 @@
     "properties": {
       "conjugation": 2,
       "perfect": "didicī",
-      "supine": "--",
       "deponent": false
     }
   },
@@ -12236,7 +12209,6 @@
     "properties": {
       "conjugation": 2,
       "perfect": "līquī",
-      "supine": "--",
       "deponent": false
     }
   },
@@ -12308,7 +12280,6 @@
     "properties": {
       "conjugation": 1,
       "perfect": "-uī",
-      "supine": "--",
       "deponent": false
     }
   },
@@ -12320,7 +12291,6 @@
     "properties": {
       "conjugation": 1,
       "perfect": "-uī",
-      "supine": "--",
       "deponent": false
     }
   },
@@ -12332,7 +12302,6 @@
     "properties": {
       "conjugation": 1,
       "perfect": "-uī",
-      "supine": "--",
       "deponent": false
     }
   },
@@ -12368,7 +12337,7 @@
     "properties": {
       "conjugation": 2,
       "perfect": "vīxī",
-      "supine": "vīctūrus",
+      "supine": "vīctūrus (part.)",
       "deponent": false
     }
   },
@@ -12416,7 +12385,6 @@
     "properties": {
       "conjugation": 2,
       "perfect": "vīsi",
-      "supine": "--",
       "deponent": false
     }
   },
@@ -12750,7 +12718,6 @@
     "properties": {
       "conjugation": 0,
       "perfect": "-uī",
-      "supine": "--",
       "deponent": false
     }
   },
@@ -12822,7 +12789,7 @@
     "properties": {
       "conjugation": 1,
       "perfect": "-uī",
-      "supine": "-itūrus",
+      "supine": "-itūrus (part.)",
       "deponent": false
     }
   },
@@ -12869,8 +12836,6 @@
     "learned": false,
     "properties": {
       "conjugation": 1,
-      "perfect": "--",
-      "supine": "--",
       "deponent": false
     }
   },
@@ -13537,7 +13502,6 @@
     "learned": false,
     "properties": {
       "conjugation": 2,
-      "perfect": "--",
       "deponent": false
     }
   },
@@ -13822,7 +13786,6 @@
     "learned": false,
     "properties": {
       "conjugation": 2,
-      "perfect": "--",
       "supine": "quassum (perf. -cussī only in composita)",
       "deponent": false
     }
@@ -13847,7 +13810,6 @@
     "properties": {
       "conjugation": 1,
       "perfect": "fulsī",
-      "supine": "--",
       "deponent": false
     }
   },
@@ -13859,7 +13821,6 @@
     "properties": {
       "conjugation": 1,
       "perfect": "-uī",
-      "supine": "--",
       "deponent": false
     }
   },
@@ -13930,7 +13891,6 @@
     "learned": false,
     "properties": {
       "conjugation": 3,
-      "perfect": "--",
       "supine": "-- (as perfect use īcō or percūtiō)",
       "deponent": false
     }
@@ -13979,7 +13939,7 @@
     "properties": {
       "conjugation": 2,
       "perfect": "pepercī (parsī)",
-      "supine": "parsūrus",
+      "supine": "parsūrus (part.)",
       "deponent": false
     }
   },
@@ -14038,7 +13998,6 @@
     "properties": {
       "conjugation": 0,
       "perfect": "astitī",
-      "supine": "--",
       "deponent": false
     }
   },
@@ -14074,7 +14033,7 @@
     "properties": {
       "conjugation": 0,
       "perfect": "-stitī",
-      "supine": "-stātūrus",
+      "supine": "-stātūrus (part.)",
       "deponent": false
     }
   },
@@ -14086,7 +14045,7 @@
     "properties": {
       "conjugation": 0,
       "perfect": "-stitī",
-      "supine": "-stātūrus",
+      "supine": "-stātūrus (part.)",
       "deponent": false
     }
   },
@@ -14288,7 +14247,6 @@
     "properties": {
       "conjugation": 2,
       "perfect": "-stitī",
-      "supine": "--",
       "deponent": false
     }
   },
@@ -14817,7 +14775,6 @@
       "conjugation": "Irregular",
       "correctInfinitive": "velle",
       "perfect": "voluī",
-      "supine": "--",
       "deponent": false
     }
   },
@@ -14830,7 +14787,6 @@
       "conjugation": "Irregular",
       "correctInfinitive": "mālle",
       "perfect": "māluī",
-      "supine": "--",
       "deponent": false
     }
   },
