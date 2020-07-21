@@ -11,9 +11,7 @@ exports.compare = ([, definition1], [, definition2]) => {
   return 0;
 };
 
-exports.deduplicate = ([lemma], index, array) => (index === array.length - 1
-  ? true
-  : lemma !== array[index + 1][0]);
+exports.deduplicate = ([lemma], index, array) => (!index || lemma !== array[index - 1][0]);
 
 const lemmatize = (lemma, partOfSpeech) => {
   const irregularWords = [
