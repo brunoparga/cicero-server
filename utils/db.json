@@ -12,7 +12,7 @@
     "learned": false,
     "properties": {
       "conjugation": 2,
-      "correctInfinitive": "ais",
+      "correctInfinitive": "aiere",
       "perfect": "ait",
       "supine": "aiunt",
       "deponent": false
@@ -1421,7 +1421,6 @@
     "learned": false,
     "properties": {
       "conjugation": 2,
-      "correctInfinitive": "emere",
       "perfect": "ēmī",
       "supine": "ēmptum",
       "deponent": false
@@ -4951,6 +4950,9 @@
     "learned": false,
     "properties": {
       "conjugation": "Irregular",
+      "correctInfinitive": "ūsus esse",
+      "perfect": "ūsus fuit",
+      "supine": "ūsus futūrus",
       "deponent": false
     }
   },
@@ -7331,6 +7333,9 @@
     "learned": false,
     "properties": {
       "conjugation": "Irregular",
+      "correctInfinitive": "No infinitive",
+      "perfect": "inquit",
+      "supine": "inquiunt",
       "deponent": false
     }
   },
@@ -9274,7 +9279,6 @@
     "learned": false,
     "properties": {
       "conjugation": 3,
-      "correctInfinitive": "orīrī",
       "perfect": "ortus sum",
       "deponent": true
     }
@@ -9392,6 +9396,8 @@
     "learned": false,
     "properties": {
       "conjugation": "Irregular",
+      "correctInfinitive": "posse",
+      "perfect": "potuī",
       "deponent": false
     }
   },
@@ -9437,6 +9443,9 @@
     "learned": false,
     "properties": {
       "conjugation": "Irregular",
+      "correctInfinitive": "abesse",
+      "perfect": "āfuī",
+      "supine": "āfutūrus",
       "deponent": false
     }
   },
@@ -9529,6 +9538,8 @@
     "learned": false,
     "properties": {
       "conjugation": "Irregular",
+      "correctInfinitive": "deesse",
+      "perfect": "dēfuī",
       "deponent": false
     }
   },
@@ -9563,6 +9574,8 @@
     "learned": false,
     "properties": {
       "conjugation": "Irregular",
+      "correctInfinitive": "superesse",
+      "perfect": "superfuī",
       "deponent": false
     }
   },
@@ -9584,6 +9597,9 @@
     "learned": false,
     "properties": {
       "conjugation": "Irregular",
+      "correctInfinitive": "adesse",
+      "perfect": "-fuī (affuī)",
+      "supine": "-futūrus (affutūrus)",
       "deponent": false
     }
   },
@@ -9594,6 +9610,8 @@
     "learned": false,
     "properties": {
       "conjugation": "Irregular",
+      "correctInfinitive": "prōdesse",
+      "perfect": "prōfuī",
       "deponent": false
     }
   },
@@ -9640,6 +9658,9 @@
     "learned": false,
     "properties": {
       "conjugation": "Irregular",
+      "correctInfinitive": "nōlle",
+      "perfect": "nōluī",
+      "supine": "--",
       "deponent": false
     }
   },
@@ -9674,6 +9695,9 @@
     "learned": false,
     "properties": {
       "conjugation": "Irregular",
+      "correctInfinitive": "esse",
+      "perfect": "fuī",
+      "supine": "futūrum",
       "deponent": false
     }
   },
@@ -9708,6 +9732,9 @@
     "learned": false,
     "properties": {
       "conjugation": "Irregular",
+      "correctInfinitive": "ferre",
+      "perfect": "tulī",
+      "supine": "lātum",
       "deponent": false
     }
   },
@@ -9718,6 +9745,9 @@
     "learned": false,
     "properties": {
       "conjugation": "Irregular",
+      "correctInfinitive": "differre",
+      "perfect": "distulī",
+      "supine": "dīlātum",
       "deponent": false
     }
   },
@@ -9728,6 +9758,9 @@
     "learned": false,
     "properties": {
       "conjugation": "Irregular",
+      "correctInfinitive": "auferre",
+      "perfect": "abstulī",
+      "supine": "ablātum",
       "deponent": false
     }
   },
@@ -9738,6 +9771,9 @@
     "learned": false,
     "properties": {
       "conjugation": "Irregular",
+      "correctInfinitive": "dēferre",
+      "perfect": "dētulī",
+      "supine": "dēlātum",
       "deponent": false
     }
   },
@@ -9748,6 +9784,9 @@
     "learned": false,
     "properties": {
       "conjugation": "Irregular",
+      "correctInfinitive": "referre",
+      "perfect": "rettulī",
+      "supine": "relātum",
       "deponent": false
     }
   },
@@ -9758,6 +9797,8 @@
     "learned": false,
     "properties": {
       "conjugation": "Irregular",
+      "perfect": "-tulī",
+      "supine": "-lātum",
       "deponent": false
     }
   },
@@ -9768,6 +9809,9 @@
     "learned": false,
     "properties": {
       "conjugation": "Irregular",
+      "correctInfinitive": "īnferre",
+      "perfect": "intulī",
+      "supine": "illātum",
       "deponent": false
     }
   },
@@ -9778,6 +9822,9 @@
     "learned": false,
     "properties": {
       "conjugation": "Irregular",
+      "correctInfinitive": "efferre",
+      "perfect": "extulī",
+      "supine": "ēlātum",
       "deponent": false
     }
   },
@@ -9788,6 +9835,8 @@
     "learned": false,
     "properties": {
       "conjugation": "Irregular",
+      "perfect": "-tulī",
+      "supine": "-lātum",
       "deponent": false
     }
   },
@@ -9798,7 +9847,6 @@
     "learned": false,
     "properties": {
       "conjugation": 2,
-      "correctInfinitive": "gerere",
       "perfect": "gessī",
       "supine": "gestum",
       "deponent": false
@@ -10051,6 +10099,8 @@
     "learned": false,
     "properties": {
       "conjugation": "Irregular",
+      "perfect": "-tulī",
+      "supine": "-lātum",
       "deponent": false
     }
   },
@@ -10073,6 +10123,9 @@
     "learned": false,
     "properties": {
       "conjugation": "Irregular",
+      "correctInfinitive": "afferre",
+      "perfect": "attulī",
+      "supine": "allātum",
       "deponent": false
     }
   },
@@ -10083,6 +10136,9 @@
     "learned": false,
     "properties": {
       "conjugation": "Irregular",
+      "correctInfinitive": "cōnferre",
+      "perfect": "contulī",
+      "supine": "collātum",
       "deponent": false
     }
   },
@@ -10189,6 +10245,8 @@
     "learned": false,
     "properties": {
       "conjugation": "Irregular",
+      "perfect": "-tulī",
+      "supine": "-lātum",
       "deponent": false
     }
   },
@@ -10615,7 +10673,6 @@
     "learned": false,
     "properties": {
       "conjugation": 2,
-      "correctInfinitive": "morī",
       "perfect": "mortuus sum",
       "deponent": true
     }
@@ -10855,6 +10912,7 @@
     "learned": false,
     "properties": {
       "conjugation": 2,
+      "correctInfinitive": "-ere (or ēsse)",
       "perfect": "ēdī",
       "supine": "ēsum",
       "deponent": false
@@ -10879,7 +10937,6 @@
     "learned": false,
     "properties": {
       "conjugation": 2,
-      "correctInfinitive": "fruī",
       "perfect": "frūctus sum (fruitus sum)",
       "deponent": true
     }
@@ -11389,7 +11446,6 @@
     "learned": false,
     "properties": {
       "conjugation": 2,
-      "correctInfinitive": "lābī",
       "perfect": "lāpsus sum",
       "deponent": true
     }
@@ -11401,7 +11457,6 @@
     "learned": false,
     "properties": {
       "conjugation": 3,
-      "correctInfinitive": "īre",
       "perfect": "iī (īvī)",
       "supine": "itum",
       "deponent": false
@@ -11822,7 +11877,6 @@
     "learned": false,
     "properties": {
       "conjugation": 2,
-      "correctInfinitive": "coepisse",
       "perfect": "coeptum",
       "deponent": false
     }
@@ -12073,7 +12127,6 @@
     "learned": false,
     "properties": {
       "conjugation": 3,
-      "correctInfinitive": "scīre",
       "perfect": "scīvī (sciī)",
       "supine": "scītum",
       "deponent": false
@@ -13124,6 +13177,9 @@
     "learned": false,
     "properties": {
       "conjugation": "Irregular",
+      "correctInfinitive": "offerre",
+      "perfect": "obtulī",
+      "supine": "oblātum",
       "deponent": false
     }
   },
@@ -13170,6 +13226,7 @@
     "learned": false,
     "properties": {
       "conjugation": 0,
+      "correctInfinitive": "-dare",
       "perfect": "-dedī",
       "supine": "-datum",
       "deponent": false
@@ -13410,7 +13467,6 @@
     "learned": false,
     "properties": {
       "conjugation": 1,
-      "correctInfinitive": "rērī",
       "perfect": "ratus sum",
       "deponent": true
     }
@@ -13969,7 +14025,6 @@
     "learned": false,
     "properties": {
       "conjugation": 0,
-      "correctInfinitive": "stāre",
       "perfect": "stetī",
       "supine": "statum (statūrus)",
       "deponent": false
@@ -13982,7 +14037,6 @@
     "learned": false,
     "properties": {
       "conjugation": 0,
-      "correctInfinitive": "astāre",
       "perfect": "astitī",
       "supine": "--",
       "deponent": false
@@ -14685,7 +14739,6 @@
     "learned": false,
     "properties": {
       "conjugation": 2,
-      "correctInfinitive": "ūtī",
       "perfect": "ūsus sum",
       "deponent": true
     }
@@ -14762,6 +14815,9 @@
     "learned": false,
     "properties": {
       "conjugation": "Irregular",
+      "correctInfinitive": "velle",
+      "perfect": "voluī",
+      "supine": "--",
       "deponent": false
     }
   },
@@ -14772,6 +14828,9 @@
     "learned": false,
     "properties": {
       "conjugation": "Irregular",
+      "correctInfinitive": "mālle",
+      "perfect": "māluī",
+      "supine": "--",
       "deponent": false
     }
   },
