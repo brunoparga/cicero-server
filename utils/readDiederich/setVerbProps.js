@@ -12,7 +12,7 @@ const setConjugation = (infinitive, deponent) => {
   return result === -1 ? 'Irregular' : result;
 };
 
-const setCorrectInfinitive = (lemma, conjugation, deponent) => {
+const setCorrectInfinitive = (lemma, conjugation) => {
   if (lemma.includes('inquis')) { return 'No infinitive'; }
 
   const [, infinitive] = lemma.split(', ');
@@ -21,8 +21,6 @@ const setCorrectInfinitive = (lemma, conjugation, deponent) => {
       || ['(', 'dare'].some((chars) => infinitive.includes(chars))) {
     return infinitive;
   }
-  // TODO: This is where I teach the program how correct infinitives are formed, but only if
-  // a cursory look shows this will be necessary (famous last words...)
   return undefined;
 };
 
@@ -34,7 +32,7 @@ module.exports = (lemma) => {
 
   return {
     conjugation,
-    correctInfinitive: setCorrectInfinitive(lemma, conjugation, deponent),
+    correctInfinitive: setCorrectInfinitive(lemma, conjugation),
     perfect: lemma.split(', ')[2],
     // TODO: supine won't work with aio, inquam, verbs without the stem, or those with only -urus.
     supine: deponent ? undefined : lemma.split(', ')[3],
