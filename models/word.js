@@ -23,9 +23,8 @@ class Word extends Model {
     return {
       // TODO: make this customizable
       limit: 10,
-      // TODO: remove this WHERE - this should find words of all parts of speech
-      // Requires populating the DB with the correct properties for every word
-      where: { partOfSpeech: { [Op.in]: ['Adverb', 'Conjunction', 'Interjection', 'Prefix'] } },
+      // TODO: replace this shuffling with something smarter
+      order: [Sequelize.literal('RANDOM()')],
       attributes: [['partOfSpeech', 'questionType'], 'lemma', 'english', 'learned', 'properties'],
     };
   }
@@ -54,7 +53,6 @@ class Word extends Model {
       // Remove this to make teaching work
       learned: true,
       options: options.map((row) => row.dataValues.lemma),
-      properties: {},
     };
   }
 }
