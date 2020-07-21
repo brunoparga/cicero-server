@@ -884,7 +884,7 @@ x		3	5	condō, -ere, -didī, -ditum	to put together, form; build, found; compose
 x		3	5	creō, -āre, -āvī, -ātum	to bring forth, produce, create; (of officials) elect, choose
 x		3	5	ūtor, ūtī, ūsus sum	to use, employ (with abl.)
 xx		3	5	ūsus, -ūs, m.	use, advantage; experience
-xx		3	5	ūsus est	it is necessary (with abl.)
+xx		3	5	ūsus est, ūsus esse, ūsus fuit, ūsus futūrus	it is necessary (with abl.)
 xx		3	5	ūtilis, -e	useful
 xx		3	5	ūtilitās, -ātis, f.	usefulness, advantage
 x		3	5	ōrnō, -āre, -āvī, -ātum	to fit out, equip; esp. embellish, adorn (both lit. and fig.)

@@ -9,7 +9,14 @@
     "partOfSpeech": "Verb",
     "lemma": "āiō, ais, ait, aiunt",
     "english": "I (you, he/she, they) affirm, maintain, say yes",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "correctInfinitive": "ais",
+      "perfect": "ait",
+      "supine": "aiunt",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Preposition",
@@ -4941,7 +4948,11 @@
     "partOfSpeech": "Verb",
     "lemma": "ūsus est",
     "english": "it is necessary (with abl.)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": "Irregular",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -7317,7 +7328,11 @@
     "partOfSpeech": "Verb",
     "lemma": "inquam, inquis, inquit, inquiunt",
     "english": "quoth I (you, he/she, they); regularly inserted in Oratio Recta",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": "Irregular",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -9374,7 +9389,11 @@
     "partOfSpeech": "Verb",
     "lemma": "possum",
     "english": "to be able, can",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": "Irregular",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -9415,7 +9434,11 @@
     "partOfSpeech": "Verb",
     "lemma": "absum",
     "english": "to be away, be absent",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": "Irregular",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -9503,7 +9526,11 @@
     "partOfSpeech": "Verb",
     "lemma": "dēsum",
     "english": "to be lacking, missing",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": "Irregular",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -9533,7 +9560,11 @@
     "partOfSpeech": "Verb",
     "lemma": "supersum",
     "english": "to be over, remain, survive, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": "Irregular",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -9550,13 +9581,21 @@
     "partOfSpeech": "Verb",
     "lemma": "adsum (assum)",
     "english": "to be present, be at hand, assist",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": "Irregular",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "prōsum",
     "english": "to be profitable (opp. obsum)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": "Irregular",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -9598,7 +9637,11 @@
     "partOfSpeech": "Verb",
     "lemma": "nōlō",
     "english": "to be unwilling",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": "Irregular",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -9628,7 +9671,11 @@
     "partOfSpeech": "Verb",
     "lemma": "sum",
     "english": "to be, exist",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": "Irregular",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -9658,55 +9705,91 @@
     "partOfSpeech": "Verb",
     "lemma": "ferō",
     "english": "to bear (in many senses), carry, endure; declare",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": "Irregular",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "differō",
     "english": "to bear apart, differ; postpone; spread apart",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": "Irregular",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "auferō",
     "english": "to bear away, bear off, take away, remove, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": "Irregular",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "dēferō",
     "english": "to bear away, carry away; report",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": "Irregular",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "referō",
     "english": "to bear back, bring back (in var. senses); (fig.) report, refer, announce, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": "Irregular",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "praeferō",
     "english": "to bear before; place before, prefer; hand to; (fig.) show, reveal",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": "Irregular",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "īnferō",
     "english": "to bear in/upon/against (also in many fig. meanings); (bellum ~) attack in war",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": "Irregular",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "efferō",
     "english": "to bear out, take out, put out; (fig.) extol; (pass.) be elated",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": "Irregular",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "perferō",
     "english": "to bear through, carry through; (fig.) endure to the end; carry news, announce",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": "Irregular",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -9965,7 +10048,11 @@
     "partOfSpeech": "Verb",
     "lemma": "prōferō",
     "english": "to bring forward/forth, extend",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": "Irregular",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -9983,13 +10070,21 @@
     "partOfSpeech": "Verb",
     "lemma": "afferō",
     "english": "to bring to, carry to (rare in lit. sense, usually fig. of reports, news, etc.); excite (of emotions)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": "Irregular",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "cōnferō",
     "english": "to bring together, collect; bring to, transport; shift, transfer, compare; (se ~) betake one's self",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": "Irregular",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -10091,7 +10186,11 @@
     "partOfSpeech": "Verb",
     "lemma": "trānsferō",
     "english": "to carry over, transfer; put off",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": "Irregular",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -13022,7 +13121,11 @@
     "partOfSpeech": "Verb",
     "lemma": "offerō",
     "english": "to present, offer, expose, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": "Irregular",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -14656,13 +14759,21 @@
     "partOfSpeech": "Verb",
     "lemma": "volō",
     "english": "to will, wish, be willing",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": "Irregular",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
     "lemma": "mālō",
     "english": "(lit.) to wish more; prefer",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": "Irregular",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
