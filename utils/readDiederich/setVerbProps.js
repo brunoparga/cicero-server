@@ -24,18 +24,23 @@ const setCorrectInfinitive = (lemma, conjugation) => {
   return undefined;
 };
 
+const setSupine = (deponent, fourthForm) => {
+  if (deponent || fourthForm === '--') { return undefined }
+  if (/s$/.test(fourthForm)) { return `${fourthForm} (part.)` }
+  return fourthForm
+}
+
 module.exports = (lemma) => {
   const [, infinitive] = lemma.split(', ');
   const deponent = /ī$/.test(infinitive);
   const conjugation = setConjugation(infinitive, deponent);
-  const result = { conjugation, deponent };
 
   return {
     conjugation,
     correctInfinitive: setCorrectInfinitive(lemma, conjugation),
     perfect: lemma.split(', ')[2],
     // TODO: supine won't work with aio, inquam, verbs without the stem, or those with only -urus.
-    supine: deponent ? undefined : lemma.split(', ')[3],
+    supine: setSupine(deponent, lemma.split(', ')[3]),
     deponent,
   };
 };
