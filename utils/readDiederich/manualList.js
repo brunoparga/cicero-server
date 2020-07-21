@@ -19,6 +19,8 @@ const adjectives = [
   // 'n.' classifies as noun
   'alius, -a, -ud (gen. alterīus, dat. aliī/alterī)',
   'alter, -era, -erum (gen. alterīus, dat. alterī)',
+  // three commas in the lemma classifies as verb
+  'parvus, -a, -um (comp. minor, superl. minimus)',
   // definition beginning with 'to ' classifies as verb
   'potior, -ius',
   // 'num.' classifies as numeral

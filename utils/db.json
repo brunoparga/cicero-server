@@ -8136,10 +8136,16 @@
     }
   },
   {
-    "partOfSpeech": "Verb",
+    "partOfSpeech": "Adjective",
     "lemma": "parvus",
     "english": "small, little (in Caesar not in positive, and in general rare)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "parvī",
+      "feminine": "parva, parvae",
+      "neuter": "parvum, parvī"
+    }
   },
   {
     "partOfSpeech": "Adjective",
