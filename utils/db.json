@@ -9749,7 +9749,13 @@
     "partOfSpeech": "Verb",
     "lemma": "fīō",
     "english": "to become (used as pass. of facio in present system)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "correctInfinitive": "fierī (fīerī)",
+      "perfect": "factus sum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -10747,7 +10753,13 @@
     "partOfSpeech": "Verb",
     "lemma": "edō",
     "english": "to eat",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "ēdī",
+      "supine": "ēsum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -11262,7 +11274,14 @@
     "partOfSpeech": "Verb",
     "lemma": "dō",
     "english": "to give, put (latter meaning rare except in compounds)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "correctInfinitive": "dare",
+      "perfect": "dedī",
+      "supine": "datum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -11701,7 +11720,13 @@
     "partOfSpeech": "Verb",
     "lemma": "coepī",
     "english": "to have begun; used often as perfect of incipio",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "correctInfinitive": "coepisse",
+      "perfect": "coeptum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -13039,7 +13064,13 @@
     "partOfSpeech": "Verb",
     "lemma": "circumdō",
     "english": "to put around",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 0,
+      "perfect": "-dedī",
+      "supine": "-datum",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",
@@ -13344,7 +13375,12 @@
     "partOfSpeech": "Verb",
     "lemma": "meminī",
     "english": "to remember, recollect",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "--",
+      "deponent": false
+    }
   },
   {
     "partOfSpeech": "Verb",

@@ -279,7 +279,7 @@ xx		1	12	ingenium, -ī, n.	disposition, temperament; ability, genius; (lit.) inb
 x		1	12	memoria, -ae, f.	recollection, memory; tradition, record
 xx		1	12	memor, -is	mindful of, remembering
 xx		1	12	memorō, -āre, -āvī, -ātum	to recall, recount, relate
-xx		1	12	meminī, -isse	to remember, recollect
+xx		1	12	meminī, -isse, --	to remember, recollect
 xx		1	12	oblīvīscor, -ī, oblītus sum	to forget
 x		1	12	sponte (abl., gen. spontis very rare), f.	of one's own will, voluntarily
 x		1	13	īra, -ae, f.	anger, wrath
