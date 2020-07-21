@@ -39,7 +39,6 @@ module.exports = (lemma) => {
     conjugation,
     correctInfinitive: setCorrectInfinitive(lemma, conjugation),
     perfect: perfect !== '--' ? perfect : undefined,
-    // TODO: supine won't work with aio, inquam
     supine: setSupine(deponent, supine),
     deponent,
   };
