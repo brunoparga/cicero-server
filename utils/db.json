@@ -241,9 +241,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "futūrī",
-      "feminine": "futūra, futūrae",
-      "neuter": "futūrum, futūrī"
+      "masculineGenitive": "-ī",
+      "feminine": "futūra, -ae",
+      "neuter": "futūrum, -ī"
     }
   },
   {
@@ -259,9 +259,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "grātī",
-      "feminine": "grāta, grātae",
-      "neuter": "grātum, grātī"
+      "masculineGenitive": "-ī",
+      "feminine": "grāta, -ae",
+      "neuter": "grātum, -ī"
     }
   },
   {
@@ -389,9 +389,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "vivī",
-      "feminine": "viva, vivae",
-      "neuter": "vivum, vivī"
+      "masculineGenitive": "-ī",
+      "feminine": "viva, -ae",
+      "neuter": "vivum, -ī"
     }
   },
   {
@@ -407,9 +407,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "cūnctī",
-      "feminine": "cūncta, cūnctae",
-      "neuter": "cūnctum, cūnctī"
+      "masculineGenitive": "-ī",
+      "feminine": "cūncta, -ae",
+      "neuter": "cūnctum, -ī"
     }
   },
   {
@@ -419,9 +419,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "ūniversī",
-      "feminine": "ūniversa, ūniversae",
-      "neuter": "ūniversum, ūniversī"
+      "masculineGenitive": "-ī",
+      "feminine": "ūniversa, -ae",
+      "neuter": "ūniversum, -ī"
     }
   },
   {
@@ -442,9 +442,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "blandī",
-      "feminine": "blanda, blandae",
-      "neuter": "blandum, blandī"
+      "masculineGenitive": "-ī",
+      "feminine": "blanda, -ae",
+      "neuter": "blandum, -ī"
     }
   },
   {
@@ -494,9 +494,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "alternī",
-      "feminine": "alterna, alternae",
-      "neuter": "alternum, alternī"
+      "masculineGenitive": "-ī",
+      "feminine": "alterna, -ae",
+      "neuter": "alternum, -ī"
     }
   },
   {
@@ -534,9 +534,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "antīquī",
-      "feminine": "antīqua, antīquae",
-      "neuter": "antīquum, antīquī"
+      "masculineGenitive": "-ī",
+      "feminine": "antīqua, -ae",
+      "neuter": "antīquum, -ī"
     }
   },
   {
@@ -611,9 +611,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "anxiī",
-      "feminine": "anxia, anxiae",
-      "neuter": "anxium, anxiī"
+      "masculineGenitive": "-ī",
+      "feminine": "anxia, -ae",
+      "neuter": "anxium, -ī"
     }
   },
   {
@@ -629,9 +629,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "ūllī",
-      "feminine": "ūlla, ūllae",
-      "neuter": "ūllum, ūllī"
+      "masculineGenitive": "-ī",
+      "feminine": "ūlla, -ae",
+      "neuter": "ūllum, -ī"
     }
   },
   {
@@ -665,9 +665,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "prīvātī",
-      "feminine": "prīvāta, prīvātae",
-      "neuter": "prīvātum, prīvātī"
+      "masculineGenitive": "-ī",
+      "feminine": "prīvāta, -ae",
+      "neuter": "prīvātum, -ī"
     }
   },
   {
@@ -915,7 +915,7 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-er)",
-      "masculineGenitive": "pulchrī",
+      "masculineGenitive": "-chrī",
       "feminine": "pulchra, -ae",
       "neuter": "pulchrum, -ī"
     }
@@ -1017,9 +1017,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "aliēnī",
-      "feminine": "aliēna, aliēnae",
-      "neuter": "aliēnum, aliēnī"
+      "masculineGenitive": "-ī",
+      "feminine": "aliēna, -ae",
+      "neuter": "aliēnum, -ī"
     }
   },
   {
@@ -1041,9 +1041,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "optimī",
-      "feminine": "optima, optimae",
-      "neuter": "optimum, optimī"
+      "masculineGenitive": "-ī",
+      "feminine": "optima, -ae",
+      "neuter": "optimum, -ī"
     }
   },
   {
@@ -1111,9 +1111,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "caecī",
-      "feminine": "caeca, caecae",
-      "neuter": "caecum, caecī"
+      "masculineGenitive": "-ī",
+      "feminine": "caeca, -ae",
+      "neuter": "caecum, -ī"
     }
   },
   {
@@ -1316,9 +1316,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "nitidī",
-      "feminine": "nitida, nitidae",
-      "neuter": "nitidum, nitidī"
+      "masculineGenitive": "-ī",
+      "feminine": "nitida, -ae",
+      "neuter": "nitidum, -ī"
     }
   },
   {
@@ -1328,9 +1328,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "horridī",
-      "feminine": "horrida, horridae",
-      "neuter": "horridum, horridī"
+      "masculineGenitive": "-ī",
+      "feminine": "horrida, -ae",
+      "neuter": "horridum, -ī"
     }
   },
   {
@@ -1340,9 +1340,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "lātī",
-      "feminine": "lāta, lātae",
-      "neuter": "lātum, lātī"
+      "masculineGenitive": "-ī",
+      "feminine": "lāta, -ae",
+      "neuter": "lātum, -ī"
     }
   },
   {
@@ -1449,9 +1449,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "captīvī",
-      "feminine": "captīva, captīvae",
-      "neuter": "captīvum, captīvī"
+      "masculineGenitive": "-ī",
+      "feminine": "captīva, -ae",
+      "neuter": "captīvum, -ī"
     }
   },
   {
@@ -1676,9 +1676,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "pūrī",
-      "feminine": "pūra, pūrae",
-      "neuter": "pūrum, pūrī"
+      "masculineGenitive": "-ī",
+      "feminine": "pūra, -ae",
+      "neuter": "pūrum, -ī"
     }
   },
   {
@@ -1688,9 +1688,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "clārī",
-      "feminine": "clāra, clārae",
-      "neuter": "clārum, clārī"
+      "masculineGenitive": "-ī",
+      "feminine": "clāra, -ae",
+      "neuter": "clārum, -ī"
     }
   },
   {
@@ -1700,9 +1700,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "serēnī",
-      "feminine": "serēna, serēnae",
-      "neuter": "serēnum, serēnī"
+      "masculineGenitive": "-ī",
+      "feminine": "serēna, -ae",
+      "neuter": "serēnum, -ī"
     }
   },
   {
@@ -1758,9 +1758,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "frīgidī",
-      "feminine": "frīgida, frīgidae",
-      "neuter": "frīgidum, frīgidī"
+      "masculineGenitive": "-ī",
+      "feminine": "frīgida, -ae",
+      "neuter": "frīgidum, -ī"
     }
   },
   {
@@ -1953,9 +1953,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "assiduī",
-      "feminine": "assidua, assiduae",
-      "neuter": "assiduum, assiduī"
+      "masculineGenitive": "-ī",
+      "feminine": "assidua, -ae",
+      "neuter": "assiduum, -ī"
     }
   },
   {
@@ -1976,9 +1976,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "vānī",
-      "feminine": "vāna, vānae",
-      "neuter": "vānum, vānī"
+      "masculineGenitive": "-ī",
+      "feminine": "vāna, -ae",
+      "neuter": "vānum, -ī"
     }
   },
   {
@@ -1988,9 +1988,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "contentī",
-      "feminine": "contenta, contentae",
-      "neuter": "contentum, contentī"
+      "masculineGenitive": "-ī",
+      "feminine": "contenta, -ae",
+      "neuter": "contentum, -ī"
     }
   },
   {
@@ -2024,9 +2024,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "largī",
-      "feminine": "larga, largae",
-      "neuter": "largum, largī"
+      "masculineGenitive": "-ī",
+      "feminine": "larga, -ae",
+      "neuter": "largum, -ī"
     }
   },
   {
@@ -2104,9 +2104,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "avidī",
-      "feminine": "avida, avidae",
-      "neuter": "avidum, avidī"
+      "masculineGenitive": "-ī",
+      "feminine": "avida, -ae",
+      "neuter": "avidum, -ī"
     }
   },
   {
@@ -2184,9 +2184,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "caeruleī",
-      "feminine": "caerulea, caeruleae",
-      "neuter": "caeruleum, caeruleī"
+      "masculineGenitive": "-ī",
+      "feminine": "caerulea, -ae",
+      "neuter": "caeruleum, -ī"
     }
   },
   {
@@ -2196,9 +2196,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "obscūrī",
-      "feminine": "obscūra, obscūrae",
-      "neuter": "obscūrum, obscūrī"
+      "masculineGenitive": "-ī",
+      "feminine": "obscūra, -ae",
+      "neuter": "obscūrum, -ī"
     }
   },
   {
@@ -2241,9 +2241,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "mortuī",
-      "feminine": "mortua, mortuae",
-      "neuter": "mortuum, mortuī"
+      "masculineGenitive": "-ī",
+      "feminine": "mortua, -ae",
+      "neuter": "mortuum, -ī"
     }
   },
   {
@@ -2253,7 +2253,7 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-er)",
-      "masculineGenitive": "ātrī",
+      "masculineGenitive": "-trī",
       "feminine": "ātra, -ae",
       "neuter": "ātrum, -ī"
     }
@@ -2265,9 +2265,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "albī",
-      "feminine": "alba, albae",
-      "neuter": "album, albī"
+      "masculineGenitive": "-ī",
+      "feminine": "alba, -ae",
+      "neuter": "album, -ī"
     }
   },
   {
@@ -2277,9 +2277,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "cārī",
-      "feminine": "cāra, cārae",
-      "neuter": "cārum, cārī"
+      "masculineGenitive": "-ī",
+      "feminine": "cāra, -ae",
+      "neuter": "cārum, -ī"
     }
   },
   {
@@ -2312,9 +2312,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "falsī",
-      "feminine": "falsa, falsae",
-      "neuter": "falsum, falsī"
+      "masculineGenitive": "-ī",
+      "feminine": "falsa, -ae",
+      "neuter": "falsum, -ī"
     }
   },
   {
@@ -2324,9 +2324,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "profundī",
-      "feminine": "profunda, profundae",
-      "neuter": "profundum, profundī"
+      "masculineGenitive": "-ī",
+      "feminine": "profunda, -ae",
+      "neuter": "profundum, -ī"
     }
   },
   {
@@ -2404,9 +2404,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "rēctī",
-      "feminine": "rēcta, rēctae",
-      "neuter": "rēctum, rēctī"
+      "masculineGenitive": "-ī",
+      "feminine": "rēcta, -ae",
+      "neuter": "rēctum, -ī"
     }
   },
   {
@@ -2450,9 +2450,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "ēgregiī",
-      "feminine": "ēgregia, ēgregiae",
-      "neuter": "ēgregium, ēgregiī"
+      "masculineGenitive": "-ī",
+      "feminine": "ēgregia, -ae",
+      "neuter": "ēgregium, -ī"
     }
   },
   {
@@ -2462,9 +2462,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "variī",
-      "feminine": "varia, variae",
-      "neuter": "varium, variī"
+      "masculineGenitive": "-ī",
+      "feminine": "varia, -ae",
+      "neuter": "varium, -ī"
     }
   },
   {
@@ -2498,9 +2498,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "dīvīnī",
-      "feminine": "dīvīna, dīvīnae",
-      "neuter": "dīvīnum, dīvīnī"
+      "masculineGenitive": "-ī",
+      "feminine": "dīvīna, -ae",
+      "neuter": "dīvīnum, -ī"
     }
   },
   {
@@ -2510,9 +2510,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "dīvī",
-      "feminine": "dīva, dīvae",
-      "neuter": "dīvum, dīvī"
+      "masculineGenitive": "-ī",
+      "feminine": "dīva, -ae",
+      "neuter": "dīvum, -ī"
     }
   },
   {
@@ -2555,9 +2555,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "dubiī",
-      "feminine": "dubia, dubiae",
-      "neuter": "dubium, dubiī"
+      "masculineGenitive": "-ī",
+      "feminine": "dubia, -ae",
+      "neuter": "dubium, -ī"
     }
   },
   {
@@ -2617,9 +2617,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "piī",
-      "feminine": "pia, piae",
-      "neuter": "pium, piī"
+      "masculineGenitive": "-ī",
+      "feminine": "pia, -ae",
+      "neuter": "pium, -ī"
     }
   },
   {
@@ -2641,9 +2641,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "cupidī",
-      "feminine": "cupida, cupidae",
-      "neuter": "cupidum, cupidī"
+      "masculineGenitive": "-ī",
+      "feminine": "cupida, -ae",
+      "neuter": "cupidum, -ī"
     }
   },
   {
@@ -2653,9 +2653,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "studiōsī",
-      "feminine": "studiōsa, studiōsae",
-      "neuter": "studiōsum, studiōsī"
+      "masculineGenitive": "-ī",
+      "feminine": "studiōsa, -ae",
+      "neuter": "studiōsum, -ī"
     }
   },
   {
@@ -2755,9 +2755,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "vacuī",
-      "feminine": "vacua, vacuae",
-      "neuter": "vacuum, vacuī"
+      "masculineGenitive": "-ī",
+      "feminine": "vacua, -ae",
+      "neuter": "vacuum, -ī"
     }
   },
   {
@@ -2778,9 +2778,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "vāstī",
-      "feminine": "vāsta, vāstae",
-      "neuter": "vāstum, vāstī"
+      "masculineGenitive": "-ī",
+      "feminine": "vāsta, -ae",
+      "neuter": "vāstum, -ī"
     }
   },
   {
@@ -2869,9 +2869,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "aeternī",
-      "feminine": "aeterna, aeternae",
-      "neuter": "aeternum, aeternī"
+      "masculineGenitive": "-ī",
+      "feminine": "aeterna, -ae",
+      "neuter": "aeternum, -ī"
     }
   },
   {
@@ -2881,9 +2881,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "malī",
-      "feminine": "mala, malae",
-      "neuter": "malum, malī"
+      "masculineGenitive": "-ī",
+      "feminine": "mala, -ae",
+      "neuter": "malum, -ī"
     }
   },
   {
@@ -2916,9 +2916,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "lassī",
-      "feminine": "lassa, lassae",
-      "neuter": "lassum, lassī"
+      "masculineGenitive": "-ī",
+      "feminine": "lassa, -ae",
+      "neuter": "lassum, -ī"
     }
   },
   {
@@ -2928,9 +2928,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "fessī",
-      "feminine": "fessa, fessae",
-      "neuter": "fessum, fessī"
+      "masculineGenitive": "-ī",
+      "feminine": "fessa, -ae",
+      "neuter": "fessum, -ī"
     }
   },
   {
@@ -2963,9 +2963,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "ultimī",
-      "feminine": "ultima, ultimae",
-      "neuter": "ultimum, ultimī"
+      "masculineGenitive": "-ī",
+      "feminine": "ultima, -ae",
+      "neuter": "ultimum, -ī"
     }
   },
   {
@@ -3031,9 +3031,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "prosper(us)",
-      "feminine": "prosper(us), prosper(us)",
-      "neuter": "prosper(us), prosper(us)"
+      "masculineGenitive": "-ī",
+      "feminine": "prosper(us), -ae",
+      "neuter": "prosper(us), -ī"
     }
   },
   {
@@ -3066,9 +3066,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "dīrī",
-      "feminine": "dīra, dīrae",
-      "neuter": "dīrum, dīrī"
+      "masculineGenitive": "-ī",
+      "feminine": "dīra, -ae",
+      "neuter": "dīrum, -ī"
     }
   },
   {
@@ -3134,9 +3134,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "fēstī",
-      "feminine": "fēsta, fēstae",
-      "neuter": "fēstum, fēstī"
+      "masculineGenitive": "-ī",
+      "feminine": "fēsta, -ae",
+      "neuter": "fēstum, -ī"
     }
   },
   {
@@ -3146,9 +3146,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "paucī",
-      "feminine": "pauca, paucae",
-      "neuter": "paucum, paucī"
+      "masculineGenitive": "-ī",
+      "feminine": "pauca, -ae",
+      "neuter": "paucum, -ī"
     }
   },
   {
@@ -3170,9 +3170,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "saevī",
-      "feminine": "saeva, saevae",
-      "neuter": "saevum, saevī"
+      "masculineGenitive": "-ī",
+      "feminine": "saeva, -ae",
+      "neuter": "saevum, -ī"
     }
   },
   {
@@ -3193,9 +3193,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "mundī",
-      "feminine": "munda, mundae",
-      "neuter": "mundum, mundī"
+      "masculineGenitive": "-ī",
+      "feminine": "munda, -ae",
+      "neuter": "mundum, -ī"
     }
   },
   {
@@ -3205,9 +3205,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "fōrmōsī",
-      "feminine": "fōrmōsa, fōrmōsae",
-      "neuter": "fōrmōsum, fōrmōsī"
+      "masculineGenitive": "-ī",
+      "feminine": "fōrmōsa, -ae",
+      "neuter": "fōrmōsum, -ī"
     }
   },
   {
@@ -3250,9 +3250,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "prīmī",
-      "feminine": "prīma, prīmae",
-      "neuter": "prīmum, prīmī"
+      "masculineGenitive": "-ī",
+      "feminine": "prīma, -ae",
+      "neuter": "prīmum, -ī"
     }
   },
   {
@@ -3273,9 +3273,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "aptī",
-      "feminine": "apta, aptae",
-      "neuter": "aptum, aptī"
+      "masculineGenitive": "-ī",
+      "feminine": "apta, -ae",
+      "neuter": "aptum, -ī"
     }
   },
   {
@@ -3291,9 +3291,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "certī",
-      "feminine": "certa, certae",
-      "neuter": "certum, certī"
+      "masculineGenitive": "-ī",
+      "feminine": "certa, -ae",
+      "neuter": "certum, -ī"
     }
   },
   {
@@ -3359,9 +3359,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "liquidī",
-      "feminine": "liquida, liquidae",
-      "neuter": "liquidum, liquidī"
+      "masculineGenitive": "-ī",
+      "feminine": "liquida, -ae",
+      "neuter": "liquidum, -ī"
     }
   },
   {
@@ -3405,9 +3405,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "stultī",
-      "feminine": "stulta, stultae",
-      "neuter": "stultum, stultī"
+      "masculineGenitive": "-ī",
+      "feminine": "stulta, -ae",
+      "neuter": "stultum, -ī"
     }
   },
   {
@@ -3617,9 +3617,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "almī",
-      "feminine": "alma, almae",
-      "neuter": "almum, almī"
+      "masculineGenitive": "-ī",
+      "feminine": "alma, -ae",
+      "neuter": "almum, -ī"
     }
   },
   {
@@ -3629,9 +3629,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "foedī",
-      "feminine": "foeda, foedae",
-      "neuter": "foedum, foedī"
+      "masculineGenitive": "-ī",
+      "feminine": "foeda, -ae",
+      "neuter": "foedum, -ī"
     }
   },
   {
@@ -3641,9 +3641,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "quārtī",
-      "feminine": "quārta, quārtae",
-      "neuter": "quārtum, quārtī"
+      "masculineGenitive": "-ī",
+      "feminine": "quārta, -ae",
+      "neuter": "quārtum, -ī"
     }
   },
   {
@@ -3665,9 +3665,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "līber",
-      "feminine": "līber, līber",
-      "neuter": "līber, līber"
+      "masculineGenitive": "-ī",
+      "feminine": "līber, -ae",
+      "neuter": "līber, -ī"
     }
   },
   {
@@ -3677,9 +3677,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "sēcūrī",
-      "feminine": "sēcūra, sēcūrae",
-      "neuter": "sēcūrum, sēcūrī"
+      "masculineGenitive": "-ī",
+      "feminine": "sēcūra, -ae",
+      "neuter": "sēcūrum, -ī"
     }
   },
   {
@@ -3797,9 +3797,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "plēnī",
-      "feminine": "plēna, plēnae",
-      "neuter": "plēnum, plēnī"
+      "masculineGenitive": "-ī",
+      "feminine": "plēna, -ae",
+      "neuter": "plēnum, -ī"
     }
   },
   {
@@ -3809,9 +3809,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "lūcidī",
-      "feminine": "lūcida, lūcidae",
-      "neuter": "lūcidum, lūcidī"
+      "masculineGenitive": "-ī",
+      "feminine": "lūcida, -ae",
+      "neuter": "lūcidum, -ī"
     }
   },
   {
@@ -3932,9 +3932,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "laetī",
-      "feminine": "laeta, laetae",
-      "neuter": "laetum, laetī"
+      "masculineGenitive": "-ī",
+      "feminine": "laeta, -ae",
+      "neuter": "laetum, -ī"
     }
   },
   {
@@ -3988,9 +3988,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "bonī",
-      "feminine": "bona, bonae",
-      "neuter": "bonum, bonī"
+      "masculineGenitive": "-ī",
+      "feminine": "bona, -ae",
+      "neuter": "bonum, -ī"
     }
   },
   {
@@ -4035,9 +4035,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "magnī",
-      "feminine": "magna, magnae",
-      "neuter": "magnum, magnī"
+      "masculineGenitive": "-ī",
+      "feminine": "magna, -ae",
+      "neuter": "magnum, -ī"
     }
   },
   {
@@ -4058,9 +4058,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "maximī",
-      "feminine": "maxima, maximae",
-      "neuter": "maximum, maximī"
+      "masculineGenitive": "-ī",
+      "feminine": "maxima, -ae",
+      "neuter": "maximum, -ī"
     }
   },
   {
@@ -4190,9 +4190,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "beātī",
-      "feminine": "beāta, beātae",
-      "neuter": "beātum, beātī"
+      "masculineGenitive": "-ī",
+      "feminine": "beāta, -ae",
+      "neuter": "beātum, -ī"
     }
   },
   {
@@ -4213,9 +4213,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "dūrī",
-      "feminine": "dūra, dūrae",
-      "neuter": "dūrum, dūrī"
+      "masculineGenitive": "-ī",
+      "feminine": "dūra, -ae",
+      "neuter": "dūrum, -ī"
     }
   },
   {
@@ -4376,9 +4376,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "altī",
-      "feminine": "alta, altae",
-      "neuter": "altum, altī"
+      "masculineGenitive": "-ī",
+      "feminine": "alta, -ae",
+      "neuter": "altum, -ī"
     }
   },
   {
@@ -4388,9 +4388,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "arduī",
-      "feminine": "ardua, arduae",
-      "neuter": "arduum, arduī"
+      "masculineGenitive": "-ī",
+      "feminine": "ardua, -ae",
+      "neuter": "arduum, -ī"
     }
   },
   {
@@ -4411,9 +4411,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "suprēmī",
-      "feminine": "suprēma, suprēmae",
-      "neuter": "suprēmum, suprēmī"
+      "masculineGenitive": "-ī",
+      "feminine": "suprēma, -ae",
+      "neuter": "suprēmum, -ī"
     }
   },
   {
@@ -4457,9 +4457,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "postrēmī",
-      "feminine": "postrēma, postrēmae",
-      "neuter": "postrēmum, postrēmī"
+      "masculineGenitive": "-ī",
+      "feminine": "postrēma, -ae",
+      "neuter": "postrēmum, -ī"
     }
   },
   {
@@ -4469,9 +4469,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "suī",
-      "feminine": "sua, suae",
-      "neuter": "suum, suī"
+      "masculineGenitive": "-ī",
+      "feminine": "sua, -ae",
+      "neuter": "suum, -ī"
     }
   },
   {
@@ -4505,9 +4505,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "cavī",
-      "feminine": "cava, cavae",
-      "neuter": "cavum, cavī"
+      "masculineGenitive": "-ī",
+      "feminine": "cava, -ae",
+      "neuter": "cavum, -ī"
     }
   },
   {
@@ -4517,7 +4517,7 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-er)",
-      "masculineGenitive": "sacrī",
+      "masculineGenitive": "-crī",
       "feminine": "sacra, -ae",
       "neuter": "sacrum, -ī"
     }
@@ -4564,9 +4564,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "honestī",
-      "feminine": "honesta, honestae",
-      "neuter": "honestum, honestī"
+      "masculineGenitive": "-ī",
+      "feminine": "honesta, -ae",
+      "neuter": "honestum, -ī"
     }
   },
   {
@@ -4683,9 +4683,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "quantī",
-      "feminine": "quanta, quantae",
-      "neuter": "quantum, quantī"
+      "masculineGenitive": "-ī",
+      "feminine": "quanta, -ae",
+      "neuter": "quantum, -ī"
     }
   },
   {
@@ -4800,9 +4800,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "impiī",
-      "feminine": "impia, impiae",
-      "neuter": "impium, impiī"
+      "masculineGenitive": "-ī",
+      "feminine": "impia, -ae",
+      "neuter": "impium, -ī"
     }
   },
   {
@@ -5047,9 +5047,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "benīgnī",
-      "feminine": "benīgna, benīgnae",
-      "neuter": "benīgnum, benīgnī"
+      "masculineGenitive": "-ī",
+      "feminine": "benīgna, -ae",
+      "neuter": "benīgnum, -ī"
     }
   },
   {
@@ -5071,9 +5071,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "rēgiī",
-      "feminine": "rēgia, rēgiae",
-      "neuter": "rēgium, rēgiī"
+      "masculineGenitive": "-ī",
+      "feminine": "rēgia, -ae",
+      "neuter": "rēgium, -ī"
     }
   },
   {
@@ -5094,9 +5094,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "nōtī",
-      "feminine": "nōta, nōtae",
-      "neuter": "nōtum, nōtī"
+      "masculineGenitive": "-ī",
+      "feminine": "nōta, -ae",
+      "neuter": "nōtum, -ī"
     }
   },
   {
@@ -5150,9 +5150,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "amplī",
-      "feminine": "ampla, amplae",
-      "neuter": "amplum, amplī"
+      "masculineGenitive": "-ī",
+      "feminine": "ampla, -ae",
+      "neuter": "amplum, -ī"
     }
   },
   {
@@ -5232,7 +5232,7 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-er)",
-      "masculineGenitive": "sinistrī",
+      "masculineGenitive": "-trī",
       "feminine": "sinistra, -ae",
       "neuter": "sinistrum, -ī"
     }
@@ -5244,9 +5244,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "laevī",
-      "feminine": "laeva, laevae",
-      "neuter": "laevum, laevī"
+      "masculineGenitive": "-ī",
+      "feminine": "laeva, -ae",
+      "neuter": "laevum, -ī"
     }
   },
   {
@@ -5318,9 +5318,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "aequī",
-      "feminine": "aequa, aequae",
-      "neuter": "aequum, aequī"
+      "masculineGenitive": "-ī",
+      "feminine": "aequa, -ae",
+      "neuter": "aequum, -ī"
     }
   },
   {
@@ -5330,9 +5330,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "plānī",
-      "feminine": "plāna, plānae",
-      "neuter": "plānum, plānī"
+      "masculineGenitive": "-ī",
+      "feminine": "plāna, -ae",
+      "neuter": "plānum, -ī"
     }
   },
   {
@@ -5460,9 +5460,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "exiguī",
-      "feminine": "exigua, exiguae",
-      "neuter": "exiguum, exiguī"
+      "masculineGenitive": "-ī",
+      "feminine": "exigua, -ae",
+      "neuter": "exiguum, -ī"
     }
   },
   {
@@ -5507,9 +5507,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "paulī",
-      "feminine": "paula, paulae",
-      "neuter": "paulum, paulī"
+      "masculineGenitive": "-ī",
+      "feminine": "paula, -ae",
+      "neuter": "paulum, -ī"
     }
   },
   {
@@ -5549,9 +5549,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "longī",
-      "feminine": "longa, longae",
-      "neuter": "longum, longī"
+      "masculineGenitive": "-ī",
+      "feminine": "longa, -ae",
+      "neuter": "longum, -ī"
     }
   },
   {
@@ -5613,9 +5613,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "dīlēctī",
-      "feminine": "dīlēcta, dīlēctae",
-      "neuter": "dīlēctum, dīlēctī"
+      "masculineGenitive": "-ī",
+      "feminine": "dīlēcta, -ae",
+      "neuter": "dīlēctum, -ī"
     }
   },
   {
@@ -5625,9 +5625,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "īnferī",
-      "feminine": "īnfera, īnferae",
-      "neuter": "īnferum, īnferī"
+      "masculineGenitive": "-ī",
+      "feminine": "īnfera, -ae",
+      "neuter": "īnferum, -ī"
     }
   },
   {
@@ -5845,9 +5845,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "mediī",
-      "feminine": "media, mediae",
-      "neuter": "medium, mediī"
+      "masculineGenitive": "-ī",
+      "feminine": "media, -ae",
+      "neuter": "medium, -ī"
     }
   },
   {
@@ -5918,9 +5918,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "modicī",
-      "feminine": "modica, modicae",
-      "neuter": "modicum, modicī"
+      "masculineGenitive": "-ī",
+      "feminine": "modica, -ae",
+      "neuter": "modicum, -ī"
     }
   },
   {
@@ -5996,9 +5996,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "plūrimī",
-      "feminine": "plūrima, plūrimae",
-      "neuter": "plūrimum, plūrimī"
+      "masculineGenitive": "-ī",
+      "feminine": "plūrima, -ae",
+      "neuter": "plūrimum, -ī"
     }
   },
   {
@@ -6044,9 +6044,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "multī",
-      "feminine": "multa, multae",
-      "neuter": "multum, multī"
+      "masculineGenitive": "-ī",
+      "feminine": "multa, -ae",
+      "neuter": "multum, -ī"
     }
   },
   {
@@ -6080,9 +6080,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "meī",
-      "feminine": "mea, meae",
-      "neuter": "meum, meī"
+      "masculineGenitive": "-ī",
+      "feminine": "mea, -ae",
+      "neuter": "meum, -ī"
     }
   },
   {
@@ -6092,9 +6092,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "nūdī",
-      "feminine": "nūda, nūdae",
-      "neuter": "nūdum, nūdī"
+      "masculineGenitive": "-ī",
+      "feminine": "nūda, -ae",
+      "neuter": "nūdum, -ī"
     }
   },
   {
@@ -6145,9 +6145,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "propinquī",
-      "feminine": "propinqua, propinquae",
-      "neuter": "propinquum, propinquī"
+      "masculineGenitive": "-ī",
+      "feminine": "propinqua, -ae",
+      "neuter": "propinquum, -ī"
     }
   },
   {
@@ -6163,9 +6163,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "proximī",
-      "feminine": "proxima, proximae",
-      "neuter": "proximum, proximī"
+      "masculineGenitive": "-ī",
+      "feminine": "proxima, -ae",
+      "neuter": "proximum, -ī"
     }
   },
   {
@@ -6239,9 +6239,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "novī",
-      "feminine": "nova, novae",
-      "neuter": "novum, novī"
+      "masculineGenitive": "-ī",
+      "feminine": "nova, -ae",
+      "neuter": "novum, -ī"
     }
   },
   {
@@ -6251,9 +6251,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "posterī",
-      "feminine": "postera, posterae",
-      "neuter": "posterum, posterī"
+      "masculineGenitive": "-ī",
+      "feminine": "postera, -ae",
+      "neuter": "posterum, -ī"
     }
   },
   {
@@ -6263,9 +6263,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "secundī",
-      "feminine": "secunda, secundae",
-      "neuter": "secundum, secundī"
+      "masculineGenitive": "-ī",
+      "feminine": "secunda, -ae",
+      "neuter": "secundum, -ī"
     }
   },
   {
@@ -6305,9 +6305,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "ingrātī",
-      "feminine": "ingrāta, ingrātae",
-      "neuter": "ingrātum, ingrātī"
+      "masculineGenitive": "-ī",
+      "feminine": "ingrāta, -ae",
+      "neuter": "ingrātum, -ī"
     }
   },
   {
@@ -6317,9 +6317,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "nūllī",
-      "feminine": "nūlla, nūllae",
-      "neuter": "nūllum, nūllī"
+      "masculineGenitive": "-ī",
+      "feminine": "nūlla, -ae",
+      "neuter": "nūllum, -ī"
     }
   },
   {
@@ -6329,9 +6329,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "improbī",
-      "feminine": "improba, improbae",
-      "neuter": "improbum, improbī"
+      "masculineGenitive": "-ī",
+      "feminine": "improba, -ae",
+      "neuter": "improbum, -ī"
     }
   },
   {
@@ -6365,9 +6365,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "altī",
-      "feminine": "alta, altae",
-      "neuter": "altum, altī"
+      "masculineGenitive": "-ī",
+      "feminine": "alta, -ae",
+      "neuter": "altum, -ī"
     }
   },
   {
@@ -6417,9 +6417,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "nocturnī",
-      "feminine": "nocturna, nocturnae",
-      "neuter": "nocturnum, nocturnī"
+      "masculineGenitive": "-ī",
+      "feminine": "nocturna, -ae",
+      "neuter": "nocturnum, -ī"
     }
   },
   {
@@ -6429,9 +6429,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "aureī",
-      "feminine": "aurea, aureae",
-      "neuter": "aureum, aureī"
+      "masculineGenitive": "-ī",
+      "feminine": "aurea, -ae",
+      "neuter": "aureum, -ī"
     }
   },
   {
@@ -6453,9 +6453,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "vernī",
-      "feminine": "verna, vernae",
-      "neuter": "vernum, vernī"
+      "masculineGenitive": "-ī",
+      "feminine": "verna, -ae",
+      "neuter": "vernum, -ī"
     }
   },
   {
@@ -6465,9 +6465,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "rūsticī",
-      "feminine": "rūstica, rūsticae",
-      "neuter": "rūsticum, rūsticī"
+      "masculineGenitive": "-ī",
+      "feminine": "rūstica, -ae",
+      "neuter": "rūsticum, -ī"
     }
   },
   {
@@ -6533,9 +6533,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "prīscī",
-      "feminine": "prīsca, prīscae",
-      "neuter": "prīscum, prīscī"
+      "masculineGenitive": "-ī",
+      "feminine": "prīsca, -ae",
+      "neuter": "prīscum, -ī"
     }
   },
   {
@@ -6586,9 +6586,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "ūnī",
-      "feminine": "ūna, ūnae",
-      "neuter": "ūnum, ūnī"
+      "masculineGenitive": "-ī",
+      "feminine": "ūna, -ae",
+      "neuter": "ūnum, -ī"
     }
   },
   {
@@ -6598,9 +6598,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "singulī",
-      "feminine": "singulī, singulī",
-      "neuter": "singulī, singulī"
+      "masculineGenitive": "singulōrum",
+      "feminine": "singulae, -ārum",
+      "neuter": "singula, -ōrum"
     }
   },
   {
@@ -6622,9 +6622,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "propriī",
-      "feminine": "propria, propriae",
-      "neuter": "proprium, propriī"
+      "masculineGenitive": "-ī",
+      "feminine": "propria, -ae",
+      "neuter": "proprium, -ī"
     }
   },
   {
@@ -6640,9 +6640,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "sōlī",
-      "feminine": "sōla, sōlae",
-      "neuter": "sōlum, sōlī"
+      "masculineGenitive": "-ī",
+      "feminine": "sōla, -ae",
+      "neuter": "sōlum, -ī"
     }
   },
   {
@@ -6652,9 +6652,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "obviī",
-      "feminine": "obvia, obviae",
-      "neuter": "obvium, obviī"
+      "masculineGenitive": "-ī",
+      "feminine": "obvia, -ae",
+      "neuter": "obvium, -ī"
     }
   },
   {
@@ -6712,9 +6712,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "alter",
-      "feminine": "alter, alter",
-      "neuter": "alter, alter"
+      "masculineGenitive": "-ī",
+      "feminine": "alter, -ae",
+      "neuter": "alter, -ī"
     }
   },
   {
@@ -6724,9 +6724,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "aliī",
-      "feminine": "alia, aliae",
-      "neuter": "alium, aliī"
+      "masculineGenitive": "-ī",
+      "feminine": "alia, -ae",
+      "neuter": "alium, -ī"
     }
   },
   {
@@ -6742,7 +6742,7 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-er)",
-      "masculineGenitive": "nostrī",
+      "masculineGenitive": "-trī",
       "feminine": "nostra, -ae",
       "neuter": "nostrum, -ī"
     }
@@ -6783,9 +6783,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "extrēmī",
-      "feminine": "extrēma, extrēmae",
-      "neuter": "extrēmum, extrēmī"
+      "masculineGenitive": "-ī",
+      "feminine": "extrēma, -ae",
+      "neuter": "extrēmum, -ī"
     }
   },
   {
@@ -6807,9 +6807,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "superbī",
-      "feminine": "superba, superbae",
-      "neuter": "superbum, superbī"
+      "masculineGenitive": "-ī",
+      "feminine": "superba, -ae",
+      "neuter": "superbum, -ī"
     }
   },
   {
@@ -6975,9 +6975,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "hūmānī",
-      "feminine": "hūmāna, hūmānae",
-      "neuter": "hūmānum, hūmānī"
+      "masculineGenitive": "-ī",
+      "feminine": "hūmāna, -ae",
+      "neuter": "hūmānum, -ī"
     }
   },
   {
@@ -7054,9 +7054,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "iūcundī",
-      "feminine": "iūcunda, iūcundae",
-      "neuter": "iūcundum, iūcundī"
+      "masculineGenitive": "-ī",
+      "feminine": "iūcunda, -ae",
+      "neuter": "iūcundum, -ī"
     }
   },
   {
@@ -7248,9 +7248,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "pūblicī",
-      "feminine": "pūblica, pūblicae",
-      "neuter": "pūblicum, pūblicī"
+      "masculineGenitive": "-ī",
+      "feminine": "pūblica, -ae",
+      "neuter": "pūblicum, -ī"
     }
   },
   {
@@ -7272,9 +7272,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "castī",
-      "feminine": "casta, castae",
-      "neuter": "castum, castī"
+      "masculineGenitive": "-ī",
+      "feminine": "casta, -ae",
+      "neuter": "castum, -ī"
     }
   },
   {
@@ -7284,9 +7284,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "merī",
-      "feminine": "mera, merae",
-      "neuter": "merum, merī"
+      "masculineGenitive": "-ī",
+      "feminine": "mera, -ae",
+      "neuter": "merum, -ī"
     }
   },
   {
@@ -7296,9 +7296,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "purpureī",
-      "feminine": "purpurea, purpureae",
-      "neuter": "purpureum, purpureī"
+      "masculineGenitive": "-ī",
+      "feminine": "purpurea, -ae",
+      "neuter": "purpureum, -ī"
     }
   },
   {
@@ -7319,9 +7319,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "placidī",
-      "feminine": "placida, placidae",
-      "neuter": "placidum, placidī"
+      "masculineGenitive": "-ī",
+      "feminine": "placida, -ae",
+      "neuter": "placidum, -ī"
     }
   },
   {
@@ -7390,9 +7390,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "celsī",
-      "feminine": "celsa, celsae",
-      "neuter": "celsum, celsī"
+      "masculineGenitive": "-ī",
+      "feminine": "celsa, -ae",
+      "neuter": "celsum, -ī"
     }
   },
   {
@@ -7453,9 +7453,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "reliquī",
-      "feminine": "reliqua, reliquae",
-      "neuter": "reliquum, reliquī"
+      "masculineGenitive": "-ī",
+      "feminine": "reliqua, -ae",
+      "neuter": "reliquum, -ī"
     }
   },
   {
@@ -7564,7 +7564,7 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-er)",
-      "masculineGenitive": "dextrī",
+      "masculineGenitive": "-trī",
       "feminine": "dextra, -ae",
       "neuter": "dextrum, -ī"
     }
@@ -7576,9 +7576,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "iūstī",
-      "feminine": "iūsta, iūstae",
-      "neuter": "iūstum, iūstī"
+      "masculineGenitive": "-ī",
+      "feminine": "iūsta, -ae",
+      "neuter": "iūstum, -ī"
     }
   },
   {
@@ -7600,9 +7600,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "mātūrī",
-      "feminine": "mātūra, mātūrae",
-      "neuter": "mātūrum, mātūrī"
+      "masculineGenitive": "-ī",
+      "feminine": "mātūra, -ae",
+      "neuter": "mātūrum, -ī"
     }
   },
   {
@@ -7645,9 +7645,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "asper",
-      "feminine": "asper, asper",
-      "neuter": "asper, asper"
+      "masculineGenitive": "-ī",
+      "feminine": "asper, -ae",
+      "neuter": "asper, -ī"
     }
   },
   {
@@ -7679,9 +7679,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "sānctī",
-      "feminine": "sāncta, sānctae",
-      "neuter": "sānctum, sānctī"
+      "masculineGenitive": "-ī",
+      "feminine": "sāncta, -ae",
+      "neuter": "sānctum, -ī"
     }
   },
   {
@@ -7702,9 +7702,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "maestī",
-      "feminine": "maesta, maestae",
-      "neuter": "maestum, maestī"
+      "masculineGenitive": "-ī",
+      "feminine": "maesta, -ae",
+      "neuter": "maestum, -ī"
     }
   },
   {
@@ -7714,9 +7714,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "tūtī",
-      "feminine": "tūta, tūtae",
-      "neuter": "tūtum, tūtī"
+      "masculineGenitive": "-ī",
+      "feminine": "tūta, -ae",
+      "neuter": "tūtum, -ī"
     }
   },
   {
@@ -7835,9 +7835,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "sēcrētī",
-      "feminine": "sēcrēta, sēcrētae",
-      "neuter": "sēcrētum, sēcrētī"
+      "masculineGenitive": "-ī",
+      "feminine": "sēcrēta, -ae",
+      "neuter": "sēcrētum, -ī"
     }
   },
   {
@@ -7931,7 +7931,7 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-er)",
-      "masculineGenitive": "nigrī",
+      "masculineGenitive": "-grī",
       "feminine": "nigra, -ae",
       "neuter": "nigrum, -ī"
     }
@@ -7965,7 +7965,7 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-er)",
-      "masculineGenitive": "aegrī",
+      "masculineGenitive": "-grī",
       "feminine": "aegra, -ae",
       "neuter": "aegrum, -ī"
     }
@@ -8022,9 +8022,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "tacitī",
-      "feminine": "tacita, tacitae",
-      "neuter": "tacitum, tacitī"
+      "masculineGenitive": "-ī",
+      "feminine": "tacita, -ae",
+      "neuter": "tacitum, -ī"
     }
   },
   {
@@ -8135,9 +8135,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "tardī",
-      "feminine": "tarda, tardae",
-      "neuter": "tardum, tardī"
+      "masculineGenitive": "-ī",
+      "feminine": "tarda, -ae",
+      "neuter": "tardum, -ī"
     }
   },
   {
@@ -8147,9 +8147,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "lentī",
-      "feminine": "lenta, lentae",
-      "neuter": "lentum, lentī"
+      "masculineGenitive": "-ī",
+      "feminine": "lenta, -ae",
+      "neuter": "lentum, -ī"
     }
   },
   {
@@ -8159,9 +8159,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "parvī",
-      "feminine": "parva, parvae",
-      "neuter": "parvum, parvī"
+      "masculineGenitive": "-ī",
+      "feminine": "parva, -ae",
+      "neuter": "parvum, -ī"
     }
   },
   {
@@ -8182,9 +8182,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "minimī",
-      "feminine": "minima, minimae",
-      "neuter": "minimum, minimī"
+      "masculineGenitive": "-ī",
+      "feminine": "minima, -ae",
+      "neuter": "minimum, -ī"
     }
   },
   {
@@ -8230,9 +8230,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "niveī",
-      "feminine": "nivea, niveae",
-      "neuter": "niveum, niveī"
+      "masculineGenitive": "-ī",
+      "feminine": "nivea, -ae",
+      "neuter": "niveum, -ī"
     }
   },
   {
@@ -8260,9 +8260,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "tantī",
-      "feminine": "tanta, tantae",
-      "neuter": "tantum, tantī"
+      "masculineGenitive": "-ī",
+      "feminine": "tanta, -ae",
+      "neuter": "tantum, -ī"
     }
   },
   {
@@ -8312,9 +8312,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "ūnicī",
-      "feminine": "ūnica, ūnicae",
-      "neuter": "ūnicum, ūnicī"
+      "masculineGenitive": "-ī",
+      "feminine": "ūnica, -ae",
+      "neuter": "ūnicum, -ī"
     }
   },
   {
@@ -8416,9 +8416,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "sānī",
-      "feminine": "sāna, sānae",
-      "neuter": "sānum, sānī"
+      "masculineGenitive": "-ī",
+      "feminine": "sāna, -ae",
+      "neuter": "sānum, -ī"
     }
   },
   {
@@ -8428,9 +8428,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "salvī",
-      "feminine": "salva, salvae",
-      "neuter": "salvum, salvī"
+      "masculineGenitive": "-ī",
+      "feminine": "salva, -ae",
+      "neuter": "salvum, -ī"
     }
   },
   {
@@ -8473,9 +8473,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "praecipuī",
-      "feminine": "praecipua, praecipuae",
-      "neuter": "praecipuum, praecipuī"
+      "masculineGenitive": "-ī",
+      "feminine": "praecipua, -ae",
+      "neuter": "praecipuum, -ī"
     }
   },
   {
@@ -8566,9 +8566,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "sevērī",
-      "feminine": "sevēra, sevērae",
-      "neuter": "sevērum, sevērī"
+      "masculineGenitive": "-ī",
+      "feminine": "sevēra, -ae",
+      "neuter": "sevērum, -ī"
     }
   },
   {
@@ -8584,9 +8584,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "citī",
-      "feminine": "cita, citae",
-      "neuter": "citum, citī"
+      "masculineGenitive": "-ī",
+      "feminine": "cita, -ae",
+      "neuter": "citum, -ī"
     }
   },
   {
@@ -8664,9 +8664,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "vagī",
-      "feminine": "vaga, vagae",
-      "neuter": "vagum, vagī"
+      "masculineGenitive": "-ī",
+      "feminine": "vaga, -ae",
+      "neuter": "vagum, -ī"
     }
   },
   {
@@ -8676,9 +8676,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "validī",
-      "feminine": "valida, validae",
-      "neuter": "validum, validī"
+      "masculineGenitive": "-ī",
+      "feminine": "valida, -ae",
+      "neuter": "validum, -ī"
     }
   },
   {
@@ -8688,9 +8688,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "firmī",
-      "feminine": "firma, firmae",
-      "neuter": "firmum, firmī"
+      "masculineGenitive": "-ī",
+      "feminine": "firma, -ae",
+      "neuter": "firmum, -ī"
     }
   },
   {
@@ -8837,9 +8837,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "rapidī",
-      "feminine": "rapida, rapidae",
-      "neuter": "rapidum, rapidī"
+      "masculineGenitive": "-ī",
+      "feminine": "rapida, -ae",
+      "neuter": "rapidum, -ī"
     }
   },
   {
@@ -8849,9 +8849,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "citī",
-      "feminine": "cita, citae",
-      "neuter": "citum, citī"
+      "masculineGenitive": "-ī",
+      "feminine": "cita, -ae",
+      "neuter": "citum, -ī"
     }
   },
   {
@@ -8923,9 +8923,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "tener",
-      "feminine": "tener, tener",
-      "neuter": "tener, tener"
+      "masculineGenitive": "-ī",
+      "feminine": "tener, -ae",
+      "neuter": "tener, -ī"
     }
   },
   {
@@ -8963,9 +8963,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "īnfernī",
-      "feminine": "īnferna, īnfernae",
-      "neuter": "īnfernum, īnfernī"
+      "masculineGenitive": "-ī",
+      "feminine": "īnferna, -ae",
+      "neuter": "īnfernum, -ī"
     }
   },
   {
@@ -9020,9 +9020,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "cēterī",
-      "feminine": "cētera, cēterae",
-      "neuter": "cēterum, cēterī"
+      "masculineGenitive": "-ī",
+      "feminine": "cētera, -ae",
+      "neuter": "cēterum, -ī"
     }
   },
   {
@@ -9097,9 +9097,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "dēnsī",
-      "feminine": "dēnsa, dēnsae",
-      "neuter": "dēnsum, dēnsī"
+      "masculineGenitive": "-ī",
+      "feminine": "dēnsa, -ae",
+      "neuter": "dēnsum, -ī"
     }
   },
   {
@@ -9109,7 +9109,7 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-er)",
-      "masculineGenitive": "crēbrī",
+      "masculineGenitive": "-brī",
       "feminine": "crēbra, -ae",
       "neuter": "crēbrum, -ī"
     }
@@ -9133,9 +9133,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "tertiī",
-      "feminine": "tertia, tertiae",
-      "neuter": "tertium, tertiī"
+      "masculineGenitive": "-ī",
+      "feminine": "tertia, -ae",
+      "neuter": "tertium, -ī"
     }
   },
   {
@@ -9157,9 +9157,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "sollicitī",
-      "feminine": "sollicita, sollicitae",
-      "neuter": "sollicitum, sollicitī"
+      "masculineGenitive": "-ī",
+      "feminine": "sollicita, -ae",
+      "neuter": "sollicitum, -ī"
     }
   },
   {
@@ -14908,9 +14908,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "nimiī",
-      "feminine": "nimia, nimiae",
-      "neuter": "nimium, nimiī"
+      "masculineGenitive": "-ī",
+      "feminine": "nimia, -ae",
+      "neuter": "nimium, -ī"
     }
   },
   {
@@ -15006,9 +15006,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "vērī",
-      "feminine": "vēra, vērae",
-      "neuter": "vērum, vērī"
+      "masculineGenitive": "-ī",
+      "feminine": "vēra, -ae",
+      "neuter": "vērum, -ī"
     }
   },
   {
@@ -15030,9 +15030,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "fīdī",
-      "feminine": "fīda, fīdae",
-      "neuter": "fīdum, fīdī"
+      "masculineGenitive": "-ī",
+      "feminine": "fīda, -ae",
+      "neuter": "fīdum, -ī"
     }
   },
   {
@@ -15042,9 +15042,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "dīversī",
-      "feminine": "dīversa, dīversae",
-      "neuter": "dīversum, dīversī"
+      "masculineGenitive": "-ī",
+      "feminine": "dīversa, -ae",
+      "neuter": "dīversum, -ī"
     }
   },
   {
@@ -15054,9 +15054,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "adversī",
-      "feminine": "adversa, adversae",
-      "neuter": "adversum, adversī"
+      "masculineGenitive": "-ī",
+      "feminine": "adversa, -ae",
+      "neuter": "adversum, -ī"
     }
   },
   {
@@ -15072,9 +15072,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "geminī",
-      "feminine": "gemina, geminae",
-      "neuter": "geminum, geminī"
+      "masculineGenitive": "-ī",
+      "feminine": "gemina, -ae",
+      "neuter": "geminum, -ī"
     }
   },
   {
@@ -15101,9 +15101,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "perpetuī",
-      "feminine": "perpetua, perpetuae",
-      "neuter": "perpetuum, perpetuī"
+      "masculineGenitive": "-ī",
+      "feminine": "perpetua, -ae",
+      "neuter": "perpetuum, -ī"
     }
   },
   {
@@ -15113,9 +15113,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "incertī",
-      "feminine": "incerta, incertae",
-      "neuter": "incertum, incertī"
+      "masculineGenitive": "-ī",
+      "feminine": "incerta, -ae",
+      "neuter": "incertum, -ī"
     }
   },
   {
@@ -15143,9 +15143,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "inimīcī",
-      "feminine": "inimīca, inimīcae",
-      "neuter": "inimīcum, inimīcī"
+      "masculineGenitive": "-ī",
+      "feminine": "inimīca, -ae",
+      "neuter": "inimīcum, -ī"
     }
   },
   {
@@ -15166,9 +15166,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "īgnōtī",
-      "feminine": "īgnōta, īgnōtae",
-      "neuter": "īgnōtum, īgnōtī"
+      "masculineGenitive": "-ī",
+      "feminine": "īgnōta, -ae",
+      "neuter": "īgnōtum, -ī"
     }
   },
   {
@@ -15188,9 +15188,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "immēnsī",
-      "feminine": "immēnsa, immēnsae",
-      "neuter": "immēnsum, immēnsī"
+      "masculineGenitive": "-ī",
+      "feminine": "immēnsa, -ae",
+      "neuter": "immēnsum, -ī"
     }
   },
   {
@@ -15206,7 +15206,7 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-er)",
-      "masculineGenitive": "integrī",
+      "masculineGenitive": "-grī",
       "feminine": "integra, -ae",
       "neuter": "integrum, -ī"
     }
@@ -15218,9 +15218,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "invītī",
-      "feminine": "invīta, invītae",
-      "neuter": "invītum, invītī"
+      "masculineGenitive": "-ī",
+      "feminine": "invīta, -ae",
+      "neuter": "invītum, -ī"
     }
   },
   {
@@ -15230,9 +15230,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "indīgnī",
-      "feminine": "indīgna, indīgnae",
-      "neuter": "indīgnum, indīgnī"
+      "masculineGenitive": "-ī",
+      "feminine": "indīgna, -ae",
+      "neuter": "indīgnum, -ī"
     }
   },
   {
@@ -15574,9 +15574,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "candidī",
-      "feminine": "candida, candidae",
-      "neuter": "candidum, candidī"
+      "masculineGenitive": "-ī",
+      "feminine": "candida, -ae",
+      "neuter": "candidum, -ī"
     }
   },
   {
@@ -15610,9 +15610,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "tōtī",
-      "feminine": "tōta, tōtae",
-      "neuter": "tōtum, tōtī"
+      "masculineGenitive": "-ī",
+      "feminine": "tōta, -ae",
+      "neuter": "tōtum, -ī"
     }
   },
   {
@@ -15640,9 +15640,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "rārī",
-      "feminine": "rāra, rārae",
-      "neuter": "rārum, rārī"
+      "masculineGenitive": "-ī",
+      "feminine": "rāra, -ae",
+      "neuter": "rārum, -ī"
     }
   },
   {
@@ -15664,9 +15664,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "ferī",
-      "feminine": "fera, ferae",
-      "neuter": "ferum, ferī"
+      "masculineGenitive": "-ī",
+      "feminine": "fera, -ae",
+      "neuter": "ferum, -ī"
     }
   },
   {
@@ -15742,9 +15742,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "commodī",
-      "feminine": "commoda, commodae",
-      "neuter": "commodum, commodī"
+      "masculineGenitive": "-ī",
+      "feminine": "commoda, -ae",
+      "neuter": "commodum, -ī"
     }
   },
   {
@@ -15813,9 +15813,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "mīrī",
-      "feminine": "mīra, mīrae",
-      "neuter": "mīrum, mīrī"
+      "masculineGenitive": "-ī",
+      "feminine": "mīra, -ae",
+      "neuter": "mīrum, -ī"
     }
   },
   {
@@ -15871,9 +15871,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "dīgnī",
-      "feminine": "dīgna, dīgnae",
-      "neuter": "dīgnum, dīgnī"
+      "masculineGenitive": "-ī",
+      "feminine": "dīgna, -ae",
+      "neuter": "dīgnum, -ī"
     }
   },
   {
@@ -15912,9 +15912,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "miser",
-      "feminine": "miser, miser",
-      "neuter": "miser, miser"
+      "masculineGenitive": "-ī",
+      "feminine": "miser, -ae",
+      "neuter": "miser, -ī"
     }
   },
   {
@@ -15964,7 +15964,7 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-er)",
-      "masculineGenitive": "vestrī",
+      "masculineGenitive": "-trī",
       "feminine": "vestra, -ae",
       "neuter": "vestrum, -ī"
     }
@@ -15976,9 +15976,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "tuī",
-      "feminine": "tua, tuae",
-      "neuter": "tuum, tuī"
+      "masculineGenitive": "-ī",
+      "feminine": "tua, -ae",
+      "neuter": "tuum, -ī"
     }
   }
 ]

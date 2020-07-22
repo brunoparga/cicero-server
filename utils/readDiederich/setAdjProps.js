@@ -1,18 +1,24 @@
 const setFirstAndSecondDeclensionAdjectives = (lemma) => {
   const [masculine, feminine] = lemma.split(', ');
-  if (['-a', '-era'].includes(feminine)) {
+  if (feminine === '-ae') {
     return {
       suffixes: '1st/2nd (-us)',
-      masculineGenitive: `${masculine.replace(/us$/, 'ī')}`,
-      feminine: `${masculine.replace(/us$/, 'a')}, ${masculine.replace(/us$/, 'ae')}`,
-      neuter: `${masculine.replace(/us$/, 'um')}, ${masculine.replace(/us$/, 'ī')}`,
+      masculineGenitive: `${masculine.replace(/ī$/, 'ōrum')}`,
+      feminine: `${masculine.replace(/ī$/, 'ae')}, -ārum`,
+      neuter: `${masculine.replace(/ī$/, 'a')}, -ōrum`,
+    }
+  } if (['-a', '-era'].includes(feminine)) {
+    return {
+      suffixes: '1st/2nd (-us)',
+      masculineGenitive: `-ī`,
+      feminine: `${masculine.replace(/us$/, 'a')}, -ae`,
+      neuter: `${masculine.replace(/us$/, 'um')}, -ī`,
     };
   }
-  // TODO: correct terra, classified as adjective
-  // TODO: correct singulī, which ironically is plural
+  // TODO: fix the part where this throws away dext(e)rī
   return {
     suffixes: '1st/2nd (-er)',
-    masculineGenitive: `${masculine.replace(/er$/, 'rī')}`,
+    masculineGenitive: `${masculine.replace(/(.+?)(ch|b|c|g|t)er$/, `-$2rī`)}`,
     feminine: `${masculine.replace(/er$/, 'ra')}, -ae`,
     neuter: `${masculine.replace(/er$/, 'rum')}, -ī`,
   };

@@ -15,4 +15,7 @@ const words = fs
   // Turn into an object for JSONification
   .map(buildWord);
 
-fs.writeFileSync('./utils/db.json', JSON.stringify(words, null, 2));
+const json = JSON.stringify(words, null, 2);
+if (fs.readFileSync('./utils/db.json', 'utf8') !== json) {
+  fs.writeFileSync('./utils/db.json', json);
+}
