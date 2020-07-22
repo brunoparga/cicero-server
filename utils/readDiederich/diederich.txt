@@ -92,7 +92,7 @@ x		1	5	nāvis, -is, f.	ship
 xx		1	5	ratis, -is, f.	raft; (loosely) ship, vessel
 xx		1	5	classis, -is, f.	(properly) class, division (of people, army); fleet
 xx		1	5	vēlum, -ī, n.	a cloth, covering; esp. sail
-x		1	6	terra, -ae, .f	land (as opp. to water, air)
+x		1	6	terra, -ae, f.	land (as opp. to water, air)
 xx		1	6	tellūs, -ūris, f.	Earth (the poetical word for terra)
 xx		1	6	humus, -ī, f.	ground
 x		1	6	rūs, rūris, n.	country; (pl.) lands, fields

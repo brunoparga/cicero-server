@@ -5111,15 +5111,14 @@
     }
   },
   {
-    "partOfSpeech": "Adjective",
+    "partOfSpeech": "Noun",
     "lemma": "terra",
     "english": "land (as opp. to water, air)",
     "learned": false,
     "properties": {
-      "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "terra",
-      "feminine": "terra, terra",
-      "neuter": "terra, terra"
+      "number": "singular",
+      "declension": 0,
+      "gender": "feminine"
     }
   },
   {
