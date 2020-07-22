@@ -914,10 +914,10 @@
     "english": "beautiful (both lit. and fig.)",
     "learned": false,
     "properties": {
-      "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "pulcher",
-      "feminine": "pulcher, pulcher",
-      "neuter": "pulcher, pulcher"
+      "suffixes": "1st/2nd (-er)",
+      "masculineGenitive": "pulchrī",
+      "feminine": "pulchra, -ae",
+      "neuter": "pulchrum, -ī"
     }
   },
   {
@@ -2252,10 +2252,10 @@
     "english": "dead black, dark (opp. to albus); (fig.) gloomy, deadly",
     "learned": false,
     "properties": {
-      "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "āter",
-      "feminine": "āter, āter",
-      "neuter": "āter, āter"
+      "suffixes": "1st/2nd (-er)",
+      "masculineGenitive": "ātrī",
+      "feminine": "ātra, -ae",
+      "neuter": "ātrum, -ī"
     }
   },
   {
@@ -4516,10 +4516,10 @@
     "english": "holy, consecrate; accursed; (lit.) set apart",
     "learned": false,
     "properties": {
-      "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "sacer",
-      "feminine": "sacer, sacer",
-      "neuter": "sacer, sacer"
+      "suffixes": "1st/2nd (-er)",
+      "masculineGenitive": "sacrī",
+      "feminine": "sacra, -ae",
+      "neuter": "sacrum, -ī"
     }
   },
   {
@@ -5232,10 +5232,10 @@
     "english": "left (opp. to dexter)",
     "learned": false,
     "properties": {
-      "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "sinister",
-      "feminine": "sinister, sinister",
-      "neuter": "sinister, sinister"
+      "suffixes": "1st/2nd (-er)",
+      "masculineGenitive": "sinistrī",
+      "feminine": "sinistra, -ae",
+      "neuter": "sinistrum, -ī"
     }
   },
   {
@@ -6742,10 +6742,10 @@
     "english": "(poss. adj. pron.) our",
     "learned": false,
     "properties": {
-      "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "noster",
-      "feminine": "noster, noster",
-      "neuter": "noster, noster"
+      "suffixes": "1st/2nd (-er)",
+      "masculineGenitive": "nostrī",
+      "feminine": "nostra, -ae",
+      "neuter": "nostrum, -ī"
     }
   },
   {
@@ -7564,10 +7564,10 @@
     "english": "right (opp. to sinister, laevus)",
     "learned": false,
     "properties": {
-      "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "dexter",
-      "feminine": "dexter, dexter",
-      "neuter": "dexter, dexter"
+      "suffixes": "1st/2nd (-er)",
+      "masculineGenitive": "dextrī",
+      "feminine": "dextra, -ae",
+      "neuter": "dextrum, -ī"
     }
   },
   {
@@ -7931,10 +7931,10 @@
     "english": "shining black (opp. to candidus)",
     "learned": false,
     "properties": {
-      "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "niger",
-      "feminine": "niger, niger",
-      "neuter": "niger, niger"
+      "suffixes": "1st/2nd (-er)",
+      "masculineGenitive": "nigrī",
+      "feminine": "nigra, -ae",
+      "neuter": "nigrum, -ī"
     }
   },
   {
@@ -7965,10 +7965,10 @@
     "english": "sick (of both mental and physical ills)",
     "learned": false,
     "properties": {
-      "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "aeger",
-      "feminine": "aeger, aeger",
-      "neuter": "aeger, aeger"
+      "suffixes": "1st/2nd (-er)",
+      "masculineGenitive": "aegrī",
+      "feminine": "aegra, -ae",
+      "neuter": "aegrum, -ī"
     }
   },
   {
@@ -9109,10 +9109,10 @@
     "english": "thick, close, frequent",
     "learned": false,
     "properties": {
-      "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "crēber",
-      "feminine": "crēber, crēber",
-      "neuter": "crēber, crēber"
+      "suffixes": "1st/2nd (-er)",
+      "masculineGenitive": "crēbrī",
+      "feminine": "crēbra, -ae",
+      "neuter": "crēbrum, -ī"
     }
   },
   {
@@ -15206,10 +15206,10 @@
     "english": "untouched; fresh, complete",
     "learned": false,
     "properties": {
-      "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "integer",
-      "feminine": "integer, integer",
-      "neuter": "integer, integer"
+      "suffixes": "1st/2nd (-er)",
+      "masculineGenitive": "integrī",
+      "feminine": "integra, -ae",
+      "neuter": "integrum, -ī"
     }
   },
   {
@@ -15964,10 +15964,10 @@
     "english": "your (pl.)",
     "learned": false,
     "properties": {
-      "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "vester",
-      "feminine": "vester, vester",
-      "neuter": "vester, vester"
+      "suffixes": "1st/2nd (-er)",
+      "masculineGenitive": "vestrī",
+      "feminine": "vestra, -ae",
+      "neuter": "vestrum, -ī"
     }
   },
   {

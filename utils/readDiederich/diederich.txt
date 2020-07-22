@@ -1194,7 +1194,7 @@ x		4	3	firmus, -a, -um	strong, firm, solid; steadfast
 xx		4	3	firmō, -āre, -āvī, -ātum	to make firm, strengthen
 x		4	3	mollis, -e	soft, yielding, gentle (both lit. and fig.)
 xx		4	3	lēnis, -e	soft, gentle, mild
-xx		4	3	lentus, -a,- um	slow, sluggish, pliant
+xx		4	3	lentus, -a, -um	slow, sluggish, pliant
 xx		4	3	mītis, -e	mild, gentle
 xx		4	3	tener, -era, -erum	tender (in many senses)
 x		4	3	plēnus, -a, -um	full

@@ -25,10 +25,10 @@ const setCorrectInfinitive = (lemma, conjugation) => {
 };
 
 const setSupine = (deponent, fourthForm) => {
-  if (deponent || fourthForm === '--' || /nt$/.test(fourthForm)) { return undefined }
-  if (/s$/.test(fourthForm)) { return `${fourthForm} (part.)` }
-  return fourthForm
-}
+  if (deponent || fourthForm === '--' || /nt$/.test(fourthForm)) { return undefined; }
+  if (/s$/.test(fourthForm)) { return `${fourthForm} (part.)`; }
+  return fourthForm;
+};
 
 module.exports = (lemma) => {
   const [, infinitive, perfect, supine] = lemma.split(', ');
