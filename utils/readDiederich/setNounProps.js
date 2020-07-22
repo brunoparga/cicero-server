@@ -4,7 +4,9 @@ const setDeclension = (lemma, number) => {
   // words in those declensions in the Diederich list.
   const plural = [/ārum$/, /ōrum$/, /[^(ā|ē|ō)r]um$/, /uum$/, /ērum$/];
   const correctSuffixes = number === 'singular' ? singular : plural;
-  return correctSuffixes.reduce((declension, suffix, index) => (lemma.split(', ')[1].match(suffix) ? index : declension), 0);
+  return correctSuffixes.reduce(
+    (declension, suffix, index) => (suffix.test(lemma.split(', ')[1]) ? index : declension), 0,
+  );
 };
 
 // Some words, especially in the second and third declension, have slightly irregular
@@ -20,7 +22,7 @@ const setCorrectGenitive = (lemma, number, declension) => {
 };
 
 module.exports = (lemma) => {
-  const number = lemma.split(',')[1].match(/um$/) ? 'plural' : 'singular';
+  const number = /um$/.test(lemma.split(',')[1]) ? 'plural' : 'singular';
 
   let gender = 'neuter';
   if (lemma.includes('mf.')) {

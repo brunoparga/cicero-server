@@ -28,11 +28,11 @@ const setThirdDeclensionAdjectives = (lemma) => {
 };
 
 module.exports = (lemma) => {
-  if (lemma.match(/is$/)) {
+  if (/is$/.test(lemma)) {
     let space = lemma.indexOf(' ');
     space = (space + 1) ? space : 0;
     return { genitive: lemma.slice(space), suffixes: '3rd (all equal)' };
-  } if (lemma.match(/(e|us)$/)) {
+  } if (/(e|us)$/.test(lemma)) {
     return { genitive: '-is', ...setThirdDeclensionAdjectives(lemma) };
   } if (lemma.includes('indecl')) {
     return undefined;

@@ -22,15 +22,15 @@ const classifyByDefinition = (definition) => {
 };
 
 const classifyByLemma = (lemma, definition) => {
-  if (lemma.match(/(m|f|n)\./)) {
+  if (/(m|f|n)\./.test(lemma)) {
     return 'Noun';
-  } if (lemma.split(',').length === 4 || treat(definition).match(/^(it|to) /)) {
+  } if (lemma.split(',').length === 4 || /^(it|to) /.test(treat(definition))) {
     return 'Verb';
   } if (lemma.split(', -').length > 1) {
     return 'Adjective';
-  } if (lemma.match(/(- |-$)/)) {
+  } if (/(- |-$)/.test(lemma)) {
     return 'Prefix';
-  } if (lemma.match(/^-/)) {
+  } if (/^-/.test(lemma)) {
     return 'Particle';
   }
   return '';
