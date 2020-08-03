@@ -3483,7 +3483,7 @@
   },
   {
     "partOfSpeech": "Noun",
-    "lemma": "vīs (sg. only acc. vim, abl. vī; pl. vīrēs, -ium), f.",
+    "lemma": "vīs (sg. only acc. vim, abl. vī; pl. vīrēs, -ium)",
     "english": "force, strength, energy",
     "learned": false,
     "properties": {
@@ -3596,7 +3596,7 @@
     "properties": {
       "number": "singular",
       "declension": 1,
-      "gender": "masculine"
+      "gender": "neuter"
     }
   },
   {
@@ -8759,9 +8759,9 @@
     "learned": false,
     "properties": {
       "number": "singular",
-      "declension": 0,
+      "declension": 2,
       "gender": "masculine",
-      "correctGenitive": "sōlis m."
+      "correctGenitive": "sōlis"
     }
   },
   {
