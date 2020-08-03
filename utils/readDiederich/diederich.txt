@@ -301,7 +301,7 @@ xx		1	14	clāmō, -āre, -āvī, -ātum	to call, cry out, shout
 x		1	14	tumultus, -ūs, m.	commotion, uprising
 xx	d.	1	14	tumulus, -ī, m.	(esp. of land) hillock, mound; (lit.) little swelling
 x		1	14	murmur, -uris, n.	murmuring, murmur
-x		1	14	rūmor, -ōris, m.	(lit.) vage sound, murmur; report, rumor
+x		1	14	rūmor, -ōris, m.	(lit.) vague sound, murmur; report, rumor
 x		1	14	iocus, -ī, m.	jest, joke, sport or sportiveness in words; (fig.) a cause for jesting, a subject for mirth
 x		1	15	verbum, -ī, n.	word
 x		1	15	littera, -ae, f.	letter (of the alphabet)
@@ -555,14 +555,14 @@ xx		3	1	ēveniō, -īre, -vēnī, -ventum	to come forth; happen (of things both 
 xx		3	1	inveniō, -īre, -vēnī, -ventum	to come upon, find; (rarely) find out
 xx		3	1	perveniō, -īre, -vēnī, -ventum	to get through, arrive, reach
 x		3	1	cēdō, -ere, cessī, cessum	to move, step; go away; yield, retreat (so reg. in Caesar)
-xx		3	1	accēdō, -ēre, -cessī, -cessum	to go to, move to, approach; (fig.) be added (as pass. of addo); (fig.) wax (opp. to wane)
-xx		3	1	concēdō, -ēre, -cessī, -cessum	(lit.) to go with; retire, withdraw; (fig.) yield, submit; (occasionally) forgive
-xx		3	1	dēcēdō, -ēre, -cessī, -cessum	to go away from
-xx		3	1	discēdō, -ēre, -cessī, -cessum	to go away, depart
-xx		3	1	excēdō, -ēre, -cessī, -cessum	to go forth, withdraw
-xx		3	1	incēdō, -ēre, -cessī, -cessum	to move in, move on (of dignified movement)
-xx		3	1	prōcēdō, -ēre, -cessī, -cessum	to go forth, advance
-xx		3	1	recēdō, -ēre, -cessī, -cessum	to step back, recede, recoil, withdraw, etc.
+xx		3	1	accēdō, -ere, -cessī, -cessum	to go to, move to, approach; (fig.) be added (as pass. of addo); (fig.) wax (opp. to wane)
+xx		3	1	concēdō, -ere, -cessī, -cessum	(lit.) to go with; retire, withdraw; (fig.) yield, submit; (occasionally) forgive
+xx		3	1	dēcēdō, -ere, -cessī, -cessum	to go away from
+xx		3	1	discēdō, -ere, -cessī, -cessum	to go away, depart
+xx		3	1	excēdō, -ere, -cessī, -cessum	to go forth, withdraw
+xx		3	1	incēdō, -ere, -cessī, -cessum	to move in, move on (of dignified movement)
+xx		3	1	prōcēdō, -ere, -cessī, -cessum	to go forth, advance
+xx		3	1	recēdō, -ere, -cessī, -cessum	to step back, recede, recoil, withdraw, etc.
 x		3	1	vādō, -ere, --, --	to go, walk, advance, etc.
 x		3	1	ēvādō, -ere, -vāsī, -vāsum	to go forth, escape
 x		3	1	vadum, -ī, n.	ford; shallow, shoal
@@ -661,7 +661,7 @@ xx		3	2	expellō, -ere, -pulī, -pulsum	to push out, expel
 xx		3	2	impellō, -ere, -pulī, -pulsum	to drive on, impel; (more often fig.) excite, urge on
 xx		3	2	pulsō, -āre, -āvī, -ātum	to beat, lash, etc.; (fig.) disturb
 x		3	2	agō, -ere, ēgī, āctum	to drive, carry on, do, act; (fig.) treat, discuss; (of time) spend
-xx		3	2	agitō, -āre, -āvī, -ātum	to drive, (esp. of hunters) pursuse, hound (lit. and fig.)
+xx		3	2	agitō, -āre, -āvī, -ātum	to drive, (esp. of hunters) pursue, hound (lit. and fig.)
 xx		3	2	agmen, -inis, n.	line of march; army on the march; (fig.) movement, course
 x		3	2	cōgō, -ere, coēgī, coāctum	(lit.) to drive together, gather together; force, compel
 xx		3	2	exigō, -ere, -ēgī, -āctum	to drive out; exact, collect; (of time) spend, finish up

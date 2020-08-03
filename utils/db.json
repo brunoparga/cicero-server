@@ -10856,7 +10856,7 @@
   {
     "partOfSpeech": "Verb",
     "lemma": "agitō",
-    "english": "to drive, (esp. of hunters) pursuse, hound (lit. and fig.)",
+    "english": "to drive, (esp. of hunters) pursue, hound (lit. and fig.)",
     "learned": false,
     "properties": {
       "conjugation": 0,
@@ -11482,7 +11482,7 @@
     "english": "to go away from",
     "learned": false,
     "properties": {
-      "conjugation": 1,
+      "conjugation": 2,
       "perfect": "-cessī",
       "supine": "-cessum",
       "deponent": false
@@ -11506,7 +11506,7 @@
     "english": "to go away, depart",
     "learned": false,
     "properties": {
-      "conjugation": 1,
+      "conjugation": 2,
       "perfect": "-cessī",
       "supine": "-cessum",
       "deponent": false
@@ -11554,7 +11554,7 @@
     "english": "to go forth, advance",
     "learned": false,
     "properties": {
-      "conjugation": 1,
+      "conjugation": 2,
       "perfect": "-cessī",
       "supine": "-cessum",
       "deponent": false
@@ -11578,7 +11578,7 @@
     "english": "to go forth, withdraw",
     "learned": false,
     "properties": {
-      "conjugation": 1,
+      "conjugation": 2,
       "perfect": "-cessī",
       "supine": "-cessum",
       "deponent": false
@@ -11626,7 +11626,7 @@
     "english": "to go to, move to, approach; (fig.) be added (as pass. of addo); (fig.) wax (opp. to wane)",
     "learned": false,
     "properties": {
-      "conjugation": 1,
+      "conjugation": 2,
       "perfect": "-cessī",
       "supine": "-cessum",
       "deponent": false
@@ -11674,7 +11674,7 @@
     "english": "(lit.) to go with; retire, withdraw; (fig.) yield, submit; (occasionally) forgive",
     "learned": false,
     "properties": {
-      "conjugation": 1,
+      "conjugation": 2,
       "perfect": "-cessī",
       "supine": "-cessum",
       "deponent": false
@@ -12703,7 +12703,7 @@
     "english": "to move in, move on (of dignified movement)",
     "learned": false,
     "properties": {
-      "conjugation": 1,
+      "conjugation": 2,
       "perfect": "-cessī",
       "supine": "-cessum",
       "deponent": false
@@ -14054,7 +14054,7 @@
     "english": "to step back, recede, recoil, withdraw, etc.",
     "learned": false,
     "properties": {
-      "conjugation": 1,
+      "conjugation": 2,
       "perfect": "-cessī",
       "supine": "-cessum",
       "deponent": false
@@ -15301,7 +15301,7 @@
   {
     "partOfSpeech": "Noun",
     "lemma": "rūmor",
-    "english": "(lit.) vage sound, murmur; report, rumor",
+    "english": "(lit.) vague sound, murmur; report, rumor",
     "learned": false,
     "properties": {
       "number": "singular",
