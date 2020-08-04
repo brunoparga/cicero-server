@@ -23,7 +23,12 @@ class Word extends Model {
   static get wordFindParams() {
     return {
       // TODO: remove this WHERE when done debugging
-      where: { lemma: { [Op.substring]: 'sōl' } },
+      where: {
+        partOfSpeech: ['Numeral', 'Pronoun'],
+        properties: {
+          suffixes: '3rd (-er/-ris/-re)',
+        },
+      },
       // TODO: make this LIMIT customizable
       limit: 5,
       // TODO: replace this shuffling with something smarter

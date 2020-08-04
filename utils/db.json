@@ -2626,7 +2626,12 @@
     "partOfSpeech": "Pronoun",
     "lemma": "uterque, utraque, utrumque",
     "english": "each of two",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "feminine": "utraque",
+      "neuter": "utrumque",
+      "suffixes": "3rd (-er/-ris/-re)"
+    }
   },
   {
     "partOfSpeech": "Pronoun",
@@ -7791,7 +7796,12 @@
     "partOfSpeech": "Pronoun",
     "lemma": "ipse, ipsa, ipsum",
     "english": "self, selves; himself, herself, etc.",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "feminine": "ipsa",
+      "neuter": "ipsum",
+      "suffixes": "3rd (-er/-ris/-re)"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -8932,7 +8942,12 @@
     "partOfSpeech": "Pronoun",
     "lemma": "iste, ista, istud",
     "english": "(demonst. pron. of second person, often with a tone of contempt) that (of thine)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "feminine": "ista",
+      "neuter": "istud",
+      "suffixes": "3rd (-er/-ris/-re)"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -8948,13 +8963,23 @@
     "partOfSpeech": "Pronoun",
     "lemma": "ille, illa, illud",
     "english": "that one (opp. to hic); the former",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "feminine": "illa",
+      "neuter": "illud",
+      "suffixes": "3rd (-er/-ris/-re)"
+    }
   },
   {
     "partOfSpeech": "Pronoun",
     "lemma": "is, ea, id",
     "english": "(determ. pron.) that one; he, she, it; (as antec. to rel.) such",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "feminine": "ea",
+      "neuter": "id",
+      "suffixes": "3rd (-er/-ris/-re)"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -9029,7 +9054,12 @@
     "partOfSpeech": "Pronoun",
     "lemma": "īdem, eadem, idem",
     "english": "the same; (followed by atque or the rel. pron.) as",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "feminine": "eadem",
+      "neuter": "idem",
+      "suffixes": "3rd (-er/-ris/-re)"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -9142,7 +9172,12 @@
     "partOfSpeech": "Pronoun",
     "lemma": "hic, haec, hoc",
     "english": "this; the latter",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "feminine": "haec",
+      "neuter": "hoc",
+      "suffixes": "3rd (-er/-ris/-re)"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -15086,7 +15121,12 @@
     "partOfSpeech": "Numeral",
     "lemma": "duo, duae, duo",
     "english": "(card. num.) two",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "feminine": "duae",
+      "neuter": "duo",
+      "suffixes": "3rd (-er/-ris/-re)"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -15606,7 +15646,12 @@
     "partOfSpeech": "Pronoun",
     "lemma": "quīcumque, quaecumque, quodcumque",
     "english": "(indef. rel. pron.) whoever, whichever, whatever",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "feminine": "quaecumque",
+      "neuter": "quodcumque",
+      "suffixes": "3rd (-er/-ris/-re)"
+    }
   },
   {
     "partOfSpeech": "Adjective",

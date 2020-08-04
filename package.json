@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node app.js",
     "read": "node utils/readDiederich/diederich.js",
+    "seed": "pnpm run read; node utils/dbSeed.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
