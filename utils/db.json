@@ -4146,7 +4146,7 @@
   },
   {
     "partOfSpeech": "Interjection",
-    "lemma": "salvē (sg.)",
+    "lemma": "salvē (sg.), salvēte (pl.)",
     "english": "hail!",
     "learned": false
   },
@@ -6719,7 +6719,7 @@
   },
   {
     "partOfSpeech": "Adjective",
-    "lemma": "alius",
+    "lemma": "alius, -a, -ud (gen. alterīus, dat. aliī/alterī)",
     "english": "other, another",
     "learned": false,
     "properties": {
@@ -8347,7 +8347,7 @@
   },
   {
     "partOfSpeech": "Noun",
-    "lemma": "nātus",
+    "lemma": "nātus, -ī, m. (nāta, -ae, f.)",
     "english": "(of persons) son, daughter; (of animals) a male/female young one; (pl.) offspring, young, both male and female",
     "learned": false,
     "properties": {
