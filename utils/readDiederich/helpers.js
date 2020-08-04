@@ -22,7 +22,9 @@ const lemmatize = (lemma, partOfSpeech) => {
     'salvē (sg.), salvēte (pl.)',
     'vicis (gen. sg.), vicem (acc. sg.), vice (abl. sg.)',
   ];
-  if (lemma.includes('sponte') || lemma.includes('vīrēs')) {
+  if (lemma.includes('mīlle')) {
+    return 'mīlle (sg.), mīlia (pl.)';
+  } if (lemma.includes('sponte') || lemma.includes('vīrēs')) {
     return lemma.slice(0, -4);
   } if (['Numeral', 'Pronoun'].includes(partOfSpeech) || irregularWords.includes(lemma)) {
     return lemma;

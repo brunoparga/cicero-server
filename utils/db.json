@@ -9163,10 +9163,15 @@
     }
   },
   {
-    "partOfSpeech": "Numeral",
-    "lemma": "mīlle (sg. indecl., pl. mīlia, -ium n.)",
-    "english": "thousand (adj. in sing., subst. in plural)",
-    "learned": false
+    "partOfSpeech": "Noun",
+    "lemma": "mīlle (sg.), mīlia (pl.)",
+    "english": "thousand (indecl. adj. in sing., subst. in plural)",
+    "learned": false,
+    "properties": {
+      "number": "plural",
+      "declension": 2,
+      "gender": "neuter"
+    }
   },
   {
     "partOfSpeech": "Numeral",

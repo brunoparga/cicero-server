@@ -21,7 +21,16 @@ const setCorrectGenitive = (lemma, number, declension) => {
   return undefined;
 };
 
+const milleProps = {
+  number: 'plural',
+  declension: 2,
+  gender: 'neuter',
+};
+
 module.exports = (lemma) => {
+  if (lemma === 'mīlle (sg. indecl., pl. mīlia, -ium n.)') {
+    return milleProps;
+  }
   const number = /um$/.test(lemma.split(',')[1]) ? 'plural' : 'singular';
 
   let gender = 'neuter';

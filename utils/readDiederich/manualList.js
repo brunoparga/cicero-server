@@ -11,7 +11,7 @@ const uniqueWords = {
   ante: 'Adverb, Preposition',
   // Unusual declensions
   'rēs pūblica, reī pūblicae, etc.': 'Noun',
-  'mīlle (sg. indecl., pl. mīlia, -ium n.)': 'Numeral',
+  'mīlle (sg. indecl., pl. mīlia, -ium n.)': 'Noun',
   // 'f.' classifies as noun
   'quatiō, -ere, --, quassum (perf. -cussī only in composita)': 'Verb',
 };

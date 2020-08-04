@@ -1187,7 +1187,7 @@ x		4	2	octō (indecl.)	(card. num.) eight
 x		4	2	novem (indecl.)	(card. num.) nine
 x		4	2	decem (indecl.)	(card. num.) ten
 x		4	2	centum (indecl.)	(card. num.) one hundred
-x		4	2	mīlle (sg. indecl., pl. mīlia, -ium n.)	thousand (adj. in sing., subst. in plural)
+x		4	2	mīlle (sg. indecl., pl. mīlia, -ium n.)	thousand (indecl. adj. in sing., subst. in plural)
 x		4	3	ācer, ācris, ācre	sharp, piercing (always in fig. sense, and usually applied to men, although Cicero applies it also to supplicium)
 xx		4	3	aciēs, -ēī, f.	(lit.) edge; line of battle (Caesar uses it once with oculorum, Cicero with auctoritatis; Vergil uses it alone of eyes, of sight, of sword. Otherwise the word is military)
 x		4	3	firmus, -a, -um	strong, firm, solid; steadfast
