@@ -16,7 +16,10 @@ exports.deduplicate = ([lemma], index, array) => (!index || lemma !== array[inde
 const lemmatize = (lemma, partOfSpeech) => {
   const irregularWords = [
     'āiō, ais, ait, aiunt',
+    'alius, -a, -ud (gen. alterīus, dat. aliī/alterī)',
     'inquam, inquis, inquit, inquiunt',
+    'nātus, -ī, m. (nāta, -ae, f.)',
+    'salvē (sg.), salvēte (pl.)',
     'vicis (gen. sg.), vicem (acc. sg.), vice (abl. sg.)',
   ];
   if (lemma.includes('sponte') || lemma.includes('vīrēs')) {

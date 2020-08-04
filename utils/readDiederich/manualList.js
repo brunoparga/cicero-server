@@ -51,6 +51,7 @@ const pronouns = [
   // due to commas splitting the lemma into four parts like verbs
   'cui',
   'egō (ego)',
+  'hic, haec, hoc',
   'ille, illa, illud',
   'ipse, ipsa, ipsum',
   'mē',

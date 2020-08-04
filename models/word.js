@@ -8,6 +8,7 @@ class Word extends Model {
   // Fetch words with their options and present them to controller
   static async fetch() {
     const words = await this.findAll(this.wordFindParams);
+    // TODO: do the options thing in one fell swoop
     const wordsWithOptions = await Promise.all(words.map(this.addOptions.bind(this)));
     return wordsWithOptions;
   }

@@ -9139,8 +9139,8 @@
     }
   },
   {
-    "partOfSpeech": "Adverb",
-    "lemma": "hic",
+    "partOfSpeech": "Pronoun",
+    "lemma": "hic, haec, hoc",
     "english": "this; the latter",
     "learned": false
   },

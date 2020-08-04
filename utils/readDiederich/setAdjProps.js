@@ -6,11 +6,11 @@ const setFirstAndSecondDeclensionAdjectives = (lemma) => {
       masculineGenitive: `${masculine.replace(/ī$/, 'ōrum')}`,
       feminine: `${masculine.replace(/ī$/, 'ae')}, -ārum`,
       neuter: `${masculine.replace(/ī$/, 'a')}, -ōrum`,
-    }
+    };
   } if (['-a', '-era'].includes(feminine)) {
     return {
       suffixes: '1st/2nd (-us)',
-      masculineGenitive: `-ī`,
+      masculineGenitive: '-ī',
       feminine: `${masculine.replace(/us$/, 'a')}, -ae`,
       neuter: `${masculine.replace(/us$/, 'um')}, -ī`,
     };
@@ -18,7 +18,7 @@ const setFirstAndSecondDeclensionAdjectives = (lemma) => {
   // TODO: fix the part where this throws away dext(e)rī
   return {
     suffixes: '1st/2nd (-er)',
-    masculineGenitive: `${masculine.replace(/(.+?)(ch|b|c|g|t)er$/, `-$2rī`)}`,
+    masculineGenitive: `${masculine.replace(/(.+?)(ch|b|c|g|t)er$/, '-$2rī')}`,
     feminine: `${masculine.replace(/er$/, 'ra')}, -ae`,
     neuter: `${masculine.replace(/er$/, 'rum')}, -ī`,
   };
