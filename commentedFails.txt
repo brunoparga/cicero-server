@@ -1,8 +1,7 @@
 ERROR IS IN THE DB
 gendered pronouns (e.g quīdam): lack 'properties' attribute (same with numerals) (create property setter)
-dexter, prosper: variants not listed (????)
-rēs pūblica: listed as neuter (fix in noun-property setter)
-vicis: presentation is wrong, listed as neuter (????)
+dexter, prosper: variants not listed (declension notes)
+vicis: presentation is wrong (declension notes)
 meminī, coepī: DB lacking correct perfect infinitive (fix in verb-property setter)
 
 Think about how to present their strange declension

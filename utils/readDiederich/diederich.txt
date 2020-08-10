@@ -1231,7 +1231,7 @@ x		4	5	extrēmus, -a, -um	outermost, farthest, last, extreme
 x		4	5	sēcrētus, -a, -um	separated, apart, secret
 x		4	5	prīvātus, -a, -um	apart, personal, private
 xx		4	5	pūblicus, -a, -um	public (i.e. belonging to the state); public in general
-xx				rēs pūblica, reī pūblicae, etc.	republic, state, commonwealth
+xx				rēs pūblica, reī pūblicae, f.	republic, state, commonwealth
 xx		4	5	commūnis, -e	common, general; (lit.) having common tasks
 xx		4	5	proprius, -a, -um	one's own; peculiar, etc. (in many senses)
 x		4	6	aeternus, -a, -um	everlasting, eternal
