@@ -192,7 +192,7 @@ xx		1	10	virtūs, -ūtis, f.	manliness, valor; (pl.) virtues
 xx	d.	1	10	vīs (sg. only acc. vim, abl. vī; pl. vīrēs, -ium), f.	force, strength, energy
 x		1	10	mulier, -eris, f.	woman (esp. married woman)
 xx		1	10	fēmina, -ae, f.	female; woman
-x		1	10	puer, puerī, m.	boy; (somtimes) slave; (pl.) children
+x		1	10	puer, puerī, m.	boy; (sometimes) slave; (pl.) children
 xx		1	10	puella, -ae, f.	little girl; maiden
 x		1	10	adulēscēns, -entis, mf.	a youth, young man; young woman, maiden (properly from the 15th or 17th until past the 30th year, but often till the 40th year, or even upwards)
 x		1	10	virgō, -inis, f.	maiden, virgin, girl
@@ -1337,7 +1337,7 @@ x		4	8	avidus, -a, -um	craving, eager for, longing for, ardent
 xx		4	8	invītus, -a, -um	unwilling, reluctant
 x		4	9	tālis, -e	such (in many usages; correl. with qualis)
 xx		4	9	quālis, -e	(interr. and rel. adj. pron.) of what kind? (correl. of talis)
-x		4	9	necesse (only used with esse)	(indecl. adj.) necessary
+x		4	9	necesse (only used with esse) (indecl.)	(adj.) necessary
 xx		4	9	necessitās, -ātis, f.	necessity, need
 x		4	9	similis, -e	like, similar
 x		4	9	simplex, -icis	simple, single
@@ -1413,7 +1413,7 @@ x		5	3	tam	(demonst. adv. of degree) so
 xx		5	3	tamquam	so as, just as
 x		5	3	quam	(interr. and rel. adv.) how? as; (after comparative) than; (with superl.) as--possible
 xx		5	3	quamvīs	however you like, although
-x		5	3	satis	(indecl. adv. and adj.) enough, sufficient
+x		5	3	satis (indecl.)	(adv. and adj.) enough, sufficient
 x		5	3	nimis	(adv.) too, too much
 xx		5	3	nimius, -a, -um	(adj.) too much, excessive
 x		5	3	plērumque	for the most part, generally

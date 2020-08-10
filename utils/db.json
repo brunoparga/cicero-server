@@ -643,7 +643,8 @@
       "number": "singular",
       "declension": 0,
       "gender": "neuter",
-      "correctGenitive": "n. (indecl.)"
+      "correctGenitive": "n. (indecl.)",
+      "indeclinable": true
     }
   },
   {
@@ -1237,7 +1238,7 @@
   {
     "partOfSpeech": "Noun",
     "lemma": "puer",
-    "english": "boy; (somtimes) slave; (pl.) children",
+    "english": "boy; (sometimes) slave; (pl.) children",
     "learned": false,
     "properties": {
       "number": "singular",
@@ -2493,7 +2494,8 @@
       "number": "singular",
       "declension": 0,
       "gender": "neuter",
-      "correctGenitive": "n. (indecl.)"
+      "correctGenitive": "n. (indecl.)",
+      "indeclinable": true
     }
   },
   {
@@ -2745,7 +2747,10 @@
     "partOfSpeech": "Numeral",
     "lemma": "octō (indecl.)",
     "english": "(card. num.) eight",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "indeclinable": true
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -2823,9 +2828,12 @@
   },
   {
     "partOfSpeech": "Adjective, Adverb",
-    "lemma": "satis",
-    "english": "(indecl. adv. and adj.) enough, sufficient",
-    "learned": false
+    "lemma": "satis (indecl.)",
+    "english": "(adv. and adj.) enough, sufficient",
+    "learned": false,
+    "properties": {
+      "indeclinable": true
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -3292,7 +3300,10 @@
     "partOfSpeech": "Numeral",
     "lemma": "quīnque (indecl.)",
     "english": "(card. num.) five",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "indeclinable": true
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -4708,7 +4719,10 @@
     "partOfSpeech": "Adjective",
     "lemma": "quot (indecl.)",
     "english": "(interr. rel. num. adj.) how many? (correl. of tot)",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "indeclinable": true
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -6186,9 +6200,12 @@
   },
   {
     "partOfSpeech": "Adverb",
-    "lemma": "necesse (only used with esse)",
-    "english": "(indecl. adj.) necessary",
-    "learned": false
+    "lemma": "necesse (only used with esse) (indecl.)",
+    "english": "(adj.) necessary",
+    "learned": false,
+    "properties": {
+      "indeclinable": true
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -6300,7 +6317,10 @@
     "partOfSpeech": "Numeral",
     "lemma": "novem (indecl.)",
     "english": "(card. num.) nine",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "indeclinable": true
+    }
   },
   {
     "partOfSpeech": "Pronoun",
@@ -6372,7 +6392,10 @@
     "partOfSpeech": "Pronoun",
     "lemma": "nihil or nīl (indecl.)",
     "english": "nothing",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "indeclinable": true
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -6623,7 +6646,10 @@
     "partOfSpeech": "Numeral",
     "lemma": "centum (indecl.)",
     "english": "(card. num.) one hundred",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "indeclinable": true
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -7887,7 +7913,10 @@
     "partOfSpeech": "Numeral",
     "lemma": "septem (indecl.)",
     "english": "(card. num.) seven",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "indeclinable": true
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -8091,7 +8120,10 @@
     "partOfSpeech": "Numeral",
     "lemma": "sex (indecl.)",
     "english": "(card. num.) six",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "indeclinable": true
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -8290,7 +8322,10 @@
     "partOfSpeech": "Numeral",
     "lemma": "tot (indecl.)",
     "english": "(indecl. demonst. num.) so many",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "indeclinable": true
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -8935,7 +8970,10 @@
     "partOfSpeech": "Numeral",
     "lemma": "decem (indecl.)",
     "english": "(card. num.) ten",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "indeclinable": true
+    }
   },
   {
     "partOfSpeech": "Adjective",
