@@ -458,7 +458,7 @@ x		1	23	spatium, -ī, n.	space (both of place and, more commonly, of time)
 x		1	23	vīta, -ae, f.	life
 x		1	23	vīs (sg. only acc. vim, abl. vī; pl. vīrēs, -ium), f.	force, strength, energy
 xx	d.	1	23	vir, virī, m.	man (opp. to woman); husband; hero
-x		1	23	vicis (gen. sg.), vicem (acc. sg.), vice (abl. sg.)	change, turn (in affairs); (in vicem) in exchange, in turn
+x		1	23	vicis (gen. sg.), vicem (acc. sg.), vice (abl. sg.), f.	change, turn (in affairs); (in vicem) in exchange, in turn
 x		1	23	fīnis, -is, m.	end, termination; boundary; (pl.) boundaries (usual sense in Caesar)
 xx		1	23	fīniō, -īre, -īvī, -ītum	to limit, bound
 xx		1	23	initium, -ī, n.	beginning; (lit.) an entering

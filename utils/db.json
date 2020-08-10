@@ -1,7 +1,7 @@
 [
   {
     "partOfSpeech": "Pronoun",
-    "lemma": "egō (ego)",
+    "lemma": "egō",
     "english": "I",
     "learned": false
   },
@@ -43,7 +43,7 @@
   },
   {
     "partOfSpeech": "Pronoun",
-    "lemma": "quīdam, quaedam, quiddam (subst., quoddam, adj.)",
+    "lemma": "quīdam",
     "english": "(indef. pron.) a certain one, some one",
     "learned": false
   },
@@ -266,7 +266,7 @@
   },
   {
     "partOfSpeech": "Prefix",
-    "lemma": "trāns- (trā-)",
+    "lemma": "trāns-",
     "english": "(prefix) across",
     "learned": false
   },
@@ -372,7 +372,7 @@
   },
   {
     "partOfSpeech": "Interjection",
-    "lemma": "heu (ēheu or eheu)",
+    "lemma": "heu",
     "english": "alas!",
     "learned": false
   },
@@ -553,19 +553,19 @@
   },
   {
     "partOfSpeech": "Conjunction",
-    "lemma": "atque (ac)",
+    "lemma": "atque",
     "english": "(copulative conj.) and in addition, and also, and; (after comparatives) than; (simul ~) as soon as",
     "learned": false
   },
   {
     "partOfSpeech": "Conjunction",
-    "lemma": "nēve (neu)",
+    "lemma": "nēve",
     "english": "and not, nor",
     "learned": false
   },
   {
     "partOfSpeech": "Adverb, Conjunction",
-    "lemma": "nec (neque)",
+    "lemma": "nec",
     "english": "and not, nor, neither",
     "learned": false
   },
@@ -612,7 +612,7 @@
   },
   {
     "partOfSpeech": "Pronoun",
-    "lemma": "quisquam, quidquam/quicquam",
+    "lemma": "quisquam",
     "english": "(indef. subst. pron.) any one",
     "learned": false
   },
@@ -630,7 +630,7 @@
   },
   {
     "partOfSpeech": "Pronoun",
-    "lemma": "quīlibet, quaelibet, quidlibet (subst., quodlibet, adj.)",
+    "lemma": "quīlibet",
     "english": "anyone, without distinction, whom you will; no matter who",
     "learned": false
   },
@@ -783,7 +783,7 @@
   },
   {
     "partOfSpeech": "Adverb",
-    "lemma": "prōtinus (prōtenus)",
+    "lemma": "prōtinus",
     "english": "at once, forthwith; (lit.) forward",
     "learned": false
   },
@@ -825,13 +825,13 @@
   },
   {
     "partOfSpeech": "Prefix",
-    "lemma": "re- (red-)",
+    "lemma": "re-",
     "english": "(prefix) back, again",
     "learned": false
   },
   {
     "partOfSpeech": "Adverb",
-    "lemma": "rūrsus (rūrsum)",
+    "lemma": "rūrsus",
     "english": "back, again; (lit.) turned back",
     "learned": false
   },
@@ -1530,7 +1530,7 @@
     "properties": {
       "number": "singular",
       "declension": 0,
-      "gender": "neuter",
+      "gender": "feminine",
       "correctGenitive": "vicem (acc. sg.)"
     }
   },
@@ -1931,7 +1931,7 @@
   },
   {
     "partOfSpeech": "Noun",
-    "lemma": "coniūnx (coniux)",
+    "lemma": "coniūnx",
     "english": "consort, spouse, husband or wife",
     "learned": false,
     "properties": {
@@ -2631,7 +2631,7 @@
   },
   {
     "partOfSpeech": "Pronoun",
-    "lemma": "uterque, utraque, utrumque",
+    "lemma": "uterque",
     "english": "each of two",
     "learned": false,
     "properties": {
@@ -2642,7 +2642,7 @@
   },
   {
     "partOfSpeech": "Pronoun",
-    "lemma": "quisque, quaeque, quidque (subst., quodque, adj.)",
+    "lemma": "quisque",
     "english": "(indef. pron.) each one, every one",
     "learned": false
   },
@@ -2745,7 +2745,7 @@
   },
   {
     "partOfSpeech": "Numeral",
-    "lemma": "octō (indecl.)",
+    "lemma": "octō",
     "english": "(card. num.) eight",
     "learned": false,
     "properties": {
@@ -2828,7 +2828,7 @@
   },
   {
     "partOfSpeech": "Adjective, Adverb",
-    "lemma": "satis (indecl.)",
+    "lemma": "satis",
     "english": "(adv. and adj.) enough, sufficient",
     "learned": false,
     "properties": {
@@ -2864,7 +2864,7 @@
   },
   {
     "partOfSpeech": "Adverb",
-    "lemma": "velut (velutī)",
+    "lemma": "velut",
     "english": "even as, like as, just as",
     "learned": false
   },
@@ -2876,7 +2876,7 @@
   },
   {
     "partOfSpeech": "Adverb",
-    "lemma": "umquam (unquam)",
+    "lemma": "umquam",
     "english": "ever, at any time (usually with neg. as stronger than numquam, or after conditional particle)",
     "learned": false
   },
@@ -3298,7 +3298,7 @@
   },
   {
     "partOfSpeech": "Numeral",
-    "lemma": "quīnque (indecl.)",
+    "lemma": "quīnque",
     "english": "(card. num.) five",
     "learned": false,
     "properties": {
@@ -3498,7 +3498,7 @@
   },
   {
     "partOfSpeech": "Conjunction",
-    "lemma": "nam (or namque as a stronger variant)",
+    "lemma": "nam",
     "english": "(causal conj.) for; (also particle appended to inter. words) indeed, really",
     "learned": false
   },
@@ -3778,13 +3778,13 @@
   },
   {
     "partOfSpeech": "Adverb",
-    "lemma": "quārē (quā rē)",
+    "lemma": "quārē",
     "english": "(interr.) from what cause? why?; (rel.) by which means, whereby; wherefore, why",
     "learned": false
   },
   {
     "partOfSpeech": "Preposition",
-    "lemma": "ā (ab)",
+    "lemma": "ā",
     "english": "(prep. with abl.) (of place whence) from; so in phrases as ~ tergo, from (on) the rear, etc.; (of cause) from; (of agent) by; (of remote origin) from; (of time) from",
     "learned": false
   },
@@ -4568,7 +4568,7 @@
   },
   {
     "partOfSpeech": "Noun",
-    "lemma": "honor (or honōs)",
+    "lemma": "honor",
     "english": "honor, praise, glory",
     "learned": false,
     "properties": {
@@ -4693,7 +4693,7 @@
   },
   {
     "partOfSpeech": "Adverb",
-    "lemma": "ut (utī)",
+    "lemma": "ut",
     "english": "(interr. rel. adv.) how (not in Caesar); (comp.) like, as; (often with correlatives as ita, sic) so; (temporal) as soon as (sometimes strengthened by primum); (final) in order that; (consecutive or result) so as to, so that",
     "learned": false
   },
@@ -4717,7 +4717,7 @@
   },
   {
     "partOfSpeech": "Adjective",
-    "lemma": "quot (indecl.)",
+    "lemma": "quot",
     "english": "(interr. rel. num. adj.) how many? (correl. of tot)",
     "learned": false,
     "properties": {
@@ -4784,7 +4784,7 @@
   },
   {
     "partOfSpeech": "Adverb",
-    "lemma": "sīve (seu)",
+    "lemma": "sīve",
     "english": "if (alternate condition)",
     "learned": false
   },
@@ -4865,7 +4865,7 @@
   },
   {
     "partOfSpeech": "Adverb",
-    "lemma": "ibīdem (ibidem)",
+    "lemma": "ibīdem",
     "english": "in the same place",
     "learned": false
   },
@@ -5055,7 +5055,7 @@
   },
   {
     "partOfSpeech": "Adverb",
-    "lemma": "sīcut (sīcutī)",
+    "lemma": "sīcut",
     "english": "just as",
     "learned": false
   },
@@ -6200,7 +6200,7 @@
   },
   {
     "partOfSpeech": "Adverb",
-    "lemma": "necesse (only used with esse) (indecl.)",
+    "lemma": "necesse",
     "english": "(adj.) necessary",
     "learned": false,
     "properties": {
@@ -6315,7 +6315,7 @@
   },
   {
     "partOfSpeech": "Numeral",
-    "lemma": "novem (indecl.)",
+    "lemma": "novem",
     "english": "(card. num.) nine",
     "learned": false,
     "properties": {
@@ -6324,7 +6324,7 @@
   },
   {
     "partOfSpeech": "Pronoun",
-    "lemma": "nēmō (nūllīus, nēminī, nēminem, nūllō)",
+    "lemma": "nēmō",
     "english": "no one",
     "learned": false
   },
@@ -6372,7 +6372,7 @@
   },
   {
     "partOfSpeech": "Adverb",
-    "lemma": "nisī (nisi)",
+    "lemma": "nisī",
     "english": "(lit.) not if; if not; (after a neg.) unless, except; si is sometimes added",
     "learned": false
   },
@@ -6390,7 +6390,7 @@
   },
   {
     "partOfSpeech": "Pronoun",
-    "lemma": "nihil or nīl (indecl.)",
+    "lemma": "nihil",
     "english": "nothing",
     "learned": false,
     "properties": {
@@ -6644,7 +6644,7 @@
   },
   {
     "partOfSpeech": "Numeral",
-    "lemma": "centum (indecl.)",
+    "lemma": "centum",
     "english": "(card. num.) one hundred",
     "learned": false,
     "properties": {
@@ -6671,7 +6671,7 @@
   },
   {
     "partOfSpeech": "Adverb",
-    "lemma": "sē or sēsē",
+    "lemma": "sē",
     "english": "oneself",
     "learned": false
   },
@@ -6761,7 +6761,7 @@
   },
   {
     "partOfSpeech": "Adjective",
-    "lemma": "alius, -a, -ud (gen. alterīus, dat. aliī/alterī)",
+    "lemma": "alius",
     "english": "other, another",
     "learned": false,
     "properties": {
@@ -6791,7 +6791,7 @@
   },
   {
     "partOfSpeech": "Preposition",
-    "lemma": "ē (ex)",
+    "lemma": "ē",
     "english": "(prep. with abl.) (of place) out of, from; (of origin) from; (of reference) according to",
     "learned": false
   },
@@ -7461,7 +7461,7 @@
   },
   {
     "partOfSpeech": "Adverb",
-    "lemma": "nūper (superl. nūperrimē)",
+    "lemma": "nūper",
     "english": "recently, lately",
     "learned": false
   },
@@ -7831,7 +7831,7 @@
   },
   {
     "partOfSpeech": "Pronoun",
-    "lemma": "ipse, ipsa, ipsum",
+    "lemma": "ipse",
     "english": "self, selves; himself, herself, etc.",
     "learned": false,
     "properties": {
@@ -7911,7 +7911,7 @@
   },
   {
     "partOfSpeech": "Numeral",
-    "lemma": "septem (indecl.)",
+    "lemma": "septem",
     "english": "(card. num.) seven",
     "learned": false,
     "properties": {
@@ -8118,7 +8118,7 @@
   },
   {
     "partOfSpeech": "Numeral",
-    "lemma": "sex (indecl.)",
+    "lemma": "sex",
     "english": "(card. num.) six",
     "learned": false,
     "properties": {
@@ -8320,7 +8320,7 @@
   },
   {
     "partOfSpeech": "Numeral",
-    "lemma": "tot (indecl.)",
+    "lemma": "tot",
     "english": "(indecl. demonst. num.) so many",
     "learned": false,
     "properties": {
@@ -8968,7 +8968,7 @@
   },
   {
     "partOfSpeech": "Numeral",
-    "lemma": "decem (indecl.)",
+    "lemma": "decem",
     "english": "(card. num.) ten",
     "learned": false,
     "properties": {
@@ -8989,7 +8989,7 @@
   },
   {
     "partOfSpeech": "Pronoun",
-    "lemma": "iste, ista, istud",
+    "lemma": "iste",
     "english": "(demonst. pron. of second person, often with a tone of contempt) that (of thine)",
     "learned": false,
     "properties": {
@@ -9010,7 +9010,7 @@
   },
   {
     "partOfSpeech": "Pronoun",
-    "lemma": "ille, illa, illud",
+    "lemma": "ille",
     "english": "that one (opp. to hic); the former",
     "learned": false,
     "properties": {
@@ -9021,7 +9021,7 @@
   },
   {
     "partOfSpeech": "Pronoun",
-    "lemma": "is, ea, id",
+    "lemma": "is",
     "english": "(determ. pron.) that one; he, she, it; (as antec. to rel.) such",
     "learned": false,
     "properties": {
@@ -9101,7 +9101,7 @@
   },
   {
     "partOfSpeech": "Pronoun",
-    "lemma": "īdem, eadem, idem",
+    "lemma": "īdem",
     "english": "the same; (followed by atque or the rel. pron.) as",
     "learned": false,
     "properties": {
@@ -9141,7 +9141,7 @@
   },
   {
     "partOfSpeech": "Adverb",
-    "lemma": "ibī (ibi)",
+    "lemma": "ibī",
     "english": "there",
     "learned": false
   },
@@ -9219,7 +9219,7 @@
   },
   {
     "partOfSpeech": "Pronoun",
-    "lemma": "hic, haec, hoc",
+    "lemma": "hic",
     "english": "this; the latter",
     "learned": false,
     "properties": {
@@ -9259,7 +9259,7 @@
   },
   {
     "partOfSpeech": "Numeral",
-    "lemma": "trēs, tria",
+    "lemma": "trēs",
     "english": "(card. num.) three",
     "learned": false
   },
@@ -9673,7 +9673,7 @@
   },
   {
     "partOfSpeech": "Verb",
-    "lemma": "adsum (assum)",
+    "lemma": "adsum",
     "english": "to be present, be at hand, assist",
     "learned": false,
     "properties": {
@@ -14091,7 +14091,7 @@
   },
   {
     "partOfSpeech": "Verb",
-    "lemma": "exsistō (existō)",
+    "lemma": "exsistō",
     "english": "to stand forth, rise out, arise; exist",
     "learned": false,
     "properties": {
@@ -14951,7 +14951,7 @@
   },
   {
     "partOfSpeech": "Prefix",
-    "lemma": "con- (com-)",
+    "lemma": "con-",
     "english": "(prefix) together",
     "learned": false
   },
@@ -15168,7 +15168,7 @@
   },
   {
     "partOfSpeech": "Numeral",
-    "lemma": "duo, duae, duo",
+    "lemma": "duo",
     "english": "(card. num.) two",
     "learned": false,
     "properties": {
@@ -15627,7 +15627,7 @@
   },
   {
     "partOfSpeech": "Adverb, Conjunction",
-    "lemma": "ubī (ubi)",
+    "lemma": "ubī",
     "english": "(interr. rel. adv.) where (sometimes strengthened by nam); (temporal conj.) as soon as (sometimes strengthened by primum)",
     "learned": false
   },
@@ -15657,7 +15657,7 @@
   },
   {
     "partOfSpeech": "Noun",
-    "lemma": "vertex (or vortex)",
+    "lemma": "vertex",
     "english": "whirl; point/top of a whirl; summit, head, height (also vortex)",
     "learned": false,
     "properties": {
@@ -15693,19 +15693,19 @@
   },
   {
     "partOfSpeech": "Pronoun",
-    "lemma": "quisnam, quidnam",
+    "lemma": "quisnam",
     "english": "who, which, what pray/then",
     "learned": false
   },
   {
     "partOfSpeech": "Pronoun",
-    "lemma": "quisquis, quidquid/quicquid (subst., quodquod, adj.)",
+    "lemma": "quisquis",
     "english": "(indef. pron.) whoever, whichever",
     "learned": false
   },
   {
     "partOfSpeech": "Pronoun",
-    "lemma": "quīcumque, quaecumque, quodcumque",
+    "lemma": "quīcumque",
     "english": "(indef. rel. pron.) whoever, whichever, whatever",
     "learned": false,
     "properties": {
