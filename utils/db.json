@@ -18,12 +18,6 @@
     }
   },
   {
-    "partOfSpeech": "Preposition",
-    "lemma": "in",
-    "english": "I. Prep. with acc. or abl.: (with acc. of place whither) into the midst of; (with abl. of place where) in, on. II. Negative prefix used with adj., adv., and participles, un-. III. (intensive prefix) very ",
-    "learned": false
-  },
-  {
     "partOfSpeech": "Noun",
     "lemma": "tempus",
     "english": "I. limited duration of time; time in all senses, including opportunity, occasion; II. temple (part of forehead)",
@@ -2216,6 +2210,17 @@
     "partOfSpeech": "Noun",
     "lemma": "fīlia",
     "english": "daughter",
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 0,
+      "gender": "feminine"
+    }
+  },
+  {
+    "partOfSpeech": "Noun",
+    "lemma": "nāta",
+    "english": "(of persons) daughter; (of animals) a female young one",
     "learned": false,
     "properties": {
       "number": "singular",
@@ -4907,6 +4912,12 @@
       "gender": "neuter",
       "correctGenitive": "-inis"
     }
+  },
+  {
+    "partOfSpeech": "Preposition",
+    "lemma": "in",
+    "english": "(prep. with acc. or abl.): (with acc. of place whither) into the midst of; (with abl. of place where) in, on",
+    "learned": false
   },
   {
     "partOfSpeech": "Adverb",
@@ -8357,17 +8368,6 @@
   },
   {
     "partOfSpeech": "Noun",
-    "lemma": "nātus, -ī, m. (nāta, -ae, f.)",
-    "english": "(of persons) son, daughter; (of animals) a male/female young one; (pl.) offspring, young, both male and female",
-    "learned": false,
-    "properties": {
-      "number": "singular",
-      "declension": 1,
-      "gender": "feminine"
-    }
-  },
-  {
-    "partOfSpeech": "Noun",
     "lemma": "gener",
     "english": "son-in-law",
     "learned": false,
@@ -8376,6 +8376,17 @@
       "declension": 1,
       "gender": "masculine",
       "correctGenitive": "-erī"
+    }
+  },
+  {
+    "partOfSpeech": "Noun",
+    "lemma": "nātus",
+    "english": "(of persons) son; (of animals) a male young one; (pl.) offspring, young, both male and female",
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 1,
+      "gender": "masculine"
     }
   },
   {
@@ -15140,6 +15151,12 @@
     }
   },
   {
+    "partOfSpeech": "Prefix",
+    "lemma": "in- ",
+    "english": "un- (negative prefix used with adj., adv., and participles); very (intensive prefix) ",
+    "learned": false
+  },
+  {
     "partOfSpeech": "Adjective",
     "lemma": "perpetuus",
     "english": "unbroken, perpetual (both of material things and more commonly of time); (lit.) thorough seeking",
@@ -15625,8 +15642,14 @@
     }
   },
   {
-    "partOfSpeech": "Pronoun",
-    "lemma": "quī, quis",
+    "partOfSpeech": "Adverb",
+    "lemma": "quī",
+    "english": "who, which",
+    "learned": false
+  },
+  {
+    "partOfSpeech": "Adverb",
+    "lemma": "quis",
     "english": "who, which",
     "learned": false
   },

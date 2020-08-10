@@ -512,7 +512,8 @@ x		2	1	iste, ista, istud	(demonst. pron. of second person, often with a tone of 
 x		2	1	ipse, ipsa, ipsum	self, selves; himself, herself, etc.
 x		2	1	uter, utra, utrum	(interr. rel.) which of two; either of two
 xx		2	1	uterque, utraque, utrumque	each of two
-x		2	1	quī, quis	who, which
+x		2	1	quī, quae, quod	who, which
+x		2	1	quis, quid	who, which
 xx		2	1	cui	to whom, to which
 x		2	1	aliquis, aliquid	some, any
 x		2	1	quīcumque, quaecumque, quodcumque	(indef. rel. pron.) whoever, whichever, whatever
@@ -786,7 +787,8 @@ x		3	3	potior, -ius	(adj.) to be preferred; that may/can be preferred; preferabl
 x		3	3	potissimum	chiefly, principally, especially, in preference to others, above all, most of all
 x		3	3	mereō, -ēre, -uī, -itum	to deserve, merit; serve (as a soldier)
 x		3	3	nāscor, -ī, nātus sum	to be born (both in lit. and many fig. senses)
-xx		3	3	nātus, -ī, m. (nāta, -ae, f.)	(of persons) son, daughter; (of animals) a male/female young one; (pl.) offspring, young, both male and female
+xx		3	3	nātus, -ī, m.	(of persons) son; (of animals) a male young one; (pl.) offspring, young, both male and female
+xx		3	3	nāta, -ae, f.	(of persons) daughter; (of animals) a female young one
 x		3	3	vīvō, -ere, vīxī, vīctūrus	to live, subsist
 xx		3	3	vivus, -a, -um	alive, living
 xx		3	3	convīvium, -ī, n.	banquet, feast; (lit.) a living together
@@ -1485,7 +1487,8 @@ xx		8	1	propinquus, -a, -um	(lit.) near, close; (fig.) near, relative, kinsman
 x		8	1	propter	(prep. with acc.) on account of; (adv., very rare) near
 xx		8	1	ob	(prep. with acc.) (lit.) against, facing; (but reg.) on account of; in classical prose only in phrases with rem, causam, etc., otherwise propter
 x		8	1	ad	(prep. with acc.) (of motion whither) to, up to; (of direction) towards; (of respect) for, with regard to; (of manner) after, according to; (of place) at; (of time) at; (with numberals) about; (of purpose) for
-x		8	1	in	I. Prep. with acc. or abl.: (with acc. of place whither) into the midst of; (with abl. of place where) in, on. II. Negative prefix used with adj., adv., and participles, un-. III. (intensive prefix) very 
+x		8	1	in	(prep. with acc. or abl.): (with acc. of place whither) into the midst of; (with abl. of place where) in, on
+xx		8	1	in- 	un- (negative prefix used with adj., adv., and participles); very (intensive prefix) 
 x		8	1	inter	(prep. with acc.) between (of place where); (of time) during
 x		8	1	apud	(prep. with acc.) near (of place); (reg. of persons) in the presence of
 x		8	1	circum	(adv. and prep. with acc.) around, around about, in the neighborhood of, near

@@ -1,6 +1,4 @@
-const {
-  Sequelize, Model, DataTypes, Op,
-} = require('sequelize');
+const { Sequelize, Model, DataTypes } = require('sequelize');
 
 const URI = 'postgres://bruno:Q8Pv8bX9xYZN2bx5SHLF8g3Bqcy@localhost:5432/cicero';
 const sequelize = new Sequelize(URI);
@@ -22,17 +20,10 @@ class Word extends Model {
   // SELECT only the relevant things from each drilled word to send to the front-end
   static get wordFindParams() {
     return {
-      // TODO: remove this WHERE when done debugging
-      where: {
-        partOfSpeech: ['Numeral', 'Pronoun'],
-        properties: {
-          suffixes: '3rd (-er/-ris/-re)',
-        },
-      },
       // TODO: make this LIMIT customizable
-      limit: 5,
+      limit: 10,
       // TODO: replace this shuffling with something smarter
-      // order: [Sequelize.literal('RANDOM()')],
+      order: [Sequelize.literal('RANDOM()')],
       attributes: [['partOfSpeech', 'questionType'], 'lemma', 'english', 'learned', 'properties'],
     };
   }
