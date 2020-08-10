@@ -1488,7 +1488,7 @@ x		8	1	propter	(prep. with acc.) on account of; (adv., very rare) near
 xx		8	1	ob	(prep. with acc.) (lit.) against, facing; (but reg.) on account of; in classical prose only in phrases with rem, causam, etc., otherwise propter
 x		8	1	ad	(prep. with acc.) (of motion whither) to, up to; (of direction) towards; (of respect) for, with regard to; (of manner) after, according to; (of place) at; (of time) at; (with numberals) about; (of purpose) for
 x		8	1	in	(prep. with acc. or abl.): (with acc. of place whither) into the midst of; (with abl. of place where) in, on
-xx		8	1	in- 	un- (negative prefix used with adj., adv., and participles); very (intensive prefix) 
+xx		8	1	in-	un- (negative prefix used with adj., adv., and participles); very (intensive prefix) 
 x		8	1	inter	(prep. with acc.) between (of place where); (of time) during
 x		8	1	apud	(prep. with acc.) near (of place); (reg. of persons) in the presence of
 x		8	1	circum	(adv. and prep. with acc.) around, around about, in the neighborhood of, near
