@@ -1077,6 +1077,17 @@
   },
   {
     "partOfSpeech": "Noun",
+    "lemma": "volucris",
+    "english": "bird",
+    "learned": false,
+    "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "feminine"
+    }
+  },
+  {
+    "partOfSpeech": "Noun",
     "lemma": "āles",
     "english": "bird; (as adj.) winged, swift",
     "learned": false,
@@ -3044,14 +3055,14 @@
   },
   {
     "partOfSpeech": "Adjective",
-    "lemma": "prosper(us)",
+    "lemma": "prosper",
     "english": "favorable, auspicious",
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
       "masculineGenitive": "-ī",
-      "feminine": "prosper(us), -ae",
-      "neuter": "prosper(us), -ī"
+      "feminine": "prosper[prosperus], -ae",
+      "neuter": "prosper[prosperus], -ī"
     }
   },
   {
@@ -3386,15 +3397,15 @@
     }
   },
   {
-    "partOfSpeech": "Noun",
+    "partOfSpeech": "Adjective",
     "lemma": "volucer",
-    "english": "(adj.) flying, winged; (subst.) bird",
+    "english": "flying, winged",
     "learned": false,
     "properties": {
-      "number": "singular",
-      "declension": 2,
-      "gender": "feminine",
-      "correctGenitive": "-cris"
+      "genitive": "-is",
+      "suffixes": "3rd (-er/-ris/-re)",
+      "feminine": "-ris",
+      "neuter": "-e"
     }
   },
   {
@@ -4711,7 +4722,7 @@
   },
   {
     "partOfSpeech": "Numeral",
-    "lemma": "quotiē(n)s",
+    "lemma": "quotiēns",
     "english": "(interr. rel. num. adv.) how many times? (correl. of totiens)",
     "learned": false
   },
@@ -5234,7 +5245,7 @@
   },
   {
     "partOfSpeech": "Noun",
-    "lemma": "c(h)arta",
+    "lemma": "charta",
     "english": "leaf of the Egyptian papyrus; paper; (fig.) that which is written upon paper, i.e. a writing, letter, poem etc.; a thin leaf, plate, lamina, tablet",
     "learned": false,
     "properties": {
@@ -6255,7 +6266,7 @@
   },
   {
     "partOfSpeech": "Adverb",
-    "lemma": "nēve ... nēve (neu ... neu)",
+    "lemma": "nēve ... nēve[neu ... neu]",
     "english": "neither...nor",
     "learned": false
   },
@@ -13359,7 +13370,7 @@
   },
   {
     "partOfSpeech": "Verb",
-    "lemma": "ex(s)tinguō",
+    "lemma": "extinguō",
     "english": "to put out, quench; kill, destroy",
     "learned": false,
     "properties": {
@@ -15814,7 +15825,7 @@
   },
   {
     "partOfSpeech": "Noun",
-    "lemma": "hiem(p)s",
+    "lemma": "hiems",
     "english": "winter (divided into inita/media/extrema)",
     "learned": false,
     "properties": {

@@ -5,6 +5,7 @@ gendered pronouns (e.g quīdam): lack 'properties' attribute (same with numerals
 dexter, prosper: variants not listed (declension notes)
 vicis: presentation is wrong (declension notes)
 meminī, coepī: DB lacking correct perfect infinitive (fix in verb-property setter)
+prosper, nēve ... nēve: brackets still present
 
 Think about how to present their strange declension
 alius: weird neuter (fix in NumPronProps)

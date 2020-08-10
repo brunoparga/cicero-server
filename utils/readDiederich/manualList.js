@@ -4,8 +4,8 @@ const uniqueWords = {
   // TODO: getting options doesn't work with these words
   // Only words that share these parts of speech
   'satis (indecl.)': 'Adjective, Adverb',
-  'nec (neque)': 'Adverb, Conjunction',
-  'ubī (ubi)': 'Adverb, Conjunction',
+  'nec[neque]': 'Adverb, Conjunction',
+  'ubī[ubi]': 'Adverb, Conjunction',
   ergō: 'Conjunction, Preposition',
   // Two parts of speech listed separately
   ante: 'Adverb, Preposition',
@@ -40,7 +40,7 @@ const adjectives = [
 const conjunctions = [
   // Classified as adverbs
   'igitur',
-  'nēve (neu)',
+  'nēve[neu]',
   'quasi',
   'sīve ... sīve',
   'vel ... vel',
@@ -50,14 +50,14 @@ const pronouns = [
   // Most of these classify as adverbs, a few as verbs because the gloss begins with 'to ' or
   // due to commas splitting the lemma into four parts like verbs
   'cui',
-  'egō (ego)',
+  'egō[ego]',
   'hic, haec, hoc',
   'ille, illa, illud',
   'ipse, ipsa, ipsum',
   'mē',
   'mihi',
   'nēmō (nūllīus, nēminī, nēminem, nūllō)',
-  'nihil or nīl (indecl.)',
+  'nihil[nīl] (indecl.)',
   'nōbīs',
   'nōs',
   'quī, quis',

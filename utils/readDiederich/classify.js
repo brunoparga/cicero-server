@@ -28,7 +28,7 @@ const classifyByLemma = (lemma, definition) => {
     return 'Verb';
   } if (lemma.split(', -').length > 1) {
     return 'Adjective';
-  } if (/(- |-$)/.test(lemma)) {
+  } if (/[^-]-[\]]?$/.test(lemma)) {
     return 'Prefix';
   } if (/^-/.test(lemma)) {
     return 'Particle';
