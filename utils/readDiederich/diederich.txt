@@ -23,7 +23,7 @@ x		1	2	aestās, -ātis, f.	summer (divided into inita/prima/nova, media, and exa
 xx	d.	1	2	aestus, -ūs, m.	(of fire) heat; (of water) tide; (fig) heat of fever or passion; (lit.) a boiling or waving motion
 x		1	2	vēr, vēris, n.	spring
 xx		1	2	vernus, -a, -um	of or belonging to spring, spring-
-x		1	2	hiem(p)s, hiemis, f.	winter (divided into inita/media/extrema)
+x		1	2	hiems[hiemps], hiemis, f.	winter (divided into inita/media/extrema)
 x		1	2	annus, -ī, m.	year
 x		1	2	mēnsis, -is, m.	month
 xx	d.	1	2	mēnsa, -ae, f.	table
@@ -57,7 +57,9 @@ xx	d.	1	3	aurum, -ī, n.	gold; gold plate; money
 x		1	3	ventus, -ī, m.	wind
 x		1	3	nūbēs, -is, f.	cloud (esp. storm cloud); (fig.) crowd, throng
 x		1	3	tempestās, -ātis, f.	period of time, weather, season; esp. bad weather, storm; (fig.) calamity
+// DN
 xx		1	3	imber, -bris, m. (gen. pl. -ium)	rain-storm, shower
+// DN
 x		1	3	nix, nivis, f. (gen. pl. -ium)	snow
 xx		1	3	niveus, -a, -um	snow-like, snow-white
 x		1	4	ignis, -is, m.	fire
@@ -84,6 +86,7 @@ x		1	5	fretum, -ī, n.	strait (of water)
 x		1	5	gurges, -itis, m.	gulf, whirlpool; sea
 x		1	5	rīvus, -ī, m.	brook, rivulet
 xx		1	5	amnis, -is, m.	river, torrent (a poetic word rare except in nom. and acc. cases)
+// DN
 x		1	5	lacus, -ūs, -m. (dat./abl. pl. -ubus)	lake
 x		1	5	fōns, fontis, m.	spring, fountain
 x		1	5	pōns, pontis, m.	bridge
@@ -141,6 +144,7 @@ x		1	7	flōs, -ōris, m.	flower; (fig.) bloom (in var. senses)
 xx		1	7	flōreō, -ēre, -uī, --	to bloom (rare except in partic. florens)
 xx		1	7	sertum, -ī, n.	wreath of flowers, garland
 x		1	7	rosa, -ae, f.	rose
+// DN
 x		1	7	laurus, -ī (or -ūs), f.	bay-tree, laurel; wreath of laurel
 x		1	7	līlium, -ī, n.	lily
 x		1	8	cibus, -ī, m.	food
@@ -162,11 +166,13 @@ xx		1	9	pecus, -udis, f.	cattle (mainly of the smaller variety); sheep
 xx		1	9	pecūnia, -ae, f.	money
 x		1	9	equus, -ī, m.	horse
 xx		1	9	eques, -itis, m.	horseman; Roman knight
+// DN
 x		1	9	bōs, bovis, mf. (gen. pl. boum; dat/abl. pl. bōbus/būbus)	ox
 x		1	9	taurus, -ī, m.	bull
 x		1	9	iuvencus, -ī, m.	bullock, heifer
 x		1	9	ovis, -is, f.	sheep
 x		1	9	cornū, -ūs, n.	horn; anything shaped like a horn
+// DN
 x		1	9	canis, -is, mf. (abl. sg. -e, gen. pl. canum)	dog
 x		1	9	lupus, -ī, m.	wolf
 x		1	9	leō, -ōnis, m.	lion
@@ -189,6 +195,7 @@ x		1	10	homō, -inis, m.	human being, man, person (opp. to deus, fera, pecus)
 xx		1	10	hūmānus, -a, -um	pertaining to man, human; cultured, refined
 x		1	10	vir, virī, m.	man (opp. to woman); husband; hero
 xx		1	10	virtūs, -ūtis, f.	manliness, valor; (pl.) virtues
+// DN
 xx	d.	1	10	vīs (sg. only acc. vim, abl. vī; pl. vīrēs, -ium), f.	force, strength, energy
 x		1	10	mulier, -eris, f.	woman (esp. married woman)
 xx		1	10	fēmina, -ae, f.	female; woman
@@ -201,8 +208,10 @@ xx		1	10	senectūs, -ūtis, f.	old age
 xx		1	10	senātus, -ūs, m.	council of elders, senate
 x		1	10	familia, -ae, f.	house-servants; household, family
 x		1	10	parēns, -entis, mf.	parent (used for either father or mother)
+// VN (paritūrus é mais comum que partūrus)
 xx		1	10	pariō, -ere, peperī, partum (paritūrus)	to bring forth, give birth to, bear; accomplish, effect
 xx	d.	1	10	parō, -āre, -āvī, -ātum	to prepare, get ready; acquire
+// VN
 xx	d.	1	10	pāreō, -ēre, -uī, -itūrus (with dat.)	to obey
 x		1	10	pater, -tris, m.	father; (freely) ancestor; (fig.) elders, chiefs
 xx		1	10	patria, -ae, f.	fatherland, country
@@ -211,6 +220,7 @@ x		1	10	frāter, -tris, m.	brother
 x		1	10	soror, -ōris, f.	sister
 x		1	10	prōlēs, -is, f.	offspring, lineage, descendants; (lit.) off-shoot
 x		1	10	fīlius, -ī, m.	son
+// DN
 xx		1	10	fīlia, -ae, f. (dat./abl. pl. fīliābus)	daughter
 x		1	10	gener, -erī, m.	son-in-law
 x		1	10	nepōs, -ōtis, m.	grandson; descendant in general; (pl.) descendants, posterity; (in a bad sense) a degenerate, spendthrift
@@ -252,6 +262,7 @@ x		1	11	tergum, -ī, n.	back, rear
 x		1	11	bracchium, -ī, n.	fore-arm, arm; (fig.) yard-arm, branch
 x		1	11	gremium, -ī, n.	lap, bosom
 x		1	11	manus, -ūs, f.	hand; (in many fig. usages as) band, force, etc.
+// variant form
 xx		1	11	dexter, -t(e)ra, -t(e)rum	right (opp. to sinister, laevus)
 xx		1	11	sinister, -tra, -trum	left (opp. to dexter)
 xx		1	11	laevus, -a, -um	left, left-hand; (fig.) awkward, foolish, etc.
@@ -281,6 +292,7 @@ xx		1	12	memor, -is	mindful of, remembering
 xx		1	12	memorō, -āre, -āvī, -ātum	to recall, recount, relate
 xx		1	12	meminī, -isse, --	to remember, recollect
 xx		1	12	oblīvīscor, -ī, oblītus sum	to forget
+// DN
 x		1	12	sponte (abl., gen. spontis very rare), f.	of one's own will, voluntarily
 x		1	13	īra, -ae, f.	anger, wrath
 xx		1	13	īrāscor, -ī, --	to get angry
@@ -310,7 +322,7 @@ x		1	15	epistula, -ae, f.	letter, despatch
 x		1	15	versus, -ūs, m.	(fig.) rank, tier; (esp.) verse; (lit.) a turning
 x		1	15	fābula, -ae, f.	a fictitious narrative, tale, story; dramatic poem, drama play; fable
 x		1	15	historia, -ae, f.	a narrative of past event, history; narrative, account, tale, story
-x		1	15	c(h)arta, -ae, f.	leaf of the Egyptian papyrus; paper; (fig.) that which is written upon paper, i.e. a writing, letter, poem etc.; a thin leaf, plate, lamina, tablet
+x		1	15	charta[carta], -ae, f.	leaf of the Egyptian papyrus; paper; (fig.) that which is written upon paper, i.e. a writing, letter, poem etc.; a thin leaf, plate, lamina, tablet
 x		1	15	titulus, -ī, m.	(lit.) inscription, label, title; notice, bill, placard (e.g. that something is to be sold/let; inscription on a tomb; (fig.) honourable appellation, title; pretence, pretext
 x		1	15	lyra, -ae, f.	a lute, lyre; (fig.) lyric poetry, song; the constellation Lyra
 x		1	15	chorus, -ī, m.	dance, choral dance; band, troop
@@ -333,6 +345,7 @@ x		1	17	via, -ae, f.	way, route, street
 xx		1	17	obvius, -a, -um	open to; (with verbs ire etc.) meet; (lit.) in the way of
 xx		1	17	iter, itineris, n.	journey, route, line of march; (lit.) a going
 x		1	17	mūrus, -ī, m.	wall
+// DN
 x		1	17	turris, -is, f. (acc. sg. -im, abl. sg. -i)	tower
 x		1	17	domus, -ūs, f.	home, house
 xx		1	17	vīlla, -ae, f.	country-seat
@@ -386,6 +399,7 @@ xx		1	19	iūstus, -a, -um	right, just, fair
 xx		1	19	iniūria, -ae, f.	injustice, wrong, affront
 xx		1	19	iūdex, -icis, m.	judge, juror, arbiter
 xx		1	19	iūdicium, -ī, n.	judgment, decision
+// DN
 xx		1	19	līs, lītis, f. (gen. pl. -ium)	(lit.) suit at law; (hence) damages
 xx		1	19	lēx, lēgis, f.	law, statute, ordinance (made by Senate and People)
 x		1	19	carcer, -eris, m.	prison; barriers, starting place
@@ -399,7 +413,7 @@ x		1	20	mōs, mōris, m.	manner, way, custom, habit
 x		1	20	decus, -oris, n.	comeliness, beauty, grace; ornament, glory
 x		1	20	mūnus, -eris, n.	task, function, service; gift, offering
 x		1	20	praemium, -ī, n.	bounty, reward
-x		1	20	honor (or honōs), -ōris, m.	honor, praise, glory
+x		1	20	honor[honōs], -ōris, m.	honor, praise, glory
 xx		1	20	honestus, -a, -um	honorable
 x		1	20	laus, -dis, f.	praise
 xx		1	20	laudō, -āre, -āvī, -ātum	to bestow praise, praise
@@ -451,13 +465,16 @@ xx		1	23	mōlēs, -is, f.	shapeless mass; massive structure, pile (of any kind);
 x		1	23	onus, -eris, n.	load, burden (lit. and fig.)
 xx		1	23	onerō, -āre, -āvī, -ātum	to load, burden
 x		1	23	cōpia, -ae, f.	supply, abundance; opportunity; (pl.) forces, esp. troops; supplies
+// DN
 x		1	23	locus, -ī, m. (pl. -a, -ōrum, n.)	place (in many lit. and fig. senses)
 xx		1	23	locō, -āre, -āvī, -ātum	to place, locate; let a contract
 xx		1	23	situs, -ūs, m.	situation, site; neglect, rust
 x		1	23	spatium, -ī, n.	space (both of place and, more commonly, of time)
 x		1	23	vīta, -ae, f.	life
+// DN
 x		1	23	vīs (sg. only acc. vim, abl. vī; pl. vīrēs, -ium), f.	force, strength, energy
 xx	d.	1	23	vir, virī, m.	man (opp. to woman); husband; hero
+// DN
 x		1	23	vicis (gen. sg.), vicem (acc. sg.), vice (abl. sg.), f.	change, turn (in affairs); (in vicem) in exchange, in turn
 x		1	23	fīnis, -is, m.	end, termination; boundary; (pl.) boundaries (usual sense in Caesar)
 xx		1	23	fīniō, -īre, -īvī, -ītum	to limit, bound
@@ -469,8 +486,9 @@ x		1	23	ōrdō, -inis, m.	succession, order, class, rank, row, etc.
 x		1	23	condiciō, -ōnis, f.	agreement, terms; condition, station
 x		1	23	discrīmen, -inis, n.	(lit.) interval, distance apart, division, separation; decisive moment, crisis, risk
 x		1	23	pars, partis, f.	part
+// DN
 x		1	23	nēmō (nūllīus, nēminī, nēminem, nūllō)	no one
-x		1	23	nihil or nīl (indecl.)	nothing
+x		1	23	nihil[nīl] (indecl.)	nothing
 x		1	23	numerus, -ī, m.	number, amount; musical order, rhythm, strain
 xx		1	23	numerō, -āre, -āvī, -ātum	(lit.) to count, reckon, number; (of money) count out, pay out, pay; (lit.) reckon, number as one's own (i.e. to have, possess); account, reckon, esteem, consider as any thing
 x		1	23	nōmen, -inis, n.	name; (lit.) means of knowing
@@ -478,7 +496,7 @@ xx		1	23	nōminō, -āre, -āvī, -ātum	to call by name, call, name
 x		1	23	color, -ōris, m.	color (in var. senses)
 x		1	23	odor, -ōris, m.	smell, odor, fragrance
 x		1	23	rota, -ae, f.	wheel
-x		2	1	egō (ego)	I
+x		2	1	egō[ego]	I
 xx		2	1	mē	(acc.) me; (abl.) by/with/from me
 xx		2	1	mēcum	with me
 xx		2	1	meus, -a, -um	(poss. adj.) my
@@ -494,13 +512,15 @@ xx		2	1	tibi	for you (sg.)
 x		2	1	vōs	you (pl.)
 xx		2	1	vōbīs	(dat). for you (pl.); (abl.) by/with/from you (pl.)
 xx		2	1	vester, -tra, -trum	your (pl.)
-x		2	1	sē or sēsē	oneself
+x		2	1	sē[sēsē]	oneself
 xx		2	1	sēcum	with oneself
 xx		2	1	sibi	for oneself
 xx		2	1	suus, -a, -um	(reflex. poss. adj.) his, his own, their, their own
+// DN
 x		2	1	alius, -a, -ud (gen. alterīus, dat. aliī/alterī)	other, another
 xx		2	1	aliēnus, -a, -um	belonging to another, strange, foreign; (fig.) unfavorable; used as gen. of alius
 xx		2	1	aliter	otherwise
+// DN
 xx		2	1	alter, -era, -erum (gen. alterīus, dat. alterī)	other of two, one of two, second
 xx		2	1	alternus, -a, -um	alternating, by turns
 xx		2	1	cēterus, -a, -um	the others, the rest
@@ -517,11 +537,15 @@ x		2	1	quis, quid	who, which
 xx		2	1	cui	to whom, to which
 x		2	1	aliquis, aliquid	some, any
 x		2	1	quīcumque, quaecumque, quodcumque	(indef. rel. pron.) whoever, whichever, whatever
+// QUOD
 x		2	1	quīdam, quaedam, quiddam (subst., quoddam, adj.)	(indef. pron.) a certain one, some one
+// QUOD
 x		2	1	quīlibet, quaelibet, quidlibet (subst., quodlibet, adj.)	anyone, without distinction, whom you will; no matter who
 x		2	1	quisnam, quidnam	who, which, what pray/then
 x		2	1	quisquam, quidquam/quicquam	(indef. subst. pron.) any one
+// QUOD
 x		2	1	quisque, quaeque, quidque (subst., quodque, adj.)	(indef. pron.) each one, every one
+// QUOD
 x		2	1	quisquis, quidquid/quicquid (subst., quodquod, adj.)	(indef. pron.) whoever, whichever
 x		3	1	eō, īre, iī (īvī), itum	to go
 xx		3	1	abeō, -īre, -iī, -itum	to go away, depart
@@ -572,6 +596,7 @@ x		3	1	fugiō, -ere, fūgī, fugitūrus	to flee, escape
 xx		3	1	fuga, -ae, f.	flight, rout
 x		3	1	vītō, -āre, -āvī, -ātum	to avoid, shun
 xx		3	1	vitium, -ī, n.	flaw, defect, fault, crime
+// VN
 x		3	1	appāreō, -ēre, -uī, (-itūrus)	to appear, become visible
 x		3	1	lateō, -ēre, -uī, --	to lie hid, be hidden (in lit. and fig. senses); (with acc. of person in poetry) be hid from, unknown to
 x		3	1	iaceō, -ēre, -uī, --	to lie (e.g. on the ground)
@@ -584,6 +609,7 @@ xx		3	1	incidō, -ere, -cidī, --	to fall upon, fall into; happen
 xx		3	1	cāsus, -ūs, m.	(lit.) a falling, fall; chance, accident
 x		3	1	lābor, lābī, lāpsus sum	to glide, slip, slide
 x	d.	3	1	labor, -ōris, m.	toil, exertion (in both lit. and fig. senses)
+// VN
 x		3	1	ruō, -ere, ruī, rutum (ruitūrus)	(trans.) to throw down, overthrow; (intrans.) rush down, tumble down, rush (in almost any sense)
 xx		3	1	ruīna, -ae, f.	downfall, collapse (both lit. and fig.)
 x		3	1	surgō, -ere, surrēxī, surrēctum	(trans.) to raise; (intrans.) rise
@@ -591,14 +617,17 @@ x		3	1	orior, orīrī, ortus sum	to arise; spring from, begin, etc.
 xx		3	1	exorior, -orīrī, -ortus sum	to rise up, appear, arise
 x		3	1	ascendō, -ere, -endī, -ēnsum	to climb up, ascend
 x		3	1	dēscendō, -ere, -scendī, -scēnsum	to climb down, descend
+// VN
 x		3	1	stō, stāre, stetī, statum (statūrus)	to stand
 xx		3	1	astō, astāre, astitī, --	to stand by, stand near, stand
 xx		3	1	cōnstō, -stāre, -stitī, -stātūrus	(lit.) stand with (i.e. be consistent, agree); be complete, regular; (impers.) cost; it is established, certain
 xx		3	1	īnstō, -stāre, -stitī, -stātūrus	to stand to/on; persist, press on/upon; impend, be at hand, etc.
 xx		3	1	obstō, -stāre, -stitī, -stātūrus	to stand in the way of
+// VN
 xx		3	1	praestō, -stāre, -stitī, -stitum (-stātūrus)	to stand in front, excel; exhibit, furnish
 x		3	1	sedeō, -ēre, sēdī, sessum	to sit; (fig.) be fixed, settled; (sometimes) suit
 xx		3	1	resīdō, -ere, -sēdī, -sessum	to sit back, sit down; (fig.) settle down, sink; (also) cease
+// DN
 xx		3	1	sēdēs, -is, f. (gen. pl. -um)	seat, abode, habitation (both lit. and fig.)
 x		3	1	maneō, -ēre, mānsī, mānsum	to remain, abide
 x		3	1	habitō, -āre, -āvī, -ātum	to occupy, inhabit, dwell in; (lit.) hold continually
@@ -751,16 +780,19 @@ xx		3	2	reliquus, -a, -um	remaining, rest
 xx		3	2	linquō, -ere, līquī, --	(poetry) to leave (both lit. and fig.; the prose word is relinquo)
 x		3	2	dēserō, -ere, -seruī, -sertum	to disjoin, leave off, give up, abandon
 x		3	2	vendō, -ere, -didī, -ditum	to put up for sale; sell (pass. is veneo)
+// VN
 x		3	2	pandō, -ere, pandī, passum (pānsum)	to spread, spread out; (fig.) expand, etc.
 x		3	2	īnstruō, -ere, -strūxī, -strūctum	(lit.) heap up; arrange, marshall; load; (fig.) set in order, plan, contrive
 x		3	2	sternō, -ere, strāvī, strātum	to strew, spread out, stretch out; (fig.) overthrow; devastate
 x		3	2	spargō, -ere, -rsī, -rsum	to scatter (in many senses)
+// VN
 x		3	2	quatiō, -ere, --, quassum (perf. -cussī only in composita)	to shake (both lit. and fig.)
 x		3	2	vertō, -ere, -rtī, -rsum	to turn (in all senses); (pass.) revolve
 xx		3	2	āvertō, -ere, -vertī, -versum	to turn from, turn away; (fig.) estrange
 xx		3	2	adversus, -a, -um	(lit.) turned towards; facing, opposed; unfavorable
 xx		3	2	convertō, -ere, vertī, -versum	to turn about, turn, change
 xx		3	2	dīversus, -a, -um	turned apart/away; different, diverse
+// VN
 xx		3	2	revertor, -ī, reversus sum (or revertō, -ere, -vertī)	to turn back, return (usually deponent except in perf.)
 xx		3	2	vertex (or vortex), -icis, m.	whirl; point/top of a whirl; summit, head, height (also vortex)
 xx		3	2	versō, -āre, -āvī, -ātum	to turn often, keep turning; (pass.) move, be busy; dwell; conduct one's self
@@ -773,6 +805,7 @@ xx		3	2	reperiō, -īre, repperī, repertum	to find out (after search)
 x		3	2	claudō, -ere, clausī, clausum	to close, shut
 x		3	3	sum, esse, fuī, futūrum	to be, exist
 x		3	3	absum, abesse, āfuī, āfutūrus	to be away, be absent
+// VN
 x		3	3	adsum (assum), adesse, -fuī (affuī), -futūrus (affutūrus)	to be present, be at hand, assist
 x		3	3	dēsum, deesse, dēfuī	to be lacking, missing
 x		3	3	prōsum, prōdesse, prōfuī	to be profitable (opp. obsum)
@@ -829,8 +862,10 @@ xx		3	3	simulācrum, -ī, n.	effigy, image
 x		3	4	mūtō, -āre, -āvī, -ātum	to change
 x		3	4	flectō, -ere, flexī, flexum	to bend, turn (in both lit. and fig. senses)
 x		3	4	torqueō, -ēre, torsī, tortum	to twist, wind (in var. lit. and fig. senses)
+// VN
 x		3	4	tendō, -ere, tetendī, tentum (tēnsum)	to stretch (in many senses, lit. and fig.; used both trans. and intrans.)
 xx		3	4	intendō, -ere, -tendī, -tentum	to stretch out, strain; (rarely) determine (with inf.)
+// VN
 xx		3	4	ostendō, -ere, -tendī, -tentum (-tēnsum)	to stretch towards, hold out; expose to view, show (in many senses)
 x		3	4	terō, -ere, trīvī, trītum	to rub
 x		3	4	percutiō, -ere, -cussī, -cussum	(lit.) to strike through; smite; (of the mind) affect deeply
@@ -890,9 +925,11 @@ xx		3	5	ūsus est, ūsus esse, ūsus fuit, ūsus futūrus	it is necessary (with 
 xx		3	5	ūtilis, -e	useful
 xx		3	5	ūtilitās, -ātis, f.	usefulness, advantage
 x		3	5	ōrnō, -āre, -āvī, -ātum	to fit out, equip; esp. embellish, adorn (both lit. and fig.)
+// VN
 x		3	5	lavō, -āre, lāvī, lautum (lavātum)	to wash, sprinkle
 x		3	5	pāscō, -āre, pāvī, pāstum	to cause to feed, pasture (esp. of animals); feed on, eat, consume (fig. of persons, elements, etc.)
 xx		3	5	pāstor, -ōris, m.	feeder; esp. shepherd
+// VN
 x		3	5	alō, -ere, aluī, altum (alitum)	to nourish, feed; strengthen, sustain
 xx		3	5	almus, -a, -um	(lit.) fostering, nourishing; (fig.) graciously, kindly, propitious (usually of gods and human beings, but also of lux and dies)
 xx		3	5	altus, -a, -um	(lit.) nourished; high, lofty; deep
@@ -910,6 +947,7 @@ xx		3	6	caedēs, -is, f.	a cutting; (regl.) killing, slaughter
 x		3	6	occīdō, -ere, -cīdī, -cīsum	to cut down, kill
 x		3	6	laedō, -ere, laesī, laesum	to injure by striking, hurt
 x		3	6	lacerō, -āre, -āvī, -ātum	to tear, mutilate
+// VN
 x		3	6	feriō, -īre, --, -- (as perfect use īcō or percūtiō)	to smite, strike
 xx	d.	3	6	ferō, ferre, tulī, lātum	to bear (in many senses), carry, endure; declare
 x		3	6	pūgnō, -āre, -āvī, -ātum	to fight
@@ -923,6 +961,7 @@ xx		3	6	damnum, -ī, n.	hurt, harm, damage, injury, loss; (in civil law) fine, p
 x		3	7	oportet, -ēre, -uit	it behooves, ought to
 x		3	7	dēbeō, -ēre, -uī, -itum	to owe to; be obliged to; (lit.) have from
 x		3	7	decet, -ēre, decuit	it becomes, behooves
+// VN
 x		3	7	licet, -ēre, -uit (licitum est)	it is permitted
 x		3	7	cōnor, -ārī, -ātus sum	to attempt, try
 x		3	7	temptō, -āre, -āvī, -ātum	to try, test; attempt
@@ -948,6 +987,7 @@ x		3	8	ōrō, -āre, -āvī, -ātum	to pray, entreat, plead
 xx		3	8	ōrātiō, -ōnis, f.	a pleading, speech, address
 xx		3	8	ōrātor, -ōris, m.	pleader, orator, spokesman
 x		3	8	precor, -ārī, -ātus sum	to pray, supplicate, invoke
+// DN
 xx		3	8	prex, precis, f. (mostly used in pl., in sg. only. dat., acc., abl.)	prayers, entreaties (reg. in plural; sing. not in nom., rare in other cases)
 x		3	8	cōnsulō, -ere, -luī, -ltum	to plan, deliberate consult; take thought for
 xx		3	8	cōnsilium, -ī, n.	plan, design, resolve; (not unfrequently) council, deliberative body; prudence, discretion
@@ -982,6 +1022,7 @@ xx		3	9	invidia, -ae, f.	envy, jealousy, hatred
 xx		3	9	vīsō, -ere, vīsi, --	to look at, visit (reg. in gerund)
 x		3	9	cernō, -ere, crēvī, crētum	(lit.) to separate (rare); (fig. sense of sight) discern, distinguish; (of the mind) decide; (rarely) fight
 xx		3	9	dēcernō, -ere, -crēvī, -crētum	to determine, decide, decree
+// VN
 x		3	9	tueor, -ērī, tuitus sum (tūtus sum)	to look at; protect
 xx		3	9	intueor, -ērī, -tuitus sum	to look closely upon, admire
 xx		3	9	tūtus, -a, -um	safe, protected
@@ -1040,6 +1081,7 @@ xx		3	9	colligō, -ere, -lēgī, -lēctum	to gather together, collect
 xx		3	9	ēligō, -ere, -lēgī, -lēctum	to pick out, select
 x		3	9	scrībō, -ere, scrīpsī, scrīptum	to write
 x		3	9	īgnōrō, -āre, -āvī, -ātum	to be unacquainted with
+// VN
 x		3	9	fallō, -ere, fefellī, -- (falsus mostly only used as adj.; dēceptus serves as PPP)	to deceive
 xx		3	9	fallāx, -ācis	prone to cheat, deceitful
 xx		3	9	falsus, -a, -um	deceptive, false
@@ -1066,17 +1108,21 @@ x		3	10	mīror, -ārī, -ātus sum	to wonder at, marvel at
 xx		3	10	mīrus, -a, -um	wonderful, marvelous
 x		3	10	celebrō, -āre, -āvī, -ātum	to frequent, throng, crowd; celebrate, extol
 x		3	10	veneror, -ārī, -ātus sum	to venerate, worship
+// VN
 x		3	10	libet, -ēre, libuit (libitum est)	it pleases
 xx		3	10	libēns, -entis	willing, with pleasure
 xx		3	10	libīdō, -inis, f.	desire, longing; esp. passion; lust
 x		3	10	placeō, -ēre, -uī, -itum	to please
 xx		3	10	placidus, -a, -um	quiet, gentle, calm, kindly (both lit. and fig.)
 x		3	10	iuvō, -āre, iūvī, iūtum	to help, aid, assist; please, delight
+// DN
 xx		3	10	iuvenis, -is, mf. (gen. pl. -um)	a youth, young man or woman
 xx		3	10	iuventa, -ae, f.	period of youth, youth
 xx		3	10	iuventūs, -ūtis, f.	period of youth, youth; (collective) youth, i.e. young men
+// VN
 x		3	10	fruor, fruī, frūctus sum (fruitus sum)	to enjoy
 xx		3	10	frūctus, -ūs, m.	enjoyment, delight; fruit, crops (also in var. fig. meanings)
+// MN
 xx		3	10	frūx, frūgis, f. (mostly pl.)	(reg. pl.) fruit of any kind
 x		3	10	gaudeō, -ēre, gāvīsus sum	to rejoice
 xx		3	10	gaudium, -ī, n.	delight, joy, pleasure
@@ -1084,6 +1130,7 @@ x		3	10	rīdeō, -ēre, rīsī, rīsum	to laugh, laugh at (usually intrans.)
 x		3	10	lūdō, -ere, lūsī, lūsum	to play; make sport of
 xx		3	10	lūdus, -ī, m.	game, play; place of play, school
 x		3	10	salveō, -ēre, --, --	to be well
+// MN
 xx		3	10	salvē (sg.), salvēte (pl.)	hail!
 xx		3	10	salūs, -ūtis, f.	health; safety (in var. senses)
 xx		3	10	salvus, -a, -um	sound of health; uninjured, safe; (occasionally) solvent
@@ -1106,6 +1153,7 @@ x		3	11	caveō, -ēre, cāvī, cautum	to be on one's guard, beware
 x		3	11	timeō, -ēre, -uī, --	to fear, dread
 xx		3	11	timor, -ōris, m.	fear, apprehension
 x		3	11	vereor, -ērī, veritus sum	to fear, stand in awe of
+// VN
 x		3	11	metuō, -ere, -uī, (-ūtum)	to fear, apprehend, dread
 xx		3	11	metus, -ūs, m.	fear, apprehension, dread
 x		3	11	horreō, -ēre, -uī, --	to bristle; bristle at, shudder at
@@ -1138,6 +1186,7 @@ x		4	1	quantus, -a, -um	(interr. and rel. num. adj.) how great? as great (correl
 x		4	1	altus, -a, -um	high, lofty; deep; (lit.) nourished
 x		4	1	lātus, -a, -um	broad, wide
 xx	d.	4	1	latus, -eris, n.	side, flank
+// MN
 x		4	1	parvus, -a, -um (comp. minor, superl. minimus)	small, little (in Caesar not in positive, and in general rare)
 xx		4	1	minor, minus	smaller, less
 xx		4	1	minimus, -a, -um	smallest, least
@@ -1164,6 +1213,7 @@ x		4	2	multus, -a, -um	much; (pl.) many
 xx		4	2	plūs, plūris	more
 xx		4	2	plūrimus, -a, -um	most
 xx		4	2	multitūdō, -inis, f.	multitude; number, amount, body, force, etc.
+// MN
 x		4	2	paucus, -a, -um (class. only pl. paucī, -ae, -a)	few
 xx		4	2	paulus, -a, -um	little, small
 x		4	2	rārus, -a, -um	wide apart, loose, thin (opp. to densus), close; (fig.) rare, seldom, etc.
@@ -1189,6 +1239,7 @@ x		4	2	octō (indecl.)	(card. num.) eight
 x		4	2	novem (indecl.)	(card. num.) nine
 x		4	2	decem (indecl.)	(card. num.) ten
 x		4	2	centum (indecl.)	(card. num.) one hundred
+// DN
 x		4	2	mīlle (sg. indecl., pl. mīlia, -ium n.)	thousand (indecl. adj. in sing., subst. in plural)
 x		4	3	ācer, ācris, ācre	sharp, piercing (always in fig. sense, and usually applied to men, although Cicero applies it also to supplicium)
 xx		4	3	aciēs, -ēī, f.	(lit.) edge; line of battle (Caesar uses it once with oculorum, Cicero with auctoritatis; Vergil uses it alone of eyes, of sight, of sword. Otherwise the word is military)
@@ -1231,7 +1282,7 @@ x		4	5	extrēmus, -a, -um	outermost, farthest, last, extreme
 x		4	5	sēcrētus, -a, -um	separated, apart, secret
 x		4	5	prīvātus, -a, -um	apart, personal, private
 xx		4	5	pūblicus, -a, -um	public (i.e. belonging to the state); public in general
-xx				rēs pūblica, reī pūblicae, f.	republic, state, commonwealth
+xx				rēs pūblica, reī pūblicae, etc.	republic, state, commonwealth
 xx		4	5	commūnis, -e	common, general; (lit.) having common tasks
 xx		4	5	proprius, -a, -um	one's own; peculiar, etc. (in many senses)
 x		4	6	aeternus, -a, -um	everlasting, eternal
@@ -1289,6 +1340,7 @@ xx		4	7	laetus, -a, -um	glad, joyful (used fig. of animals, countries, etc.)
 xx		4	7	serēnus, -a, -um	clear, calm, fair (esp. of weather)
 xx		4	7	contentus, -a, -um	contented, satisfied, content
 x		4	7	prosper(us), -era, -erum	favorable, auspicious
+// DN
 xx		4	7	dīves, -itis (gen. pl. -um)	rich
 xx		4	7	dīvitiae, -ārum, f. (pl.)	riches
 xx		4	7	dīs, dītis	rich (classic only superlative)
@@ -1337,6 +1389,7 @@ x		4	8	avidus, -a, -um	craving, eager for, longing for, ardent
 xx		4	8	invītus, -a, -um	unwilling, reluctant
 x		4	9	tālis, -e	such (in many usages; correl. with qualis)
 xx		4	9	quālis, -e	(interr. and rel. adj. pron.) of what kind? (correl. of talis)
+// MN
 x		4	9	necesse (only used with esse) (indecl.)	(adj.) necessary
 xx		4	9	necessitās, -ātis, f.	necessity, need
 x		4	9	similis, -e	like, similar
@@ -1350,11 +1403,12 @@ x		4	9	frīgidus, -a, -um	cold (applied by Vergil also to such words as horror, 
 xx		4	9	frīgus, -oris, n.	cold (also in Vergil of chill caused by fear, etc.)
 x		5	1	ōlim	at that time; formerly; (rarely) hereafter
 x		5	1	quondam	formerly, once upon a time
+// MN
 x		5	1	nūper (superl. nūperrimē)	recently, lately
 x		5	1	simul	at once, together, at the same time (in prose often with atque in sense as soon as)
 x		5	1	iam	at that time, at this time, now (of relative time opposed to nunc, the actual now); already
 x		5	1	nunc	now
-x		5	1	prōtinus (prōtenus)	at once, forthwith; (lit.) forward
+x		5	1	prōtinus[prōtenus]	at once, forthwith; (lit.) forward
 x		5	1	statim	immediately, at once; (lit.) as one stands
 x		5	1	subitō	suddenly, unexpectedly (s...)
 x		5	1	repente	suddenly (r...)
@@ -1364,11 +1418,11 @@ x		5	1	crās	tomorrow; (poet.) in the future
 x		5	1	tandem	at last, finally; (in impatient questions) pray, pray tell me
 x		5	1	dēnique	at length, finally; to sum up, in  word; (not uncommon with tum or nunc)
 x		5	1	numquam	never
-xx		5	1	umquam (unquam)	ever, at any time (usually with neg. as stronger than numquam, or after conditional particle)
+xx		5	1	umquam[unquam]	ever, at any time (usually with neg. as stronger than numquam, or after conditional particle)
 x		5	1	quotiē(n)s	(interr. rel. num. adv.) how many times? (correl. of totiens)
 x		5	1	semel	(multipl. num.) once
 x		5	1	iterum	again, for the second time
-x		5	1	rūrsus (rūrsum)	back, again; (lit.) turned back
+x		5	1	rūrsus[rūrsum]	back, again; (lit.) turned back
 x		5	1	bis	(mult. num.) twice
 x		5	1	saepe	often
 x		5	1	diū	long, for a long time (of time opp. to longe of space)
@@ -1385,8 +1439,8 @@ x		5	2	hīc	here
 xx		5	2	hinc	hence
 xx		5	2	hūc	hither
 xx		5	2	adhūc	up to this (present), thus far 
-x		5	2	ibī (ibi)	there
-xx		5	2	ibīdem (ibidem)	in the same place
+x		5	2	ibī[ibi]	there
+xx		5	2	ibīdem[ibidem]	in the same place
 x		5	2	illīc	there
 xx		5	2	illūc	thither
 x		5	2	inde	thence (both of time and space)
@@ -1395,17 +1449,17 @@ x		5	2	penitus	inwardly, deeply, far within; thoroughly, utterly
 x		5	2	forīs	without, abroad
 x		5	2	passim	here and there
 x		5	2	procul	at a distance, afar, from a distance
-x		5	2	ubī (ubi)	(interr. rel. adv.) where (sometimes strengthened by nam); (temporal conj.) as soon as (sometimes strengthened by primum)
+x		5	2	ubī[ubi]	(interr. rel. adv.) where (sometimes strengthened by nam); (temporal conj.) as soon as (sometimes strengthened by primum)
 x		5	2	quō	to/in which place, whither, where
 x		5	2	unde	(interr. rel. adv.) whence
 xx		5	2	undique	from all sides, on all sides; (lit.) whencesoever
 x		5	3	cūr	(interr. adv.) why?
-xx		5	3	quārē (quā rē)	(interr.) from what cause? why?; (rel.) by which means, whereby; wherefore, why
+xx		5	3	quārē[quā rē]	(interr.) from what cause? why?; (rel.) by which means, whereby; wherefore, why
 x		5	3	ergō	(conj.) therefore (often with question quid?); (prep. with gen.) on account of
 xx		5	3	igitur	(conj.) accordingly, consequently, therefore
 xx		5	3	ideō	on that account, for this end
 x		5	3	sīc	in such a manner, so (referring to what precedes or follows)
-xx		5	3	sīcut (sīcutī)	just as
+xx		5	3	sīcut[sīcutī]	just as
 x		5	3	ita	so (referring to what precedes or follows)
 xx		5	3	itaque	and so, therefore (reg. at beginning of sentence)
 xx		5	3	item	likewise; (lit.) in that way
@@ -1421,8 +1475,8 @@ x		5	3	frūstrā	in vain
 x		5	4	nōn	not; (~ dum) not yet; (~ iam) no longer
 xx		5	4	haud	not (reg. with single word, esp. in phrases like ~ scio and in litotes)
 xx		5	4	nōndum	not yet
-x		5	4	nēve (neu)	and not, nor
-xx		5	4	nēve ... nēve (neu ... neu)	neither...nor
+x		5	4	nēve[neu]	and not, nor
+xx		5	4	nēve ... nēve[neu ... neu]	neither...nor
 x		5	4	forsitan	perhaps, perchance
 x		5	4	paene	almost
 xx		5	4	ferē	almost (regl. follows its word)
@@ -1433,7 +1487,7 @@ x		5	4	saltem	at any rate, at least
 x		5	4	īmmō	nay, on the contrary; (often with vero) truly
 x		5	4	tamen	(disjunctive conj.) still, nevertheless, notwithstanding
 x		6	1	ecce	lo! behold!
-x		6	1	heu (ēheu or eheu)	alas!
+x		6	1	heu[ēheu or eheu]	alas!
 x		6	1	iō	(expressing joy) ho! hurrah!; (expressing pain or grief) Oh! ah!; (calling attention) see, look, mark, behold
 x		6	1	ō	oh! ah!
 x		6	1	scīlicet	one may know; certainly, of course, forsooth (often ironical)
@@ -1442,7 +1496,7 @@ x		7	1	et	(co-ordinating conj.) and
 xx		7	1	-que	(enclitic cop. conj.) and (reg. connects ideas that belong together)
 x		7	1	etiam	(lit.) and already; also, even
 x		7	1	quoque	also, too
-x		7	1	atque (ac)	(copulative conj.) and in addition, and also, and; (after comparatives) than; (simul ~) as soon as
+x		7	1	atque[ac]	(copulative conj.) and in addition, and also, and; (after comparatives) than; (simul ~) as soon as
 x		7	1	at	(advers. conj.) but, but yet (esp. in rejoinders and apodoses)
 x		7	1	sed	(advers. conj.) but
 x		7	1	aut	(disjunct. conj.) or (excluding alternative)
@@ -1450,16 +1504,17 @@ x		7	1	autem	(advers. conj.) moreover, but, however (always postpositive)
 x		7	1	vel	or (implying choice); even
 xx				vel ... vel	whether...or
 xx		7	1	-ve	or (enclitic and reg. appended to first word in a clause)
-xx		7	1	velut (velutī)	even as, like as, just as
-x		7	1	nam (or namque as a stronger variant)	(causal conj.) for; (also particle appended to inter. words) indeed, really
+xx		7	1	velut[velutī]	even as, like as, just as
+x		7	1	nam[namque as a stronger variant]	(causal conj.) for; (also particle appended to inter. words) indeed, really
 x		7	1	enim	(postpositive conj.) for, verily, you see
 x		7	1	quidem	(enclitic adv.) certainly, at least
+// QUOD
 xx	d.	7	1	quīdam, quaedam, quiddam (subst., quoddam, adj.)	(indef. pron.) a certain one, some one
 x		7	1	an	or (introducing second part of disjunctive question, after utrum or -ne; occasionally it seems to be used as a simple interrogative particle (e.g. Vergil)
-x		7	1	nec (neque)	and not, nor, neither
+x		7	1	nec[neque]	and not, nor, neither
 x		7	1	nē	(neg. final particle) lest, that not; (with verbs of fear) lest
 xx		7	1	-ne	enclitic interrog. particle, asking for information
-x		7	1	ut (utī)	(interr. rel. adv.) how (not in Caesar); (comp.) like, as; (often with correlatives as ita, sic) so; (temporal) as soon as (sometimes strengthened by primum); (final) in order that; (consecutive or result) so as to, so that
+x		7	1	ut[utī]	(interr. rel. adv.) how (not in Caesar); (comp.) like, as; (often with correlatives as ita, sic) so; (temporal) as soon as (sometimes strengthened by primum); (final) in order that; (consecutive or result) so as to, so that
 xx		7	1	utinam	would that, O that (introducing wishes in the subj.); (lit.) how that
 x		7	1	cum	(conj.) as (soon as) with indic. perf. (rarely hist. pres. or pluperf.); when (of time, with any tense of indic.; of circumstance, with imperf. or pluperf. subj.; (of cause) as, since (with subj.); (of concession) although (with subj.)
 x		7	1	dum	(conj.) while (with indic.); until (with subj.); provided that (with subj., often supported by modo)
@@ -1469,10 +1524,10 @@ x		7	1	quia	(conj.) because (with the indic. of the evident reason)
 x		7	1	quod	(conj. in causal sentences) because; (in object or substantive sentences) the fact that, as for the fact that, that
 x		7	1	quamquam	however, although (with indic.)
 x		7	1	sī	if
-xx		7	1	sīve (seu)	if (alternate condition)
+xx		7	1	sīve[seu]	if (alternate condition)
 xx				sīve ... sīve	whether...or
 xx		7	1	quasi	as if
-xx		7	1	nisī (nisi)	(lit.) not if; if not; (after a neg.) unless, except; si is sometimes added
+xx		7	1	nisī[nisi]	(lit.) not if; if not; (after a neg.) unless, except; si is sometimes added
 xx		7	1	etsī	even if, although (with indic.)
 x		7	1	quīn	nay indeed (esp. with etiam); (conj. with subj.) but that (after verbs of preventing, etc., if neg. or interr.); (lit.) why not? (interr. or rel.) 
 x		8	1	ante	(adv. of space and time); before (often with abl. of measure); (prep. with acc.) before (of space or time)
@@ -1505,18 +1560,18 @@ xx		8	1	īnfrā	(adv. and prep. with acc.) below
 x		8	1	per	(prep. with acc.) through (of space, time, cause, instrument, manner); (also adv. in composition with adverbs and adjectives) very
 x		8	1	extrā	(prep. with acc.) outside of, beyond
 x		8	1	sine	(prep. with abl.) without (esp. in neg. phrases instead of cum)
-x		8	1	ā (ab)	(prep. with abl.) (of place whence) from; so in phrases as ~ tergo, from (on) the rear, etc.; (of cause) from; (of agent) by; (of remote origin) from; (of time) from
+x		8	1	ā[ab]	(prep. with abl.) (of place whence) from; so in phrases as ~ tergo, from (on) the rear, etc.; (of cause) from; (of agent) by; (of remote origin) from; (of time) from
 x		8	1	dē	(prep. with abl.) (of place) down from, from (esp. with compounds of de and ex); (of source and origin) from; (of object) concerning; of the whole from which a part is taken
 x		8	1	ultrā	(adv. and prep. with acc.) beyond
 xx		8	1	ulterior, -ius	more, beyond, farther
 xx		8	1	ultimus, -a, -um	farthest (of space, time, quality, etc.)
-x		8	1	ē (ex)	(prep. with abl.) (of place) out of, from; (of origin) from; (of reference) according to
+x		8	1	ē[ex]	(prep. with abl.) (of place) out of, from; (of origin) from; (of reference) according to
 x		8	1	post	(adv. and prep. with acc.) after (both of place and more often time)
 xx		8	1	posteā	thereafter, afterwards (sometimes followed by -quam)
 xx		8	1	postquam	(conj.) after
 xx		8	1	posterus, -a, -um	next, later, subsequent
 xx		8	1	postrēmus, -a, -um	hindmost, the last; end or last part of any thing; (fig.) the last, lowest, basest, meanest, worst
-x		8	1	con- (com-)	(prefix) together
+x		8	1	con-[com-]	(prefix) together
 x		8	1	dis-	(prefix) apart, not
-x		8	1	re- (red-)	(prefix) back, again
-x		8	1	trāns- (trā-)	(prefix) across
+x		8	1	re-[red-]	(prefix) back, again
+x		8	1	trāns-[trā-]	(prefix) across

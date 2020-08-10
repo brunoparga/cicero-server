@@ -1,3 +1,5 @@
+Regex to play with the main list: /(.*?\t.*?\t.*?) \((.+?)\t/
+
 ERROR IS IN THE DB
 gendered pronouns (e.g quīdam): lack 'properties' attribute (same with numerals) (create property setter)
 dexter, prosper: variants not listed (declension notes)
