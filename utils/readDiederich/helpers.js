@@ -13,30 +13,50 @@ exports.compare = ([, definition1], [, definition2]) => {
 
 exports.deduplicate = ([lemma], index, array) => (!index || lemma !== array[index - 1][0]);
 
-const lemmatize = (lemma, partOfSpeech) => {
-  const irregularWords = [
+// Given a string haystack and an array of string needles, returns true if any of the needles is a
+// substring of the haystack.
+const multiIncludes = (haystack, ...needles) => needles.some((needle) => haystack.includes(needle));
+
+// Set the appropriate lemma, which must be done in a special way for certain words.
+const lemmatize = (lemma) => {
+  // Nouns whose nominative singular is not actually used
+  const defectiveNouns = ['sponte', 'vicis', 'vīrēs'];
+  // Words whose lemma must be split by the first comma
+  const specialSplit = [
+    'c(h)arta',
+    'ex(s)tinguō',
+    'hiem(p)s',
+    'prosper(us)',
+    'quotiē(n)s',
+    'rēs pūblica',
+    'ūsus est',
+  ];
+  // Words which must be listed by their full lemma
+  const fullLemma = [
     'āiō, ais, ait, aiunt',
-    'alius, -a, -ud (gen. alterīus, dat. aliī/alterī)',
     'inquam, inquis, inquit, inquiunt',
-    'nātus, -ī, m. (nāta, -ae, f.)',
     'salvē (sg.), salvēte (pl.)',
-    'vicis (gen. sg.), vicem (acc. sg.), vice (abl. sg.)',
   ];
   if (lemma.includes('mīlle')) {
+    // mīlle is just weird
     return 'mīlle (sg.), mīlia (pl.)';
-  } if (lemma.includes('sponte') || lemma.includes('vīrēs')) {
+  } if (multiIncludes(lemma, ...defectiveNouns)) {
     return lemma.slice(0, -4);
-  } if (['Numeral', 'Pronoun'].includes(partOfSpeech) || irregularWords.includes(lemma)) {
+  } if (multiIncludes(lemma, ...specialSplit)) {
+    return lemma.split(',')[0];
+  } if (multiIncludes(lemma, '...', ...fullLemma)) {
+    // The ellipsis string includes words like 'neither ... nor'
     return lemma;
   }
-  return lemma.split(',')[0];
+  // In general, words should break whenever their letters end (with a dash for prefixes)
+  return lemma.split(/[^A-Za-zāēīōū-]/)[0];
 };
 
 exports.buildWord = ([lemma, definition]) => {
   const partOfSpeech = classify(lemma, definition);
   return {
     partOfSpeech,
-    lemma: lemmatize(lemma, partOfSpeech),
+    lemma: lemmatize(lemma),
     english: definition,
     learned: false,
     properties: setProperties(partOfSpeech, lemma),

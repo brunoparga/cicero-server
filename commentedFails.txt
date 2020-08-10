@@ -6,9 +6,8 @@ vicis: presentation is wrong, listed as neuter (????)
 meminī, coepī: DB lacking correct perfect infinitive (fix in verb-property setter)
 
 Think about how to present their strange declension
-alius: weird neuter
+alius: weird neuter (fix in NumPronProps)
 laurus // dīves: genitivo cagado
-nātus, -ī, m. (nāta, -ae, f.): gênero cagado
 salvē (sg.), salvēte (pl.): interjection but has plural
 sponte (abl., gen. spontis very rare): presentation is all fubar'd
 vīs (sg. only acc. vim, abl. vī; pl. vīrēs, -ium): all fubar'd

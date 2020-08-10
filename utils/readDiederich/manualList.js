@@ -3,7 +3,7 @@
 const uniqueWords = {
   // TODO: getting options doesn't work with these words
   // Only words that share these parts of speech
-  satis: 'Adjective, Adverb',
+  'satis (indecl.)': 'Adjective, Adverb',
   'nec (neque)': 'Adverb, Conjunction',
   'ubī (ubi)': 'Adverb, Conjunction',
   ergō: 'Conjunction, Preposition',

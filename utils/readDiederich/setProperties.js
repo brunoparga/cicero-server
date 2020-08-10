@@ -3,7 +3,7 @@ const setNounProperties = require('./setNounProps');
 const setNumeralPronounProperties = require('./setNumPronProps');
 const setVerbProperties = require('./setVerbProps');
 
-module.exports = (partOfSpeech, lemma) => {
+const wordProps = (partOfSpeech, lemma) => {
   if (partOfSpeech === 'Adjective') {
     return setAdjectiveProperties(lemma);
   } if (partOfSpeech === 'Noun') {
@@ -14,4 +14,24 @@ module.exports = (partOfSpeech, lemma) => {
     return setVerbProperties(lemma);
   }
   return undefined;
+};
+
+// eslint-disable-next-line no-restricted-syntax, guard-for-in
+const isEmpty = (object) => { for (const i in object) { return false; } return true; };
+
+// Add notes in the form of spelling variants, indeclinable words, comments etc.
+const wordNotes = (lemma) => {
+  const result = {};
+  if (lemma.includes('(indecl.')) {
+    result.indeclinable = true;
+  }
+  return isEmpty(result) ? undefined : result;
+};
+
+module.exports = (partOfSpeech, lemma) => {
+  const result = {
+    ...wordProps(partOfSpeech, lemma),
+    ...wordNotes(lemma),
+  };
+  return isEmpty(result) ? undefined : result;
 };
