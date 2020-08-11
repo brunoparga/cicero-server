@@ -19,7 +19,7 @@ const deduplicate = ([lemma], index, array) => (!index || lemma !== array[index 
 
 // Given a string haystack and an array of string needles, returns true if any of the needles is a
 // substring of the haystack.
-const multiIncludes = (haystack, ...needles) => needles.some((needle) => haystack.includes(needle));
+const multiIncludes = (haystack, needles) => needles.some((needle) => haystack.includes(needle));
 
 module.exports = {
   treatDefinition, compare, deduplicate, multiIncludes,
