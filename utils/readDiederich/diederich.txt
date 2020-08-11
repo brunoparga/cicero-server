@@ -1506,7 +1506,7 @@ x		7	1	vel	or (implying choice); even
 xx				vel ... vel	whether...or
 xx		7	1	-ve	or (enclitic and reg. appended to first word in a clause)
 xx		7	1	velut[velutī]	even as, like as, just as
-x		7	1	nam[namque as a stronger variant]	(causal conj.) for; (also particle appended to inter. words) indeed, really
+x		7	1	nam[namque (as a stronger variant)]	(causal conj.) for; (also particle appended to inter. words) indeed, really
 x		7	1	enim	(postpositive conj.) for, verily, you see
 x		7	1	quidem	(enclitic adv.) certainly, at least
 // QUOD

@@ -4,15 +4,7 @@ const { multiIncludes } = require('./helpers');
 // Nouns whose nominative singular is not actually used
 const defectiveNouns = ['sponte', 'vicis', 'vīrēs'];
 // Words whose lemma must be split by the first comma
-const specialSplit = [
-  'c(h)arta',
-  'ex(s)tinguō',
-  'hiem(p)s',
-  'prosper(us)',
-  'quotiē(n)s',
-  'rēs pūblica',
-  'ūsus est',
-];
+const specialSplit = ['rēs pūblica', 'ūsus est'];
 // Words which must be listed by their full lemma
 const fullLemma = [
   'āiō, ais, ait, aiunt',

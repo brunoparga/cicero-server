@@ -25,6 +25,10 @@ const wordNotes = (lemma) => {
   if (lemma.includes('(indecl.')) {
     result.indeclinable = true;
   }
+  const alternate = lemma.match(/\[(.*)\]/);
+  if (alternate) {
+    [, result.alternateForm] = alternate;
+  }
   return isEmpty(result) ? undefined : result;
 };
 
