@@ -1,10 +1,11 @@
-// The word 'mīlle', "1000", behaves weirdly enough to deserve its own props object defined
+// The word 'mīlle', "1000", behaves weirdly enough that its props object be explicitly defined
 const milleProps = {
   number: 'plural',
   declension: 2,
   gender: 'neuter',
 };
 
+// Set which of the five declensions the noun belongs to, based on its genitive suffixes
 const setDeclension = (lemma, number) => {
   const singular = [/ae$/, /ī$/, /is$/, /ūs$/, /(e|ē)ī$/];
   // Leaving the fourth and fifth declension endings here even though there are no plural
@@ -16,14 +17,11 @@ const setDeclension = (lemma, number) => {
   );
 };
 
+// Set the noun's grammatical gender
 const setGender = (lemma) => {
-  if (lemma.includes('mf.')) {
-    return 'masculine/feminine';
-  } if (lemma.includes('f.')) {
-    return 'feminine';
-  } if (lemma.includes('m.')) {
-    return 'masculine';
-  }
+  if (lemma.includes('mf.')) { return 'masculine/feminine'; }
+  if (lemma.includes('f.')) { return 'feminine'; }
+  if (lemma.includes('m.')) { return 'masculine'; }
   return 'neuter';
 };
 
@@ -38,6 +36,8 @@ const setCorrectGenitive = (lemma, number, declension) => {
   return undefined;
 };
 
+// A noun properties are its gender, number, declension and optionally its correct genitive
+// TODO: check the front-end for optionality of correctGenitive
 module.exports = (lemma) => {
   if (lemma === 'mīlle (sg. indecl., pl. mīlia, -ium n.)') { return milleProps; }
 
