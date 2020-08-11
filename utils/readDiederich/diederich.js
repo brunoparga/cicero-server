@@ -1,6 +1,7 @@
 const fs = require('fs');
 
-const { compare, deduplicate, buildWord } = require('./helpers');
+const { compare, deduplicate } = require('./helpers');
+const buildWord = require('./buildWord');
 
 const words = fs
   // Read the file, break it into lines, throw the header line away

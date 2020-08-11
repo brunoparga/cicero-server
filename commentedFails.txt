@@ -6,6 +6,7 @@ dexter, prosper: variants not listed (declension notes)
 vicis: presentation is wrong (declension notes)
 meminī, coepī: DB lacking correct perfect infinitive (fix in verb-property setter)
 prosper, nēve ... nēve: brackets still present
+-erī adjectives: feminine and neuter are wrong (tener, miser, līber, alter, asper)
 
 Think about how to present their strange declension
 alius: weird neuter (fix in NumPronProps)

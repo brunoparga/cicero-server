@@ -15,7 +15,6 @@ const setFirstAndSecondDeclensionAdjectives = (lemma) => {
       neuter: `${masculine.replace(/us$/, 'um')}, -ī`,
     };
   }
-  // TODO: fix the part where this throws away dext(e)rī
   return {
     suffixes: '1st/2nd (-er)',
     masculineGenitive: `${masculine.replace(/(.+?)(ch|b|c|g|t)er$/, '-$2rī')}`,

@@ -1,6 +1,6 @@
 // Include words that the general rules wouldn't send to the right part of speech
 const uniqueWords = require('./manualList');
-const treat = require('./treatDefinition');
+const { treatDefinition } = require('./helpers');
 
 const classifyByDefinition = (definition) => {
   const definitionStrings = {
@@ -24,7 +24,7 @@ const classifyByDefinition = (definition) => {
 const classifyByLemma = (lemma, definition) => {
   if (/(m|f|n)\./.test(lemma)) {
     return 'Noun';
-  } if (lemma.split(',').length === 4 || /^(it|to) /.test(treat(definition))) {
+  } if (lemma.split(',').length === 4 || /^(it|to) /.test(treatDefinition(definition))) {
     return 'Verb';
   } if (lemma.split(', -').length > 1) {
     return 'Adjective';
@@ -37,10 +37,6 @@ const classifyByLemma = (lemma, definition) => {
 };
 
 // Send words out into their appropriate parts of speech
-module.exports = (lemma, definition) => {
-  // First, send the words that wouldn't otherwise get correctly classified
-  if (uniqueWords[lemma]) { return uniqueWords[lemma]; }
-  const byLemma = classifyByLemma(lemma, definition);
-  if (byLemma) { return byLemma; }
-  return classifyByDefinition(definition);
-};
+module.exports = (lemma, definition) => (
+  uniqueWords[lemma] || classifyByLemma(lemma, definition) || classifyByDefinition(definition)
+);
