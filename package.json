@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "read": "node utils/readDiederich/diederich.js",
+    "read": "node utils/readDiederich/parseMainList.js",
     "seed": "pnpm run read; node utils/dbSeed.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
