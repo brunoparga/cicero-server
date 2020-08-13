@@ -6422,14 +6422,11 @@
     }
   },
   {
-    "partOfSpeech": "Verb",
+    "partOfSpeech": "Adverb",
     "lemma": "nēmō",
     "english": "no one",
     "learned": false,
     "properties": {
-      "conjugation": 2,
-      "perfect": "nēminem",
-      "deponent": true,
       "declensionNote": "nūllīus, nēminī, nēminem, nūllō"
     }
   },
@@ -6861,28 +6858,28 @@
     }
   },
   {
-    "partOfSpeech": "Verb",
+    "partOfSpeech": "Adjective",
     "lemma": "alter",
     "english": "other of two, one of two, second",
     "learned": false,
     "properties": {
-      "conjugation": "Irregular",
-      "perfect": "-erum <DN: gen. alterīus",
-      "supine": "dat. alterī>",
-      "deponent": false,
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "-ī",
+      "feminine": "alter, -ae",
+      "neuter": "alter, -ī",
       "declensionNote": "gen. alterīus, dat. alterī"
     }
   },
   {
-    "partOfSpeech": "Verb",
+    "partOfSpeech": "Adjective",
     "lemma": "alius",
     "english": "other, another",
     "learned": false,
     "properties": {
-      "conjugation": "Irregular",
-      "perfect": "-ud <DN: gen. alterīus",
-      "supine": "dat. aliī/alterī>",
-      "deponent": false,
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "-ī",
+      "feminine": "alia, -ae",
+      "neuter": "alium, -ī",
       "declensionNote": "gen. alterīus, dat. aliī/alterī"
     }
   },
@@ -7726,15 +7723,15 @@
     }
   },
   {
-    "partOfSpeech": "Verb",
+    "partOfSpeech": "Adjective",
     "lemma": "dexter",
     "english": "right (opp. to sinister, laevus)",
     "learned": false,
     "properties": {
-      "conjugation": "Irregular",
-      "perfect": "-trum <ALT: -tera",
-      "supine": "-terum>",
-      "deponent": false
+      "suffixes": "1st/2nd (-er)",
+      "masculineGenitive": "-trī",
+      "feminine": "dextra, -ae",
+      "neuter": "dextrum, -ī"
     }
   },
   {
@@ -8333,15 +8330,15 @@
     }
   },
   {
-    "partOfSpeech": "Verb",
+    "partOfSpeech": "Adjective",
     "lemma": "parvus",
     "english": "small, little (in Caesar not in positive, and in general rare)",
     "learned": false,
     "properties": {
-      "conjugation": "Irregular",
-      "perfect": "-um <MN: comp. minor",
-      "supine": "superl. minimus>",
-      "deponent": false,
+      "suffixes": "1st/2nd (-us)",
+      "masculineGenitive": "-ī",
+      "feminine": "parva, -ae",
+      "neuter": "parvum, -ī",
       "miscellaneousNote": "comp. minor, superl. minimus"
     }
   },
@@ -15855,16 +15852,11 @@
     "learned": false
   },
   {
-    "partOfSpeech": "Verb",
+    "partOfSpeech": "Pronoun",
     "lemma": "quisquis",
     "english": "(indef. pron.) whoever, whichever",
     "learned": false,
     "properties": {
-      "conjugation": "Irregular",
-      "correctInfinitive": "quidquid/quicquid <QUOD: subst.",
-      "perfect": "quodquod",
-      "supine": "adj.>",
-      "deponent": false,
       "quodNote": "subst., quodquod, adj."
     }
   },

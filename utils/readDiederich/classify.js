@@ -2,10 +2,15 @@
 const uniqueWords = require('./manualList');
 const { treatDefinition } = require('./helpers');
 
+const testVerb = (lemma, definition) => (
+  (lemma.split(',').length >= 4 && !lemma.includes('<'))
+  || /^(it|to) /.test(treatDefinition(definition))
+);
+
 const classifyByLemma = (lemma, definition) => {
   if (/(m|[^r]f|[^e]n)\./.test(lemma)) {
     return 'Noun';
-  } if (lemma.split(',').length === 4 || /^(it|to) /.test(treatDefinition(definition))) {
+  } if (testVerb(lemma, definition)) {
     return 'Verb';
   } if (lemma.split(', -').length > 1) {
     return 'Adjective';
