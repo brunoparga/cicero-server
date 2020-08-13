@@ -11,15 +11,9 @@ const uniqueWords = {
   ante: 'Adverb, Preposition',
   // Unusual declensions
   'rēs pūblica, reī pūblicae, etc.': 'Noun',
-  'mīlle (sg. indecl., pl. mīlia, -ium n.)': 'Noun',
-  // 'f.' classifies as noun
-  'quatiō, -ere, --, quassum (perf. -cussī only in composita)': 'Verb',
 };
 
 const adjectives = [
-  // 'n.' classifies as noun
-  'alius, -a, -ud (gen. alterīus, dat. aliī/alterī)',
-  'alter, -era, -erum (gen. alterīus, dat. alterī)',
   // three commas in the lemma classifies as verb
   'parvus, -a, -um (comp. minor, superl. minimus)',
   // definition beginning with 'to ' classifies as verb

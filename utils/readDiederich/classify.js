@@ -2,6 +2,21 @@
 const uniqueWords = require('./manualList');
 const { treatDefinition } = require('./helpers');
 
+const classifyByLemma = (lemma, definition) => {
+  if (/(m|[^r]f|[^e]n)\./.test(lemma)) {
+    return 'Noun';
+  } if (lemma.split(',').length === 4 || /^(it|to) /.test(treatDefinition(definition))) {
+    return 'Verb';
+  } if (lemma.split(', -').length > 1) {
+    return 'Adjective';
+  } if (/[^-]-[\]]?$/.test(lemma)) {
+    return 'Prefix';
+  } if (/^-/.test(lemma)) {
+    return 'Particle';
+  }
+  return '';
+};
+
 const classifyByDefinition = (definition) => {
   const definitionStrings = {
     'pron.': 'Pronoun',
@@ -19,21 +34,6 @@ const classifyByDefinition = (definition) => {
       }
       return partOfSpeech;
     }, 'Adverb');
-};
-
-const classifyByLemma = (lemma, definition) => {
-  if (/(m|f|n)\./.test(lemma)) {
-    return 'Noun';
-  } if (lemma.split(',').length === 4 || /^(it|to) /.test(treatDefinition(definition))) {
-    return 'Verb';
-  } if (lemma.split(', -').length > 1) {
-    return 'Adjective';
-  } if (/[^-]-[\]]?$/.test(lemma)) {
-    return 'Prefix';
-  } if (/^-/.test(lemma)) {
-    return 'Particle';
-  }
-  return '';
 };
 
 // Send words out into their appropriate parts of speech

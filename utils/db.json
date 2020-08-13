@@ -6861,28 +6861,28 @@
     }
   },
   {
-    "partOfSpeech": "Noun",
+    "partOfSpeech": "Verb",
     "lemma": "alter",
     "english": "other of two, one of two, second",
     "learned": false,
     "properties": {
-      "number": "singular",
-      "declension": 0,
-      "gender": "neuter",
-      "correctGenitive": "-era",
+      "conjugation": "Irregular",
+      "perfect": "-erum <DN: gen. alterīus",
+      "supine": "dat. alterī>",
+      "deponent": false,
       "declensionNote": "gen. alterīus, dat. alterī"
     }
   },
   {
-    "partOfSpeech": "Noun",
+    "partOfSpeech": "Verb",
     "lemma": "alius",
     "english": "other, another",
     "learned": false,
     "properties": {
-      "number": "singular",
-      "declension": 0,
-      "gender": "neuter",
-      "correctGenitive": "-a",
+      "conjugation": "Irregular",
+      "perfect": "-ud <DN: gen. alterīus",
+      "supine": "dat. aliī/alterī>",
+      "deponent": false,
       "declensionNote": "gen. alterīus, dat. aliī/alterī"
     }
   },
@@ -7682,15 +7682,15 @@
     }
   },
   {
-    "partOfSpeech": "Noun",
+    "partOfSpeech": "Adjective",
     "lemma": "dīves",
     "english": "rich",
     "learned": false,
     "properties": {
-      "number": "singular",
-      "declension": 0,
-      "gender": "neuter",
-      "correctGenitive": "-itis <DN: gen. pl. -um>",
+      "suffixes": "1st/2nd (-er)",
+      "masculineGenitive": "dīves",
+      "feminine": "dīves, -ae",
+      "neuter": "dīves, -ī",
       "declensionNote": "gen. pl. -um"
     }
   },
@@ -14006,15 +14006,14 @@
     }
   },
   {
-    "partOfSpeech": "Noun",
+    "partOfSpeech": "Verb",
     "lemma": "quatiō",
     "english": "to shake (both lit. and fig.)",
     "learned": false,
     "properties": {
-      "number": "singular",
-      "declension": 0,
-      "gender": "feminine",
-      "correctGenitive": "-ere",
+      "conjugation": 2,
+      "supine": "quassum <VN: perf. -cussī only in composita>",
+      "deponent": false,
       "verbNote": "perf. -cussī only in composita"
     }
   },
