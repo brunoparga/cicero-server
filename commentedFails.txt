@@ -1,19 +1,12 @@
 Regex to play with the main list: /(.*?\t.*?\t.*?) \((.+?)\t/
 
 ERROR IS IN THE DB
-gendered pronouns (e.g quīdam): lack 'properties' attribute (same with numerals) (create property setter)
-dexter, prosper: variants not listed (declension notes)
-vicis: presentation is wrong (declension notes)
+gendered pronouns (e.g quīdam): lack gender attributes (same with numerals) (NumPronProps)
 meminī, coepī: DB lacking correct perfect infinitive (fix in verb-property setter)
-prosper, nēve ... nēve: brackets still present
+prosper: fix feminine and neuter (similar to next line)
 -erī adjectives: feminine and neuter are wrong (tener, miser, līber, alter, asper)
-
-Think about how to present their strange declension
+dīves: listed as type I -er (WTF?)
 alius: weird neuter (fix in NumPronProps)
-laurus // dīves: genitivo cagado
-salvē (sg.), salvēte (pl.): interjection but has plural
-sponte (abl., gen. spontis very rare): presentation is all fubar'd
-vīs (sg. only acc. vim, abl. vī; pl. vīrēs, -ium): all fubar'd
 
 ERROR IS IN THE STATE AND PRESENTATION
 irregular verbs: correct infinitive is not shown so cannot match; DOM-inserting it works

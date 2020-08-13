@@ -4243,7 +4243,7 @@
     "english": "hail!",
     "learned": false,
     "properties": {
-      "miscellaneousNote": "pl."
+      "miscellaneousNote": "salvēte pl."
     }
   },
   {
@@ -7674,16 +7674,6 @@
     "english": "rich",
     "learned": false,
     "properties": {
-      "genitive": " -itis",
-      "suffixes": "3rd (all equal)"
-    }
-  },
-  {
-    "partOfSpeech": "Adjective",
-    "lemma": "dīves",
-    "english": "rich",
-    "learned": false,
-    "properties": {
       "suffixes": "1st/2nd (-er)",
       "masculineGenitive": "dīves",
       "feminine": "dīves, -ae",
@@ -10279,9 +10269,9 @@
     "properties": {
       "conjugation": 2,
       "perfect": "peperī",
-      "supine": "partum <VN: paritūrus is more common than partūrus>",
+      "supine": "partum <VN: fut. part. paritūrus is more common than partūrus>",
       "deponent": false,
-      "verbNote": "paritūrus is more common than partūrus"
+      "verbNote": "fut. part. paritūrus is more common than partūrus"
     }
   },
   {

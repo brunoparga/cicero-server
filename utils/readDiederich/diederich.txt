@@ -3,7 +3,7 @@ x		1	1	deus, -ī, m.	god
 xx		1	1	dea, -ae, f.	goddess
 xx		1	1	dīvīnus, -a, -um	divine, godlike, inspired
 xx		1	1	dīvus, -a, -um	divine, godlike; (noun) god, goddess
-xx	d.	1	1	dīves, -itis	rich
+xx	d.	1	1	dīves, -itis <DN: gen. pl. -um>	rich
 x		1	1	nympha, -ae, f.	nymph
 x		1	1	religiō, -ōnis, f.	conscientiousness, sense of right; scruples; (in various fig. senses) obligation, superstition
 x		1	1	templum, -ī, n.	place marked off for augury; holy ground; shrine, temple
@@ -201,7 +201,7 @@ xx		1	10	senectūs, -ūtis, f.	old age
 xx		1	10	senātus, -ūs, m.	council of elders, senate
 x		1	10	familia, -ae, f.	house-servants; household, family
 x		1	10	parēns, -entis, mf.	parent (used for either father or mother)
-xx		1	10	pariō, -ere, peperī, partum <VN: paritūrus is more common than partūrus>	to bring forth, give birth to, bear; accomplish, effect
+xx		1	10	pariō, -ere, peperī, partum <VN: fut. part. paritūrus is more common than partūrus>	to bring forth, give birth to, bear; accomplish, effect
 xx	d.	1	10	parō, -āre, -āvī, -ātum	to prepare, get ready; acquire
 xx	d.	1	10	pāreō, -ēre, -uī, -itūrus <VN: with dat.>	to obey
 x		1	10	pater, -tris, m.	father; (freely) ancestor; (fig.) elders, chiefs
@@ -866,7 +866,7 @@ xx		3	4	exercitus, -ūs, m.	(lit.) training; (fig.) army
 x		3	4	parō, -āre, -āvī, -ātum	to prepare, get ready; acquire
 xx		3	4	comparō, -āre, -āvī, -ātum	to get ready, provide; compare
 xx	d.	3	4	pāreō, -ēre, -uī, -itūrus	to obey
-xx	d.	3	4	pariō, -ere, peperī, partum <VN: paritūrus is more common than partūrus>	to bring forth, give birth to, bear; accomplish, effect
+xx	d.	3	4	pariō, -ere, peperī, partum <VN: fut. part. paritūrus is more common than partūrus>	to bring forth, give birth to, bear; accomplish, effect
 x		3	5	faciō, -ere, fēcī, factum	to do, make (in many senses and phrases)
 xx		3	5	afficiō, -ere, -fēcī, -fectum	to do to (a person); affect, visit with
 xx		3	5	cōnficiō, -ere, -fēcī, -fectum	(lit.) to make together; accomplish, complete (in var. senses); do up, exhaust
@@ -1085,7 +1085,7 @@ x		3	10	rīdeō, -ēre, rīsī, rīsum	to laugh, laugh at (usually intrans.)
 x		3	10	lūdō, -ere, lūsī, lūsum	to play; make sport of
 xx		3	10	lūdus, -ī, m.	game, play; place of play, school
 x		3	10	salveō, -ēre, --, --	to be well
-xx		3	10	salvē (sg.), salvēte <MN: pl.>	hail!
+xx		3	10	salvē <MN: salvēte pl.>	hail!
 xx		3	10	salūs, -ūtis, f.	health; safety (in var. senses)
 xx		3	10	salvus, -a, -um	sound of health; uninjured, safe; (occasionally) solvent
 x		3	10	valeō, -ēre, -uī, -itūrus	to be strong (physically); (fig.) excel, be able, have power, be worth
