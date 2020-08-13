@@ -651,9 +651,9 @@
     }
   },
   {
-    "partOfSpeech": "Adverb",
+    "partOfSpeech": "Pronoun",
     "lemma": "quīlibet",
-    "english": "anyone, without distinction, whom you will; no matter who",
+    "english": "(indef. pron.) anyone, without distinction, whom you will; no matter who",
     "learned": false,
     "properties": {
       "quodNote": "subst., quodlibet, adj."
@@ -6422,9 +6422,9 @@
     }
   },
   {
-    "partOfSpeech": "Adverb",
+    "partOfSpeech": "Pronoun",
     "lemma": "nēmō",
-    "english": "no one",
+    "english": "(indef. pron.) no one",
     "learned": false,
     "properties": {
       "declensionNote": "nūllīus, nēminī, nēminem, nūllō"
@@ -9367,10 +9367,16 @@
     }
   },
   {
-    "partOfSpeech": "Adverb",
+    "partOfSpeech": "Noun",
     "lemma": "mīlle (sg.), mīlia (pl.)",
-    "english": "thousand (indecl. adj. in sing., subst. in plural)",
-    "learned": false
+    "english": "thousand",
+    "learned": false,
+    "properties": {
+      "number": "plural",
+      "declension": 2,
+      "gender": "neuter",
+      "miscellaneousNote": "sg. is an indecl. adj."
+    }
   },
   {
     "partOfSpeech": "Numeral",

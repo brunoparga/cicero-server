@@ -469,7 +469,7 @@ x		1	23	ōrdō, -inis, m.	succession, order, class, rank, row, etc.
 x		1	23	condiciō, -ōnis, f.	agreement, terms; condition, station
 x		1	23	discrīmen, -inis, n.	(lit.) interval, distance apart, division, separation; decisive moment, crisis, risk
 x		1	23	pars, partis, f.	part
-x		1	23	nēmō <DN: nūllīus, nēminī, nēminem, nūllō>	no one
+x		1	23	nēmō <DN: nūllīus, nēminī, nēminem, nūllō>	(indef. pron.) no one
 x		1	23	nihil[nīl] (indecl.)	nothing
 x		1	23	numerus, -ī, m.	number, amount; musical order, rhythm, strain
 xx		1	23	numerō, -āre, -āvī, -ātum	(lit.) to count, reckon, number; (of money) count out, pay out, pay; (lit.) reckon, number as one's own (i.e. to have, possess); account, reckon, esteem, consider as any thing
@@ -518,7 +518,7 @@ xx		2	1	cui	to whom, to which
 x		2	1	aliquis, aliquid	some, any
 x		2	1	quīcumque, quaecumque, quodcumque	(indef. rel. pron.) whoever, whichever, whatever
 x		2	1	quīdam, quaedam, quiddam <QUOD: subst., quoddam, adj.>	(indef. pron.) a certain one, some one
-x		2	1	quīlibet, quaelibet, quidlibet <QUOD: subst., quodlibet, adj.>	anyone, without distinction, whom you will; no matter who
+x		2	1	quīlibet, quaelibet, quidlibet <QUOD: subst., quodlibet, adj.>	(indef. pron.) anyone, without distinction, whom you will; no matter who
 x		2	1	quisnam, quidnam	who, which, what pray/then
 x		2	1	quisquam, quidquam/quicquam	(indef. subst. pron.) any one
 x		2	1	quisque, quaeque, quidque <QUOD: subst., quodque, adj.>	(indef. pron.) each one, every one
@@ -1190,7 +1190,7 @@ x		4	2	octō (indecl.)	(card. num.) eight
 x		4	2	novem (indecl.)	(card. num.) nine
 x		4	2	decem (indecl.)	(card. num.) ten
 x		4	2	centum (indecl.)	(card. num.) one hundred
-x		4	2	mīlle	thousand (indecl. adj. in sing., subst. in plural)
+x		4	2	mīlle	thousand
 x		4	3	ācer, ācris, ācre	sharp, piercing (always in fig. sense, and usually applied to men, although Cicero applies it also to supplicium)
 xx		4	3	aciēs, -ēī, f.	(lit.) edge; line of battle (Caesar uses it once with oculorum, Cicero with auctoritatis; Vergil uses it alone of eyes, of sight, of sword. Otherwise the word is military)
 x		4	3	firmus, -a, -um	strong, firm, solid; steadfast

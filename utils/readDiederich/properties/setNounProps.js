@@ -3,6 +3,7 @@ const milleProps = {
   number: 'plural',
   declension: 2,
   gender: 'neuter',
+  miscellaneousNote: 'sg. is an indecl. adj.',
 };
 
 // Set which of the five declensions the noun belongs to, based on its genitive suffixes
@@ -39,7 +40,7 @@ const setCorrectGenitive = (lemma, number, declension) => {
 // A noun properties are its gender, number, declension and optionally its correct genitive
 // TODO: check the front-end for optionality of correctGenitive
 module.exports = (lemma) => {
-  if (lemma === 'mīlle (sg. indecl., pl. mīlia, -ium n.)') { return milleProps; }
+  if (lemma.includes('mīlle')) { return milleProps; }
 
   const number = /um$/.test(lemma.split(',')[1]) ? 'plural' : 'singular';
   const declension = setDeclension(lemma, number);

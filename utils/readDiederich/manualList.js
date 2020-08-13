@@ -10,6 +10,7 @@ const uniqueWords = {
   // Two parts of speech listed separately
   ante: 'Adverb, Preposition',
   // Unusual declensions
+  mīlle: 'Noun',
   'rēs pūblica, reī pūblicae, etc.': 'Noun',
 };
 

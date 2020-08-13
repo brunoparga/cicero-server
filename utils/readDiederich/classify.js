@@ -7,7 +7,8 @@ const testVerb = (lemma, definition) => (
   || /^(it|to) /.test(treatDefinition(definition))
 );
 
-const classifyByLemma = (lemma, definition) => {
+// Some words can be classified by their lemma...
+const byLemma = (lemma, definition) => {
   if (/(m|[^r]f|[^e]n)\./.test(lemma)) {
     return 'Noun';
   } if (testVerb(lemma, definition)) {
@@ -22,7 +23,8 @@ const classifyByLemma = (lemma, definition) => {
   return '';
 };
 
-const classifyByDefinition = (definition) => {
+// ... other words can be classified by what's in their definition
+const byDefinition = (definition) => {
   const definitionStrings = {
     'pron.': 'Pronoun',
     'conj.': 'Conjunction',
@@ -43,5 +45,5 @@ const classifyByDefinition = (definition) => {
 
 // Send words out into their appropriate parts of speech
 module.exports = (lemma, definition) => (
-  uniqueWords[lemma] || classifyByLemma(lemma, definition) || classifyByDefinition(definition)
+  uniqueWords[lemma] || byLemma(lemma, definition) || byDefinition(definition)
 );
