@@ -1,8 +1,6 @@
 const { multiIncludes } = require('./helpers');
 
 // Special cases
-// Nouns whose nominative singular is not actually used
-const defectiveNouns = ['sponte', 'vicis', 'vīrēs'];
 // Words whose lemma must be split by the first comma
 const specialSplit = ['rēs pūblica', 'ūsus est'];
 // Words which must be listed by their full lemma
@@ -20,7 +18,6 @@ module.exports = (lemma) => {
   if (lemma.includes('mīlle')) { return 'mīlle (sg.), mīlia (pl.)'; }
   // This lemma has both an ellipsis in it and an alternate form
   if (lemma.includes('nēve ... nēve')) { return 'nēve ... nēve'; }
-  if (multiIncludes(lemma, defectiveNouns)) { return lemma.slice(0, -4); }
   if (multiIncludes(lemma, specialSplit)) { return lemma.split(',')[0]; }
   // The ellipsis string includes words like 'neither ... nor'
   if (multiIncludes(lemma, fullLemma)) { return lemma; }

@@ -6,8 +6,6 @@ const buildWord = require('./buildWord');
 const words = fs
   // Read the file, break it into lines, throw the header line away
   .readFileSync('./utils/readDiederich/diederich.txt', 'utf8').split('\r\n').slice(1)
-  // TODO: remove lines that are comments
-  .filter((line) => !/^\//.test(line))
   // Break each row into columns, discard all except lemma and definition
   .map((ary) => ary.split('\t').slice(4))
   // Alphabetize by cleaned-up definition

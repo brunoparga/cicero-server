@@ -1,3 +1,4 @@
+/* eslint-disable prefer-destructuring */
 const setAdjectiveProperties = require('./setAdjProps');
 const setNounProperties = require('./setNounProps');
 const setNumeralPronounProperties = require('./setNumPronProps');
@@ -27,7 +28,17 @@ const wordNotes = (lemma) => {
   }
   const alternate = lemma.match(/\[(.*)\]/);
   if (alternate) {
-    [, result.alternateForm] = alternate;
+    result.alternateForm = alternate[1];
+  }
+  const note = lemma.match(/<(((D|V|M)N|QUOD): )(.*)>/);
+  const noteTypes = {
+    DN: 'declensionNote',
+    VN: 'verbNote',
+    MN: 'miscellaneousNote',
+    QUOD: 'quodNote',
+  };
+  if (note) {
+    result[noteTypes[note[2]]] = note[4];
   }
   return isEmpty(result) ? undefined : result;
 };

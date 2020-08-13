@@ -48,7 +48,10 @@
     "partOfSpeech": "Pronoun",
     "lemma": "quīdam",
     "english": "(indef. pron.) a certain one, some one",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "quodNote": "subst., quoddam, adj."
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -205,7 +208,8 @@
     "properties": {
       "number": "singular",
       "declension": 2,
-      "gender": "masculine/feminine"
+      "gender": "masculine/feminine",
+      "declensionNote": "gen. pl. -um"
     }
   },
   {
@@ -647,10 +651,13 @@
     }
   },
   {
-    "partOfSpeech": "Pronoun",
+    "partOfSpeech": "Adverb",
     "lemma": "quīlibet",
     "english": "anyone, without distinction, whom you will; no matter who",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "quodNote": "subst., quodlibet, adj."
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -915,7 +922,8 @@
       "number": "singular",
       "declension": 0,
       "gender": "feminine",
-      "correctGenitive": "-ī (or -ūs)"
+      "correctGenitive": "-ī <DN: or -ūs>",
+      "declensionNote": "or -ūs"
     }
   },
   {
@@ -1562,14 +1570,15 @@
   },
   {
     "partOfSpeech": "Noun",
-    "lemma": "vicis (gen. sg.), vicem (acc. sg.), vice (abl. sg.)",
+    "lemma": "vicis",
     "english": "change, turn (in affairs); (in vicem) in exchange, in turn",
     "learned": false,
     "properties": {
       "number": "singular",
       "declension": 0,
       "gender": "feminine",
-      "correctGenitive": "vicem (acc. sg.)"
+      "correctGenitive": "vicem acc.",
+      "declensionNote": "gen., vicem acc., vice abl."
     }
   },
   {
@@ -2254,7 +2263,8 @@
     "properties": {
       "number": "singular",
       "declension": 0,
-      "gender": "feminine"
+      "gender": "feminine",
+      "declensionNote": "dat./abl. pl. fīliābus"
     }
   },
   {
@@ -2580,7 +2590,8 @@
     "properties": {
       "number": "singular",
       "declension": 2,
-      "gender": "masculine/feminine"
+      "gender": "masculine/feminine",
+      "declensionNote": "abl. sg. -e, gen. pl. canum"
     }
   },
   {
@@ -2683,7 +2694,10 @@
     "partOfSpeech": "Pronoun",
     "lemma": "quisque",
     "english": "(indef. pron.) each one, every one",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "quodNote": "subst., quodque, adj."
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -3212,7 +3226,8 @@
       "suffixes": "1st/2nd (-us)",
       "masculineGenitive": "-ī",
       "feminine": "pauca, -ae",
-      "neuter": "paucum, -ī"
+      "neuter": "paucum, -ī",
+      "miscellaneousNote": "class. only pl. paucī, -ae, -a"
     }
   },
   {
@@ -3553,14 +3568,15 @@
   },
   {
     "partOfSpeech": "Noun",
-    "lemma": "vīs (sg. only acc. vim, abl. vī; pl. vīrēs, -ium)",
+    "lemma": "vīs",
     "english": "force, strength, energy",
     "learned": false,
     "properties": {
       "number": "singular",
       "declension": 0,
       "gender": "feminine",
-      "correctGenitive": "abl. vī; pl. vīrēs"
+      "correctGenitive": "abl. vī; pl. vīrēs",
+      "declensionNote": "sg. only acc. vim, abl. vī; pl. vīrēs, -ium"
     }
   },
   {
@@ -3863,7 +3879,8 @@
       "number": "singular",
       "declension": 2,
       "gender": "feminine",
-      "correctGenitive": "frūgis"
+      "correctGenitive": "frūgis",
+      "miscellaneousNote": "mostly pl."
     }
   },
   {
@@ -4222,9 +4239,12 @@
   },
   {
     "partOfSpeech": "Interjection",
-    "lemma": "salvē (sg.), salvēte (pl.)",
+    "lemma": "salvē",
     "english": "hail!",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "miscellaneousNote": "pl."
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -5060,8 +5080,9 @@
     "learned": false,
     "properties": {
       "conjugation": 1,
-      "perfect": "-uit (licitum est)",
-      "deponent": false
+      "perfect": "-uit <VN: licitum est>",
+      "deponent": false,
+      "verbNote": "licitum est"
     }
   },
   {
@@ -5071,8 +5092,9 @@
     "learned": false,
     "properties": {
       "conjugation": 1,
-      "perfect": "libuit (libitum est)",
-      "deponent": false
+      "perfect": "libuit <VN: libitum est>",
+      "deponent": false,
+      "verbNote": "libitum est"
     }
   },
   {
@@ -5208,7 +5230,8 @@
     "properties": {
       "number": "singular",
       "declension": 3,
-      "gender": "masculine"
+      "gender": "masculine",
+      "declensionNote": "dat./abl. pl. -ubus"
     }
   },
   {
@@ -6276,7 +6299,8 @@
     "english": "(adj.) necessary",
     "learned": false,
     "properties": {
-      "indeclinable": true
+      "indeclinable": true,
+      "miscellaneousNote": "only used with esse"
     }
   },
   {
@@ -6398,10 +6422,16 @@
     }
   },
   {
-    "partOfSpeech": "Pronoun",
+    "partOfSpeech": "Verb",
     "lemma": "nēmō",
     "english": "no one",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": 2,
+      "perfect": "nēminem",
+      "deponent": true,
+      "declensionNote": "nūllīus, nēminī, nēminem, nūllō"
+    }
   },
   {
     "partOfSpeech": "Adverb",
@@ -6554,14 +6584,15 @@
   },
   {
     "partOfSpeech": "Noun",
-    "lemma": "sponte (abl., gen. spontis very rare)",
+    "lemma": "sponte",
     "english": "of one's own will, voluntarily",
     "learned": false,
     "properties": {
       "number": "singular",
       "declension": 0,
       "gender": "feminine",
-      "correctGenitive": "gen. spontis very rare)"
+      "correctGenitive": "gen. spontis very rare>",
+      "declensionNote": "abl., gen. spontis very rare"
     }
   },
   {
@@ -6830,27 +6861,29 @@
     }
   },
   {
-    "partOfSpeech": "Adjective",
+    "partOfSpeech": "Noun",
     "lemma": "alter",
     "english": "other of two, one of two, second",
     "learned": false,
     "properties": {
-      "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "-ī",
-      "feminine": "alter, -ae",
-      "neuter": "alter, -ī"
+      "number": "singular",
+      "declension": 0,
+      "gender": "neuter",
+      "correctGenitive": "-era",
+      "declensionNote": "gen. alterīus, dat. alterī"
     }
   },
   {
-    "partOfSpeech": "Adjective",
+    "partOfSpeech": "Noun",
     "lemma": "alius",
     "english": "other, another",
     "learned": false,
     "properties": {
-      "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "-ī",
-      "feminine": "alia, -ae",
-      "neuter": "alium, -ī"
+      "number": "singular",
+      "declension": 0,
+      "gender": "neuter",
+      "correctGenitive": "-a",
+      "declensionNote": "gen. alterīus, dat. aliī/alterī"
     }
   },
   {
@@ -6948,7 +6981,8 @@
       "number": "singular",
       "declension": 2,
       "gender": "masculine/feminine",
-      "correctGenitive": "bovis"
+      "correctGenitive": "bovis",
+      "declensionNote": "gen. pl. boum; dat/abl. pl. bōbus/būbus"
     }
   },
   {
@@ -7115,7 +7149,8 @@
     "properties": {
       "number": "singular",
       "declension": 1,
-      "gender": "masculine"
+      "gender": "masculine",
+      "declensionNote": "pl. -a, -ōrum, n."
     }
   },
   {
@@ -7275,7 +7310,8 @@
       "number": "singular",
       "declension": 2,
       "gender": "feminine",
-      "correctGenitive": "precis"
+      "correctGenitive": "precis",
+      "declensionNote": "mostly used in pl., in sg. only. dat., acc., abl."
     }
   },
   {
@@ -7495,7 +7531,8 @@
       "number": "singular",
       "declension": 2,
       "gender": "masculine",
-      "correctGenitive": "-bris"
+      "correctGenitive": "-bris",
+      "declensionNote": "gen. pl. -ium"
     }
   },
   {
@@ -7548,7 +7585,10 @@
     "partOfSpeech": "Adverb",
     "lemma": "nūper",
     "english": "recently, lately",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "miscellaneousNote": "superl. nūperrimē"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -7650,7 +7690,8 @@
       "number": "singular",
       "declension": 0,
       "gender": "neuter",
-      "correctGenitive": "-itis (gen. pl. -um)"
+      "correctGenitive": "-itis <DN: gen. pl. -um>",
+      "declensionNote": "gen. pl. -um"
     }
   },
   {
@@ -7685,15 +7726,15 @@
     }
   },
   {
-    "partOfSpeech": "Adjective",
+    "partOfSpeech": "Verb",
     "lemma": "dexter",
     "english": "right (opp. to sinister, laevus)",
     "learned": false,
     "properties": {
-      "suffixes": "1st/2nd (-er)",
-      "masculineGenitive": "-trī",
-      "feminine": "dextra, -ae",
-      "neuter": "dextrum, -ī"
+      "conjugation": "Irregular",
+      "perfect": "-trum <ALT: -tera",
+      "supine": "-terum>",
+      "deponent": false
     }
   },
   {
@@ -7899,7 +7940,8 @@
     "properties": {
       "number": "singular",
       "declension": 2,
-      "gender": "feminine"
+      "gender": "feminine",
+      "declensionNote": "gen. pl. -um"
     }
   },
   {
@@ -8291,15 +8333,16 @@
     }
   },
   {
-    "partOfSpeech": "Adjective",
+    "partOfSpeech": "Verb",
     "lemma": "parvus",
     "english": "small, little (in Caesar not in positive, and in general rare)",
     "learned": false,
     "properties": {
-      "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "-ī",
-      "feminine": "parva, -ae",
-      "neuter": "parvum, -ī"
+      "conjugation": "Irregular",
+      "perfect": "-um <MN: comp. minor",
+      "supine": "superl. minimus>",
+      "deponent": false,
+      "miscellaneousNote": "comp. minor, superl. minimus"
     }
   },
   {
@@ -8358,7 +8401,8 @@
       "number": "singular",
       "declension": 2,
       "gender": "feminine",
-      "correctGenitive": "nivis"
+      "correctGenitive": "nivis",
+      "declensionNote": "gen. pl. -ium"
     }
   },
   {
@@ -8878,7 +8922,8 @@
       "number": "singular",
       "declension": 2,
       "gender": "feminine",
-      "correctGenitive": "lītis"
+      "correctGenitive": "lītis",
+      "declensionNote": "gen. pl. -ium"
     }
   },
   {
@@ -9335,15 +9380,10 @@
     }
   },
   {
-    "partOfSpeech": "Noun",
+    "partOfSpeech": "Adverb",
     "lemma": "mīlle (sg.), mīlia (pl.)",
     "english": "thousand (indecl. adj. in sing., subst. in plural)",
-    "learned": false,
-    "properties": {
-      "number": "plural",
-      "declension": 2,
-      "gender": "neuter"
-    }
+    "learned": false
   },
   {
     "partOfSpeech": "Numeral",
@@ -9442,8 +9482,9 @@
     "properties": {
       "conjugation": 1,
       "perfect": "-uī",
-      "supine": "(-itūrus)",
-      "deponent": false
+      "supine": "<VN: -itūrus>",
+      "deponent": false,
+      "verbNote": "-itūrus"
     }
   },
   {
@@ -9767,10 +9808,11 @@
     "properties": {
       "conjugation": "Irregular",
       "correctInfinitive": "adesse",
-      "perfect": "-fuī (affuī)",
-      "supine": "-futūrus (affutūrus)",
+      "perfect": "-fuī",
+      "supine": "-futūrus <VN: affuī",
       "deponent": false,
-      "alternateForm": "assum"
+      "alternateForm": "assum",
+      "verbNote": "affuī, affutūrus"
     }
   },
   {
@@ -10240,8 +10282,9 @@
     "properties": {
       "conjugation": 2,
       "perfect": "peperī",
-      "supine": "partum (paritūrus)",
-      "deponent": false
+      "supine": "partum <VN: paritūrus is more common than partūrus>",
+      "deponent": false,
+      "verbNote": "paritūrus is more common than partūrus"
     }
   },
   {
@@ -10755,8 +10798,9 @@
     "properties": {
       "conjugation": 2,
       "perfect": "fefellī",
-      "supine": "-- (falsus mostly only used as adj.; dēceptus serves as PPP)",
-      "deponent": false
+      "supine": "-- <VN: falsus mostly only used as adj.; dēceptus serves as PPP>",
+      "deponent": false,
+      "verbNote": "falsus mostly only used as adj.; dēceptus serves as PPP"
     }
   },
   {
@@ -11098,8 +11142,9 @@
     "learned": false,
     "properties": {
       "conjugation": 2,
-      "perfect": "frūctus sum (fruitus sum)",
-      "deponent": true
+      "perfect": "frūctus sum <VN: fruitus sum>",
+      "deponent": true,
+      "verbNote": "fruitus sum"
     }
   },
   {
@@ -11190,7 +11235,7 @@
     "properties": {
       "conjugation": 2,
       "perfect": "-uī",
-      "supine": "(-ūtum)",
+      "supine": "-ūtum",
       "deponent": false
     }
   },
@@ -12572,8 +12617,9 @@
     "learned": false,
     "properties": {
       "conjugation": 1,
-      "perfect": "tuitus sum (tūtus sum)",
-      "deponent": true
+      "perfect": "tuitus sum <VN: tūtus sum>",
+      "deponent": true,
+      "verbNote": "tūtus sum"
     }
   },
   {
@@ -12942,8 +12988,9 @@
     "properties": {
       "conjugation": 2,
       "perfect": "aluī",
-      "supine": "altum (alitum)",
-      "deponent": false
+      "supine": "altum <VN: alitum>",
+      "deponent": false,
+      "verbNote": "alitum"
     }
   },
   {
@@ -12954,8 +13001,9 @@
     "properties": {
       "conjugation": 1,
       "perfect": "-uī",
-      "supine": "-itūrus (with dat.)",
-      "deponent": false
+      "supine": "-itūrus <VN: with dat.>",
+      "deponent": false,
+      "verbNote": "with dat."
     }
   },
   {
@@ -13958,14 +14006,16 @@
     }
   },
   {
-    "partOfSpeech": "Verb",
+    "partOfSpeech": "Noun",
     "lemma": "quatiō",
     "english": "to shake (both lit. and fig.)",
     "learned": false,
     "properties": {
-      "conjugation": 2,
-      "supine": "quassum (perf. -cussī only in composita)",
-      "deponent": false
+      "number": "singular",
+      "declension": 0,
+      "gender": "feminine",
+      "correctGenitive": "-ere",
+      "verbNote": "perf. -cussī only in composita"
     }
   },
   {
@@ -14069,8 +14119,9 @@
     "learned": false,
     "properties": {
       "conjugation": 3,
-      "supine": "-- (as perfect use īcō or percūtiō)",
-      "deponent": false
+      "supine": "-- <VN: as perfect use īcō or percūtiō>",
+      "deponent": false,
+      "verbNote": "as perfect use īcō or percūtiō"
     }
   },
   {
@@ -14152,8 +14203,9 @@
     "properties": {
       "conjugation": 2,
       "perfect": "pandī",
-      "supine": "passum (pānsum)",
-      "deponent": false
+      "supine": "passum <VN: pānsum>",
+      "deponent": false,
+      "verbNote": "pānsum"
     }
   },
   {
@@ -14164,8 +14216,9 @@
     "properties": {
       "conjugation": 0,
       "perfect": "stetī",
-      "supine": "statum (statūrus)",
-      "deponent": false
+      "supine": "statum <VN: statūrus>",
+      "deponent": false,
+      "verbNote": "statūrus"
     }
   },
   {
@@ -14200,8 +14253,9 @@
     "properties": {
       "conjugation": 0,
       "perfect": "-stitī",
-      "supine": "-stitum (-stātūrus)",
-      "deponent": false
+      "supine": "-stitum <VN: -stātūrus>",
+      "deponent": false,
+      "verbNote": "-stātūrus"
     }
   },
   {
@@ -14283,8 +14337,9 @@
     "properties": {
       "conjugation": 2,
       "perfect": "tetendī",
-      "supine": "tentum (tēnsum)",
-      "deponent": false
+      "supine": "tentum <VN: tēnsum>",
+      "deponent": false,
+      "verbNote": "tēnsum"
     }
   },
   {
@@ -14307,8 +14362,9 @@
     "properties": {
       "conjugation": 2,
       "perfect": "-tendī",
-      "supine": "-tentum (-tēnsum)",
-      "deponent": false
+      "supine": "-tentum <VN: -tēnsum>",
+      "deponent": false,
+      "verbNote": "-tēnsum"
     }
   },
   {
@@ -14605,8 +14661,9 @@
     "properties": {
       "conjugation": 2,
       "perfect": "ruī",
-      "supine": "rutum (ruitūrus)",
-      "deponent": false
+      "supine": "rutum <VN: ruitūrus>",
+      "deponent": false,
+      "verbNote": "ruitūrus"
     }
   },
   {
@@ -14806,8 +14863,9 @@
     "learned": false,
     "properties": {
       "conjugation": 2,
-      "perfect": "reversus sum (or revertō",
-      "deponent": true
+      "perfect": "reversus sum <VN: or revertō",
+      "deponent": true,
+      "verbNote": "or revertō, -ere, -vertī"
     }
   },
   {
@@ -14911,8 +14969,9 @@
     "properties": {
       "conjugation": 0,
       "perfect": "lāvī",
-      "supine": "lautum (lavātum)",
-      "deponent": false
+      "supine": "lautum <VN: lavātum>",
+      "deponent": false,
+      "verbNote": "lavātum"
     }
   },
   {
@@ -15134,7 +15193,8 @@
     "properties": {
       "number": "singular",
       "declension": 2,
-      "gender": "feminine"
+      "gender": "feminine",
+      "declensionNote": "acc. sg. -im, abl. sg. -i"
     }
   },
   {
@@ -15796,10 +15856,18 @@
     "learned": false
   },
   {
-    "partOfSpeech": "Pronoun",
+    "partOfSpeech": "Verb",
     "lemma": "quisquis",
     "english": "(indef. pron.) whoever, whichever",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "conjugation": "Irregular",
+      "correctInfinitive": "quidquid/quicquid <QUOD: subst.",
+      "perfect": "quodquod",
+      "supine": "adj.>",
+      "deponent": false,
+      "quodNote": "subst., quodquod, adj."
+    }
   },
   {
     "partOfSpeech": "Pronoun",
