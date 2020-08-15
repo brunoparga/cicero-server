@@ -35,11 +35,11 @@ quī, quis -> two different forms: quī quae quod // quis quid -> share genitive
 */
 
 module.exports = (lemma) => {
-  // TODO: 'masculine' includes all three forms, no genitive
+  // TODO: genitive
   const commaSplit = lemma.split(', ');
   if (commaSplit.length === 3) {
     const [, feminine, neuter] = commaSplit;
-    // TODO: improve this 'suffixes' thing;
+    // STRETCH: improve this 'suffixes' thing;
     return { feminine, neuter, suffixes: '3rd (-er/-ris/-re)' };
   }
   return undefined;

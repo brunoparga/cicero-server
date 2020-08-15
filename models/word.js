@@ -8,7 +8,7 @@ class Word extends Model {
   // Fetch words with their options and present them to controller
   static async fetch() {
     const words = await this.findAll(this.wordFindParams);
-    // TODO: do the options thing in one fell swoop
+    // STRETCH: do the options thing in one fell swoop
     const wordsWithOptions = await Promise.all(words.map(this.addOptions.bind(this)));
     return wordsWithOptions;
   }
@@ -20,9 +20,9 @@ class Word extends Model {
   // SELECT only the relevant things from each drilled word to send to the front-end
   static get wordFindParams() {
     return {
-      // TODO: make this LIMIT customizable
+      // STRETCH: make this LIMIT customizable
       limit: 10,
-      // TODO: replace this shuffling with something smarter
+      // possible TODO: replace this shuffling with something smarter
       order: [Sequelize.literal('RANDOM()')],
       attributes: [['partOfSpeech', 'questionType'], 'lemma', 'english', 'learned', 'properties'],
     };
@@ -35,7 +35,6 @@ class Word extends Model {
   }
 
   // SELECT wrong options to accompany the correct word
-  // TODO: make this smarter than three random words from the same part of spech
   static optionsFindParams(word) {
     return {
       order: [Sequelize.literal('RANDOM()')],

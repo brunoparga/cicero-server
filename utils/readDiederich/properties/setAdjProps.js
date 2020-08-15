@@ -36,7 +36,7 @@ const typeTwo = (lemma) => {
   if (lemma.split(',').length === 2) {
     return { suffixes: '3rd (-is/-e)', neuter: '-e' };
   }
-  // TODO: full forms for 3rd decl adjectives
+  // STRETCH: full forms for 3rd decl adjectives
   return { suffixes: '3rd (-er/-ris/-re)', feminine: '-ris', neuter: '-e' };
 };
 

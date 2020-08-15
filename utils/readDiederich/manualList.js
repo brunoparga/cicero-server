@@ -1,7 +1,7 @@
 // Why each group of words is here
 
 const uniqueWords = {
-  // TODO: getting options doesn't work with these words
+  // TODO: getting options doesn't work with these words (two parts of speech)
   // Only words that share these parts of speech
   'satis (indecl.)': 'Adjective, Adverb',
   'nec[neque]': 'Adverb, Conjunction',
