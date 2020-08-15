@@ -24,7 +24,7 @@ const isEmpty = (object) => { for (const i in object) { return false; } return t
 const wordNotes = (lemma) => {
   const result = {};
   // Add a note for words that should decline but do not
-  if (lemma.includes('(indecl.')) {
+  if (lemma.includes('INDECL')) {
     result.indeclinable = true;
   }
   // Add a note for alternate forms, different spellings

@@ -3,7 +3,7 @@
 const uniqueWords = {
   // TODO: getting options doesn't work with these words (two parts of speech)
   // Only words that share these parts of speech
-  'satis (indecl.)': 'Adjective, Adverb',
+  'satis <INDECL>': 'Adjective, Adverb',
   'nec[neque]': 'Adverb, Conjunction',
   'ubī[ubi]': 'Adverb, Conjunction',
   ergō: 'Conjunction, Preposition',
@@ -20,7 +20,7 @@ const adjectives = [
   // definition beginning with 'to ' classifies as verb
   'potior, -ius',
   // 'num.' classifies as numeral
-  'quot (indecl.)',
+  'quot <INDECL>',
   // lack of hyphen in lemma classifies as adverb (default)
   'ācer, ācris, ācre',
   'āter, ātra, ātrum',
@@ -52,7 +52,7 @@ const pronouns = [
   'mē',
   'mihi',
   'nēmō (nūllīus, nēminī, nēminem, nūllō)',
-  'nihil[nīl] (indecl.)',
+  'nihil[nīl] <INDECL>',
   'nōbīs',
   'nōs',
   'quī, quis',

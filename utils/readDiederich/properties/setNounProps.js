@@ -36,6 +36,8 @@ const specialCases = (lemma) => {
 
 // Some words, especially in the second and third declension, have slightly irregular genitives
 const setCorrectGenitive = (lemma, number, declension) => {
+  if (lemma.includes('INDECL')) { return undefined; }
+
   const special = specialCases(lemma);
   if (special) { return special; }
 

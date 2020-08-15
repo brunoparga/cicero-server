@@ -668,7 +668,6 @@
       "number": "singular",
       "declension": 0,
       "gender": "neuter",
-      "correctGenitive": "n. (indecl.)",
       "indeclinable": true
     }
   },
@@ -2543,7 +2542,6 @@
       "number": "singular",
       "declension": 0,
       "gender": "neuter",
-      "correctGenitive": "n. (indecl.)",
       "indeclinable": true
     }
   },
@@ -8435,7 +8433,7 @@
   {
     "partOfSpeech": "Numeral",
     "lemma": "tot",
-    "english": "(indecl. demonst. num.) so many",
+    "english": "(demonst. num.) so many",
     "learned": false,
     "properties": {
       "indeclinable": true

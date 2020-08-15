@@ -52,6 +52,6 @@ const genitive = (lemma) => {
 module.exports = (lemma) => {
   if (/is$/.test(lemma)) { return { genitive: genitive(lemma), suffixes: '3rd (all equal)' }; }
   if (/(e|us)$/.test(lemma)) { return { genitive: '-is', ...typeTwo(lemma) }; }
-  if (lemma.includes('indecl')) { return undefined; }
+  if (lemma.includes('INDECL')) { return undefined; }
   return typeOne(lemma);
 };
