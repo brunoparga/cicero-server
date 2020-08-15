@@ -22,8 +22,18 @@ const typeOneShortened = (masculine) => ({
   neuter: `${masculine.replace(/er$/, 'rum')}, -ī`,
 });
 
+// Alius is a "pronominal adjective", so it is odd
+const aliusProps = {
+  suffixes: '1st/2nd (-us)',
+  masculineGenitive: 'alterīus',
+  feminine: 'alia',
+  neuter: 'aliud',
+};
+
 // Type I includes three-form adjectives that decline following the first and second declensions.
 const typeOne = (lemma) => {
+  if (lemma.includes('alius')) { return aliusProps; }
+
   const [masculine, feminine] = lemma.split(', ');
   if (feminine === '-ae') { return typeOnePlural(masculine); }
   if (['-a', '-era'].includes(feminine)) { return typeOneCommon(masculine); }
@@ -50,8 +60,8 @@ const genitive = (lemma) => {
 // Adjective properties must list the suffixes the adjective uses, and also information to inflect
 // them by gender and case.
 module.exports = (lemma) => {
+  if (lemma.includes('INDECL')) { return undefined; }
   if (/is$/.test(lemma)) { return { genitive: genitive(lemma), suffixes: '3rd (all equal)' }; }
   if (/(e|us)$/.test(lemma)) { return { genitive: '-is', ...typeTwo(lemma) }; }
-  if (lemma.includes('INDECL')) { return undefined; }
   return typeOne(lemma);
 };

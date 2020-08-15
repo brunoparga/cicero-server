@@ -666,7 +666,6 @@
     "learned": false,
     "properties": {
       "number": "singular",
-      "declension": 0,
       "gender": "neuter",
       "indeclinable": true
     }
@@ -2540,7 +2539,6 @@
     "learned": false,
     "properties": {
       "number": "singular",
-      "declension": 0,
       "gender": "neuter",
       "indeclinable": true
     }
@@ -6873,9 +6871,9 @@
     "learned": false,
     "properties": {
       "suffixes": "1st/2nd (-us)",
-      "masculineGenitive": "-ī",
-      "feminine": "alia, -ae",
-      "neuter": "alium, -ī",
+      "masculineGenitive": "alterīus",
+      "feminine": "alia",
+      "neuter": "aliud",
       "declensionNote": "gen. alterīus, dat. aliī/alterī"
     }
   },

@@ -8,6 +8,8 @@ const milleProps = {
 
 // Set which of the five declensions the noun belongs to, based on its genitive suffixes
 const setDeclension = (lemma, number) => {
+  if (lemma.includes('INDECL')) { return undefined; }
+
   const singular = [/ae$/, /ī$/, /is$/, /ūs$/, /(e|ē)ī$/];
   // Leaving the fourth and fifth declension endings here even though there are no plural
   // words in those declensions in the Diederich list.
