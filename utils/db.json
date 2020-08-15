@@ -5080,9 +5080,8 @@
     "learned": false,
     "properties": {
       "conjugation": 1,
-      "perfect": "-uit <VN: licitum est>",
-      "deponent": false,
-      "verbNote": "licitum est"
+      "perfect": "-uit (licitum est)",
+      "deponent": false
     }
   },
   {
@@ -5092,9 +5091,8 @@
     "learned": false,
     "properties": {
       "conjugation": 1,
-      "perfect": "libuit <VN: libitum est>",
-      "deponent": false,
-      "verbNote": "libitum est"
+      "perfect": "libuit (libitum est)",
+      "deponent": false
     }
   },
   {
@@ -9475,9 +9473,8 @@
     "properties": {
       "conjugation": 1,
       "perfect": "-uī",
-      "supine": "<VN: -itūrus>",
-      "deponent": false,
-      "verbNote": "-itūrus"
+      "supine": "(-itūrus)",
+      "deponent": false
     }
   },
   {
@@ -9801,11 +9798,10 @@
     "properties": {
       "conjugation": "Irregular",
       "correctInfinitive": "adesse",
-      "perfect": "-fuī",
-      "supine": "-futūrus <VN: affuī",
+      "perfect": "-fuī (affuī)",
+      "supine": "-futūrus (affutūrus)",
       "deponent": false,
-      "alternateForm": "assum",
-      "verbNote": "affuī, affutūrus"
+      "alternateForm": "assum"
     }
   },
   {
@@ -11135,9 +11131,8 @@
     "learned": false,
     "properties": {
       "conjugation": 2,
-      "perfect": "frūctus sum <VN: fruitus sum>",
-      "deponent": true,
-      "verbNote": "fruitus sum"
+      "perfect": "frūctus (fruitus) sum",
+      "deponent": true
     }
   },
   {
@@ -12610,9 +12605,8 @@
     "learned": false,
     "properties": {
       "conjugation": 1,
-      "perfect": "tuitus sum <VN: tūtus sum>",
-      "deponent": true,
-      "verbNote": "tūtus sum"
+      "perfect": "tuitus (tūtus) sum",
+      "deponent": true
     }
   },
   {
@@ -12981,9 +12975,8 @@
     "properties": {
       "conjugation": 2,
       "perfect": "aluī",
-      "supine": "altum <VN: alitum>",
-      "deponent": false,
-      "verbNote": "alitum"
+      "supine": "al(i)tum",
+      "deponent": false
     }
   },
   {
@@ -14195,9 +14188,8 @@
     "properties": {
       "conjugation": 2,
       "perfect": "pandī",
-      "supine": "passum <VN: pānsum>",
-      "deponent": false,
-      "verbNote": "pānsum"
+      "supine": "passum (pānsum)",
+      "deponent": false
     }
   },
   {
@@ -14208,9 +14200,8 @@
     "properties": {
       "conjugation": 0,
       "perfect": "stetī",
-      "supine": "statum <VN: statūrus>",
-      "deponent": false,
-      "verbNote": "statūrus"
+      "supine": "statum",
+      "deponent": false
     }
   },
   {
@@ -14245,9 +14236,8 @@
     "properties": {
       "conjugation": 0,
       "perfect": "-stitī",
-      "supine": "-stitum <VN: -stātūrus>",
-      "deponent": false,
-      "verbNote": "-stātūrus"
+      "supine": "-stitum (-stātūrus)",
+      "deponent": false
     }
   },
   {
@@ -14329,9 +14319,8 @@
     "properties": {
       "conjugation": 2,
       "perfect": "tetendī",
-      "supine": "tentum <VN: tēnsum>",
-      "deponent": false,
-      "verbNote": "tēnsum"
+      "supine": "tentum (tēnsum)",
+      "deponent": false
     }
   },
   {
@@ -14342,7 +14331,7 @@
     "properties": {
       "conjugation": 2,
       "perfect": "-tendī",
-      "supine": "-tentum",
+      "supine": "-tentum (-tēnsum)",
       "deponent": false
     }
   },
@@ -14354,9 +14343,8 @@
     "properties": {
       "conjugation": 2,
       "perfect": "-tendī",
-      "supine": "-tentum <VN: -tēnsum>",
-      "deponent": false,
-      "verbNote": "-tēnsum"
+      "supine": "-tentum (-tēnsum)",
+      "deponent": false
     }
   },
   {
@@ -14653,9 +14641,8 @@
     "properties": {
       "conjugation": 2,
       "perfect": "ruī",
-      "supine": "rutum <VN: ruitūrus>",
-      "deponent": false,
-      "verbNote": "ruitūrus"
+      "supine": "rutum (ruitūrus)",
+      "deponent": false
     }
   },
   {
@@ -14961,9 +14948,8 @@
     "properties": {
       "conjugation": 0,
       "perfect": "lāvī",
-      "supine": "lautum <VN: lavātum>",
-      "deponent": false,
-      "verbNote": "lavātum"
+      "supine": "lautum (lavātum)",
+      "deponent": false
     }
   },
   {

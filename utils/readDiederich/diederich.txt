@@ -572,7 +572,7 @@ x		3	1	fugiō, -ere, fūgī, fugitūrus	to flee, escape
 xx		3	1	fuga, -ae, f.	flight, rout
 x		3	1	vītō, -āre, -āvī, -ātum	to avoid, shun
 xx		3	1	vitium, -ī, n.	flaw, defect, fault, crime
-x		3	1	appāreō, -ēre, -uī, <VN: -itūrus>	to appear, become visible
+x		3	1	appāreō, -ēre, -uī, (-itūrus)	to appear, become visible
 x		3	1	lateō, -ēre, -uī, --	to lie hid, be hidden (in lit. and fig. senses); (with acc. of person in poetry) be hid from, unknown to
 x		3	1	iaceō, -ēre, -uī, --	to lie (e.g. on the ground)
 xx	d.	3	1	iaciō, -ere, iēcī, iactum	to throw
@@ -584,19 +584,19 @@ xx		3	1	incidō, -ere, -cidī, --	to fall upon, fall into; happen
 xx		3	1	cāsus, -ūs, m.	(lit.) a falling, fall; chance, accident
 x		3	1	lābor, lābī, lāpsus sum	to glide, slip, slide
 x	d.	3	1	labor, -ōris, m.	toil, exertion (in both lit. and fig. senses)
-x		3	1	ruō, -ere, ruī, rutum <VN: ruitūrus>	(trans.) to throw down, overthrow; (intrans.) rush down, tumble down, rush (in almost any sense)
+x		3	1	ruō, -ere, ruī, rutum (ruitūrus)	(trans.) to throw down, overthrow; (intrans.) rush down, tumble down, rush (in almost any sense)
 xx		3	1	ruīna, -ae, f.	downfall, collapse (both lit. and fig.)
 x		3	1	surgō, -ere, surrēxī, surrēctum	(trans.) to raise; (intrans.) rise
 x		3	1	orior, orīrī, ortus sum	to arise; spring from, begin, etc.
 xx		3	1	exorior, -orīrī, -ortus sum	to rise up, appear, arise
 x		3	1	ascendō, -ere, -endī, -ēnsum	to climb up, ascend
 x		3	1	dēscendō, -ere, -scendī, -scēnsum	to climb down, descend
-x		3	1	stō, stāre, stetī, statum <VN: statūrus>	to stand
+x		3	1	stō, stāre, stetī, statum	to stand
 xx		3	1	astō, astāre, astitī, --	to stand by, stand near, stand
 xx		3	1	cōnstō, -stāre, -stitī, -stātūrus	(lit.) stand with (i.e. be consistent, agree); be complete, regular; (impers.) cost; it is established, certain
 xx		3	1	īnstō, -stāre, -stitī, -stātūrus	to stand to/on; persist, press on/upon; impend, be at hand, etc.
 xx		3	1	obstō, -stāre, -stitī, -stātūrus	to stand in the way of
-xx		3	1	praestō, -stāre, -stitī, -stitum <VN: -stātūrus>	to stand in front, excel; exhibit, furnish
+xx		3	1	praestō, -stāre, -stitī, -stitum (-stātūrus)	to stand in front, excel; exhibit, furnish
 x		3	1	sedeō, -ēre, sēdī, sessum	to sit; (fig.) be fixed, settled; (sometimes) suit
 xx		3	1	resīdō, -ere, -sēdī, -sessum	to sit back, sit down; (fig.) settle down, sink; (also) cease
 xx		3	1	sēdēs, -is, f. <DN: gen. pl. -um>	seat, abode, habitation (both lit. and fig.)
@@ -751,7 +751,7 @@ xx		3	2	reliquus, -a, -um	remaining, rest
 xx		3	2	linquō, -ere, līquī, --	(poetry) to leave (both lit. and fig.; the prose word is relinquo)
 x		3	2	dēserō, -ere, -seruī, -sertum	to disjoin, leave off, give up, abandon
 x		3	2	vendō, -ere, -didī, -ditum	to put up for sale; sell (pass. is veneo)
-x		3	2	pandō, -ere, pandī, passum <VN: pānsum>	to spread, spread out; (fig.) expand, etc.
+x		3	2	pandō, -ere, pandī, passum (pānsum)	to spread, spread out; (fig.) expand, etc.
 x		3	2	īnstruō, -ere, -strūxī, -strūctum	(lit.) heap up; arrange, marshall; load; (fig.) set in order, plan, contrive
 x		3	2	sternō, -ere, strāvī, strātum	to strew, spread out, stretch out; (fig.) overthrow; devastate
 x		3	2	spargō, -ere, -rsī, -rsum	to scatter (in many senses)
@@ -773,7 +773,7 @@ xx		3	2	reperiō, -īre, repperī, repertum	to find out (after search)
 x		3	2	claudō, -ere, clausī, clausum	to close, shut
 x		3	3	sum, esse, fuī, futūrum	to be, exist
 x		3	3	absum, abesse, āfuī, āfutūrus	to be away, be absent
-x		3	3	adsum[assum], adesse, -fuī, -futūrus <VN: affuī, affutūrus>	to be present, be at hand, assist
+x		3	3	adsum[assum], adesse, -fuī (affuī), -futūrus (affutūrus)	to be present, be at hand, assist
 x		3	3	dēsum, deesse, dēfuī	to be lacking, missing
 x		3	3	prōsum, prōdesse, prōfuī	to be profitable (opp. obsum)
 x		3	3	supersum, superesse, superfuī	to be over, remain, survive, etc.
@@ -829,9 +829,9 @@ xx		3	3	simulācrum, -ī, n.	effigy, image
 x		3	4	mūtō, -āre, -āvī, -ātum	to change
 x		3	4	flectō, -ere, flexī, flexum	to bend, turn (in both lit. and fig. senses)
 x		3	4	torqueō, -ēre, torsī, tortum	to twist, wind (in var. lit. and fig. senses)
-x		3	4	tendō, -ere, tetendī, tentum <VN: tēnsum>	to stretch (in many senses, lit. and fig.; used both trans. and intrans.)
-xx		3	4	intendō, -ere, -tendī, -tentum	to stretch out, strain; (rarely) determine (with inf.)
-xx		3	4	ostendō, -ere, -tendī, -tentum <VN: -tēnsum>	to stretch towards, hold out; expose to view, show (in many senses)
+x		3	4	tendō, -ere, tetendī, tentum (tēnsum)	to stretch (in many senses, lit. and fig.; used both trans. and intrans.)
+xx		3	4	intendō, -ere, -tendī, -tentum (-tēnsum)	to stretch out, strain; (rarely) determine (with inf.)
+xx		3	4	ostendō, -ere, -tendī, -tentum (-tēnsum)	to stretch towards, hold out; expose to view, show (in many senses)
 x		3	4	terō, -ere, trīvī, trītum	to rub
 x		3	4	percutiō, -ere, -cussī, -cussum	(lit.) to strike through; smite; (of the mind) affect deeply
 x		3	4	premō, -ere, pressī, pressum	to press, press hard, pursue, overwhelm, etc.
@@ -890,10 +890,10 @@ xx		3	5	ūsus est, ūsus esse, ūsus fuit, ūsus futūrus	it is necessary (with 
 xx		3	5	ūtilis, -e	useful
 xx		3	5	ūtilitās, -ātis, f.	usefulness, advantage
 x		3	5	ōrnō, -āre, -āvī, -ātum	to fit out, equip; esp. embellish, adorn (both lit. and fig.)
-x		3	5	lavō, -āre, lāvī, lautum <VN: lavātum>	to wash, sprinkle
+x		3	5	lavō, -āre, lāvī, lautum (lavātum)	to wash, sprinkle
 x		3	5	pāscō, -āre, pāvī, pāstum	to cause to feed, pasture (esp. of animals); feed on, eat, consume (fig. of persons, elements, etc.)
 xx		3	5	pāstor, -ōris, m.	feeder; esp. shepherd
-x		3	5	alō, -ere, aluī, altum <VN: alitum>	to nourish, feed; strengthen, sustain
+x		3	5	alō, -ere, aluī, al(i)tum	to nourish, feed; strengthen, sustain
 xx		3	5	almus, -a, -um	(lit.) fostering, nourishing; (fig.) graciously, kindly, propitious (usually of gods and human beings, but also of lux and dies)
 xx		3	5	altus, -a, -um	(lit.) nourished; high, lofty; deep
 x		3	5	colō, -ere, coluī, cultum	to till, cultivate; dwell in; (fig.) cultivate, cherish, worship, etc.
@@ -923,7 +923,7 @@ xx		3	6	damnum, -ī, n.	hurt, harm, damage, injury, loss; (in civil law) fine, p
 x		3	7	oportet, -ēre, -uit	it behooves, ought to
 x		3	7	dēbeō, -ēre, -uī, -itum	to owe to; be obliged to; (lit.) have from
 x		3	7	decet, -ēre, decuit	it becomes, behooves
-x		3	7	licet, -ēre, -uit <VN: licitum est>	it is permitted
+x		3	7	licet, -ēre, -uit (licitum est)	it is permitted
 x		3	7	cōnor, -ārī, -ātus sum	to attempt, try
 x		3	7	temptō, -āre, -āvī, -ātum	to try, test; attempt
 x		3	7	coepī, coepisse, coeptum	to have begun; used often as perfect of incipio
@@ -982,7 +982,7 @@ xx		3	9	invidia, -ae, f.	envy, jealousy, hatred
 xx		3	9	vīsō, -ere, vīsi, --	to look at, visit (reg. in gerund)
 x		3	9	cernō, -ere, crēvī, crētum	(lit.) to separate (rare); (fig. sense of sight) discern, distinguish; (of the mind) decide; (rarely) fight
 xx		3	9	dēcernō, -ere, -crēvī, -crētum	to determine, decide, decree
-x		3	9	tueor, -ērī, tuitus sum <VN: tūtus sum>	to look at; protect
+x		3	9	tueor, -ērī, tuitus (tūtus) sum	to look at; protect
 xx		3	9	intueor, -ērī, -tuitus sum	to look closely upon, admire
 xx		3	9	tūtus, -a, -um	safe, protected
 x		3	9	spectō, -āre, -āvī, -ātum	to look, face, look at, consider
@@ -1067,7 +1067,7 @@ x		3	10	mīror, -ārī, -ātus sum	to wonder at, marvel at
 xx		3	10	mīrus, -a, -um	wonderful, marvelous
 x		3	10	celebrō, -āre, -āvī, -ātum	to frequent, throng, crowd; celebrate, extol
 x		3	10	veneror, -ārī, -ātus sum	to venerate, worship
-x		3	10	libet, -ēre, libuit <VN: libitum est>	it pleases
+x		3	10	libet, -ēre, libuit (libitum est)	it pleases
 xx		3	10	libēns, -entis	willing, with pleasure
 xx		3	10	libīdō, -inis, f.	desire, longing; esp. passion; lust
 x		3	10	placeō, -ēre, -uī, -itum	to please
@@ -1076,7 +1076,7 @@ x		3	10	iuvō, -āre, iūvī, iūtum	to help, aid, assist; please, delight
 xx		3	10	iuvenis, -is, mf. <DN: gen. pl. -um>	a youth, young man or woman
 xx		3	10	iuventa, -ae, f.	period of youth, youth
 xx		3	10	iuventūs, -ūtis, f.	period of youth, youth; (collective) youth, i.e. young men
-x		3	10	fruor, fruī, frūctus sum <VN: fruitus sum>	to enjoy
+x		3	10	fruor, fruī, frūctus (fruitus) sum	to enjoy
 xx		3	10	frūctus, -ūs, m.	enjoyment, delight; fruit, crops (also in var. fig. meanings)
 xx		3	10	frūx, frūgis, f. <MN: mostly pl.>	(reg. pl.) fruit of any kind
 x		3	10	gaudeō, -ēre, gāvīsus sum	to rejoice
