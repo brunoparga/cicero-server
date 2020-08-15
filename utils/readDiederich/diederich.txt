@@ -141,7 +141,7 @@ x		1	7	flōs, -ōris, m.	flower; (fig.) bloom (in var. senses)
 xx		1	7	flōreō, -ēre, -uī, --	to bloom (rare except in partic. florens)
 xx		1	7	sertum, -ī, n.	wreath of flowers, garland
 x		1	7	rosa, -ae, f.	rose
-x		1	7	laurus, -ī <DN: or -ūs>, f.	bay-tree, laurel; wreath of laurel
+x		1	7	laurus, -ī <DN: genitive -ūs>, f.	bay-tree, laurel; wreath of laurel
 x		1	7	līlium, -ī, n.	lily
 x		1	8	cibus, -ī, m.	food
 x		1	8	epulae, -ārum, f. (pl.)	banquet, feast
@@ -281,7 +281,7 @@ xx		1	12	memor, -is	mindful of, remembering
 xx		1	12	memorō, -āre, -āvī, -ātum	to recall, recount, relate
 xx		1	12	meminī, -isse, --	to remember, recollect
 xx		1	12	oblīvīscor, -ī, oblītus sum	to forget
-x		1	12	sponte <DN: abl., gen. spontis very rare>, f.	of one's own will, voluntarily
+x		1	12	sponte <DN: no nom., sponte is abl.; gen. spontis very rare>, f.	of one's own will, voluntarily
 x		1	13	īra, -ae, f.	anger, wrath
 xx		1	13	īrāscor, -ī, --	to get angry
 xx		1	13	furor, -ōris, m.	rage; (person.) fury
@@ -458,7 +458,7 @@ x		1	23	spatium, -ī, n.	space (both of place and, more commonly, of time)
 x		1	23	vīta, -ae, f.	life
 x		1	23	vīs <DN: sg. only acc. vim, abl. vī; pl. vīrēs, -ium>, f.	force, strength, energy
 xx	d.	1	23	vir, virī, m.	man (opp. to woman); husband; hero
-x		1	23	vicis <DN: gen., vicem acc., vice abl.>, f.	change, turn (in affairs); (in vicem) in exchange, in turn
+x		1	23	vicis <DN: the only sg. forms are acc. vicem, abl. vice>, f.	change, turn (in affairs); (in vicem) in exchange, in turn
 x		1	23	fīnis, -is, m.	end, termination; boundary; (pl.) boundaries (usual sense in Caesar)
 xx		1	23	fīniō, -īre, -īvī, -ītum	to limit, bound
 xx		1	23	initium, -ī, n.	beginning; (lit.) an entering

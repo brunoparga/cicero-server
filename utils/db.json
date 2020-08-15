@@ -922,8 +922,8 @@
       "number": "singular",
       "declension": 0,
       "gender": "feminine",
-      "correctGenitive": "-ī <DN: or -ūs>",
-      "declensionNote": "or -ūs"
+      "correctGenitive": "-ī",
+      "declensionNote": "genitive -ūs"
     }
   },
   {
@@ -1577,8 +1577,8 @@
       "number": "singular",
       "declension": 0,
       "gender": "feminine",
-      "correctGenitive": "vicem acc.",
-      "declensionNote": "gen., vicem acc., vice abl."
+      "correctGenitive": "(word is already a genitive)",
+      "declensionNote": "the only sg. forms are acc. vicem, abl. vice"
     }
   },
   {
@@ -3575,7 +3575,7 @@
       "number": "singular",
       "declension": 0,
       "gender": "feminine",
-      "correctGenitive": "abl. vī; pl. vīrēs",
+      "correctGenitive": "--",
       "declensionNote": "sg. only acc. vim, abl. vī; pl. vīrēs, -ium"
     }
   },
@@ -6586,8 +6586,8 @@
       "number": "singular",
       "declension": 0,
       "gender": "feminine",
-      "correctGenitive": "gen. spontis very rare>",
-      "declensionNote": "abl., gen. spontis very rare"
+      "correctGenitive": "spontis",
+      "declensionNote": "no nom., sponte is abl.; gen. spontis very rare"
     }
   },
   {

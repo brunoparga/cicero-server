@@ -26,8 +26,19 @@ const setGender = (lemma) => {
   return 'neuter';
 };
 
+const specialCases = (lemma) => {
+  if (lemma.includes('laurus')) { return '-ī'; }
+  if (lemma.includes('vicis')) { return '(word is already a genitive)'; }
+  if (lemma.includes('vīrēs')) { return '--'; }
+  if (lemma.includes('sponte')) { return 'spontis'; }
+  return undefined;
+};
+
 // Some words, especially in the second and third declension, have slightly irregular genitives
 const setCorrectGenitive = (lemma, number, declension) => {
+  const special = specialCases(lemma);
+  if (special) { return special; }
+
   const singular = ['-ae', '-ī', '-is', '-ūs', '-ēī'];
   const plural = ['-ārum', '-ōrum', '-(i)um', '-uum', '-ērum'];
   const regularGenitive = (number === 'singular' ? singular : plural)[declension];
