@@ -9992,6 +9992,7 @@
     "learned": false,
     "properties": {
       "conjugation": "Irregular",
+      "correctInfinitive": "-ferre",
       "perfect": "-tulī",
       "supine": "-lātum",
       "deponent": false
@@ -10030,6 +10031,7 @@
     "learned": false,
     "properties": {
       "conjugation": "Irregular",
+      "correctInfinitive": "-ferre",
       "perfect": "-tulī",
       "supine": "-lātum",
       "deponent": false
@@ -10294,6 +10296,7 @@
     "learned": false,
     "properties": {
       "conjugation": "Irregular",
+      "correctInfinitive": "-ferre",
       "perfect": "-tulī",
       "supine": "-lātum",
       "deponent": false
@@ -10439,6 +10442,7 @@
     "learned": false,
     "properties": {
       "conjugation": "Irregular",
+      "correctInfinitive": "-ferre",
       "perfect": "-tulī",
       "supine": "-lātum",
       "deponent": false
@@ -12060,6 +12064,7 @@
     "learned": false,
     "properties": {
       "conjugation": 2,
+      "correctInfinitive": "coepisse",
       "perfect": "coeptum",
       "deponent": false
     }
@@ -13713,6 +13718,7 @@
     "learned": false,
     "properties": {
       "conjugation": 2,
+      "correctInfinitive": "-isse",
       "deponent": false
     }
   },

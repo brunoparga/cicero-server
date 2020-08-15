@@ -12,13 +12,16 @@ const setConjugation = (infinitive, deponent) => {
   return result === -1 ? 'Irregular' : result;
 };
 
-const setCorrectInfinitive = (lemma, conjugation) => {
+const setCorrectInfinitive = (lemma, infinitive, conjugation) => {
+  // Weird verbs
   if (lemma.includes('inquis')) { return 'No infinitive'; }
-
-  const [, infinitive] = lemma.split(', ');
   if (infinitive === 'ais') { return 'aiere'; }
-  if ((conjugation === 'Irregular' && !infinitive.includes('-'))
-      || ['(', 'dare'].some((chars) => infinitive.includes(chars))) {
+
+  // 'dare' is strange because its vowel is short
+  // a parenthesis means there is an alternative infinitive form
+  // '-isse' is the perfect infinitive suffix
+  const strangeInfinitives = ['(', 'dare', 'isse'].some((chars) => infinitive.includes(chars));
+  if (strangeInfinitives || conjugation === 'Irregular') {
     return infinitive;
   }
   return undefined;
@@ -37,7 +40,7 @@ module.exports = (lemma) => {
 
   return {
     conjugation,
-    correctInfinitive: setCorrectInfinitive(lemma, conjugation),
+    correctInfinitive: setCorrectInfinitive(lemma, infinitive, conjugation),
     perfect: perfect !== '--' ? perfect : undefined,
     supine: setSupine(deponent, supine),
     deponent,
