@@ -3107,8 +3107,8 @@
     "properties": {
       "suffixes": "1st/2nd (-us)",
       "masculineGenitive": "-ī",
-      "feminine": "prosper[prosperus], -ae",
-      "neuter": "prosper[prosperus], -ī",
+      "feminine": "prosper <ALT: prosperus>, -ae",
+      "neuter": "prosper <ALT: prosperus>, -ī",
       "alternateForm": "prosperus"
     }
   },
@@ -7717,7 +7717,8 @@
       "suffixes": "1st/2nd (-er)",
       "masculineGenitive": "-trī",
       "feminine": "dextra, -ae",
-      "neuter": "dextrum, -ī"
+      "neuter": "dextrum, -ī",
+      "alternateForm": "-tera, -terum"
     }
   },
   {

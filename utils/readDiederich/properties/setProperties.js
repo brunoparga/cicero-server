@@ -27,17 +27,13 @@ const wordNotes = (lemma) => {
   if (lemma.includes('INDECL')) {
     result.indeclinable = true;
   }
-  // Add a note for alternate forms, different spellings
-  const alternate = lemma.match(/\[(.*)\]/);
-  if (alternate) {
-    result.alternateForm = alternate[1];
-  }
-  // Add four other types of notes where appropriate
-  const note = lemma.match(/<(((D|V|M)N|QUOD): )(.*)>/);
+  // Add other types of notes where appropriate
+  const note = lemma.match(/<(((D|V|M)N|ALT|QUOD): )(.*)>/);
   const noteTypes = {
     DN: 'declensionNote',
     VN: 'verbNote',
     MN: 'miscellaneousNote',
+    ALT: 'alternateForm',
     QUOD: 'quodNote',
   };
   if (note) {
