@@ -10,8 +10,8 @@ const typeOnePlural = (masculine) => ({
 const typeOneCommon = (masculine) => ({
   suffixes: '1st/2nd (-us)',
   masculineGenitive: '-ī',
-  feminine: `${masculine.replace(/us$/, 'a')}, -ae`,
-  neuter: `${masculine.replace(/us$/, 'um')}, -ī`,
+  feminine: `${masculine.replace(/us$/, '')}a, -ae`,
+  neuter: `${masculine.replace(/us$/, '')}um, -ī`,
 });
 
 // Some adjectives drop the letter E, so that 'integer' gives 'integral', for example.
@@ -61,7 +61,8 @@ const genitive = (lemma) => {
 // them by gender and case.
 module.exports = (lemma) => {
   if (lemma.includes('INDECL')) { return undefined; }
-  if (/is$/.test(lemma)) { return { genitive: genitive(lemma), suffixes: '3rd (all equal)' }; }
-  if (/(e|us)$/.test(lemma)) { return { genitive: '-is', ...typeTwo(lemma) }; }
-  return typeOne(lemma);
+  const head = lemma.replace(/ <.*>/, '');
+  if (/is$/.test(head)) { return { genitive: genitive(head), suffixes: '3rd (all equal)' }; }
+  if (/(e|us)$/.test(head)) { return { genitive: '-is', ...typeTwo(head) }; }
+  return typeOne(head);
 };

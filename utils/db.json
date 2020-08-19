@@ -3123,8 +3123,8 @@
     "properties": {
       "suffixes": "1st/2nd (-us)",
       "masculineGenitive": "-ī",
-      "feminine": "prosper <ALT: prosperus>, -ae",
-      "neuter": "prosper <ALT: prosperus>, -ī",
+      "feminine": "prospera, -ae",
+      "neuter": "prosperum, -ī",
       "alternateForm": "prosperus"
     }
   },
@@ -3766,8 +3766,8 @@
     "properties": {
       "suffixes": "1st/2nd (-us)",
       "masculineGenitive": "-ī",
-      "feminine": "līber, -ae",
-      "neuter": "līber, -ī"
+      "feminine": "lībera, -ae",
+      "neuter": "līberum, -ī"
     }
   },
   {
@@ -6881,8 +6881,8 @@
     "properties": {
       "suffixes": "1st/2nd (-us)",
       "masculineGenitive": "-ī",
-      "feminine": "alter, -ae",
-      "neuter": "alter, -ī",
+      "feminine": "altera, -ae",
+      "neuter": "alterum, -ī",
       "declensionNote": "gen. alterīus, dat. alterī"
     }
   },
@@ -7690,10 +7690,8 @@
     "english": "rich",
     "learned": false,
     "properties": {
-      "suffixes": "1st/2nd (-er)",
-      "masculineGenitive": "dīves",
-      "feminine": "dīves, -ae",
-      "neuter": "dīves, -ī",
+      "genitive": " -itis",
+      "suffixes": "3rd (all equal)",
       "declensionNote": "gen. pl. -um"
     }
   },
@@ -7818,8 +7816,8 @@
     "properties": {
       "suffixes": "1st/2nd (-us)",
       "masculineGenitive": "-ī",
-      "feminine": "asper, -ae",
-      "neuter": "asper, -ī"
+      "feminine": "aspera, -ae",
+      "neuter": "asperum, -ī"
     }
   },
   {
@@ -9118,8 +9116,8 @@
     "properties": {
       "suffixes": "1st/2nd (-us)",
       "masculineGenitive": "-ī",
-      "feminine": "tener, -ae",
-      "neuter": "tener, -ī"
+      "feminine": "tenera, -ae",
+      "neuter": "tenerum, -ī"
     }
   },
   {
@@ -16210,8 +16208,8 @@
     "properties": {
       "suffixes": "1st/2nd (-us)",
       "masculineGenitive": "-ī",
-      "feminine": "miser, -ae",
-      "neuter": "miser, -ī"
+      "feminine": "misera, -ae",
+      "neuter": "miserum, -ī"
     }
   },
   {
