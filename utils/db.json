@@ -52,6 +52,7 @@
     "properties": {
       "feminine": "quaedam",
       "neuter": "quiddam",
+      "genitive": "cuiusdam",
       "suffixes": "3rd (-er/-ris/-re)",
       "quodNote": "Neuter form is subst.; quoddam is adj."
     }
@@ -642,6 +643,7 @@
     "learned": false,
     "properties": {
       "neuter": "quidquam/quicquam",
+      "genitive": "cuiusquam",
       "suffixes": "3rd (-is/-e)"
     }
   },
@@ -665,6 +667,7 @@
     "properties": {
       "feminine": "quaelibet",
       "neuter": "quidlibet",
+      "genitive": "cuiuslibet",
       "suffixes": "3rd (-er/-ris/-re)",
       "quodNote": "Neuter form is subst.; quodlibet is adj."
     }
@@ -2693,6 +2696,7 @@
     "properties": {
       "feminine": "utraque",
       "neuter": "utrumque",
+      "genitive": "utrīusque",
       "suffixes": "3rd (-er/-ris/-re)"
     }
   },
@@ -2704,6 +2708,7 @@
     "properties": {
       "feminine": "quaeque",
       "neuter": "quidque",
+      "genitive": "cuiusque",
       "suffixes": "3rd (-er/-ris/-re)",
       "quodNote": "Neuter form is subst.; quodque is adj."
     }
@@ -7963,6 +7968,7 @@
     "properties": {
       "feminine": "ipsa",
       "neuter": "ipsum",
+      "genitive": "-īus",
       "suffixes": "3rd (-er/-ris/-re)"
     }
   },
@@ -9124,6 +9130,7 @@
     "properties": {
       "feminine": "ista",
       "neuter": "istud",
+      "genitive": "-īus",
       "suffixes": "3rd (-er/-ris/-re)"
     }
   },
@@ -9145,6 +9152,7 @@
     "properties": {
       "feminine": "illa",
       "neuter": "illud",
+      "genitive": "-īus",
       "suffixes": "3rd (-er/-ris/-re)"
     }
   },
@@ -9156,6 +9164,7 @@
     "properties": {
       "feminine": "ea",
       "neuter": "id",
+      "genitive": "eius",
       "suffixes": "3rd (-er/-ris/-re)"
     }
   },
@@ -9236,6 +9245,7 @@
     "properties": {
       "feminine": "eadem",
       "neuter": "idem",
+      "genitive": "eiusdem",
       "suffixes": "3rd (-er/-ris/-re)"
     }
   },
@@ -9357,6 +9367,7 @@
     "properties": {
       "feminine": "haec",
       "neuter": "hoc",
+      "genitive": "huius",
       "suffixes": "3rd (-er/-ris/-re)"
     }
   },
@@ -9397,6 +9408,7 @@
     "learned": false,
     "properties": {
       "neuter": "tria",
+      "genitive": "trium",
       "suffixes": "3rd (-is/-e)"
     }
   },
@@ -15328,9 +15340,10 @@
     "english": "(card. num.) two",
     "learned": false,
     "properties": {
+      "masculineGenitive": "duōrum",
       "feminine": "duae",
       "neuter": "duo",
-      "suffixes": "3rd (-er/-ris/-re)"
+      "suffixes": "1st/2nd (-us)"
     }
   },
   {
@@ -15858,6 +15871,7 @@
     "learned": false,
     "properties": {
       "neuter": "quidnam",
+      "genitive": "cuiusnam",
       "suffixes": "3rd (-is/-e)"
     }
   },
@@ -15868,6 +15882,7 @@
     "learned": false,
     "properties": {
       "neuter": "quidquid/quicquid",
+      "genitive": "cuiuscuius",
       "suffixes": "3rd (-is/-e)",
       "quodNote": "Neuter form is subst.; quodquod is adj."
     }
@@ -15880,6 +15895,7 @@
     "properties": {
       "feminine": "quaecumque",
       "neuter": "quodcumque",
+      "genitive": "cuiuscumque",
       "suffixes": "3rd (-er/-ris/-re)"
     }
   },
