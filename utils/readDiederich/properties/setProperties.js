@@ -39,6 +39,10 @@ const wordNotes = (lemma) => {
   if (note) {
     result[noteTypes[note.groups.noteType]] = note.groups.noteText;
   }
+  if (result.quodNote) {
+    const form = note.groups.noteText.match(/quod\w*/);
+    result.quodNote = `Neuter form is subst.; ${form[0]} is adj.`;
+  }
   return isEmpty(result) ? undefined : result;
 };
 
