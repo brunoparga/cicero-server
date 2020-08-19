@@ -6,6 +6,14 @@ const milleProps = {
   miscellaneousNote: 'sg. is an indecl. adj.',
 };
 
+// Same for the word 'nēmō', "nobody"
+const nemoProps = {
+  number: 'singular',
+  declension: 2,
+  gender: 'masculine/feminine',
+  correctGenitive: 'nūllīus',
+};
+
 // Set which of the five declensions the noun belongs to, based on its genitive suffixes
 const setDeclension = (lemma, number) => {
   if (lemma.includes('INDECL')) { return undefined; }
@@ -56,6 +64,7 @@ const setCorrectGenitive = (lemma, number, declension) => {
 // TODO: check the front-end for optionality of correctGenitive
 module.exports = (lemma) => {
   if (lemma.includes('mīlle')) { return milleProps; }
+  if (lemma.includes('nēmō')) { return nemoProps; }
 
   const number = /um$/.test(lemma.split(',')[1]) ? 'plural' : 'singular';
   const declension = setDeclension(lemma, number);

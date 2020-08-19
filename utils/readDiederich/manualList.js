@@ -9,9 +9,6 @@ const uniqueWords = {
   ergō: 'Conjunction, Preposition',
   // Two parts of speech listed separately
   ante: 'Adverb, Preposition',
-  // Unusual declensions
-  mīlle: 'Noun',
-  'rēs pūblica, reī pūblicae, etc.': 'Noun',
 };
 
 const adjectives = [
@@ -41,6 +38,12 @@ const conjunctions = [
   'vel ... vel',
 ];
 
+const nouns = [
+  'mīlle',
+  'nēmō <DN: nūllīus, nēminī, nēminem, nūllō>',
+  'rēs pūblica, reī pūblicae, etc.',
+];
+
 const pronouns = [
   // Most of these classify as adverbs, a few as verbs because the gloss begins with 'to ' or
   // due to commas splitting the lemma into four parts like verbs
@@ -51,7 +54,6 @@ const pronouns = [
   'ipse, ipsa, ipsum',
   'mē',
   'mihi',
-  'nēmō (nūllīus, nēminī, nēminem, nūllō)',
   'nihil INDECL <ALT: nīl>',
   'nōbīs',
   'nōs',
@@ -74,5 +76,6 @@ module.exports = {
   ...uniqueWords,
   ...listToObject(adjectives, 'Adjective'),
   ...listToObject(conjunctions, 'Conjunction'),
+  ...listToObject(nouns, 'Noun'),
   ...listToObject(pronouns, 'Pronoun'),
 };

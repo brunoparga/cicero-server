@@ -6416,11 +6416,15 @@
     }
   },
   {
-    "partOfSpeech": "Pronoun",
+    "partOfSpeech": "Noun",
     "lemma": "nēmō",
     "english": "(indef. pron.) no one",
     "learned": false,
     "properties": {
+      "number": "singular",
+      "declension": 2,
+      "gender": "masculine/feminine",
+      "correctGenitive": "nūllīus",
       "declensionNote": "nūllīus, nēminī, nēminem, nūllō"
     }
   },
