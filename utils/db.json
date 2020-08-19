@@ -50,6 +50,9 @@
     "english": "(indef. pron.) a certain one, some one",
     "learned": false,
     "properties": {
+      "feminine": "quaedam",
+      "neuter": "quiddam",
+      "suffixes": "3rd (-er/-ris/-re)",
       "quodNote": "Neuter form is subst.; quoddam is adj."
     }
   },
@@ -636,7 +639,11 @@
     "partOfSpeech": "Pronoun",
     "lemma": "quisquam",
     "english": "(indef. subst. pron.) any one",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "neuter": "quidquam/quicquam",
+      "suffixes": "3rd (-is/-e)"
+    }
   },
   {
     "partOfSpeech": "Adjective",
@@ -656,6 +663,9 @@
     "english": "(indef. pron.) anyone, without distinction, whom you will; no matter who",
     "learned": false,
     "properties": {
+      "feminine": "quaelibet",
+      "neuter": "quidlibet",
+      "suffixes": "3rd (-er/-ris/-re)",
       "quodNote": "Neuter form is subst.; quodlibet is adj."
     }
   },
@@ -2692,6 +2702,9 @@
     "english": "(indef. pron.) each one, every one",
     "learned": false,
     "properties": {
+      "feminine": "quaeque",
+      "neuter": "quidque",
+      "suffixes": "3rd (-er/-ris/-re)",
       "quodNote": "Neuter form is subst.; quodque is adj."
     }
   },
@@ -9381,7 +9394,11 @@
     "partOfSpeech": "Numeral",
     "lemma": "trēs",
     "english": "(card. num.) three",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "neuter": "tria",
+      "suffixes": "3rd (-is/-e)"
+    }
   },
   {
     "partOfSpeech": "Noun",
@@ -15838,7 +15855,11 @@
     "partOfSpeech": "Pronoun",
     "lemma": "quisnam",
     "english": "who, which, what pray/then",
-    "learned": false
+    "learned": false,
+    "properties": {
+      "neuter": "quidnam",
+      "suffixes": "3rd (-is/-e)"
+    }
   },
   {
     "partOfSpeech": "Pronoun",
@@ -15846,6 +15867,8 @@
     "english": "(indef. pron.) whoever, whichever",
     "learned": false,
     "properties": {
+      "neuter": "quidquid/quicquid",
+      "suffixes": "3rd (-is/-e)",
       "quodNote": "Neuter form is subst.; quodquod is adj."
     }
   },
