@@ -28,7 +28,7 @@ const wordNotes = (lemma) => {
     result.indeclinable = true;
   }
   // Add other types of notes where appropriate
-  const note = lemma.match(/<(((D|V|M)N|ALT|QUOD): )(.*)>/);
+  const note = lemma.match(/<(?:(?<noteType>(?:D|V|M)N|ALT|QUOD): )(?<noteText>.*)>/);
   const noteTypes = {
     DN: 'declensionNote',
     VN: 'verbNote',
@@ -37,7 +37,7 @@ const wordNotes = (lemma) => {
     QUOD: 'quodNote',
   };
   if (note) {
-    result[noteTypes[note[2]]] = note[4];
+    result[noteTypes[note.groups.noteType]] = note.groups.noteText;
   }
   return isEmpty(result) ? undefined : result;
 };
