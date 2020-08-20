@@ -8,8 +8,8 @@ const setConjugation = (infinitive, deponent) => {
   if (infinitive.slice(-4) === 'isse'
       || infinitive.includes(')')
       || infinitive === 'ais') { return 2; }
-  const result = ['āre', 'ēre', 'ere', 'īre'].indexOf(infinitive.slice(-3));
-  return result === -1 ? 'Irregular' : result;
+  // Conjugation is -1 for irregular verbs, 0 for first conjugation and so on
+  return ['āre', 'ēre', 'ere', 'īre'].indexOf(infinitive.slice(-3));
 };
 
 const setCorrectInfinitive = (lemma, infinitive, conjugation) => {
@@ -20,10 +20,9 @@ const setCorrectInfinitive = (lemma, infinitive, conjugation) => {
   // 'dare' is strange because its vowel is short
   // a parenthesis means there is an alternative infinitive form
   // '-isse' is the perfect infinitive suffix
+  // Conjugation -1 means irregular verb (sum, ferō)
   const strangeInfinitives = ['(', 'dare', 'isse'].some((chars) => infinitive.includes(chars));
-  if (strangeInfinitives || conjugation === 'Irregular') {
-    return infinitive;
-  }
+  if (strangeInfinitives || conjugation === -1) { return infinitive; }
   return undefined;
 };
 
