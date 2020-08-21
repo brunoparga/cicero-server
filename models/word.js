@@ -1,7 +1,12 @@
+require('dotenv').config();
 const { Sequelize, Model, DataTypes } = require('sequelize');
 
-const URI = 'postgres://bruno:Q8Pv8bX9xYZN2bx5SHLF8g3Bqcy@localhost:5432/cicero';
-const sequelize = new Sequelize(URI);
+const sequelize = new Sequelize(
+  process.env.DEV_DB_NAME,
+  process.env.DEV_DB_USERNAME,
+  process.env.DEV_DB_PASSWORD,
+  { host: 'localhost', dialect: 'postgres' },
+);
 
 class Word extends Model {
   // Public interface
