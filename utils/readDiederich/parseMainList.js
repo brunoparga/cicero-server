@@ -17,6 +17,7 @@ const words = fs
   .map(buildWord);
 
 const json = JSON.stringify(words, null, 2);
-if (fs.readFileSync('./utils/db.json', 'utf8') !== json) {
-  fs.writeFileSync('./utils/db.json', json);
+const file = './utils/db.json';
+if (!fs.existsSync(file) || fs.readFileSync(file, 'utf8') !== json) {
+  fs.writeFileSync(file, json);
 }
