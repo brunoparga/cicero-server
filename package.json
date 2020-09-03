@@ -2,11 +2,14 @@
   "name": "cicero-server",
   "version": "1.0.0",
   "description": "Server for Latin learning app",
+  "engines": {
+    "node": "14.9.0"
+  },
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
     "read": "node utils/readDiederich/parseMainList.js",
-    "seed": "pnpm run read; node utils/dbSeed.js",
+    "seed": "npm run read; node utils/dbSeed.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

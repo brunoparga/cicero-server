@@ -11,4 +11,4 @@ app.get('/words', async (_, res) => {
   res.json(words);
 });
 
-app.listen(3001);
+app.listen(process.env.PORT || 3001);
