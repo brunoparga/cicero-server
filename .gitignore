@@ -4,3 +4,4 @@ utils/db.json
 .env
 .eslintrc.js
 npm-debug.log
+renovate.json
