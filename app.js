@@ -6,7 +6,7 @@ const compression = require('compression');
 const Word = require('./models/word');
 
 const app = express();
-app.use(cors({ origin: 'https://master.d2ylwpfde239og.amplifyapp.com/' }));
+app.use(cors({ origin: 'https://master.d2ylwpfde239og.amplifyapp.com' }));
 app.use(helmet());
 app.use(compression());
 
