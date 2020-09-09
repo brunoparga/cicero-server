@@ -50,19 +50,17 @@ const typeTwo = (lemma) => {
   return { suffixes: '3rd (-er/-ris/-re)', feminine: '-ris', neuter: '-e' };
 };
 
-// TODO: check exactly what this does (as in, which uniform adjectives it applies to, and how)
-const genitive = (lemma) => {
-  const spaceIndex = lemma.indexOf(' ');
-  const space = (spaceIndex + 1) ? spaceIndex : 0;
-  return lemma.slice(space);
-};
-
 // Adjective properties must list the suffixes the adjective uses, and also information to inflect
 // them by gender and case.
 module.exports = (lemma) => {
   if (lemma.includes('INDECL')) { return undefined; }
   const head = lemma.replace(/ <.*>/, '');
-  if (/is$/.test(head)) { return { genitive: genitive(head), suffixes: '3rd (all equal)' }; }
+  if (/is$/.test(head)) {
+    return {
+      genitive: head.slice(head.indexOf(' ') + 1),
+      suffixes: '3rd (all equal)',
+    };
+  }
   if (/(e|us)$/.test(head)) { return { genitive: '-is', ...typeTwo(head) }; }
   return typeOne(head);
 };
