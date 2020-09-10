@@ -17,10 +17,14 @@ const compare = ([, definition1], [, definition2]) => {
 // Remove duplicates from the list
 const deduplicate = ([lemma], index, array) => (!index || lemma !== array[index - 1][0]);
 
+// Test if the argument object is empty.
+// eslint-disable-next-line no-restricted-syntax, guard-for-in
+const isEmpty = (object) => { for (const i in object) { return false; } return true; };
+
 // Given a string haystack and an array of string needles, returns true if any of the needles is a
 // substring of the haystack.
 const multiIncludes = (haystack, needles) => needles.some((needle) => haystack.includes(needle));
 
 module.exports = {
-  treatDefinition, compare, deduplicate, multiIncludes,
+  compare, deduplicate, isEmpty, multiIncludes, treatDefinition,
 };
