@@ -1,14 +1,13 @@
-// Why each group of words is here
+// These are the words which would otherwise be misclassified, sent into the wrong part of speech.
 
-const uniqueWords = {
+const twoPartsOfSpeech = {
   // TODO: getting options doesn't work with these words (two parts of speech)
-  // Only words that share these parts of speech
+  // These are the only words in the DB that share these parts of speech
   'satis <INDECL>': 'Adjective, Adverb',
   'nec <ALT: neque>': 'Adverb, Conjunction',
   'ubī <ALT: ubi>': 'Adverb, Conjunction',
-  ergō: 'Conjunction, Preposition',
-  // Two parts of speech listed separately
   ante: 'Adverb, Preposition',
+  ergō: 'Conjunction, Preposition',
 };
 
 const adjectives = [
@@ -39,6 +38,7 @@ const conjunctions = [
 ];
 
 const nouns = [
+  // Their odd declensions cause these to be misclassified
   'mīlle',
   'nēmō <DN: nūllīus, nēminī, nēminem, nūllō>',
   'rēs pūblica, reī pūblicae, etc.',
@@ -70,10 +70,12 @@ const pronouns = [
   'vōs',
 ];
 
+// The calling function needs this format
 const listToObject = (list, group) => list.reduce((obj, word) => ({ ...obj, [word]: group }), {});
 
+// Object that informs the classifier function of where to put each of these 'hard' words
 module.exports = {
-  ...uniqueWords,
+  ...twoPartsOfSpeech,
   ...listToObject(adjectives, 'Adjective'),
   ...listToObject(conjunctions, 'Conjunction'),
   ...listToObject(nouns, 'Noun'),

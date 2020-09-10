@@ -12,10 +12,10 @@ const words = fs
   .sort(compare)
   // Remove duplicates
   .filter(deduplicate)
-  // Perhaps worth noting: the set of chars /A-Za-zāēīōū().,;\-\/ / is the alphabet for the file
   // Turn into an object for JSONification
   .map(buildWord);
 
+// Write parsed contents of the word list into a file to be read by the seeding function
 const json = JSON.stringify(words, null, 2);
 const file = './utils/db.json';
 if (!fs.existsSync(file) || fs.readFileSync(file, 'utf8') !== json) {

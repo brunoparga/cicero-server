@@ -51,9 +51,10 @@ const typeTwo = (lemma) => {
 };
 
 // Adjective properties must list the suffixes the adjective uses, and also information to inflect
-// them by gender and case.
+// them by gender and case (except that some adjectives don't inflect).
 module.exports = (lemma) => {
   if (lemma.includes('INDECL')) { return undefined; }
+
   const head = lemma.replace(/ <.*>/, '');
   if (/is$/.test(head)) {
     return {

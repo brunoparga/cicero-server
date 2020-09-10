@@ -3,6 +3,7 @@ const fs = require('fs');
 
 const Word = require('../models/word');
 
+// Read the JSON file and seed the DB word table
 const words = JSON.parse(fs.readFileSync('./utils/db.json', 'utf8'));
 
 (async () => {

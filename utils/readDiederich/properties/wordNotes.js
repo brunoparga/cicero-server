@@ -19,6 +19,7 @@ module.exports = (lemma) => {
   if (note) {
     result[noteTypes[note.groups.noteType]] = note.groups.noteText;
   }
+  // A handful of pronouns have different substantive and adjective forms
   if (result.quodNote) {
     const form = note.groups.noteText.match(/quod\w*/);
     result.quodNote = `Neuter form is subst.; ${form[0]} is adj.`;

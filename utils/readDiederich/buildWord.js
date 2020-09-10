@@ -2,13 +2,15 @@ const classify = require('./classify');
 const lemmatize = require('./lemmatize');
 const setProperties = require('./properties/setProperties');
 
-module.exports = ([lemma, definition]) => {
-  const partOfSpeech = classify(lemma, definition);
+// Receive an array with a lemma, which is the dictionary form of a word, and also its definition;
+// return an object that is used to seed the DB.
+module.exports = ([lemmaFromList, definition]) => {
+  const partOfSpeech = classify(lemmaFromList, definition);
   return {
     partOfSpeech,
-    lemma: lemmatize(lemma),
+    lemma: lemmatize(lemmaFromList),
     english: definition,
     learned: false,
-    properties: setProperties(partOfSpeech, lemma),
+    properties: setProperties(partOfSpeech, lemmaFromList),
   };
 };

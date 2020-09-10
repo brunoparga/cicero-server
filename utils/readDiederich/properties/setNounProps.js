@@ -1,4 +1,4 @@
-// The word 'mīlle', "1000", behaves weirdly enough that its props object be explicitly defined
+// 'Mīlle', "1000", behaves oddly enough that its properties need to be explicitly defined
 const milleProps = {
   number: 'plural',
   declension: 2,
@@ -6,7 +6,7 @@ const milleProps = {
   miscellaneousNote: 'sg. is an indecl. adj.',
 };
 
-// Same for the word 'nēmō', "nobody"
+// Same for 'nēmō', "nobody"
 const nemoProps = {
   number: 'singular',
   declension: 2,
@@ -19,7 +19,7 @@ const setDeclension = (lemma, number) => {
   if (lemma.includes('INDECL')) { return undefined; }
 
   const singular = [/ae$/, /ī$/, /is$/, /ūs$/, /(e|ē)ī$/];
-  // Leaving the fourth and fifth declension endings here even though there are no plural
+  // The fourth and fifth declension endings are left here even though there are no plural
   // words in those declensions in the Diederich list.
   const plural = [/ārum$/, /ōrum$/, /[^(ā|ē|ō)r]um$/, /uum$/, /ērum$/];
   const correctSuffixes = number === 'singular' ? singular : plural;
@@ -36,6 +36,7 @@ const setGender = (lemma) => {
   return 'neuter';
 };
 
+// These words have special genitives, or it cannot otherwise be correctly constructed
 const specialCases = (lemma) => {
   if (lemma.includes('laurus')) { return '-ī'; }
   if (lemma.includes('vicis')) { return '(word is already a genitive)'; }
@@ -51,17 +52,15 @@ const setCorrectGenitive = (lemma, number, declension) => {
   const special = specialCases(lemma);
   if (special) { return special; }
 
+  const genitive = lemma.split(', ')[1];
   const singular = ['-ae', '-ī', '-is', '-ūs', '-ēī'];
   const plural = ['-ārum', '-ōrum', '-(i)um', '-uum', '-ērum'];
   const regularGenitive = (number === 'singular' ? singular : plural)[declension];
-  if (lemma.split(', ')[1] !== regularGenitive) {
-    return lemma.split(', ')[1];
-  }
+  if (genitive !== regularGenitive) { return genitive; }
   return undefined;
 };
 
-// A noun properties are its gender, number, declension and optionally its correct genitive
-// TODO: check the front-end for optionality of correctGenitive
+// A noun's properties are its gender, number, declension and optionally its irregular genitive
 module.exports = (lemma) => {
   if (lemma.includes('mīlle')) { return milleProps; }
   if (lemma.includes('nēmō')) { return nemoProps; }

@@ -1,5 +1,7 @@
 require('dotenv').config();
-const { Sequelize, Model, DataTypes } = require('sequelize');
+const {
+  Sequelize, Model, DataTypes, Op,
+} = require('sequelize');
 
 const sequelize = new Sequelize(process.env.DATABASE_URL);
 
@@ -22,7 +24,7 @@ class Word extends Model {
     return {
       // STRETCH: make this LIMIT customizable
       limit: 10,
-      // possible TODO: replace this shuffling with something smarter
+      // STRETCH: replace this shuffling with something smarter
       order: [Sequelize.literal('RANDOM()')],
       attributes: [['partOfSpeech', 'questionType'], 'lemma', 'english', 'learned', 'properties'],
     };
@@ -39,7 +41,10 @@ class Word extends Model {
     return {
       order: [Sequelize.literal('RANDOM()')],
       limit: 3,
-      where: { partOfSpeech: word.dataValues.questionType },
+      where: {
+        partOfSpeech: word.dataValues.questionType,
+        lemma: { [Op.not]: word.dataValues.lemma },
+      },
       attributes: ['lemma'],
     };
   }
@@ -55,6 +60,7 @@ class Word extends Model {
   }
 }
 
+// Define the schema and model name, which doesn't get inferred from the class name.
 module.exports = Word.init({
   partOfSpeech: DataTypes.STRING,
   english: DataTypes.STRING,
