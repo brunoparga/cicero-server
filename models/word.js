@@ -1,5 +1,5 @@
 const {
-  Sequelize, Model, DataTypes, Op,
+  DataTypes, Model, Op, Sequelize,
 } = require('sequelize');
 
 class Word extends Model {
