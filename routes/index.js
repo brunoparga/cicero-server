@@ -1,12 +1,9 @@
-const express = require('express');
+const router = require('express').Router();
 
-const Word = require('../models/word');
+const userRouter = require('./users');
+const wordRouter = require('./words');
 
-const router = express.Router();
+router.use(userRouter);
+router.use(wordRouter);
 
-router.get('/words', async (_, res) => {
-  const words = await Word.fetch();
-  res.json(words);
-});
-
-module.exports = router
+module.exports = router;

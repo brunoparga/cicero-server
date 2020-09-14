@@ -2,6 +2,8 @@ const {
   DataTypes, Model, Op, Sequelize,
 } = require('sequelize');
 
+const sequelize = require('../db');
+
 class Word extends Model {
   // Public interface
   // Fetch words with their options and present them to controller
