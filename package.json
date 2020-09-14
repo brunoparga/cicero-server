@@ -8,8 +8,8 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "read": "node utils/readDiederich/parseMainList.js",
-    "seed": "npm run read; node utils/dbSeed.js",
+    "read": "node db/readDiederich/parseMainList.js",
+    "seed": "npm run read; node db/seed.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
