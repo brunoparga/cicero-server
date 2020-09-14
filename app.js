@@ -1,9 +1,6 @@
 const app = require('./server');
-const Word = require('./models/word');
+const routes = require('./routes');
 
-app.get('/words', async (_, res) => {
-  const words = await Word.fetch();
-  res.json(words);
-});
+app.use(routes)
 
 app.listen(process.env.PORT || 3001);
