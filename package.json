@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Server for Latin learning app",
   "engines": {
-    "node": "14.10.1"
+    "node": "14.11.0"
   },
   "main": "app.js",
   "scripts": {
