@@ -1,4 +1,4 @@
-image: node:14.11
+image: node:14.13
 
 before_script:
   - apt-get update -qy
