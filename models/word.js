@@ -52,8 +52,6 @@ class Word extends Model {
   static buildWord(word, options) {
     return {
       ...word.dataValues,
-      // Remove this to make teaching work
-      learned: true,
       options: options.map((row) => row.dataValues.lemma),
     };
   }
