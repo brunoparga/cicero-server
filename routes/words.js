@@ -7,4 +7,6 @@ wordRouter.get('/words', async (_, res) => {
   res.json(words);
 });
 
+wordRouter.post('/words', (_, res) => res.status(202).json({ message: 'Accepted' }));
+
 module.exports = wordRouter;
