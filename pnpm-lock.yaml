@@ -7,7 +7,7 @@ dependencies:
   express: 4.17.1
   helmet: 4.1.1
   jsonwebtoken: 8.5.1
-  pg: 8.3.3_pg@8.3.3
+  pg: 8.3.3
   pg-hstore: 2.3.3
   sequelize: 6.3.5_pg-hstore@2.3.3+pg@8.3.3
 devDependencies:
@@ -15,7 +15,7 @@ devDependencies:
   eslint-config-airbnb-base: 14.2.0_abdf0c9d977be3d37bd469dd74184e57
   eslint-plugin-import: 2.22.0_eslint@7.9.0
   nodemon: 2.0.4
-lockfileVersion: 5.1
+lockfileVersion: 5.2
 packages:
   /@babel/code-frame/7.10.4:
     dependencies:
@@ -1849,7 +1849,7 @@ packages:
       integrity: sha512-WCtabS6t3c8SkpDBUlb1kjOs7l66xsGdKpIPZsg4wR+B3+u9UAum2odSsF9tnvxg80h4ZxLWMy4pRjOsFIqQpw==
   /pg-pool/3.2.1_pg@8.3.3:
     dependencies:
-      pg: 8.3.3_pg@8.3.3
+      pg: 8.3.3
     dev: false
     peerDependencies:
       pg: '>=8.0'
@@ -1871,7 +1871,7 @@ packages:
       node: '>=4'
     resolution:
       integrity: sha512-qTAAlrEsl8s4OiEQY69wDvcMIdQN6wdz5ojQiOy6YRMuynxenON0O5oCpJI6lshc6scgAY8qvJ2On/p+CXY0GA==
-  /pg/8.3.3_pg@8.3.3:
+  /pg/8.3.3:
     dependencies:
       buffer-writer: 2.0.0
       packet-reader: 1.0.0
@@ -1884,8 +1884,6 @@ packages:
     dev: false
     engines:
       node: '>= 8.0.0'
-    peerDependencies:
-      pg: '*'
     resolution:
       integrity: sha512-wmUyoQM/Xzmo62wgOdQAn5tl7u+IA1ZYK7qbuppi+3E+Gj4hlUxVHjInulieWrd0SfHi/ADriTb5ILJ/lsJrSg==
   /pgpass/1.0.2:
@@ -2179,7 +2177,7 @@ packages:
       lodash: 4.17.20
       moment: 2.28.0
       moment-timezone: 0.5.31
-      pg: 8.3.3_pg@8.3.3
+      pg: 8.3.3
       pg-hstore: 2.3.3
       retry-as-promised: 3.2.0
       semver: 7.3.2
