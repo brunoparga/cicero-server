@@ -25,7 +25,7 @@ class Word extends Model {
       limit: 10,
       // STRETCH: replace this shuffling with something smarter
       order: [Sequelize.literal('RANDOM()')],
-      attributes: [['partOfSpeech', 'questionType'], 'lemma', 'english', 'learned', 'properties'],
+      attributes: ['id', ['partOfSpeech', 'questionType'], 'lemma', 'english', 'properties'],
     };
   }
 
