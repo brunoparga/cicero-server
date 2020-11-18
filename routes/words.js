@@ -2,13 +2,25 @@ require('dotenv').config();
 const jwt = require('jsonwebtoken');
 const wordRouter = require('express').Router();
 
-const { sequelize } = require('../models/User');
 const User = require('../models/User');
 const Word = require('../models/Word');
 
-wordRouter.get('/words', async (_, res) => {
+wordRouter.get('/words', async (req, res) => {
   const words = await Word.fetch();
-  res.json(words);
+  const token = req.get('Authorization').split(' ')[1] || '';
+  let decodedToken;
+  if (token) {
+    decodedToken = jwt.verify(token, process.env.TOKEN_SIGNING_SECRET);
+  }
+  const user = await User.findByPk(decodedToken.id);
+  let userWords = [];
+  if (user) {
+    // Get all the words the user has learned so far
+    const db = await user.getWords({ raw: true });
+    userWords = db.map((word) => word.id);
+  }
+  const wordsToSend = words.map((word) => ({ ...word, learned: userWords.includes(word.id) }));
+  res.json(wordsToSend);
 });
 
 wordRouter.post('/words', async (req, res) => {
@@ -16,8 +28,6 @@ wordRouter.post('/words', async (req, res) => {
   const decodedToken = jwt.verify(token, process.env.TOKEN_SIGNING_SECRET);
   const user = await User.findByPk(decodedToken.id);
   await user.addWords(req.body);
-  const [results] = await sequelize.query('SELECT * FROM "user-words"');
-  console.log(results);
   res.status(202).json({ message: 'Accepted' });
 });
 
