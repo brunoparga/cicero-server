@@ -1,6 +1,9 @@
 const wordRouter = require('express').Router();
-const { getWordsReview, postWords } = require('../controllers/words');
+const { getWordsLearn, getWordsReview, postWords } = require('../controllers/words');
+const isAuth = require('../middleware/isAuth');
 
+wordRouter.use('/words', isAuth);
+wordRouter.get('/words/learn', getWordsLearn);
 wordRouter.get('/words/review', getWordsReview);
 wordRouter.post('/words', postWords);
 
