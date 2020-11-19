@@ -1,4 +1,3 @@
-require('dotenv').config();
 const wordRouter = require('express').Router();
 const { getWordsReview, postWords } = require('../controllers/words');
 
