@@ -7,8 +7,8 @@ const sequelize = require('../db');
 class Word extends Model {
   // Public interface
   // Fetch words with their options and present them to controller
-  static async fetch() {
-    const words = await this.findAll(this.wordFindParams);
+  static async forReview(userId) {
+    const words = await this.findAll(await this.wordFindParams(userId));
     // STRETCH: do the options thing in one fell swoop
     const wordsWithOptions = await Promise.all(words.map(this.addOptions.bind(this)));
     return wordsWithOptions;
@@ -19,12 +19,19 @@ class Word extends Model {
   */
 
   // SELECT only the relevant things from each drilled word to send to the front-end
-  static get wordFindParams() {
+  static async wordFindParams(userId) {
+    const [query] = await sequelize.query(
+      'SELECT "wordId" FROM "user-words" WHERE "user-words"."userId" = ?',
+      { replacements: [userId] },
+    );
+    const knownWords = query.map((userWord) => userWord.wordId).sort((a, b) => a - b);
     return {
       // STRETCH: make this LIMIT customizable
       limit: 10,
       // STRETCH: replace this shuffling with something smarter
       order: [Sequelize.literal('RANDOM()')],
+      // WHERE the word has already been learned by this user
+      where: { id: { [Op.in]: knownWords } },
       attributes: ['id', ['partOfSpeech', 'questionType'], 'lemma', 'english', 'properties'],
     };
   }
