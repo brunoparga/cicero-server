@@ -6,12 +6,17 @@ const sequelize = require('../db');
 
 class Word extends Model {
   // Public interface
-  // Fetch words with their options and present them to controller
+  // Fetch learned words with their options and present them to controller
   static async forReview(userId) {
-    const words = await this.findAll(await this.wordFindParams(userId));
+    const words = await this.findAll(await this.wordFindParams(userId, true));
     // STRETCH: do the options thing in one fell swoop
     const wordsWithOptions = await Promise.all(words.map(this.addOptions.bind(this)));
     return wordsWithOptions;
+  }
+
+  static async forLearn(userId) {
+    const words = await this.findAll(await this.wordFindParams(userId, false));
+    return words.map((word) => word.dataValues);
   }
 
   /*
@@ -19,19 +24,20 @@ class Word extends Model {
   */
 
   // SELECT only the relevant things from each drilled word to send to the front-end
-  static async wordFindParams(userId) {
+  static async wordFindParams(userId, includeKnown) {
     const [query] = await sequelize.query(
       'SELECT "wordId" FROM "user-words" WHERE "user-words"."userId" = ?',
       { replacements: [userId] },
     );
     const knownWords = query.map((userWord) => userWord.wordId).sort((a, b) => a - b);
+    const operator = includeKnown ? Op.in : Op.notIn;
     return {
       // STRETCH: make this LIMIT customizable
       limit: 10,
       // STRETCH: replace this shuffling with something smarter
       order: [Sequelize.literal('RANDOM()')],
-      // WHERE the word has already been learned by this user
-      where: { id: { [Op.in]: knownWords } },
+      // Include or exclude the words that have already been learned by this user
+      where: { id: { [operator]: knownWords } },
       attributes: ['id', ['partOfSpeech', 'questionType'], 'lemma', 'english', 'properties'],
     };
   }
