@@ -1,4 +1,3 @@
-'use strict';
 module.exports = {
   up: async (queryInterface, Sequelize) => {
     await queryInterface.createTable('Words', {
@@ -6,34 +5,34 @@ module.exports = {
         allowNull: false,
         autoIncrement: true,
         primaryKey: true,
-        type: Sequelize.INTEGER
+        type: Sequelize.INTEGER,
       },
       partOfSpeech: {
-        type: Sequelize.STRING
+        type: Sequelize.STRING,
       },
       english: {
-        type: Sequelize.STRING
+        type: Sequelize.STRING,
       },
       lemma: {
-        type: Sequelize.STRING
+        type: Sequelize.STRING,
       },
       learned: {
-        type: Sequelize.BOOLEAN
+        type: Sequelize.BOOLEAN,
       },
       properties: {
-        type: Sequelize.JSONB
+        type: Sequelize.JSONB,
       },
       createdAt: {
         allowNull: false,
-        type: Sequelize.DATE
+        type: Sequelize.DATE,
       },
       updatedAt: {
         allowNull: false,
-        type: Sequelize.DATE
-      }
+        type: Sequelize.DATE,
+      },
     });
   },
-  down: async (queryInterface, Sequelize) => {
-    await queryInterface.dropTable('Words');
-  }
+  down: async (queryInterface) => {
+    await queryInterface.dropTable('Words', { cascade: true });
+  },
 };
