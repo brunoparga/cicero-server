@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Server for Latin learning app",
   "engines": {
-    "node": "14.15.0"
+    "node": "14.15.1"
   },
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js",
+    "start": "node app.js",
     "read": "node db/readDiederich/parseMainList.js",
     "seed": "npm run read; node db/seed.js",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -36,9 +36,9 @@
     "sequelize": "^6.3.5"
   },
   "devDependencies": {
-    "eslint": "7.9.0",
-    "eslint-config-airbnb-base": "14.2.0",
-    "eslint-plugin-import": "2.22.0",
-    "nodemon": "2.0.4"
+    "eslint": "7.13.0",
+    "eslint-config-airbnb-base": "14.2.1",
+    "eslint-plugin-import": "2.22.1",
+    "nodemon": "2.0.6"
   }
 }
