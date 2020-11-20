@@ -8,8 +8,8 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "read": "node db/readDiederich/parseMainList.js",
-    "seed": "npm run read; node db/seed.js",
+    "read": "node db/seeders/readDiederich/parseMainList.js",
+    "seed": "npm run read; node db/seeders/seed.js",
     "test": "jest"
   },
   "repository": {
@@ -39,7 +39,8 @@
     "jsonwebtoken": "8.5.1",
     "pg": "8.3.3",
     "pg-hstore": "2.3.3",
-    "sequelize": "6.3.5"
+    "sequelize": "^6.3.5",
+    "sequelize-cli": "6.2.0"
   },
   "devDependencies": {
     "eslint": "7.13.0",

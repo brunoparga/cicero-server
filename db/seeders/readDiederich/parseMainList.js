@@ -5,7 +5,7 @@ const buildWord = require('./buildWord');
 
 const words = fs
   // Read the file, break it into lines, throw the header line away
-  .readFileSync('./db/readDiederich/diederich.txt', 'utf8').split('\r\n').slice(1)
+  .readFileSync('./db/seeders/readDiederich/diederich.txt', 'utf8').split('\r\n').slice(1)
   // Break each row into columns, discard all except lemma and definition
   .map((ary) => ary.split('\t').slice(4))
   // Alphabetize by cleaned-up definition
@@ -17,7 +17,7 @@ const words = fs
 
 // Write parsed contents of the word list into a file to be read by the seeding function
 const json = JSON.stringify(words, null, 2);
-const file = './db/db.json';
+const file = './db/seeders/db.json';
 if (!fs.existsSync(file) || fs.readFileSync(file, 'utf8') !== json) {
   fs.writeFileSync(file, json);
 }

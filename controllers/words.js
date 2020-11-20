@@ -1,5 +1,4 @@
-const User = require('../models/User');
-const Word = require('../models/Word');
+const { User, Word } = require('../models');
 
 exports.getWordsLearn = async (req, res) => {
   const words = await Word.forLearn(req.userId);
