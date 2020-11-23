@@ -1,5 +1,7 @@
 const fs = require('fs');
 
+const parseList = require('./readDiederich/parseMainList');
+
 module.exports = {
   up: async (queryInterface) => {
     /**
@@ -11,6 +13,7 @@ module.exports = {
      *   isBetaMember: false
      * }], {});
     */
+    parseList();
     const words = JSON.parse(fs.readFileSync('./db/seeders/db.json', 'utf8'));
     await queryInterface.bulkInsert('Words', words);
   },
