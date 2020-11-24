@@ -29,8 +29,8 @@ module.exports = (sequelize, DataTypes) => {
     }
 
     /*
-      Private methods
-    */
+     * Private methods
+     */
 
     // SELECT only the relevant things from each drilled word to send to the front-end
     static async wordFindParams(userId, includeKnown) {

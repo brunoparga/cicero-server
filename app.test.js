@@ -1,3 +1,8 @@
+/**
+ * End-to-end tests for the API endpoints
+ *
+ * @group e2e
+ */
 /* eslint-disable jest/expect-expect, jest/no-done-callback */
 const request = require('supertest');
 const sinon = require('sinon');
