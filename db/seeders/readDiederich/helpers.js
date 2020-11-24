@@ -18,8 +18,7 @@ const compare = ([, definition1], [, definition2]) => {
 const deduplicate = ([lemma], index, array) => (!index || lemma !== array[index - 1][0]);
 
 // Test if the argument object is empty.
-// eslint-disable-next-line no-restricted-syntax, guard-for-in
-const isEmpty = (object) => { for (const i in object) { return false; } return true; };
+const isEmpty = (obj) => Object.keys(obj).length === 0;
 
 // Given a string haystack and an array of string needles, returns true if any of the needles is a
 // substring of the haystack.
