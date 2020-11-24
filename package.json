@@ -27,8 +27,12 @@
   },
   "homepage": "https://gitlab.com/brunoparga/cicero-server#readme",
   "jest": {
-    "coveragePathIgnorePatterns": [
-      "/node_modules/"
+    "collectCoverageFrom": [
+      "**/*.js",
+      "!**/node_modules/**",
+      "!./models/index.js",
+      "!*eslintrc*",
+      "!./coverage/**"
     ],
     "runner": "groups",
     "testEnvironment": "node"

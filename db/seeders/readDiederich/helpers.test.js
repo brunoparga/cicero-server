@@ -27,14 +27,14 @@ describe('treatDefinition', () => {
 // A compare function used in sorting 2-element arrays alphabetically by the second element.
 // Must return 1 if the arguments must be switched, -1 if not (and 0 if they're equal).
 describe('compare', () => {
+  const foo = ['foo', 'quux'];
+
   it('alphabetizes by word definition, not lemma', () => {
-    const foo = ['foo', 'quux'];
     const bar = ['waldo', 'baz'];
     expect(compare(foo, bar)).toEqual(1);
   });
 
   it('correctly uses treatDefinition', () => {
-    const foo = ['foo', 'quux'];
     const bar = ['waldo', '(bar) baz'];
     expect(compare(foo, bar)).toEqual(1);
   });
@@ -43,6 +43,10 @@ describe('compare', () => {
     const fred = ['fred', 'plugh'];
     const xyzzy = ['xyzzy', 'thud'];
     expect(compare(fred, xyzzy)).toEqual(-1);
+  });
+
+  it('throws an error when given two identical definitions', () => {
+    expect(compare(foo, foo)).toEqual(0);
   });
 });
 
