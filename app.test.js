@@ -21,7 +21,7 @@ describe('the API', () => {
   beforeAll(() => {
     stub = sinon
       .stub(jwt, 'verify')
-      .callsFake(() => Promise.resolve({ id: 1 }));
+      .callsFake(() => ({ id: 1 }));
   });
   afterAll(() => stub.restore());
 
@@ -38,6 +38,26 @@ describe('the API', () => {
     expect(body).toEqual(
       expect.arrayContaining([
         expect.objectContaining({ ...expectedWord, learned: false }),
+      ]),
+    );
+    done();
+  });
+
+  it('sends the correct body in response to GET /words/review', async (done) => {
+    // Simulate signing up and learning 10 words
+    await req.post('/signup').send(
+      { email: 'foo@foo.com', password: '123456', confirmPassword: '123456' },
+    );
+    await req
+      .post('/words')
+      .send([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])
+      .set('Authorization', 'Bearer inMind');
+    const { body } = await req.get('/words/review').set('Authorization', 'Bearer inMind');
+    expect(body).toBeInstanceOf(Array);
+    expect(body).toHaveLength(10);
+    expect(body).toEqual(
+      expect.arrayContaining([
+        expect.objectContaining({ ...expectedWord, learned: true }),
       ]),
     );
     done();

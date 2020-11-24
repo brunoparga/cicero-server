@@ -1,5 +1,5 @@
 node_modules/
-utils/db.json
+/**/db.json
 
 .env
 .eslintrc.js
