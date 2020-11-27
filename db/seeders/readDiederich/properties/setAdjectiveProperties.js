@@ -28,8 +28,10 @@ function typeOneShortened(masculine) {
   return {
     suffixes: "1st/2nd (-er)",
 
+    // Regex is safe because doesn't apply to user input
     masculineGenitive: String(
-      masculine.replace(/.+?(?:ch|b|c|g|t)er$/u, "-$2rī")
+      // eslint-disable-next-line security/detect-unsafe-regex
+      masculine.replace(/.+?(?<consonant>ch|b|c|g|t)er$/u, "-$<consonant>rī")
     ),
 
     feminine: `${masculine.replace(/er$/u, "ra")}, -ae`,
@@ -87,6 +89,7 @@ module.exports = (lemma) => {
     return;
   }
 
+  // Remove any note information, contained between <mathy brackets>
   const head = lemma.replace(/ <.*>/u, "");
 
   if (head.endsWith("is")) {
