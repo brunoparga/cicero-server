@@ -1,6 +1,8 @@
-const fs = require('fs');
+"use strict";
 
-const parseList = require('./readDiederich/parseMainList');
+const fs = require("fs");
+
+const parseList = require("./readDiederich/parseMainList");
 
 module.exports = {
   up: async (queryInterface) => {
@@ -12,10 +14,14 @@ module.exports = {
      *   name: 'John Doe',
      *   isBetaMember: false
      * }], {});
-    */
+     */
     parseList();
-    const words = JSON.parse(fs.readFileSync('./db/seeders/db.json', 'utf8'));
-    await queryInterface.bulkInsert('Words', words);
+
+    // The sync method here is okay because this runs infrequently.
+    // eslint-disable-next-line node/no-sync
+    const words = JSON.parse(fs.readFileSync("./db/seeders/db.json", "utf8"));
+
+    await queryInterface.bulkInsert("Words", words);
   },
 
   down: async (queryInterface) => {
@@ -25,6 +31,6 @@ module.exports = {
      * Example:
      * await queryInterface.bulkDelete('People', null, {});
      */
-    await queryInterface.bulkDelete('Words', null, {});
+    await queryInterface.bulkDelete("Words", undefined, {});
   },
 };

@@ -1,19 +1,30 @@
-const { User, Word } = require('../models');
+"use strict";
 
-exports.getWordsLearn = async (req, res) => {
-  const words = await Word.forLearn(req.userId);
+const { ReasonPhrases, StatusCodes } = require("http-status-codes");
+
+const { User, Word } = require("../models");
+
+async function getWordsLearn(request, response) {
+  const words = await Word.forLearn(request.userId);
   const wordsToSend = words.map((word) => ({ ...word, learned: false }));
-  res.json(wordsToSend);
-};
 
-exports.getWordsReview = async (req, res) => {
-  const words = await Word.forReview(req.userId);
+  response.json(wordsToSend);
+}
+
+async function getWordsReview(request, response) {
+  const words = await Word.forReview(request.userId);
   const wordsToSend = words.map((word) => ({ ...word, learned: true }));
-  res.json(wordsToSend);
-};
 
-exports.postWords = async (req, res) => {
-  const user = await User.findByPk(req.userId);
-  await user.addWords(req.body);
-  res.status(202).json({ message: 'Accepted' });
-};
+  response.json(wordsToSend);
+}
+
+async function postWords(request, response) {
+  const user = await User.findByPk(request.userId);
+
+  await user.addWords(request.body);
+  response
+    .status(StatusCodes.ACCEPTED)
+    .json({ message: ReasonPhrases.ACCEPTED });
+}
+
+module.exports = { getWordsLearn, getWordsReview, postWords };

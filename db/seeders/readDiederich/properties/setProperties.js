@@ -1,29 +1,38 @@
-const setAdjectiveProperties = require('./setAdjProps');
-const setNounProperties = require('./setNounProps');
-const setNumeralPronounProperties = require('./setNumPronProps');
-const setVerbProperties = require('./setVerbProps');
-const { isEmpty } = require('../helpers');
-const wordNotes = require('./wordNotes');
+"use strict";
 
-const wordProps = (partOfSpeech, lemma) => {
-  if (partOfSpeech === 'Adjective') {
+const { isEmpty } = require("../helpers");
+
+const setAdjectiveProperties = require("./setAdjectiveProperties");
+const setNounProperties = require("./setNounProperties");
+const setNumeralPronounProperties = require("./setNumeralAndPronounProperties");
+const setVerbProperties = require("./setVerbProperties");
+const wordNotes = require("./wordNotes");
+
+function wordProperties(partOfSpeech, lemma) {
+  if (partOfSpeech === "Adjective") {
     return setAdjectiveProperties(lemma);
-  } if (partOfSpeech === 'Noun') {
+  }
+
+  if (partOfSpeech === "Noun") {
     return setNounProperties(lemma);
-  } if (['Numeral', 'Pronoun'].includes(partOfSpeech) && lemma.includes(',')) {
+  }
+
+  if (["Numeral", "Pronoun"].includes(partOfSpeech) && lemma.includes(",")) {
     return setNumeralPronounProperties(lemma);
-  } if (partOfSpeech === 'Verb') {
+  }
+
+  if (partOfSpeech === "Verb") {
     return setVerbProperties(lemma);
   }
-  return undefined;
-};
+}
 
-// Set the 'properties' attribute, which varies by part of speech and might contain grammar or
-// usage notes
+// Set the 'properties' attribute, which varies by part of speech and might
+// contain grammar or usage notes
 module.exports = (partOfSpeech, lemma) => {
   const result = {
-    ...wordProps(partOfSpeech, lemma),
+    ...wordProperties(partOfSpeech, lemma),
     ...wordNotes(lemma),
   };
+
   return isEmpty(result) ? undefined : result;
 };

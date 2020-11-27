@@ -1,7 +1,11 @@
-const router = require('express').Router();
+"use strict";
 
-const userRouter = require('./users');
-const wordRouter = require('./words');
+const express = require("express");
+
+const userRouter = require("./users");
+const wordRouter = require("./words");
+
+const router = new express.Router();
 
 router.use(userRouter);
 router.use(wordRouter);

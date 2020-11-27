@@ -1,3 +1,7 @@
-const { Sequelize } = require('sequelize');
+"use strict";
 
-module.exports = new Sequelize(process.env.DATABASE_URL);
+const { Sequelize } = require("sequelize");
+
+const config = require("../config");
+
+module.exports = new Sequelize(config.DATABASE_URL);

@@ -1,18 +1,22 @@
-const express = require('express');
-// Request-related packages
-require('dotenv').config();
-const cors = require('cors');
-const bodyParser = require('body-parser');
-// Response-related packages
-const helmet = require('helmet');
-const compression = require('compression');
+"use strict";
+
+const express = require("express");
+const cors = require("cors");
+const bodyParser = require("body-parser");
+const helmet = require("helmet");
+const compression = require("compression");
+
+const config = require("../config");
 
 const app = express();
-app.use(cors({
-  origin: process.env.FRONT_END_URL,
-  credentials: true,
-  allowedHeaders: ['Authorization', 'Content-Type'],
-}));
+
+app.use(
+  cors({
+    origin: config.FRONT_END_URL,
+    credentials: true,
+    allowedHeaders: ["Authorization", "Content-Type"],
+  })
+);
 app.use(bodyParser.json());
 app.use(helmet());
 app.use(compression());

@@ -1,11 +1,20 @@
-const jwt = require('jsonwebtoken');
+"use strict";
 
-module.exports = (req, _, next) => {
-  const token = req.get('Authorization').split(' ')[1] || '';
+const jwt = require("jsonwebtoken");
+
+const config = require("../config");
+
+module.exports = (request, response, next) => {
+  const token = request.get("Authorization").split(" ")[1] || "";
+
   let decodedToken;
+
   if (token) {
-    decodedToken = jwt.verify(token, process.env.TOKEN_SIGNING_SECRET);
+    decodedToken = jwt.verify(token, config.TOKEN_SIGNING_SECRET);
   }
-  req.userId = decodedToken.id;
+
+  const newRequest = request;
+
+  newRequest.userId = decodedToken.id;
   next();
 };
