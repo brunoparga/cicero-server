@@ -5,8 +5,8 @@
 const irregular = -1;
 const firstConjugation = 0;
 const thirdConjugation = 2;
-const lastThreeCharacters = 3;
-const lastFourCharacters = 4;
+const lastThreeCharacters = -3;
+const lastFourCharacters = -4;
 
 // Set the conjugation, the pattern the verb follows as it inflects for person,
 // number, tense, mood and voice
