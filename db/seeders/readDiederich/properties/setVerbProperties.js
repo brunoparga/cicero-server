@@ -66,7 +66,7 @@ function setCorrectInfinitive(lemma, infinitive, conjugation) {
 function setSupine(deponent, fourthForm) {
   // The last condition accounts for 'aio' and 'inquam', whose fourth listed
   // form is not the supine.
-  if (deponent || fourthForm === "--" || fourthForm.endsWith("nt")) {
+  if (deponent || fourthForm.includes("--") || fourthForm.endsWith("nt")) {
     return;
   }
 
