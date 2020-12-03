@@ -14,8 +14,6 @@ module.exports = ([lemmaFromList, definition]) => {
     lemma: lemmatize(lemmaFromList),
     english: definition,
     learned: false,
-    properties: JSON.stringify(setProperties(partOfSpeech, lemmaFromList)),
-    createdAt: new Date(),
-    updatedAt: new Date(),
+    properties: setProperties(partOfSpeech, lemmaFromList),
   };
 };
