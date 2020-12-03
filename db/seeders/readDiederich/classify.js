@@ -22,6 +22,10 @@ function testVerb(lemma, definition) {
 }
 
 // Some words can be classified by their lemma.
+// Is it bad that I also need the definition, which should only matter to the
+// relevant function? Yes it is. Could I do it the proper way? Well, I haven't
+// figured out how; the test for adjectives would need to be a lot longer, and
+// I wanna be done with this, so ¯\_(ツ)_/¯
 function byLemma(lemma, definition) {
   // Nouns have their gender specified
   if (/(?:m|[^r]f|[^e]n)\./u.test(lemma)) {

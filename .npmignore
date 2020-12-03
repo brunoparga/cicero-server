@@ -1,0 +1,8 @@
+coverage/
+/**/db.json
+
+.env
+.eslintrc.js
+npm-debug.log
+*.test.js
+.gitlab-ci.yml
