@@ -35,10 +35,22 @@ module.exports = (sequelize, DataTypes) => {
 
     // SELECT only the relevant things from each drilled word for the front-end
     static async wordFindParams(userId, includeKnown) {
+      let wordColumn = "wordId";
+      let userColumn = "userId";
+
+      // eslint-disable-next-line node/no-process-env, no-console
+      console.log(`Environment is: ${process.env.NODE_ENV}`);
+
+      // eslint-disable-next-line node/no-process-env
+      if (process.env.NODE_ENV !== "production") {
+        wordColumn = "WordId";
+        userColumn = "UserId";
+      }
+
       const [
         query,
       ] = await sequelize.query(
-        'SELECT "WordId" FROM "user-words" WHERE "user-words"."UserId" = ?',
+        `SELECT "${wordColumn}" FROM "user-words" WHERE "user-words"."${userColumn}" = ?`,
         { replacements: [userId] }
       );
       const knownWords = query.map((userWord) => userWord.WordId);
