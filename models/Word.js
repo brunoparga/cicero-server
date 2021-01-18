@@ -66,13 +66,23 @@ module.exports = (sequelize, DataTypes) => {
 
     // Find the options to add to each word
     static async addOptions(word) {
-      const options = await this.findAll(this.optionsFindParams(word));
+      // eslint-disable-next-line putout/putout
+      const newWord = { ...word };
+      const translationProbability = 0.3333;
 
-      return this.buildWord(word, options);
+      if (Math.random() < translationProbability) {
+        newWord.translation = true;
+      }
+
+      const options = await this.findAll(this.optionsFindParams(newWord));
+
+      return this.buildWord(newWord, options);
     }
 
     // SELECT wrong options to accompany the correct word
     static optionsFindParams(word) {
+      const correctAttribute = word.translation ? "english" : "lemma";
+
       return {
         order: [Sequelize.literal("RANDOM()")],
         limit: 3,
@@ -82,15 +92,20 @@ module.exports = (sequelize, DataTypes) => {
           lemma: { [Op.not]: word.dataValues.lemma },
         },
 
-        attributes: ["lemma"],
+        attributes: [[correctAttribute, "option"]],
       };
     }
 
     // Add the options to the word for dispatching to the front-end
     static buildWord(word, options) {
+      const questionType = word.translation
+        ? "Translation"
+        : word.dataValues.questionType;
+
       return {
         ...word.dataValues,
-        options: options.map((row) => row.dataValues.lemma),
+        questionType,
+        options: options.map((row) => row.dataValues.option),
       };
     }
   }
