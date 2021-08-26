@@ -1,0 +1,28 @@
+version: "3.7"
+
+services:
+  app:
+    build: ./
+    command: sh -c "pnpm run migrate && pnpm run start-dev"
+    ports:
+      - 3001:3001
+    working_dir: /app
+    volumes:
+      - ./:/app
+      - pnpm-store:/root/.pnpm-store/v3
+    environment:
+      DATABASE_URL: postgres://postgres:senhasenha@postgres:5432/cicero
+      FRONT_END_URL: http://localhost:3000
+      TOKEN_SIGNING_SECRET: S+52"X{>+!bZ,4"\}/L<Jfyg<RbA\;QW6<H"@294z2bBx?,V8^_64%hG+]`b
+  postgres:
+    image: postgres:11-alpine
+    volumes:
+      - cicero-postgres-data:/var/lib/postgresql/data
+    environment:
+      POSTGRES_PASSWORD: senhasenha 
+      POSTGRES_DB: cicero
+
+
+volumes:
+  cicero-postgres-data:
+  pnpm-store:
